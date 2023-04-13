@@ -71,11 +71,13 @@ for buff in buff_type:
                 new_item_hq.pop(v)
         buffs.append(new_item_hq)
 
-    path = Path('out')
+    path = Path('out/buffs')
     path.mkdir(exist_ok=True)
-    with open(f"out/{buff_name}.json", mode="w", encoding="utf-8") as my_file:
+    with open(f"out/buffs/{buff_name}.json", mode="w", encoding="utf-8") as my_file:
         my_file.seek(0)
         my_file.write(json.dumps(buffs, indent=2, sort_keys=True, ensure_ascii=False))
 
     # This is for the second iteration
     buff_name = "Medicine"
+with open("main_scraper.py") as recipes:
+    exec(recipes.read())
