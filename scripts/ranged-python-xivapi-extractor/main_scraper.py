@@ -65,11 +65,11 @@ if __name__ == '__main__':
 
     # Save the data in recipes to a .json file in the out folder, with a file for every job
     # Create out directory, ignore error if it already exists
-    path = Path('out')
+    path = Path('out/recipedb')
     path.mkdir(exist_ok=True)
     keys = recipes.keys()
     for key in tqdm(keys):
-        with open(f"out/{key}.json", mode="wt", encoding="utf-8") as db_file:
+        with open(f"out/recipedb/{key}.json", mode="wt", encoding="utf-8") as db_file:
             json.dump(recipes[key], db_file, indent=2, sort_keys=True, ensure_ascii=False)
 
     print('script complete')
