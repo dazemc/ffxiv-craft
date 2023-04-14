@@ -71,13 +71,14 @@ for buff in buff_type:
                 new_item_hq.pop(v)
         buffs.append(new_item_hq)
 
-    path = Path('out/buffs')
-    path.mkdir(exist_ok=True)
+    Path('out/buffs').mkdir(parents=True, exist_ok=True)  # parents=True creates multiple directories
     with open(f"out/buffs/{buff_name}.json", mode="w", encoding="utf-8") as my_file:
         my_file.seek(0)
         my_file.write(json.dumps(buffs, indent=2, sort_keys=True, ensure_ascii=False))
 
     # This is for the second iteration
     buff_name = "Medicine"
+
+# Use NotRanged recipe scripts
 with open("main_scraper.py") as recipes:
     exec(recipes.read())
