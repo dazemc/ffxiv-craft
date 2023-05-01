@@ -56,10 +56,12 @@ for buff in buff_type:
         s_name_ja = i.get("Name_ja")
         hq = False
         new_item = vars(
-            Buffs(s_cp_percent, s_cp_value, s_craft_percent, s_craft_value, s_control_percent, s_control_value, hq, s_name, s_name_de, s_name_fr, s_name_ja))
+            Buffs(s_cp_percent, s_cp_value, s_craft_percent, s_craft_value, s_control_percent, s_control_value, hq,
+                  s_name, s_name_de, s_name_fr, s_name_ja))
         hq = True
-        new_item_hq = (vars(
-            Buffs(s_cp_percent_hq, s_cp_value_hq, s_craft_percent_hq, s_craft_value_hq, s_control_percent_hq, s_control_value_hq, hq, s_name, s_name_de, s_name_fr, s_name_ja)))
+        new_item_hq = vars(
+            Buffs(s_cp_percent_hq, s_cp_value_hq, s_craft_percent_hq, s_craft_value_hq, s_control_percent_hq,
+                  s_control_value_hq, hq, s_name, s_name_de, s_name_fr, s_name_ja))
         # Remove None values from previous step
 
         for v in list(new_item):
