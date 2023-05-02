@@ -65,6 +65,7 @@ if __name__ == '__main__':
         if r.status_code == 429:
             print("Too many requests sent to XIVAPI!")
 
+
         # Iterate through each recipe on the page
         for recipe in page_data['Results']:
             # Save the data to the recipes dictionary, with a key for each crafting job
@@ -82,14 +83,20 @@ if __name__ == '__main__':
 
     def start_threads(slice):
         if slice % 20 != 0:
-            for k in threads[div_by_rate:div_by_rate + slice]:
+            for k in threads[div_by_rate:pages_amount]:
                 k.start()
-            for k in threads[div_by_rate:div_by_rate + slice]:
+            for k in threads[div_by_rate:pages_amount]:
                 k.join()
-        for j in threads[slice - 20:slice]:
-            j.start()
-        for j in threads[slice - 20:slice]:
-            j.join()
+        if slice - 20 == 0:
+            for j in threads[slice - 20:slice]:
+                j.start()
+            for j in threads[slice - 20:slice]:
+                j.join()
+        if slice - 20 != 0:
+            for v in threads[slice - 20:slice]:
+                v.start()
+            for v in threads[slice - 20:slice]:
+                v.join()
 
 
     # XIVAPI Is rate limited to 20, so we can not exceed 20 threads
