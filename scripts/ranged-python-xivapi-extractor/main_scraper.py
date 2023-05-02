@@ -87,16 +87,10 @@ if __name__ == '__main__':
                 k.start()
             for k in threads[div_by_rate:pages_amount]:
                 k.join()
-        if slice - 20 == 0:
-            for j in threads[slice - 20:slice]:
-                j.start()
-            for j in threads[slice - 20:slice]:
-                j.join()
-        if slice - 20 != 0:
-            for v in threads[slice - 20:slice]:
-                v.start()
-            for v in threads[slice - 20:slice]:
-                v.join()
+        for j in threads[slice - 20:slice]:
+            j.start()
+        for j in threads[slice - 20:slice]:
+            j.join()
 
 
 
