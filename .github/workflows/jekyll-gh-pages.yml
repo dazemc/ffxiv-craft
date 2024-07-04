@@ -44,7 +44,7 @@ jobs:
           git config --global user.name "Daazed McFarland"
           git config --global user.email "daazedjmcfarland@gmail.com"
           git add .
-          git diff --quiet && git diff --staged --quiet || git commit -m "Automatic update"
+          git diff --cached --exit-code || git commit -m "Automatic update"
           git push
 
       - name: Upload artifact
