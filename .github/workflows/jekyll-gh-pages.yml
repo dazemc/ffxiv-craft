@@ -39,13 +39,62 @@ jobs:
           source: ./
           destination: ./_site
 
-      - name: Commit Changes
+      - name: Record Current Hash
+        id: record_hash
+        run: |
+          HASH=$(git rev-parse HEAD)
+          echo $HASH > previous_commit_hash.txt
+        continue-on-error: true
+
+      - name: Calculate New Hash
+        id: calculate_hash
+        run: |
+          if git diff --quiet; then
+            echo "HASH=none" >> $GITHUB_ENV
+          else
+            HASH=$(git rev-parse HEAD)
+            echo "HASH=$HASH" >> $GITHUB_ENV
+          fi
+
+      - name: Update CSS Cache Key
+        run: |
+          if [ "${{ env.HASH }}" != "none" ]; then
+            sed -i "s|style.css?v=.*|style.css?v=${{ env.HASH }}|g" ./_site/index.html
+          fi
+
+      - name: Commit Cache Key Change
+        id: commit_cache_key
         run: |
           git config --global user.name "Daazed McFarland"
           git config --global user.email "daazedjmcfarland@gmail.com"
-          git add .
-          git diff --cached --exit-code || git commit -m "Automatic update"
-          git push
+          git add --all
+          if ! git diff --cached --exit-code; then
+            git commit -m "Update cache key"
+          fi
+
+      - name: Check for Other Changes
+        id: check_changes
+        run: |
+          PREV_HASH=$(cat previous_commit_hash.txt)
+          CURR_HASH=$(git rev-parse HEAD)
+          if [ "$PREV_HASH" != "$CURR_HASH" ]; then
+            # Store status for later use
+            echo "CHANGES_DETECTED=true" >> $GITHUB_ENV
+          else
+            echo "CHANGES_DETECTED=false" >> $GITHUB_ENV
+          fi
+
+      - name: Commit Other Changes
+        run: |
+          git add --all
+          if [ "${{ env.CHANGES_DETECTED }}" == "true" ]; then
+            if ! git diff --cached --exit-code; then
+              git commit -m "Automatic update"
+              git push
+            fi
+          else
+            echo "No substantial changes detected."
+          fi
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
