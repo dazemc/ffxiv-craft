@@ -647,153 +647,126 @@ function UpdateState(s, action, progressGain, qualityGain, durabilityCost, cpCos
     s.cpState = Math.min(s.cpState, s.synth.crafter.craftPoints + s.bonusMaxCp);
 }
 
-function simSynth(individual, startState, assumeSuccess, verbose, debug, logOutput) {
-    verbose = verbose !== undefined ? verbose : true;
-    debug = debug !== undefined ? debug : false;
-    logOutput = logOutput !== undefined ? logOutput : null;
-
-    var logger = new Logger(logOutput);
+function simSynth(individual, startState, assumeSuccess = false, verbose = true, debug = false, logOutput = null) {
+    // Logger setup
+    const logger = new Logger(logOutput);
 
     // Clone startState to keep startState immutable
-    var s = startState.clone();
+    const s = startState.clone();
 
     // Conditions
-    var pGood = probGoodForSynth(s.synth);
-    var pExcellent = probExcellentForSynth(s.synth);
-    var ignoreConditionReq = !s.synth.useConditions;
+    const ignoreConditionReq = !s.synth.useConditions;
+    let ppGood = probGoodForSynth(s.synth);
+    let ppExcellent = probExcellentForSynth(s.synth);
+    let ppPoor = 0;
+    let ppNormal = 1 - (ppGood + ppExcellent + ppPoor);
 
-    // Step 1 is always normal
-    var ppGood = 0;
-    var ppExcellent = 0;
-    var ppPoor = 0;
-    var ppNormal = 1 - (ppGood + ppExcellent + ppPoor);
-
-    var SimCondition = {
-        checkGoodOrExcellent: function () {
-            return true;
-        },
-        pGoodOrExcellent: function () {
-            if (ignoreConditionReq) {
-                return 1;
-            }
-            else {
-                return ppGood + ppExcellent;
-            }
-        }
+    const SimCondition = {
+        checkGoodOrExcellent: () => true,
+        pGoodOrExcellent: () => ignoreConditionReq ? 1 : ppGood + ppExcellent
     };
 
-    // Check for null or empty individuals
-    if (individual === null || individual.length === 0) {
-        return NewStateFromSynth(s.synth);
+    // Initialize tracking for once per sequence actions
+    const usedActions = new Set();
+
+    // Logging headers
+    if (debug || verbose) {
+        const logHeader = debug
+            ? '%-2s %30s %-5s %-5s %-8s %-8s %-5s %-8s %-8s %-5s %-5s %-5s'
+            : '%-2s %30s %-5s %-5s %-8s %-8s %-5s';
+        const logValues = debug
+            ? '%2d %30s %5.0f %5.0f %8.1f %8.1f %5.1f %8.1f %8.1f %5.0f %5.0f %5.0f'
+            : '%2d %30s %5.0f %5.0f %8.1f %8.1f %5.1f';
+
+        logger.log(logHeader, '#', 'Action', 'DUR', 'CP', 'EQUA', 'EPRG', 'IQ', 'CTL', 'QINC', 'BPRG', 'BQUA', 'WAC');
+        logger.log(logValues, s.step, '', s.durabilityState, s.cpState, s.qualityState, s.progressState, 0, s.synth.crafter.control, 0, 0, 0, 0);
     }
 
-    if (debug) {
-        logger.log('%-2s %30s %-5s %-5s %-8s %-8s %-5s %-8s %-8s %-5s %-5s %-5s', '#', 'Action', 'DUR', 'CP', 'EQUA', 'EPRG', 'IQ', 'CTL', 'QINC', 'BPRG', 'BQUA', 'WAC');
-        logger.log('%2d %30s %5.0f %5.0f %8.1f %8.1f %5.1f %8.1f %8.1f %5.0f %5.0f %5.0f', s.step, '', s.durabilityState, s.cpState, s.qualityState, s.progressState, 0, s.synth.crafter.control, 0, 0, 0, 0);
-    }
-    else if (verbose) {
-        logger.log('%-2s %30s %-5s %-5s %-8s %-8s %-5s', '#', 'Action', 'DUR', 'CP', 'EQUA', 'EPRG', 'IQ');
-        logger.log('%2d %30s %5.0f %5.0f %8.1f %8.1f %5.1f', s.step, '', s.durabilityState, s.cpState, s.qualityState, s.progressState, 0);
+    for (let i = 0; i < individual.length; i++) {
+        const action = individual[i];
 
-    }
-    for (var i = 0; i < individual.length; i++) {
-        // var action = individual[i];
-
-        // Ranged edit -- Combo actions. Basically do everything twice over if there's a combo action. Woo.
-        var actionsArray = [];
-
-        if (individual[i].isCombo) {
-            for (var comboNumber = 0; comboNumber < individual[i].comboActions.length; comboNumber++) {
-                actionsArray.push(getComboAction(individual[i].comboActions[comboNumber]));
-            } 
-        } else {
-            actionsArray.push(individual[i]);
+        if (!action) {
+            // Skip undefined or null actions
+            if (verbose) logger.log(`Skipping undefined action at index ${i}.`);
+            continue;
         }
-        for (var j = 0; j < actionsArray.length; j++) {
-            var action = actionsArray[j];
 
-                    
-            // Occur regardless of dummy actions
-            //==================================
+        // Handle combos if applicable
+        const actionsArray = action.isCombo
+            ? action.comboActions.map(getComboAction).filter(act => act !== undefined && act !== null)
+            : [action];
+
+        for (const act of actionsArray) {
+            if (!act) {
+                // Skip undefined or null combo actions
+                if (verbose) logger.log(`Skipping undefined combo action for ${action.name}.`);
+                continue;
+            }
+
+            // Check if the action should be used once per sequence
+            if (act.oncePerSequence && usedActions.has(act.name)) {
+                if (verbose) logger.log(`Skipping ${act.name}: already used once per sequence.`);
+                continue;
+            }
+
             s.step += 1;
 
             // Condition Calculation
-            var condQualityIncreaseMultiplier = 1;
+            let condQualityIncreaseMultiplier = 1;
             if (!ignoreConditionReq) {
-                condQualityIncreaseMultiplier *= (ppNormal + 1.5 * ppGood * Math.pow(1 - (ppGood + pGood) / 2, s.synth.maxTrickUses) + 4 * ppExcellent + 0.5 * ppPoor);
+                condQualityIncreaseMultiplier *= (ppNormal + 1.5 * ppGood * Math.pow(1 - (ppGood + ppGood) / 2, s.synth.maxTrickUses) + 4 * ppExcellent + 0.5 * ppPoor);
             }
 
-            // Calculate Progress, Quality and Durability gains and losses under effect of modifiers
-            var r = ApplyModifiers(s, action, SimCondition);
+            // Apply action and update state
+            const result = ApplyModifiers(s, act, SimCondition);
+            const successProbability = assumeSuccess ? 1 : result.successProbability;
+            const progressGain = Math.floor(successProbability * result.bProgressGain);
+            const qualityGain = Math.floor(successProbability * condQualityIncreaseMultiplier * result.bQualityGain);
 
-            // Calculate final gains / losses
-            var successProbability = r.successProbability;
-            if (assumeSuccess) {
-                successProbability = 1;
-            }
-            var progressGain = r.bProgressGain;
-            if (progressGain > 0) {
-                s.reliability = s.reliability * successProbability;
-            }
-
-            var qualityGain = condQualityIncreaseMultiplier * r.bQualityGain;
-
-            // Floor gains at final stage before calculating expected value
-            progressGain = successProbability * Math.floor(progressGain);
-            qualityGain = successProbability * Math.floor(qualityGain);
-
-            // Occur if a wasted action
-            //==================================
-            if (((s.progressState >= s.synth.recipe.difficulty) || (s.durabilityState <= 0) || (s.cpState < 0)) && (action != AllActions.dummyAction)) {
+            if (((s.progressState >= s.synth.recipe.difficulty) || (s.durabilityState <= 0) || (s.cpState < 0)) && (act !== AllActions.dummyAction)) {
                 s.wastedActions += 1;
-            }
+            } else {
+                UpdateState(s, act, progressGain, qualityGain, result.durabilityCost, result.cpCost, SimCondition, successProbability);
 
-            // Occur if not a wasted action
-            //==================================
-            else {
-
-                UpdateState(s, action, progressGain, qualityGain, r.durabilityCost, r.cpCost, SimCondition, successProbability);
-
-                // Ending condition update
+                // Update condition probabilities
                 if (!ignoreConditionReq) {
                     ppPoor = ppExcellent;
-                    ppGood = pGood * ppNormal;
-                    ppExcellent = pExcellent * ppNormal;
+                    ppGood = ppGood * ppNormal;
+                    ppExcellent = ppExcellent * ppNormal;
                     ppNormal = 1 - (ppGood + ppExcellent + ppPoor);
                 }
-
             }
 
-            var iqCnt = 0;
-            if ("innerQuiet" in s.effects.countUps) {
-                iqCnt = s.effects.countUps["innerQuiet"];
-            }
-            if (debug) {
-                logger.log('%2d %30s %5.0f %5.0f %8.1f %8.1f %5.1f %8.1f %8.1f %5.0f %5.0f %5.0f', s.step, action.name, s.durabilityState, s.cpState, s.qualityState, s.progressState, iqCnt, r.control, qualityGain, Math.floor(r.bProgressGain), Math.floor(r.bQualityGain), s.wastedActions);
-            }
-            else if (verbose) {
-                logger.log('%2d %30s %5.0f %5.0f %8.1f %8.1f %5.1f', s.step, action.name, s.durabilityState, s.cpState, s.qualityState, s.progressState, iqCnt);
+            if (debug || verbose) {
+                const iqCnt = s.effects.countUps["innerQuiet"] || 0;
+                const logValues = debug
+                    ? '%2d %30s %5.0f %5.0f %8.1f %8.1f %5.1f %8.1f %8.1f %5.0f %5.0f %5.0f'
+                    : '%2d %30s %5.0f %5.0f %8.1f %8.1f %5.1f';
+                logger.log(logValues, s.step, act.name, s.durabilityState, s.cpState, s.qualityState, s.progressState, iqCnt, result.control, qualityGain, Math.floor(result.bProgressGain), Math.floor(result.bQualityGain), s.wastedActions);
             }
 
-            s.action = action.shortName
+            s.action = act.shortName;
+
+            // Mark action as used if it is oncePerSequence
+            if (act.oncePerSequence) {
+                usedActions.add(act.name);
+            }
         }
-
     }
+
     // Check for feasibility violations
-    var chk = s.checkViolations();
-
-    if (debug) {
-        logger.log('Progress Check: %s, Durability Check: %s, CP Check: %s, Tricks Check: %s, Reliability Check: %s, Wasted Actions: %d', chk.progressOk, chk.durabilityOk, chk.cpOk, chk.trickOk, chk.reliabilityOk, s.wastedActions);
-    }
-    else if (verbose) {
+    const chk = s.checkViolations();
+    if (debug || verbose) {
         logger.log('Progress Check: %s, Durability Check: %s, CP Check: %s, Tricks Check: %s, Reliability Check: %s, Wasted Actions: %d', chk.progressOk, chk.durabilityOk, chk.cpOk, chk.trickOk, chk.reliabilityOk, s.wastedActions);
     }
 
     // Return final state
-    s.action = individual[individual.length-1].shortName;
+    if (individual.length > 0) {
+        s.action = individual[individual.length - 1].shortName;
+    }
     return s;
-
 }
+
 
 function MonteCarloStep(startState, action, assumeSuccess, verbose, debug, logOutput) {
     verbose = verbose !== undefined ? verbose : true;

@@ -1,4 +1,4 @@
-function Action(shortName, name, durabilityCost, cpCost, successProbability, qualityIncreaseMultiplier, progressIncreaseMultiplier, aType, activeTurns, cls, level, onGood, onExcellent, onPoor, isCombo, comboActions) {
+function Action(shortName, name, durabilityCost, cpCost, successProbability, qualityIncreaseMultiplier, progressIncreaseMultiplier, aType, activeTurns, cls, level, onGood, onExcellent, onPoor, isCombo, comboActions, oncePerSequence = false) {
     this.shortName = shortName;
     this.name = name;
     this.durabilityCost = durabilityCost;
@@ -25,13 +25,16 @@ function Action(shortName, name, durabilityCost, cpCost, successProbability, qua
     this.comboActions = comboActions;
 
     this.conditionalAction = () => this.onGood || this.onExcellent || this.onPoor;
+
+    // Single use
+    this.oncePerSequence = oncePerSequence;
 }
 
 // Actions Table
 //==============
 //parameters: shortName,  name, durabilityCost, cpCost, successProbability, qualityIncreaseMultiplier, progressIncreaseMultiplier, aType, activeTurns, cls, level,onGood, onExcl, onPoor
 var AllActions = {
-    //                              shortName,              fullName,              dur,     cp, Prob, QIM, PIM, Type,          t,  cls,           lvl,  onGood,     onExcl,      onPoor,    isCombo,    [comboActions]
+    //                              shortName,              fullName,              dur,     cp, Prob, QIM, PIM, Type,          t,  cls,           lvl,  onGood,     onExcl,      onPoor,    isCombo,    [comboActions], oncePerSequence
     observe: new Action(            'observe',              'Observe',               0,      7,  1.0, 0.0, 0.0, 'immediate',   1,  'All',          13),
 
     basicSynth: new Action(         'basicSynth',           'Basic Synthesis',      10,      0,  1.0, 0.0, 1.0, 'immediate',   1,  'All',           1),
@@ -81,7 +84,7 @@ var AllActions = {
     refinedTouch: new Action(        'refinedTouch',        'Refined Touch',        10,     24,  1.0, 1.0, 0.0, 'immediate',   1,  'All',          92),
     delicateSynthesis2: new Action(  'delicateSynthesis2',  'Delicate Synthesis',   10,     32,  1.0, 1.0, 1.5, 'immediate',   1,  'All',          94),
     immaculateMend: new Action(      'immaculateMend',      'Immaculate Mend',       0,    112,  1.0, 0.0, 0.0, 'immediate',   1,  'All',          98),
-    trainedPerfection: new Action(   'trainedPerfection',   'Trained Perfection',    0,      0,  1.0, 0.0, 0.0, 'countdown',   1,  'All',          100),
+    trainedPerfection: new Action(   'trainedPerfection',   'Trained Perfection',    0,      0,  1.0, 0.0, 0.0, 'countdown',   1,  'All',          100, oncePerSequence=true),
 
     // Ranged edit: special combo'd actions that are handled differently
     // Combo Actions. Making new combo actions need an image, extraActionInfo, and some code in getComboAction() in ffxivcraftmodel.js
@@ -91,6 +94,9 @@ var AllActions = {
     standardTouchCombo: new Action(     'standardTouchCombo',       'Standard Touch Combo',      20,     36, 1.0,  2.25, 0.0, 'immediate',   1,  'All',     18,   false,      false,       false,     true,       ['basicTouch', 'standardTouch']),
     advancedTouchCombo: new Action(     'advancedTouchCombo',       'Advanced Touch Combo',      30,     54, 1.0,  3.75, 0.0, 'immediate',   1,  'All',     68,   false,      false,       false,     true,       ['basicTouch', 'standardTouch', 'advancedTouch']),
     refinedTouchCombo: new Action(      'refinedTouchCombo',        'Refined Touch Combo',       20,     42, 1.0,  2.0,  0.0, 'immediate',   1,  'All',     92,   false,      false,       false,     true,       ['basicTouch', 'refinedTouch']),
+
+    // Use every synth skill as a combo with trainedPerfection
+    
 
     // Buffs - Here to just represent as a placeholder for the buff
     innerQuiet: new Action(         'innerQuiet',           'Inner Quiet',           0,     18,  1.0, 0.0, 0.0, 'countup',     1,  'All',          11),
