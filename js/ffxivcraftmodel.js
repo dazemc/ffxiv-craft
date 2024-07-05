@@ -114,10 +114,11 @@ function isActionNe(action1, action2) {
     return action1.shortName !== action2.shortName;
 }
 
-// Ranged edit -- Combo actions. Poor coding practice but I'm not too experienced with JS and I wouldn't know how to do it otherwise...
-// This returns the action object matching the name
 function getComboAction(comboName) {
-    return Object.keys(AllActions).find(key => AllActions[key].shortName == comboName);
+    // Look up abilities by name.
+    let actionKey = Object.keys(AllActions).find(key => AllActions[key].shortName == comboName)
+    // return the full action that matches.
+    return AllActions[actionKey];
 }
 
 function EffectTracker() {
