@@ -1,4 +1,4 @@
-function Action(shortName, name, durabilityCost, cpCost, successProbability, qualityIncreaseMultiplier, progressIncreaseMultiplier, aType, activeTurns, cls, level, onGood, onExcellent, onPoor, isCombo, comboActions, oncePerSequence = false) {
+function Action(shortName, name, durabilityCost, cpCost, successProbability, qualityIncreaseMultiplier, progressIncreaseMultiplier, aType, activeTurns, cls, level, onGood, onExcellent, onPoor, isCombo, comboActions, oncePerSequence) {
     this.shortName = shortName;
     this.name = name;
     this.durabilityCost = durabilityCost;

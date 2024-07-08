@@ -418,13 +418,8 @@ function ApplyModifiers(s, action, condition) {
 
     // Calculate base and modified progress gain
     var bProgressGain = s.synth.calculateBaseProgressIncrease(effCrafterLevel, craftsmanship);
-    console.log("effCrafterLevel", effCrafterLevel);
-    console.log("craftsmanship", craftsmanship);
-    console.log("Initial bProgressGain:", bProgressGain);
-    console.log("Multiplier 1:", action.progressIncreaseMultiplier);
-    console.log("Multiplier 2:", progressIncreaseMultiplier);
     bProgressGain = Math.floor(bProgressGain * action.progressIncreaseMultiplier * progressIncreaseMultiplier);
-    console.log("Final bProgressGain:", bProgressGain);
+  
     
 
     // Calculate base and modified quality gain
