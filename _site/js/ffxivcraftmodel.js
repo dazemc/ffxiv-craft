@@ -661,7 +661,14 @@ function simSynth(individual, startState, assumeSuccess = false, verbose = true,
     // Initialize tracking for once per sequence actions
     const usedActions = new Set();
 
-    let prependTrainedPerfection = true;
+    // Trained Perfection
+    let prependTrainedPerfection = false;
+    const crafterActions = startState.synth.crafter.actions
+    crafterActions.forEach((action) => {
+        if (action.shortName === "trainedPerfection") {
+            prependTrainedPerfection = true;
+        }
+    });
     let foundFirstPrepAction = false; // Flag to track if groundwork2 or preparatoryTouch has been encountered
 
 
