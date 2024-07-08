@@ -385,11 +385,6 @@ function ApplyModifiers(s, action, condition) {
     }
 
 
-    // if (isActionEq(action, AllActions.delicateSynthesis2)) {
-    //     progressIncreaseMultiplier *= 1.25;
-    // }
-
-
     // Effects modifying quality increase multiplier
     var qualityIncreaseMultiplier = 1;
     var qualityIncreaseMultiplierIQ = 1; // This is calculated seperately because it's multiplicative instead of additive! See: how teamcrafting does it
@@ -419,8 +414,7 @@ function ApplyModifiers(s, action, condition) {
     // Calculate base and modified progress gain
     var bProgressGain = s.synth.calculateBaseProgressIncrease(effCrafterLevel, craftsmanship);
     bProgressGain = Math.floor(bProgressGain * action.progressIncreaseMultiplier * progressIncreaseMultiplier);
-  
-    
+
 
     // Calculate base and modified quality gain
     var bQualityGain = s.synth.calculateBaseQualityIncrease(effCrafterLevel, control);
