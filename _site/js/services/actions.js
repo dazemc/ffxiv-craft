@@ -2,14 +2,14 @@
   'use strict';
 
   var allClasses = [
-    "Alchemist",
-    "Armorer",
-    "Blacksmith",
     "Carpenter",
-    "Culinarian",
+    "Blacksmith",
+    "Armorer",
     "Goldsmith",
     "Leatherworker",
-    "Weaver"
+    "Weaver",
+    "Alchemist",
+    "Culinarian"
   ];
 
   // Seems 'skillID' doesn't even do anything lol

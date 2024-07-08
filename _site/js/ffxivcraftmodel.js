@@ -10,22 +10,22 @@
  */
 
 function LogOutput() {
-  this.log = '';
+    this.log = '';
 }
 
 LogOutput.prototype.write = function (s) {
-  this.log += s;
+    this.log += s;
 };
 
 LogOutput.prototype.clear = function () {
-  this.log = '';
+    this.log = '';
 };
 
 function Logger(logOutput) {
     this.logOutput = logOutput;
 }
 
-Logger.prototype.log = function(myString) {
+Logger.prototype.log = function (myString) {
     var args = Array.prototype.slice.call(arguments, 1);
     var msg = String.prototype.sprintf.apply(myString, args);
     if (this.logOutput !== undefined && this.logOutput !== null) {
@@ -89,7 +89,7 @@ Synth.prototype.calculateBaseProgressIncrease = function (effCrafterLevel, craft
     //return Math.floor((levelDifferenceFactor * (0.21 * craftsmanship + 2) * (10000 + craftsmanship)) / (10000 + this.recipe.suggestedCraftsmanship))
     // EDIT - endwalker update - taken from ffxivteamcraft simulator.es5.js
     var baseValue = (craftsmanship * 10) / this.recipe.progressDivider + 2;
-    if (effCrafterLevel <= this.recipe.level){
+    if (effCrafterLevel <= this.recipe.level) {
         return Math.floor((baseValue * (this.recipe.progressModifier || 100)) / 100);
     }
     return Math.floor(baseValue);
@@ -100,7 +100,7 @@ Synth.prototype.calculateBaseQualityIncrease = function (effCrafterLevel, contro
     //var levelDifferenceFactor = getLevelDifferenceFactor('control', levelDifference);
     //return Math.floor((levelDifferenceFactor * (0.35 * control + 35) * (10000 + control)) / (10000 + this.recipe.suggestedControl))
     var baseValue = (control * 10) / this.recipe.qualityDivider + 35;
-    if (effCrafterLevel <= this.recipe.level){
+    if (effCrafterLevel <= this.recipe.level) {
         return Math.floor((baseValue * (this.recipe.qualityModifier || 100)) / 100);
     }
     return Math.floor(baseValue);
@@ -114,10 +114,11 @@ function isActionNe(action1, action2) {
     return action1.shortName !== action2.shortName;
 }
 
-// Ranged edit -- Combo actions. Poor coding practice but I'm not too experienced with JS and I wouldn't know how to do it otherwise...
-// This returns the action object matching the name
 function getComboAction(comboName) {
-    return Object.keys(AllActions).find(key => AllActions[key].shortName == comboName);
+    // Look up abilities by name.
+    let actionKey = Object.keys(AllActions).find(key => AllActions[key].shortName == comboName)
+    // return the full action that matches.
+    return AllActions[actionKey];
 }
 
 function EffectTracker() {
@@ -126,7 +127,7 @@ function EffectTracker() {
     this.indefinites = {};
 }
 
-function State(synth, step, lastStep, action, durabilityState, cpState, bonusMaxCp, qualityState, progressState, wastedActions, trickUses, reliability, effects, condition, touchComboStep, oneTimeUse) {
+function State(synth, step, lastStep, action, durabilityState, cpState, bonusMaxCp, qualityState, progressState, wastedActions, trickUses, reliability, effects, condition, touchComboStep) {
     this.synth = synth;
     this.step = step;
     this.lastStep = lastStep;
@@ -140,13 +141,11 @@ function State(synth, step, lastStep, action, durabilityState, cpState, bonusMax
     this.trickUses = trickUses;
     this.reliability = reliability;
     this.effects = effects;
-    this.condition =  condition;
+    this.condition = condition;
 
     // Advancedtouch combo stuff
     this.touchComboStep = touchComboStep;
 
-    // To track abilities you can only use once
-    this.oneTimeUse = oneTimeUse;
 
     // Internal state variables set after each step.
     this.iqCnt = 0;
@@ -159,7 +158,7 @@ function State(synth, step, lastStep, action, durabilityState, cpState, bonusMax
 }
 
 State.prototype.clone = function () {
-    return new State(this.synth, this.step, this.lastStep, this.action, this.durabilityState, this.cpState, this.bonusMaxCp, this.qualityState, this.progressState, this.wastedActions, this.trickUses, this.reliability, clone(this.effects), this.condition, this.touchComboStep, this.oneTimeUse);
+    return new State(this.synth, this.step, this.lastStep, this.action, this.durabilityState, this.cpState, this.bonusMaxCp, this.qualityState, this.progressState, this.wastedActions, this.trickUses, this.reliability, clone(this.effects), this.condition, this.touchComboStep);
 };
 
 State.prototype.checkViolations = function () {
@@ -208,7 +207,7 @@ State.prototype.checkViolations = function () {
     if (this.reliability >= this.synth.reliabilityIndex) {
         reliabilityOk = true;
     }
-    
+
     return {
         progressOk: progressOk,
         cpOk: cpOk,
@@ -237,10 +236,8 @@ function NewStateFromSynth(synth) {
     var condition = 'Normal';
     var touchComboStep = 0;
 
-    // Empty array to add single-use abilities to as we use them
-    var oneTimeUse = [];
 
-    return new State(synth, step, lastStep, '', durabilityState, cpState, bonusMaxCp, qualityState, progressState, wastedActions, trickUses, reliability, effects, condition, touchComboStep, oneTimeUse);
+    return new State(synth, step, lastStep, '', durabilityState, cpState, bonusMaxCp, qualityState, progressState, wastedActions, trickUses, reliability, effects, condition, touchComboStep);
 }
 
 function probGoodForSynth(synth) {
@@ -313,7 +310,7 @@ function ApplyModifiers(s, action, condition) {
 
     // Advancted Touch Combo
     if (isActionEq(action, AllActions.advancedTouch)) {
-        if (s.action === AllActions.standardTouch.shortName && s.touchComboStep == 1)  {
+        if (s.action === AllActions.standardTouch.shortName && s.touchComboStep == 1) {
             s.touchComboStep = 0;
             cpCost = 18;
         } else if (s.action === AllActions.observe.shortName) {
@@ -340,7 +337,7 @@ function ApplyModifiers(s, action, condition) {
     // Effects modifying progress increase multiplier
     var progressIncreaseMultiplier = 1;
 
-    if ((action.progressIncreaseMultiplier > 0) && (s.effects.countDowns.hasOwnProperty(AllActions.muscleMemory.shortName))){
+    if ((action.progressIncreaseMultiplier > 0) && (s.effects.countDowns.hasOwnProperty(AllActions.muscleMemory.shortName))) {
         progressIncreaseMultiplier += 1;
         delete s.effects.countDowns[AllActions.muscleMemory.shortName];
     }
@@ -380,7 +377,7 @@ function ApplyModifiers(s, action, condition) {
         durabilityCost = 0;
     }
 
-	if (s.durabilityState < durabilityCost) {
+    if (s.durabilityState < durabilityCost) {
         if (isActionEq(action, AllActions.groundwork) || isActionEq(action, AllActions.groundwork2)) {
             progressIncreaseMultiplier *= 0.5;
         }
@@ -397,7 +394,7 @@ function ApplyModifiers(s, action, condition) {
     if (AllActions.innovation.shortName in s.effects.countDowns) {
         qualityIncreaseMultiplier += 0.5;
     }
-        
+
     if ("innerQuiet" in s.effects.countUps) {
         qualityIncreaseMultiplierIQ += (0.1 * (s.effects.countUps["innerQuiet"] + 1))
         // +1 because buffs start incrementing from 0
@@ -431,7 +428,7 @@ function ApplyModifiers(s, action, condition) {
 
     // Effects modifying quality gain directly
     if (isActionEq(action, AllActions.trainedEye)) {
-        if ((s.step === 1) && (pureLevelDifference >= 10) && !s.synth.recipe.stars)  {
+        if ((s.step === 1) && (pureLevelDifference >= 10) && !s.synth.recipe.stars) {
             bQualityGain = s.synth.recipe.maxQuality;
         }
         else {
@@ -462,12 +459,8 @@ function ApplyModifiers(s, action, condition) {
     }
 
     if (isActionEq(action, AllActions.trainedPerfection)) {
-        if (s.oneTimeUse.includes(AllActions.trainedPerfection.shortName)) {
-            s.wastedActions += 1;
-            delete s.effects.countDowns[AllActions.trainedPerfection.shortName];
-        } else {
-            s.oneTimeUse.push(AllActions.trainedPerfection.shortName);
-        }
+        s.wastedActions += 1;
+        delete s.effects.countDowns[AllActions.trainedPerfection.shortName];
     }
 
     return {
@@ -485,7 +478,7 @@ function ApplyModifiers(s, action, condition) {
     };
 }
 
-function useConditionalAction (s, condition) {
+function useConditionalAction(s, condition) {
     if (s.cpState > 0 && condition.checkGoodOrExcellent()) {
         s.trickUses += 1;
         return true;
@@ -646,153 +639,150 @@ function UpdateState(s, action, progressGain, qualityGain, durabilityCost, cpCos
     s.cpState = Math.min(s.cpState, s.synth.crafter.craftPoints + s.bonusMaxCp);
 }
 
-function simSynth(individual, startState, assumeSuccess, verbose, debug, logOutput) {
-    verbose = verbose !== undefined ? verbose : true;
-    debug = debug !== undefined ? debug : false;
-    logOutput = logOutput !== undefined ? logOutput : null;
-
-    var logger = new Logger(logOutput);
+function simSynth(individual, startState, assumeSuccess = false, verbose = true, debug = false, logOutput = null) {
+    // Logger setup
+    const logger = new Logger(logOutput);
 
     // Clone startState to keep startState immutable
-    var s = startState.clone();
+    const s = startState.clone();
 
     // Conditions
-    var pGood = probGoodForSynth(s.synth);
-    var pExcellent = probExcellentForSynth(s.synth);
-    var ignoreConditionReq = !s.synth.useConditions;
+    const ignoreConditionReq = !s.synth.useConditions;
+    let ppGood = probGoodForSynth(s.synth);
+    let ppExcellent = probExcellentForSynth(s.synth);
+    let ppPoor = 0;
+    let ppNormal = 1 - (ppGood + ppExcellent + ppPoor);
 
-    // Step 1 is always normal
-    var ppGood = 0;
-    var ppExcellent = 0;
-    var ppPoor = 0;
-    var ppNormal = 1 - (ppGood + ppExcellent + ppPoor);
-
-    var SimCondition = {
-        checkGoodOrExcellent: function () {
-            return true;
-        },
-        pGoodOrExcellent: function () {
-            if (ignoreConditionReq) {
-                return 1;
-            }
-            else {
-                return ppGood + ppExcellent;
-            }
-        }
+    const SimCondition = {
+        checkGoodOrExcellent: () => true,
+        pGoodOrExcellent: () => ignoreConditionReq ? 1 : ppGood + ppExcellent
     };
 
-    // Check for null or empty individuals
-    if (individual === null || individual.length === 0) {
-        return NewStateFromSynth(s.synth);
+    // Initialize tracking for once per sequence actions
+    const usedActions = new Set();
+
+    let prependTrainedPerfection = true;
+    let foundFirstPrepAction = false; // Flag to track if groundwork2 or preparatoryTouch has been encountered
+
+
+    // Logging headers
+    if (debug || verbose) {
+        const logHeader = debug
+            ? '%-2s %30s %-5s %-5s %-8s %-8s %-5s %-8s %-8s %-5s %-5s %-5s'
+            : '%-2s %30s %-5s %-5s %-8s %-8s %-5s';
+        const logValues = debug
+            ? '%2d %30s %5.0f %5.0f %8.1f %8.1f %5.1f %8.1f %8.1f %5.0f %5.0f %5.0f'
+            : '%2d %30s %5.0f %5.0f %8.1f %8.1f %5.1f';
+
+        logger.log(logHeader, '#', 'Action', 'DUR', 'CP', 'EQUA', 'EPRG', 'IQ', 'CTL', 'QINC', 'BPRG', 'BQUA', 'WAC');
+        logger.log(logValues, s.step, '', s.durabilityState, s.cpState, s.qualityState, s.progressState, 0, s.synth.crafter.control, 0, 0, 0, 0);
     }
 
-    if (debug) {
-        logger.log('%-2s %30s %-5s %-5s %-8s %-8s %-5s %-8s %-8s %-5s %-5s %-5s', '#', 'Action', 'DUR', 'CP', 'EQUA', 'EPRG', 'IQ', 'CTL', 'QINC', 'BPRG', 'BQUA', 'WAC');
-        logger.log('%2d %30s %5.0f %5.0f %8.1f %8.1f %5.1f %8.1f %8.1f %5.0f %5.0f %5.0f', s.step, '', s.durabilityState, s.cpState, s.qualityState, s.progressState, 0, s.synth.crafter.control, 0, 0, 0, 0);
-    }
-    else if (verbose) {
-        logger.log('%-2s %30s %-5s %-5s %-8s %-8s %-5s', '#', 'Action', 'DUR', 'CP', 'EQUA', 'EPRG', 'IQ');
-        logger.log('%2d %30s %5.0f %5.0f %8.1f %8.1f %5.1f', s.step, '', s.durabilityState, s.cpState, s.qualityState, s.progressState, 0);
+    for (let i = 0; i < individual.length; i++) {
+        const action = individual[i];
 
-    }
-    for (var i = 0; i < individual.length; i++) {
-        // var action = individual[i];
-
-        // Ranged edit -- Combo actions. Basically do everything twice over if there's a combo action. Woo.
-        var actionsArray = [];
-
-        if (individual[i].isCombo) {
-            for (var comboNumber = 0; comboNumber < individual[i].comboActions.length; comboNumber++) {
-                actionsArray.push(getComboAction(individual[i].comboActions[comboNumber]));
-            } 
-        } else {
-            actionsArray.push(individual[i]);
+        if (!action) {
+            // Skip undefined or null actions
+            if (verbose) logger.log(`Skipping undefined action at index ${i}.`);
+            continue;
         }
-        for (var j = 0; j < actionsArray.length; j++) {
-            var action = actionsArray[j];
 
-                    
-            // Occur regardless of dummy actions
-            //==================================
+        // Handle prepend logic
+        if (prependTrainedPerfection && !foundFirstPrepAction && (action.shortName === 'groundwork2' || action.shortName === 'preparatoryTouch')) {
+            individual.splice(i, 0, AllActions.trainedPerfection);
+            prependTrainedPerfection = false; // Only prepend once
+            foundFirstPrepAction = true; // Set flag to true after prep action is found
+            i++; // Move index to skip over inserted trainedPerfection
+        }
+
+        // Handle combos if applicable
+        const actionsArray = action.isCombo
+            ? action.comboActions.map(actionName => AllActions[actionName]).filter(act => act !== undefined && act !== null)
+            : [action];
+
+        for (const act of actionsArray) {
+            if (!act) {
+                // Skip undefined or null combo actions
+                if (verbose) logger.log(`Skipping undefined combo action for ${action.name}.`);
+                continue;
+            }
+
             s.step += 1;
 
             // Condition Calculation
-            var condQualityIncreaseMultiplier = 1;
+            let condQualityIncreaseMultiplier = 1;
             if (!ignoreConditionReq) {
-                condQualityIncreaseMultiplier *= (ppNormal + 1.5 * ppGood * Math.pow(1 - (ppGood + pGood) / 2, s.synth.maxTrickUses) + 4 * ppExcellent + 0.5 * ppPoor);
+                condQualityIncreaseMultiplier *= (ppNormal + 1.5 * ppGood * Math.pow(1 - (ppGood + ppGood) / 2, s.synth.maxTrickUses) + 4 * ppExcellent + 0.5 * ppPoor);
             }
 
-            // Calculate Progress, Quality and Durability gains and losses under effect of modifiers
-            var r = ApplyModifiers(s, action, SimCondition);
+            // Apply action and update state
+            const result = ApplyModifiers(s, act, SimCondition);
+            const successProbability = assumeSuccess ? 1 : result.successProbability;
+            const progressGain = Math.floor(successProbability * result.bProgressGain);
+            const qualityGain = Math.floor(successProbability * condQualityIncreaseMultiplier * result.bQualityGain);
 
-            // Calculate final gains / losses
-            var successProbability = r.successProbability;
-            if (assumeSuccess) {
-                successProbability = 1;
-            }
-            var progressGain = r.bProgressGain;
-            if (progressGain > 0) {
-                s.reliability = s.reliability * successProbability;
-            }
-
-            var qualityGain = condQualityIncreaseMultiplier * r.bQualityGain;
-
-            // Floor gains at final stage before calculating expected value
-            progressGain = successProbability * Math.floor(progressGain);
-            qualityGain = successProbability * Math.floor(qualityGain);
-
-            // Occur if a wasted action
-            //==================================
-            if (((s.progressState >= s.synth.recipe.difficulty) || (s.durabilityState <= 0) || (s.cpState < 0)) && (action != AllActions.dummyAction)) {
+            if (((s.progressState >= s.synth.recipe.difficulty) || (s.durabilityState <= 0) || (s.cpState < 0)) && (act !== AllActions.dummyAction)) {
                 s.wastedActions += 1;
-            }
+            } else {
+                UpdateState(s, act, progressGain, qualityGain, result.durabilityCost, result.cpCost, SimCondition, successProbability);
 
-            // Occur if not a wasted action
-            //==================================
-            else {
-
-                UpdateState(s, action, progressGain, qualityGain, r.durabilityCost, r.cpCost, SimCondition, successProbability);
-
-                // Ending condition update
+                // Update condition probabilities
                 if (!ignoreConditionReq) {
                     ppPoor = ppExcellent;
-                    ppGood = pGood * ppNormal;
-                    ppExcellent = pExcellent * ppNormal;
+                    ppGood = ppGood * ppNormal;
+                    ppExcellent = ppExcellent * ppNormal;
                     ppNormal = 1 - (ppGood + ppExcellent + ppPoor);
                 }
-
             }
 
-            var iqCnt = 0;
-            if ("innerQuiet" in s.effects.countUps) {
-                iqCnt = s.effects.countUps["innerQuiet"];
-            }
-            if (debug) {
-                logger.log('%2d %30s %5.0f %5.0f %8.1f %8.1f %5.1f %8.1f %8.1f %5.0f %5.0f %5.0f', s.step, action.name, s.durabilityState, s.cpState, s.qualityState, s.progressState, iqCnt, r.control, qualityGain, Math.floor(r.bProgressGain), Math.floor(r.bQualityGain), s.wastedActions);
-            }
-            else if (verbose) {
-                logger.log('%2d %30s %5.0f %5.0f %8.1f %8.1f %5.1f', s.step, action.name, s.durabilityState, s.cpState, s.qualityState, s.progressState, iqCnt);
+            if (debug || verbose) {
+                const iqCnt = s.effects.countUps["innerQuiet"] || 0;
+                const logValues = debug
+                    ? '%2d %30s %5.0f %5.0f %8.1f %8.1f %5.1f %8.1f %8.1f %5.0f %5.0f %5.0f'
+                    : '%2d %30s %5.0f %5.0f %8.1f %8.1f %5.1f';
+                logger.log(logValues, s.step, act.name, s.durabilityState, s.cpState, s.qualityState, s.progressState, iqCnt, result.control, qualityGain, Math.floor(result.bProgressGain), Math.floor(result.bQualityGain), s.wastedActions);
             }
 
-            s.action = action.shortName
+            s.action = act.shortName;
+
+            // Mark action as used if it is oncePerSequence
+            if (act.oncePerSequence) {
+                usedActions.add(act.name);
+            }
         }
-
     }
+
+    // Check and remove extra instances of actions with oncePerSequence
+    const countActions = {};
+    individual.forEach(action => {
+        const name = action.name;
+        countActions[name] = countActions[name] ? countActions[name] + 1 : 1;
+    });
+
+    for (let i = individual.length - 1; i >= 0; i--) {
+        const action = individual[i];
+
+        if (action.oncePerSequence && countActions[action.name] > 1) {
+            individual.splice(i, 1); // Remove extra instance
+            countActions[action.name]--; // Decrease count
+        } else {
+            usedActions.add(action.name); // Mark action as used
+        }
+    }
+
     // Check for feasibility violations
-    var chk = s.checkViolations();
-
-    if (debug) {
-        logger.log('Progress Check: %s, Durability Check: %s, CP Check: %s, Tricks Check: %s, Reliability Check: %s, Wasted Actions: %d', chk.progressOk, chk.durabilityOk, chk.cpOk, chk.trickOk, chk.reliabilityOk, s.wastedActions);
-    }
-    else if (verbose) {
+    const chk = s.checkViolations();
+    if (debug || verbose) {
         logger.log('Progress Check: %s, Durability Check: %s, CP Check: %s, Tricks Check: %s, Reliability Check: %s, Wasted Actions: %d', chk.progressOk, chk.durabilityOk, chk.cpOk, chk.trickOk, chk.reliabilityOk, s.wastedActions);
     }
 
     // Return final state
-    s.action = individual[individual.length-1].shortName;
+    if (individual.length > 0) {
+        s.action = individual[individual.length - 1].shortName;
+    }
     return s;
-
 }
+
 
 function MonteCarloStep(startState, action, assumeSuccess, verbose, debug, logOutput) {
     verbose = verbose !== undefined ? verbose : true;
@@ -832,10 +822,10 @@ function MonteCarloStep(startState, action, assumeSuccess, verbose, debug, logOu
     if (s.condition === 'Excellent') {
         condQualityIncreaseMultiplier *= 4.0;
     }
-    else if (s.condition === 'Good' ) {
+    else if (s.condition === 'Good') {
         condQualityIncreaseMultiplier *= 1.5;
     }
-    else if (s.condition === 'Poor' ) {
+    else if (s.condition === 'Poor') {
         condQualityIncreaseMultiplier *= 0.5;
     }
     else {
@@ -960,7 +950,7 @@ function MonteCarloSequence(individual, startState, assumeSuccess, conditionalAc
         var onGoodOrExcellentActions = [];
         var onPoorOnlyActions = [];
         var tempIndividual = [];
-        for (var i=0; i < individual.length; i++) {
+        for (var i = 0; i < individual.length; i++) {
             if (individual[i].onExcellent && !individual[i].onGood) {
                 onExcellentOnlyActions.push(individual[i]);
                 maxConditionUses += 1;
@@ -998,13 +988,13 @@ function MonteCarloSequence(individual, startState, assumeSuccess, conditionalAc
 
     states.push(s);
 
-    for (i=0; i < individual.length; i++) {
+    for (i = 0; i < individual.length; i++) {
         var actionsArray = [];
 
         if (individual[i].isCombo) {
             for (var comboNumber = 0; comboNumber < individual[i].comboActions.length; comboNumber++) {
                 actionsArray.push(getComboAction(individual[i].comboActions[comboNumber]));
-            } 
+            }
         } else {
             actionsArray.push(individual[i]);
         }
@@ -1013,9 +1003,9 @@ function MonteCarloSequence(individual, startState, assumeSuccess, conditionalAc
 
             // Determine if action is usable
             var usable = action.onExcellent && s.condition === 'Excellent' ||
-                        action.onGood && s.condition === 'Good' ||
-                        action.onPoor && s.condition === 'Poor' ||
-                        (!action.onExcellent && !action.onGood && !action.onPoor);
+                action.onGood && s.condition === 'Good' ||
+                action.onPoor && s.condition === 'Poor' ||
+                (!action.onExcellent && !action.onGood && !action.onPoor);
 
             if (conditionalActionHandling === 'reposition') {
                 // Manually re-add condition dependent action when conditions are met
@@ -1097,15 +1087,15 @@ function MonteCarloSim(individual, synth, nRuns, assumeSuccess, conditionalActio
     var bestSequenceStates;
     var worseSequenceStates;
     var finalStateTracker = [];
-    for (var i=0; i < nRuns; i++) {
+    for (var i = 0; i < nRuns; i++) {
         var states = MonteCarloSequence(individual, startState, assumeSuccess, conditionalActionHandling, false, false, logOutput);
-        var finalState = states[states.length-1];
+        var finalState = states[states.length - 1];
 
-        if (!bestSequenceStates || finalState.qualityState > bestSequenceStates[bestSequenceStates.length-1].qualityState) {
+        if (!bestSequenceStates || finalState.qualityState > bestSequenceStates[bestSequenceStates.length - 1].qualityState) {
             bestSequenceStates = states;
         }
 
-        if (!worseSequenceStates || finalState.qualityState < worseSequenceStates[worseSequenceStates.length-1].qualityState) {
+        if (!worseSequenceStates || finalState.qualityState < worseSequenceStates[worseSequenceStates.length - 1].qualityState) {
             worseSequenceStates = states;
         }
 
@@ -1131,7 +1121,7 @@ function MonteCarloSim(individual, synth, nRuns, assumeSuccess, conditionalActio
 
     var successRate = getSuccessRate(finalStateTracker);
 
-    logger.log('%-2s %20s %-5s %-5s %-8s %-5s %-5s','', '', 'DUR', 'CP', 'QUA', 'PRG', 'HQ%');
+    logger.log('%-2s %20s %-5s %-5s %-8s %-5s %-5s', '', '', 'DUR', 'CP', 'QUA', 'PRG', 'HQ%');
     logger.log('%2s %-20s %5.0f %5.0f %8.1f %5.1f %5.1f', '##', 'Expected Value: ', avgDurability, avgCp, avgQuality, avgProgress, avgHqPercent);
 
     var mdnDurability = getMedianProperty(finalStateTracker, 'durabilityState', nRuns);
@@ -1147,13 +1137,13 @@ function MonteCarloSim(individual, synth, nRuns, assumeSuccess, conditionalActio
         hqPercent: mdnHqPercent
     };
 
-    logger.log('%2s %-20s %5.0f %5.0f %8.1f %5.1f %5.1f', '##', 'Median Value: ', mdnDurability, mdnCp, mdnQuality, mdnProgress, mdnHqPercent   );
+    logger.log('%2s %-20s %5.0f %5.0f %8.1f %5.1f %5.1f', '##', 'Median Value: ', mdnDurability, mdnCp, mdnQuality, mdnProgress, mdnHqPercent);
 
     var minDurability = getMinProperty(finalStateTracker, 'durabilityState');
     var minCp = getMinProperty(finalStateTracker, 'cpState');
     var minQuality = getMinProperty(finalStateTracker, 'qualityState');
     var minProgress = getMinProperty(finalStateTracker, 'progressState');
-    var minQualityPercent = Math.min(synth.recipe.maxQuality, minQuality)/synth.recipe.maxQuality * 100;
+    var minQualityPercent = Math.min(synth.recipe.maxQuality, minQuality) / synth.recipe.maxQuality * 100;
     var minHqPercent = hqPercentFromQuality(minQualityPercent);
     var minStats = {
         durability: minDurability,
@@ -1169,7 +1159,7 @@ function MonteCarloSim(individual, synth, nRuns, assumeSuccess, conditionalActio
     var maxCp = getMaxProperty(finalStateTracker, 'cpState');
     var maxQuality = getMaxProperty(finalStateTracker, 'qualityState');
     var maxProgress = getMaxProperty(finalStateTracker, 'progressState');
-    var maxQualityPercent = Math.max(synth.recipe.maxQuality, maxQuality)/synth.recipe.maxQuality * 100;
+    var maxQualityPercent = Math.max(synth.recipe.maxQuality, maxQuality) / synth.recipe.maxQuality * 100;
     var maxHqPercent = hqPercentFromQuality(maxQualityPercent);
     var maxStats = {
         durability: maxDurability,
@@ -1229,7 +1219,7 @@ function MonteCarloSim(individual, synth, nRuns, assumeSuccess, conditionalActio
 function getAverageProperty(stateArray, propName, nRuns) {
     var sumProperty = 0;
     var nSuccesses = 0;
-    for (var i=0; i < stateArray.length; i++) {
+    for (var i = 0; i < stateArray.length; i++) {
         var chk = stateArray[i].checkViolations();
         var progressOk = chk.progressOk;
         var durabilityOk = chk.durabilityOk;
@@ -1246,7 +1236,7 @@ function getAverageProperty(stateArray, propName, nRuns) {
 
 function getMedianProperty(stateArray, propName, nRuns) {
     var listProperty = [];
-    for (var i=0; i < stateArray.length; i++) {
+    for (var i = 0; i < stateArray.length; i++) {
         var chk = stateArray[i].checkViolations();
         var progressOk = chk.progressOk;
         var durabilityOk = chk.durabilityOk;
@@ -1257,8 +1247,8 @@ function getMedianProperty(stateArray, propName, nRuns) {
         }
     }
 
-    listProperty.sort(function(a, b){return a-b});
-    var medianPropIdx = Math.ceil(listProperty.length/2);
+    listProperty.sort(function (a, b) { return a - b });
+    var medianPropIdx = Math.ceil(listProperty.length / 2);
 
     return listProperty[medianPropIdx];
 }
@@ -1267,7 +1257,7 @@ function getAverageHqPercent(stateArray) {
     // Because quality can exceed maxQuality, the average will be skewed high and we cannot use average quality as the input to the hqPercentFromQuality function
     var nHQ = 0;
     var nSuccesses = 0;
-    for (var i=0; i < stateArray.length; i++) {
+    for (var i = 0; i < stateArray.length; i++) {
         var chk = stateArray[i].checkViolations();
         var progressOk = chk.progressOk;
         var durabilityOk = chk.durabilityOk;
@@ -1291,7 +1281,7 @@ function getAverageHqPercent(stateArray) {
 function getMedianHqPercent(stateArray) {
     // Because quality can exceed maxQuality, the median will be skewed high and we cannot use median quality as the input to the hqPercentFromQuality function
     var hqPercents = [];
-    for (var i=0; i < stateArray.length; i++) {
+    for (var i = 0; i < stateArray.length; i++) {
         var chk = stateArray[i].checkViolations();
         var progressOk = chk.progressOk;
         var durabilityOk = chk.durabilityOk;
@@ -1304,15 +1294,15 @@ function getMedianHqPercent(stateArray) {
         }
     }
 
-    hqPercents.sort(function(a, b){return a-b});
-    var medianPropIdx = Math.ceil(hqPercents.length/2);
+    hqPercents.sort(function (a, b) { return a - b });
+    var medianPropIdx = Math.ceil(hqPercents.length / 2);
 
     return hqPercents[medianPropIdx];
 }
 
 function getSuccessRate(stateArray) {
     var nSuccesses = 0;
-    for (var i=0; i < stateArray.length; i++) {
+    for (var i = 0; i < stateArray.length; i++) {
         var chk = stateArray[i].checkViolations();
         var progressOk = chk.progressOk;
         var durabilityOk = chk.durabilityOk;
@@ -1328,7 +1318,7 @@ function getSuccessRate(stateArray) {
 
 function getMinProperty(stateArray, propName) {
     var minProperty = null;
-    for (var i=0; i < stateArray.length; i++) {
+    for (var i = 0; i < stateArray.length; i++) {
         if (minProperty === null) {
             minProperty = stateArray[i][propName];
         }
@@ -1343,7 +1333,7 @@ function getMinProperty(stateArray, propName) {
 
 function getMaxProperty(stateArray, propName) {
     var maxProperty = null;
-    for (var i=0; i < stateArray.length; i++) {
+    for (var i = 0; i < stateArray.length; i++) {
         if (maxProperty === null) {
             maxProperty = stateArray[i][propName];
         }
@@ -1378,7 +1368,7 @@ function hqPercentFromQuality(qualityPercent) {
 }
 
 function evalSeq(individual, mySynth, penaltyWeight) {
-    penaltyWeight = penaltyWeight!== undefined ? penaltyWeight : 10000;
+    penaltyWeight = penaltyWeight !== undefined ? penaltyWeight : 10000;
 
     var startState = NewStateFromSynth(mySynth);
     var result = simSynth(individual, startState, false, false, false);
@@ -1395,7 +1385,7 @@ function evalSeq(individual, mySynth, penaltyWeight) {
     var chk = result.checkViolations();
 
     if (!chk.durabilityOk) {
-       penalties += Math.abs(result.durabilityState);
+        penalties += Math.abs(result.durabilityState);
     }
 
     if (!chk.progressOk) {
@@ -1426,11 +1416,11 @@ function evalSeq(individual, mySynth, penaltyWeight) {
         fitness += result.durabilityState * mySynth.solverVars.remainderDurFitnessValue;
     }
     else {
-        fitness += Math.min(mySynth.recipe.maxQuality*safetyMarginFactor, result.qualityState);
+        fitness += Math.min(mySynth.recipe.maxQuality * safetyMarginFactor, result.qualityState);
     }
-    
+
     fitness -= penaltyWeight * penalties;
-    if (chk.progressOk && result.qualityState >= mySynth.recipe.maxQuality*safetyMarginFactor) {
+    if (chk.progressOk && result.qualityState >= mySynth.recipe.maxQuality * safetyMarginFactor) {
         // This if statement rewards a smaller synth length so long as conditions are met
         fitness *= (1 + 4 / result.step);
     }
@@ -1462,25 +1452,25 @@ function heuristicSequenceBuilder(synth) {
         }
     }
 
-    var hasAction = function(actionName) {
+    var hasAction = function (actionName) {
         return (actionName in actionsByName);
     };
 
-    var tryAction = function(actionName) {
+    var tryAction = function (actionName) {
         return (hasAction(actionName) && cp >= aa[actionName].cpCost && dur - aa[actionName].durabilityCost >= 0);
     };
 
-    var useAction = function(actionName) {
+    var useAction = function (actionName) {
         cp -= aa[actionName].cpCost;
         dur -= aa[actionName].durabilityCost;
     };
 
-    var pushAction = function(seq, actionName) {
+    var pushAction = function (seq, actionName) {
         seq.push(aa[actionName]);
         useAction(actionName);
     };
 
-    var unshiftAction = function(seq, actionName) {
+    var unshiftAction = function (seq, actionName) {
         seq.unshift(aa[actionName]);
         useAction(actionName);
     };
@@ -1508,7 +1498,7 @@ function heuristicSequenceBuilder(synth) {
     // Determine base progress
     var levelDifference = effCrafterLevel - effRecipeLevel;
     var bProgressGain = synth.calculateBaseProgressIncrease(effCrafterLevel, synth.crafter.craftsmanship);
-    var progressGain =  bProgressGain;
+    var progressGain = bProgressGain;
     progressGain *= aa[preferredAction].progressIncreaseMultiplier;
     progressGain = Math.floor(progressGain);
 
@@ -1575,7 +1565,7 @@ function heuristicSequenceBuilder(synth) {
 
     if (tryAction('reflect')) {
         pushAction(subSeq1, 'reflect')
-    } 
+    }
 
     preferredAction = 'basicTouch';
 
@@ -1656,7 +1646,7 @@ function clone(x) {
                 return seen[s];
             }
         }
-        switch(_typeof(x)) {
+        switch (_typeof(x)) {
             case 'object':
                 var newObject = Object.create(Object.getPrototypeOf(x));
                 seen[x] = newObject;
@@ -2332,26 +2322,26 @@ var SuggestedCraftsmanship = {
 
 var LevelDifferenceFactors = {
     'craftsmanship': {
-		'-30': 0.8,
-		'-29': 0.82,
-		'-28': 0.84,
-		'-27': 0.86,
-		'-26': 0.88,
-		'-25': 0.90,
-		'-24': 0.92,
-		'-23': 0.94,
-		'-22': 0.96,
-		'-21': 0.98,
-		'-20': 1,
-		'-19': 1,
-		'-18': 1,
-		'-17': 1,
-		'-16': 1,
-		'-15': 1,
-		'-14': 1,
-		'-13': 1,
-		'-12': 1,
-		'-11': 1,
+        '-30': 0.8,
+        '-29': 0.82,
+        '-28': 0.84,
+        '-27': 0.86,
+        '-26': 0.88,
+        '-25': 0.90,
+        '-24': 0.92,
+        '-23': 0.94,
+        '-22': 0.96,
+        '-21': 0.98,
+        '-20': 1,
+        '-19': 1,
+        '-18': 1,
+        '-17': 1,
+        '-16': 1,
+        '-15': 1,
+        '-14': 1,
+        '-13': 1,
+        '-12': 1,
+        '-11': 1,
         '-10': 1,
         '-9': 1,
         '-8': 1,
@@ -2385,26 +2375,26 @@ var LevelDifferenceFactors = {
         20: 1.5
     },
     'control': {
-		'-30': 0.6,
-		'-29': 0.64,
-		'-28': 0.68,
-		'-27': 0.72,
-		'-26': 0.76,
-		'-25': 0.80,
-		'-24': 0.84,
-		'-23': 0.88,
-		'-22': 0.92,
-		'-21': 0.96,
-		'-20': 1,
-		'-19': 1,
-		'-18': 1,
-		'-17': 1,
-		'-16': 1,
-		'-15': 1,
-		'-14': 1,
-		'-13': 1,
-		'-12': 1,
-		'-11': 1,
+        '-30': 0.6,
+        '-29': 0.64,
+        '-28': 0.68,
+        '-27': 0.72,
+        '-26': 0.76,
+        '-25': 0.80,
+        '-24': 0.84,
+        '-23': 0.88,
+        '-22': 0.92,
+        '-21': 0.96,
+        '-20': 1,
+        '-19': 1,
+        '-18': 1,
+        '-17': 1,
+        '-16': 1,
+        '-15': 1,
+        '-14': 1,
+        '-13': 1,
+        '-12': 1,
+        '-11': 1,
         '-10': 1,
         '-9': 1,
         '-8': 1,
