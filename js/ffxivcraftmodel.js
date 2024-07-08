@@ -377,11 +377,18 @@ function ApplyModifiers(s, action, condition) {
         durabilityCost = 0;
     }
 
+
     if (s.durabilityState < durabilityCost) {
         if (isActionEq(action, AllActions.groundwork) || isActionEq(action, AllActions.groundwork2)) {
             progressIncreaseMultiplier *= 0.5;
         }
     }
+
+
+    // if (isActionEq(action, AllActions.delicateSynthesis2)) {
+    //     progressIncreaseMultiplier *= 1.25;
+    // }
+
 
     // Effects modifying quality increase multiplier
     var qualityIncreaseMultiplier = 1;
@@ -411,7 +418,14 @@ function ApplyModifiers(s, action, condition) {
 
     // Calculate base and modified progress gain
     var bProgressGain = s.synth.calculateBaseProgressIncrease(effCrafterLevel, craftsmanship);
+    console.log("effCrafterLevel", effCrafterLevel);
+    console.log("craftsmanship", craftsmanship);
+    console.log("Initial bProgressGain:", bProgressGain);
+    console.log("Multiplier 1:", action.progressIncreaseMultiplier);
+    console.log("Multiplier 2:", progressIncreaseMultiplier);
     bProgressGain = Math.floor(bProgressGain * action.progressIncreaseMultiplier * progressIncreaseMultiplier);
+    console.log("Final bProgressGain:", bProgressGain);
+    
 
     // Calculate base and modified quality gain
     var bQualityGain = s.synth.calculateBaseQualityIncrease(effCrafterLevel, control);
@@ -1722,6 +1736,16 @@ var LevelTable = {
     88: 550,
     89: 555,
     90: 560,
+    91: 650,
+    92: 653,
+    93: 656,
+    94: 660,
+    95: 665,
+    96: 670,
+    97: 675,
+    98: 680,
+    99: 685,
+    100: 690,
 };
 
 var Ing1RecipeLevelTable = {
