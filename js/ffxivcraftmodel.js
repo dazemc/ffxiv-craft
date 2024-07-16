@@ -1521,6 +1521,13 @@ function heuristicSequenceBuilder(synth) {
     if (hasAction('carefulSynthesis')) {
         preferredAction = 'carefulSynthesis';
     }
+    if (hasAction('carefulSynthesis2')) {
+        preferredAction = 'carefulSynthesis2';
+    }
+    if (hasAction('prudentSynthesis')) {
+        preferredAction = 'prudentSynthesis';
+    }
+
 
     // Determine base progress
     var levelDifference = effCrafterLevel - effRecipeLevel;
@@ -1595,6 +1602,16 @@ function heuristicSequenceBuilder(synth) {
     }
 
     preferredAction = 'basicTouch';
+    if (hasAction('preciseTouch')) {
+        preferredAction = 'preciseTouch';
+    }
+    if (hasAction('prudentTouch')) {
+        preferredAction = 'prudentTouch';
+    }
+    if (hasAction('refinedTouchCombo')) {
+        preferredAction = 'refinedTouchCombo';
+    }
+
 
     // ... and put in at least one quality improving action
     if (tryAction(preferredAction)) {
