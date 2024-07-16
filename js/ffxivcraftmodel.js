@@ -352,6 +352,9 @@ function ApplyModifiers(s, action, condition) {
             progressIncreaseMultiplier = 0;
             cpCost = 0;
         }
+        if (s.step === 1) {
+            s.wastedActions -= 1;
+        }
     }
 
     // Effects modifying durability cost
@@ -374,14 +377,17 @@ function ApplyModifiers(s, action, condition) {
         if (durabilityCost === 0) {
             s.effects.countDowns.trainedPerfection += 1;
         }
-        if (action.cpCost != 20 || action.isCombo) {
+        if (action.isCombo) {
+            s.wastedActions += 100; // should never prefer this
+        }
+        if (action.cpCost != 20) {
             s.wastedActions += 1;
         }
         if (action.cpCost === 20) {
-            s.wastedActions -= 1;
+            s.wastedActions -= 2;
         }
         durabilityCost = 0;
-        
+        s.wastedActions -= 1;
     }
 
 
@@ -465,6 +471,9 @@ function ApplyModifiers(s, action, condition) {
             control = 0;
             bQualityGain = 0;
             cpCost = 0;
+        }
+        if (s.step === 1) {
+            s.wastedActions -= 1;
         }
     }
 
