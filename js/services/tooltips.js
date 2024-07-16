@@ -57,6 +57,10 @@
   TooltipsService.prototype.renderTooltip = function (action) {
     var T = this.$translate.instant;
     var efficiency = (action.qualityIncreaseMultiplier > 0 ? action.qualityIncreaseMultiplier : action.progressIncreaseMultiplier) * 100;
+    // actions that increase both progress and quality
+    if (action.qualityIncreaseMultiplier > 0 && action.progressIncreaseMultiplier > 0) {
+      efficiency = action.progressIncreaseMultiplier * 100;
+    }
     var successRate = action.successProbability * 100;
     var actionMaterialConditions = this.getActionMaterialConditions(action);
 
