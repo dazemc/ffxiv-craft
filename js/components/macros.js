@@ -158,6 +158,10 @@
               macroString += '/macrolock\n';
               macroLineCount++;
             }
+            if (options.includeMicon) {
+              macroString += "/micon " + $translate.instant($scope.cls) + " classjob\n";
+                macroLineCount++;
+            }
           }
         }
       }
