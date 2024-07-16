@@ -373,12 +373,12 @@ function ApplyModifiers(s, action, condition) {
         // If we burned our "free durability" buff on something already free...
         if (durabilityCost === 0) {
             s.effects.countDowns.trainedPerfection += 1;
-            s.wastedActions -= 1;
         }
         if (action.cpCost < 20) {
             s.wastedActions += 1;
         }
         durabilityCost = 0;
+        s.wastedActions -= 1;
     }
 
 
