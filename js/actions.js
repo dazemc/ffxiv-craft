@@ -1,4 +1,4 @@
-function Action(shortName, name, durabilityCost, cpCost, successProbability, qualityIncreaseMultiplier, progressIncreaseMultiplier, aType, activeTurns, cls, level, onGood, onExcellent, onPoor, isCombo, comboActions, oncePerSequence) {
+function Action(shortName, name, durabilityCost, cpCost, successProbability, qualityIncreaseMultiplier, progressIncreaseMultiplier, aType, activeTurns, cls, level, onGood, onExcellent, onPoor, isCombo, comboActions, oncePerSequence, isSpecialist) {
     this.shortName = shortName;
     this.name = name;
     this.durabilityCost = durabilityCost;
@@ -20,7 +20,7 @@ function Action(shortName, name, durabilityCost, cpCost, successProbability, qua
     this.onGood = onGood;
     this.onExcellent = onExcellent;
     this.onPoor = onPoor;
-    // Ranged edit - Comboactions experimental
+    // Ranged edit - Combo actions experimental
     this.isCombo = isCombo;
     this.comboActions = comboActions;
 
@@ -28,6 +28,7 @@ function Action(shortName, name, durabilityCost, cpCost, successProbability, qua
 
     // Single use
     this.oncePerSequence = oncePerSequence;
+    this.isSpecialist = isSpecialist;
 }
 
 // Actions Table
@@ -88,7 +89,6 @@ var AllActions = {
 
     // Ranged edit: special combo'd actions that are handled differently
     // Combo Actions. Making new combo actions need an image, extraActionInfo, and some code in getComboAction() in ffxivcraftmodel.js
-    // The existence of this breaks the montecarlo simulation but idgaf about that
     //                                  shortName,                  fullName,                   dur,    cp, Prob, QIM,  PIM, Type,          t,  cls,       lvl,  onGood,     onExcl,      onPoor,    isCombo,    [comboActions]
     observedTouchCombo: new Action(     'observedTouchCombo',       'Observed Touch Combo',      10,     25, 1.0,  1.5,  0.0, 'immediate',   1,  'All',     68,   false,      false,       false,     true,       ['observe', 'advancedTouch']),
     standardTouchCombo: new Action(     'standardTouchCombo',       'Standard Touch Combo',      20,     36, 1.0,  2.25, 0.0, 'immediate',   1,  'All',     18,   false,      false,       false,     true,       ['basicTouch', 'standardTouch']),

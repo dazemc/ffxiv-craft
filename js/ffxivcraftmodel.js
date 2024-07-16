@@ -87,7 +87,7 @@ function Synth(crafter, recipe, maxTrickUses, reliabilityIndex, useConditions, m
 Synth.prototype.calculateBaseProgressIncrease = function (effCrafterLevel, craftsmanship) {
     //var levelDifferenceFactor = getLevelDifferenceFactor('craftsmanship', levelDifference);
     //return Math.floor((levelDifferenceFactor * (0.21 * craftsmanship + 2) * (10000 + craftsmanship)) / (10000 + this.recipe.suggestedCraftsmanship))
-    // EDIT - endwalker update - taken from ffxivteamcraft simulator.es5.js
+    // EDIT - endwalker update - taken from teamcraft simulator.es5.js
     var baseValue = (craftsmanship * 10) / this.recipe.progressDivider + 2;
     if (effCrafterLevel <= this.recipe.level) {
         return Math.floor((baseValue * (this.recipe.progressModifier || 100)) / 100);
@@ -304,11 +304,11 @@ function ApplyModifiers(s, action, condition) {
     var stars = s.synth.recipe.stars;
     var durabilityCost = action.durabilityCost;
 
-    // Effects modfiying probability
+    // Effects modifying probability
     var successProbability = action.successProbability;
     successProbability = Math.min(successProbability, 1);
 
-    // Advancted Touch Combo
+    // Advanced Touch Combo
     if (isActionEq(action, AllActions.advancedTouch)) {
         if (s.action === AllActions.standardTouch.shortName && s.touchComboStep == 1) {
             s.touchComboStep = 0;
@@ -329,7 +329,7 @@ function ApplyModifiers(s, action, condition) {
         }
     }
 
-    // Penalize use of WasteNot during solveforcompletion runs
+    // Penalize use of WasteNot during solve for completion runs
     if ((isActionEq(action, AllActions.wasteNot) || isActionEq(action, AllActions.wasteNot2)) && s.synth.solverVars.solveForCompletion) {
         s.wastedActions += 50;
     }
@@ -394,13 +394,14 @@ function ApplyModifiers(s, action, condition) {
     if (s.durabilityState < durabilityCost) {
         if (isActionEq(action, AllActions.groundwork) || isActionEq(action, AllActions.groundwork2)) {
             progressIncreaseMultiplier *= 0.5;
+            s.wastedActions += 0.5;
         }
     }
 
 
     // Effects modifying quality increase multiplier
     var qualityIncreaseMultiplier = 1;
-    var qualityIncreaseMultiplierIQ = 1; // This is calculated seperately because it's multiplicative instead of additive! See: how teamcrafting does it
+    var qualityIncreaseMultiplierIQ = 1; // This is calculated separately because it's multiplicative instead of additive! See: how teamcraft does it
 
     if ((AllActions.greatStrides.shortName in s.effects.countDowns) && (qualityIncreaseMultiplier > 0)) {
         qualityIncreaseMultiplier += 1;
@@ -516,7 +517,7 @@ function ApplySpecialActionEffects(s, action, condition) {
     if (isActionEq(action, AllActions.mastersMend)) {
         s.durabilityState += 30;
         if (s.synth.solverVars.solveForCompletion) {
-            s.wastedActions += 50; // Bad code, but it works. We don't want dur increase in solveforcompletion.
+            s.wastedActions += 50; // Bad code, but it works. We don't want dur increase in solve for completion.
         }
     }
 
@@ -524,7 +525,7 @@ function ApplySpecialActionEffects(s, action, condition) {
         // Set durability to max durability for the recipe
         s.durabilityState = s.synth.recipe.durability;
         if (s.synth.solverVars.solveForCompletion) {
-            s.wastedActions += 50; // Bad code, but it works. We don't want dur increase in solveforcompletion.
+            s.wastedActions += 50; // Bad code, but it works. We don't want dur increase in solve for completion.
         }
     }
 
@@ -1404,7 +1405,7 @@ function evalSeq(individual, mySynth, penaltyWeight) {
     var safetyMarginFactor = 1 + mySynth.recipe.safetyMargin * 0.01;
 
     // Sum the constraint violations
-    // experiment: wastedactions change
+    // experiment: wasted actions change
     penalties += result.wastedActions / 20;
 
     // Check for feasibility violations
