@@ -683,14 +683,13 @@ function simSynth(individual, startState, assumeSuccess = false, verbose = true,
 
     // Trained Perfection
     let prependTrainedPerfection = false;
-    const crafterActions = startState.synth.crafter.actions
+    const crafterActions = startState.synth.crafter.actions;
     crafterActions.forEach((action) => {
         if (action.shortName === "trainedPerfection") {
             prependTrainedPerfection = true;
         }
     });
     let foundFirstPrepAction = false; // Flag to track if groundwork2 or preparatoryTouch has been encountered
-
 
     // Logging headers
     if (debug || verbose) {
@@ -716,10 +715,13 @@ function simSynth(individual, startState, assumeSuccess = false, verbose = true,
 
         // Handle prepend logic
         if (prependTrainedPerfection && !foundFirstPrepAction && (action.shortName === 'groundwork2' || action.shortName === 'preparatoryTouch')) {
-            individual.splice(i, 0, AllActions.trainedPerfection);
-            prependTrainedPerfection = false; // Only prepend once
-            foundFirstPrepAction = true; // Set flag to true after prep action is found
-            i++; // Move index to skip over inserted trainedPerfection
+            const precedingAction = individual[i - 1];
+            if (!precedingAction || !precedingAction.isCombo) {
+                individual.splice(i, 0, AllActions.trainedPerfection);
+                prependTrainedPerfection = false; // Only prepend once
+                foundFirstPrepAction = true; // Set flag to true after prep action is found
+                i++; // Move index to skip over inserted trainedPerfection
+            }
         }
 
         // Handle combos if applicable
@@ -1480,7 +1482,7 @@ function heuristicSequenceBuilder(synth) {
 
     var hasAction = actionName => actionsByName[actionName];
 
-    var tryAction = actionName => 
+    var tryAction = actionName =>
         hasAction(actionName) && cp >= aa[actionName].cpCost && dur - aa[actionName].durabilityCost >= 0;
 
     var useAction = actionName => {
