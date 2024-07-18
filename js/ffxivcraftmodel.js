@@ -1580,13 +1580,19 @@ function heuristicSequenceBuilder(synth) {
 
     subSeq2 = [];
 
-    // Ensure "trainedPerfection" is placed after combos
+    // Ensure "trainedPerfection" is placed before actions that cost 20 durability or no durability, then actions that cost 10 durability or less if no 20 cost actions are available
     var trainedPerfectionUsed = false;
+
+    // Function to check if an action costs 20 durability
+    var costsTwentyDurability = actionName => aa[actionName].durabilityCost === 20;
+
+    // Function to check if an action costs no durability
+    var costsNoDurability = actionName => aa[actionName].durabilityCost === 0;
 
     // Use remaining durability and CP on quality/durability improving actions
     while (cp > 0 && dur > 0) {
         if (tryAction(preferredAction) && dur > 10) {
-            if (trainedPerfectionUsed) {
+            if (trainedPerfectionUsed || costsNoDurability(preferredAction) || costsTwentyDurability(preferredAction)) {
                 pushAction(subSeq2, preferredAction);
             } else if (tryAction('trainedPerfection')) {
                 pushAction(subSeq2, 'trainedPerfection');
@@ -1604,8 +1610,14 @@ function heuristicSequenceBuilder(synth) {
 
     sequence = [...subSeq2, ...sequence, ...subSeq1];
 
-    return sequence;
+    // Check if progress goal is met
+    if (progress >= synth.recipe.difficulty) {
+        return sequence;
+    } else {
+        return []; // Return an empty sequence if progress goal is not met
+    }
 }
+
 
 
 
