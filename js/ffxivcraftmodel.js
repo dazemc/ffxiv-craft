@@ -1418,7 +1418,10 @@ function evalSeq(individual, mySynth, penaltyWeight) {
     }
 
     if (!chk.progressOk) {
-        penalties += Math.abs(mySynth.recipe.difficulty - Math.min(result.progressState, mySynth.recipe.difficulty));
+        // penalties += Math.abs(mySynth.recipe.difficulty - Math.min(result.progressState, mySynth.recipe.difficulty));
+        penalties = Infinity;
+    } else {
+        fitness += 10000;
     }
 
     if (!chk.cpOk) {
@@ -1453,8 +1456,9 @@ function evalSeq(individual, mySynth, penaltyWeight) {
         // This if statement rewards a smaller synth length so long as conditions are met
         fitness *= (1 + 4 / result.step);
     }
-    //fitness -= result.cpState*0.5 // Penalizes wasted CP
+    // fitness -= result.cpState*0.5 // Penalizes wasted CP
     fitnessProg += result.progressState;
+
 
     return [fitness, fitnessProg, result.cpState, individual.length];
 }
