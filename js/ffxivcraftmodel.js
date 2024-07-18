@@ -1505,24 +1505,34 @@ function heuristicSequenceBuilder(synth) {
     };
 
     var restoreDurability = () => {
-        if (tryAction('immaculateMend')) {
+        if (hasAction('immaculateMend')) {
             unshiftAction(subSeq2, 'immaculateMend');
             dur = synth.recipe.durability;
-        } else if (tryAction('manipulation')) {
+        } else if (hasAction('manipulation')) {
             unshiftAction(subSeq2, 'manipulation');
             dur += 30;
-        } else if (tryAction('mastersMend')) {
+        } else if (hasAction('mastersMend')) {
             unshiftAction(subSeq2, 'mastersMend');
             dur += 30;
         }
     };
+    
 
     var effCrafterLevel = LevelTable[synth.crafter.level] || synth.crafter.level;
     var effRecipeLevel = synth.recipe.level;
 
     // Determine the preferred progress action
-    var preferredProgressActions = ['prudentSynthesis', 'carefulSynthesis2', 'carefulSynthesis', 'basicSynth'];
-    var preferredAction = preferredProgressActions.find(action => hasAction(action)) || 'basicSynth';
+    var preferredProgressActions = ['prudentSynthesis', 'carefulSynthesis2', 'carefulSynthesis', 'basicSynth2', 'basicSynth'];
+    var preferredAction = 'basicSynth'; // Default to basicSynth if none are available
+    
+    // Find the first available action in preferredProgressActions
+    for (var i = 0; i < preferredProgressActions.length; i++) {
+        if (hasAction(preferredProgressActions[i])) {
+            preferredAction = preferredProgressActions[i];
+            break; // Stop looping once we find the first available action
+        }
+    }
+    
 
     // Calculate progress gain
     var bProgressGain = synth.calculateBaseProgressIncrease(effCrafterLevel, synth.crafter.craftsmanship);
