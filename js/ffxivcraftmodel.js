@@ -1612,14 +1612,8 @@ function heuristicSequenceBuilder(synth) {
         }
     }
 
-    sequence = [...subSeq2, ...sequence, ...subSeq1];
+    return [...subSeq2, ...sequence, ...subSeq1];
 
-    // Check if progress goal is met
-    if (progress >= synth.recipe.difficulty) {
-        return sequence;
-    } else {
-        return []; // Return an empty sequence if progress goal is not met
-    }
 }
 
 
