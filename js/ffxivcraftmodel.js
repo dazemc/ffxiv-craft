@@ -1470,74 +1470,61 @@ function heuristicSequenceBuilder(synth) {
     var dur = synth.recipe.durability;
     var progress = 0;
 
-    // Build a list of actions by short name so that we can easily perform lookups
+    // Build a list of actions by short name for easy lookups
     var actionsByName = {};
-    for (var i = 0; i < synth.crafter.actions.length; i++) {
-        var action = synth.crafter.actions[i];
+    synth.crafter.actions.forEach(action => {
         if (action) {
             actionsByName[action.shortName] = true;
         }
-    }
+    });
 
-    var hasAction = function (actionName) {
-        return (actionName in actionsByName);
-    };
+    var hasAction = actionName => actionsByName[actionName];
 
-    var tryAction = function (actionName) {
-        return (hasAction(actionName) && cp >= aa[actionName].cpCost && dur - aa[actionName].durabilityCost >= 0);
-    };
+    var tryAction = actionName => 
+        hasAction(actionName) && cp >= aa[actionName].cpCost && dur - aa[actionName].durabilityCost >= 0;
 
-    var useAction = function (actionName) {
+    var useAction = actionName => {
         cp -= aa[actionName].cpCost;
         dur -= aa[actionName].durabilityCost;
     };
 
-    var pushAction = function (seq, actionName) {
+    var pushAction = (seq, actionName) => {
         seq.push(aa[actionName]);
         useAction(actionName);
     };
 
-    var unshiftAction = function (seq, actionName) {
+    var unshiftAction = (seq, actionName) => {
         seq.unshift(aa[actionName]);
         useAction(actionName);
     };
 
-    /* Progress to completion
-        -- Determine base progress
-        -- Determine best action to use from available list
-        -- Steady hand if CS is not available
-        -- Master's mend if more steps are needed
-    */
+    var restoreDurability = () => {
+        if (tryAction('immaculateMend')) {
+            unshiftAction(subSeq2, 'immaculateMend');
+            dur = synth.recipe.durability;
+        } else if (tryAction('manipulation')) {
+            unshiftAction(subSeq2, 'manipulation');
+            dur += 30;
+        } else if (tryAction('mastersMend')) {
+            unshiftAction(subSeq2, 'mastersMend');
+            dur += 30;
+        }
+    };
 
-    var effCrafterLevel = synth.crafter.level;
-    if (LevelTable[synth.crafter.level]) {
-        effCrafterLevel = LevelTable[synth.crafter.level];
-    }
+    var effCrafterLevel = LevelTable[synth.crafter.level] || synth.crafter.level;
     var effRecipeLevel = synth.recipe.level;
 
-    // If Careful Synthesis 1 is available, use it
-    var preferredAction = 'basicSynth';
-    // TODO: standardSynth AKA Basic Synthesis Level 31
-    if (hasAction('carefulSynthesis')) {
-        preferredAction = 'carefulSynthesis';
-    }
-    if (hasAction('carefulSynthesis2')) {
-        preferredAction = 'carefulSynthesis2';
-    }
-    if (hasAction('prudentSynthesis')) {
-        preferredAction = 'prudentSynthesis';
-    }
+    // Determine the preferred progress action
+    var preferredProgressActions = ['prudentSynthesis', 'carefulSynthesis2', 'carefulSynthesis', 'basicSynth'];
+    var preferredAction = preferredProgressActions.find(action => hasAction(action)) || 'basicSynth';
 
-
-    // Determine base progress
-    var levelDifference = effCrafterLevel - effRecipeLevel;
+    // Calculate progress gain
     var bProgressGain = synth.calculateBaseProgressIncrease(effCrafterLevel, synth.crafter.craftsmanship);
-    var progressGain = bProgressGain;
-    progressGain *= aa[preferredAction].progressIncreaseMultiplier;
-    progressGain = Math.floor(progressGain);
+    var progressGain = Math.floor(bProgressGain * aa[preferredAction].progressIncreaseMultiplier);
 
     var nProgSteps = Math.ceil(synth.recipe.difficulty / progressGain);
     var steps = 0;
+
     // Final step first
     if (tryAction(preferredAction)) {
         pushAction(subSeq3, preferredAction);
@@ -1545,126 +1532,80 @@ function heuristicSequenceBuilder(synth) {
         steps += 1;
     }
 
-    subSeq2 = [];
+    // Build progress sequence
     while (progress < synth.recipe.difficulty && steps < nProgSteps) {
-        // Don't want to increase progress at 5 durability unless we are able to complete the synth
-        if (tryAction(preferredAction) && (dur >= 10)) {
+        if (tryAction(preferredAction) && dur >= 10) {
             unshiftAction(subSeq2, preferredAction);
             progress += progressGain;
             steps += 1;
-        }
-        else if (tryAction('immaculateMend')) {
-            unshiftAction(subSeq2, 'immaculateMend');
-            dur = synth.recipe.durability;
-        }
-        else if (tryAction('manipulation')) {
-            unshiftAction(subSeq2, 'manipulation');
-            dur += 30;
-        }
-        else if (tryAction('mastersMend')) {
-            unshiftAction(subSeq2, 'mastersMend');
-            dur += 30;
-        }
-        else {
-            break;
+        } else {
+            restoreDurability();
+            if (dur < 10) break;
         }
     }
 
-    sequence = subSeq2.concat(subSeq3);
-    sequence = subSeq1.concat(sequence);
+    sequence = [...subSeq2, ...subSeq3];
 
-    if (dur <= 20) {
-        if (tryAction('immaculateMend')) {
-            unshiftAction(subSeq2, 'immaculateMend');
-            dur = synth.recipe.durability;
-        }
-        else if (tryAction('manipulation')) {
-            unshiftAction(sequence, 'manipulation');
-            dur += 30;
-        }
-        else if (tryAction('mastersMend')) {
-            unshiftAction(sequence, 'mastersMend');
-            dur += 30;
-        }
-    }
+    // Ensure sufficient durability for remaining steps
+    if (dur <= 20) restoreDurability();
 
     subSeq1 = [];
     subSeq2 = [];
     subSeq3 = [];
 
-    /* Improve Quality
-     -- Reflect and Inner Quiet at start
-     -- Byregot's at end or other Inner Quiet consumer
-    */
-
+    // Improve quality
     if (tryAction('reflect')) {
-        pushAction(subSeq1, 'reflect')
+        pushAction(subSeq1, 'reflect');
     }
 
-    preferredAction = 'basicTouch';
-    if (hasAction('preciseTouch')) {
-        preferredAction = 'preciseTouch';
-    }
-    if (hasAction('prudentTouch')) {
-        preferredAction = 'prudentTouch';
-    }
-    if (hasAction('refinedTouchCombo')) {
-        preferredAction = 'refinedTouchCombo';
-    }
+    var preferredQualityActions = ['refinedTouchCombo', 'prudentTouch', 'preciseTouch', 'basicTouch'];
+    preferredAction = preferredQualityActions.find(action => hasAction(action)) || 'basicTouch';
 
-
-    // ... and put in at least one quality improving action
+    // Add at least one quality improving action
     if (tryAction(preferredAction)) {
         pushAction(subSeq2, preferredAction);
     }
 
-    subSeq1 = subSeq1.concat(subSeq2);
+    subSeq1 = [...subSeq1, ...subSeq2];
 
-    // Now add in Byregot's Blessing at the end of the quality improving stage if we can
+    // Add Byregot's Blessing and Great Strides at the end of the quality stage
     if (tryAction('byregotsBlessing')) {
         unshiftAction(sequence, 'byregotsBlessing');
     }
-
-    // ... and what the hell, throw in a great strides just before it
     if (tryAction('greatStrides')) {
         unshiftAction(sequence, 'greatStrides');
     }
 
     subSeq2 = [];
 
-    // Use up any remaining durability and cp with quality / durability improving actions
+    // Ensure "trainedPerfection" is placed after combos
+    var trainedPerfectionUsed = false;
+
+    // Use remaining durability and CP on quality/durability improving actions
     while (cp > 0 && dur > 0) {
         if (tryAction(preferredAction) && dur > 10) {
-            pushAction(subSeq2, preferredAction);
-        }
-        else if (dur < 20) {
-            if (tryAction('immaculateMend')) {
-                unshiftAction(subSeq2, 'immaculateMend');
-                dur = synth.recipe.durability;
+            if (trainedPerfectionUsed) {
+                pushAction(subSeq2, preferredAction);
+            } else if (tryAction('trainedPerfection')) {
+                pushAction(subSeq2, 'trainedPerfection');
+                trainedPerfectionUsed = true;
+            } else {
+                pushAction(subSeq2, preferredAction);
             }
-            else if (tryAction('manipulation')) {
-                unshiftAction(subSeq2, 'manipulation');
-                dur += 30;
-            }
-            else if (tryAction('mastersMend')) {
-                pushAction(subSeq2, 'mastersMend');
-                dur += 30;
-            }
-            else {
-                break;
-            }
-        }
-        else {
+        } else if (dur < 20) {
+            restoreDurability();
+            if (dur < 10) break;
+        } else {
             break;
         }
     }
 
-    sequence = subSeq2.concat(sequence);
-    sequence = subSeq1.concat(sequence);
+    sequence = [...subSeq2, ...sequence, ...subSeq1];
 
-    // Pray
     return sequence;
 }
+
+
 
 
 // Helper Functions
