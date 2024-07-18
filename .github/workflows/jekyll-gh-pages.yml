@@ -28,7 +28,8 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Run Python Script
-        run: python scripts/xivapi_calls.py
+        run: |
+          python scripts/xivapi_calls.py || echo "Failed to run Python script"
 
       - name: Setup Pages
         uses: actions/configure-pages@v3
@@ -97,7 +98,10 @@ jobs:
           fi
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-artifact@v2
+        with:
+          name: site-artifact
+          path: _site
 
   deploy:
     environment:
@@ -113,4 +117,4 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
-          target-folder: _site
+          folder: _site
