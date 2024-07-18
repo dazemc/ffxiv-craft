@@ -98,10 +98,7 @@ jobs:
           fi
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v2
-        with:
-          name: site-artifact
-          path: _site
+        uses: actions/upload-pages-artifact@v1
 
   deploy:
     environment:
@@ -117,4 +114,4 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
-          folder: _site
+          target-folder: _site
