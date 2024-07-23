@@ -1444,8 +1444,8 @@ function evalSeq(individual, mySynth, penaltyWeight) {
     fitness -= penaltyWeight * penalties;
 
     // Encourage shorter sequences with maximum progress and quality
-    if (chk.progressOk && result.qualityState >= mySynth.recipe.maxQuality * safetyMarginFactor) {
-        fitness *= (1 + 4 / result.step); // Reward shorter sequences
+    if (chk.progressOk && result.qualityState >= mySynth.recipe.maxQuality) {
+        fitness *= (1 + 4 / result.step);
     }
 
     fitnessProg += result.progressState;
