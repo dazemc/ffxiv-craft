@@ -1390,7 +1390,7 @@ function evalSeq(individual, mySynth, penaltyWeight) {
     }
 
     if (!chk.progressOk) {
-        penalties = Infinity; // High penalty for infeasible sequences
+        penalties += Infinity; // High penalty for infeasible sequences
     }
 
     if (!chk.cpOk) {
@@ -1426,17 +1426,18 @@ function evalSeq(individual, mySynth, penaltyWeight) {
 
         // Encourage if 'trainedPerfection' is used when quality is below the maximum
         if (result.qualityState < mySynth.recipe.maxQuality) {
-            fitness *= 4; // Reward for using 'trainedPerfection'
+            fitness += durSaved * 100; // Reward for using 'trainedPerfection'
         }
-
-        // Reward based off of durability saved
-        fitness += durSaved * (fitness / 100);
+        // Penalize if 'trainedPerfection' is the last action
+        if (individual[individual.length - 1].shortName === 'trainedPerfection') {
+            penalties += Infinity; // Never should happen
+        }
     }
 
     // Reward for combo actions
     var comboActionsCount = individual.filter(action => action.isCombo).length;
     if (comboActionsCount > 0) {
-        fitness += result.step * 10 * comboActionsCount; // Reward based on the number of combo actions
+        fitness += comboActionsCount * 100; // Reward based on the number of combo actions
     }
 
 
