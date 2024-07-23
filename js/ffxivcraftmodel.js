@@ -375,8 +375,10 @@ function ApplyModifiers(s, action, condition) {
         }
         if (action.isCombo) {
             durabilityCost -= 10;
+            AllActions.trainedPerfection.durSaved = 10;
         } else {
             durabilityCost = 0;
+            AllActions.trainedPerfection.durSaved = action.durabilityCost;
         }
     }
 
@@ -1417,12 +1419,18 @@ function evalSeq(individual, mySynth, penaltyWeight) {
         fitness += Math.min(mySynth.recipe.maxQuality * safetyMarginFactor, result.qualityState);
     }
 
-    // Check if 'trainedPerfection' is used
-    var trainedPerfectionUsed = individual.some(action => action.shortName === 'trainedPerfection');
+    // Check if 'trainedPerfection' is used and retrieve its durSaved value if it exists
+    var trainedPerfectionAction = individual.find(action => action.shortName === 'trainedPerfection');
+    if (trainedPerfectionAction) {
+        var durSaved = trainedPerfectionAction.durSaved || 0; // Default to 0 if durSaved is not present
 
-    // Encourage if 'trainedPerfection' is used when quality is below the maximum
-    if (trainedPerfectionUsed && result.qualityState < mySynth.recipe.maxQuality) {
-        fitness *= 2; // Reward for using 'trainedPerfection'
+        // Encourage if 'trainedPerfection' is used when quality is below the maximum
+        if (result.qualityState < mySynth.recipe.maxQuality) {
+            fitness *= 4; // Reward for using 'trainedPerfection'
+        }
+
+        // Reward based off of durability saved
+        fitness += durSaved * (fitness / 100);
     }
 
     // Reward for combo actions
