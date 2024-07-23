@@ -310,22 +310,18 @@ function ApplyModifiers(s, action, condition) {
 
     // Advanced Touch Combo
     if (isActionEq(action, AllActions.advancedTouch)) {
-        if (s.action === AllActions.standardTouch.shortName && s.touchComboStep == 1) {
+        if (s.action.shortName === "standardTouch" && s.touchComboStep === 1) {
             s.touchComboStep = 0;
             cpCost = 18;
-        } else if (s.action === AllActions.observe.shortName) {
+        } else if (s.action.shortName === "observe") {
             cpCost = 18;
         }
     }
     // Add combo bonus following Basic Touch
     if (isActionEq(action, AllActions.standardTouch)) {
-        if (s.action === AllActions.basicTouch.shortName) {
+        if (s.action.shortName === "basicTouch") {
             cpCost = 18;
-            s.wastedActions -= 0.05;
             s.touchComboStep = 1;
-        }
-        if (s.action === AllActions.standardTouch.shortName) {
-            s.wastedActions += 0.1;
         }
     }
 
