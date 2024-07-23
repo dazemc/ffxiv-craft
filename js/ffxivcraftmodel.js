@@ -374,20 +374,14 @@ function ApplyModifiers(s, action, condition) {
 
     if (AllActions.trainedPerfection.shortName in s.effects.countDowns) {
         // If we burned our "free durability" buff on something already free...
-        if (durabilityCost === 0) {
+        if (durabilityCost === 0 || action.durabilityCost === 0) {
             s.effects.countDowns.trainedPerfection += 1;
         }
         if (action.isCombo) {
-            s.wastedActions += 100; // should never prefer this
+            durabilityCost -= 10;
+        } else {
+            durabilityCost = 0;
         }
-        if (action.cpCost != 20) {
-            s.wastedActions += 1;
-        }
-        if (action.cpCost === 20) {
-            s.wastedActions -= 2;
-        }
-        durabilityCost = 0;
-        s.wastedActions -= 1;
     }
 
 
@@ -681,16 +675,6 @@ function simSynth(individual, startState, assumeSuccess = false, verbose = true,
     // Initialize tracking for once per sequence actions
     const usedActions = new Set();
 
-    // Trained Perfection
-    let prependTrainedPerfection = false;
-    const crafterActions = startState.synth.crafter.actions;
-    crafterActions.forEach((action) => {
-        if (action.shortName === "trainedPerfection") {
-            prependTrainedPerfection = true;
-        }
-    });
-    let foundFirstPrepAction = false; // Flag to track if groundwork2 or preparatoryTouch has been encountered
-
     // Logging headers
     if (debug || verbose) {
         const logHeader = debug
@@ -711,17 +695,6 @@ function simSynth(individual, startState, assumeSuccess = false, verbose = true,
             // Skip undefined or null actions
             if (verbose) logger.log(`Skipping undefined action at index ${i}.`);
             continue;
-        }
-
-        // Handle prepend logic
-        if (prependTrainedPerfection && !foundFirstPrepAction && (action.shortName === 'groundwork2' || action.shortName === 'preparatoryTouch')) {
-            const precedingAction = individual[i - 1];
-            if (!precedingAction || !precedingAction.isCombo) {
-                individual.splice(i, 0, AllActions.trainedPerfection);
-                prependTrainedPerfection = false; // Only prepend once
-                foundFirstPrepAction = true; // Set flag to true after prep action is found
-                i++; // Move index to skip over inserted trainedPerfection
-            }
         }
 
         // Handle combos if applicable
@@ -811,6 +784,8 @@ function simSynth(individual, startState, assumeSuccess = false, verbose = true,
     }
     return s;
 }
+
+
 
 
 function MonteCarloStep(startState, action, assumeSuccess, verbose, debug, logOutput) {
@@ -1407,7 +1382,6 @@ function evalSeq(individual, mySynth, penaltyWeight) {
     var safetyMarginFactor = 1 + mySynth.recipe.safetyMargin * 0.01;
 
     // Sum the constraint violations
-    // experiment: wasted actions change
     penalties += result.wastedActions / 20;
 
     // Check for feasibility violations
@@ -1418,8 +1392,7 @@ function evalSeq(individual, mySynth, penaltyWeight) {
     }
 
     if (!chk.progressOk) {
-        // penalties += Math.abs(mySynth.recipe.difficulty - Math.min(result.progressState, mySynth.recipe.difficulty));
-        penalties = Infinity;
+        penalties = Infinity; // High penalty for infeasible sequences
     } else {
         fitness += 10000;
     }
@@ -1439,29 +1412,39 @@ function evalSeq(individual, mySynth, penaltyWeight) {
     if (mySynth.maxLength > 0) {
         var maxActionsExceeded = result.step - mySynth.maxLength;
         if (maxActionsExceeded > 0) {
-            penalties += 0.1 * maxActionsExceeded;
+            penalties += 0.1 * maxActionsExceeded; // Penalize excess length
         }
     }
 
     if (mySynth.solverVars.solveForCompletion) {
         fitness += result.cpState * mySynth.solverVars.remainderCPFitnessValue;
         fitness += result.durabilityState * mySynth.solverVars.remainderDurFitnessValue;
-    }
-    else {
+    } else {
         fitness += Math.min(mySynth.recipe.maxQuality * safetyMarginFactor, result.qualityState);
     }
 
-    fitness -= penaltyWeight * penalties;
-    if (chk.progressOk && result.qualityState >= mySynth.recipe.maxQuality * safetyMarginFactor) {
-        // This if statement rewards a smaller synth length so long as conditions are met
-        fitness *= (1 + 4 / result.step);
-    }
-    // fitness -= result.cpState*0.5 // Penalizes wasted CP
-    fitnessProg += result.progressState;
+    // Check if 'trainedPerfection' is used
+    var trainedPerfectionUsed = individual.some(action => action.shortName === 'trainedPerfection');
 
+    // Encourage if 'trainedPerfection' is used when quality is below the maximum
+    if (trainedPerfectionUsed && result.qualityState < mySynth.recipe.maxQuality) {
+        fitness += 5000; // Reward for using 'trainedPerfection'
+    }
+
+    fitness -= penaltyWeight * penalties;
+
+    // Encourage shorter sequences with maximum progress and quality
+    if (chk.progressOk && result.qualityState >= mySynth.recipe.maxQuality * safetyMarginFactor) {
+        fitness *= (1 + 4 / result.step); // Reward shorter sequences
+    }
+
+    fitnessProg += result.progressState;
 
     return [fitness, fitnessProg, result.cpState, individual.length];
 }
+
+
+
 
 evalSeq.weights = [1.0, 1.0, 1.0, -1.0];
 
@@ -1516,7 +1499,7 @@ function heuristicSequenceBuilder(synth) {
             dur += 30;
         }
     };
-    
+
 
     var effCrafterLevel = LevelTable[synth.crafter.level] || synth.crafter.level;
     var effRecipeLevel = synth.recipe.level;
@@ -1524,7 +1507,7 @@ function heuristicSequenceBuilder(synth) {
     // Determine the preferred progress action
     var preferredProgressActions = ['prudentSynthesis', 'carefulSynthesis2', 'carefulSynthesis', 'basicSynth2', 'basicSynth'];
     var preferredAction = 'basicSynth'; // Default to basicSynth if none are available
-    
+
     // Find the first available action in preferredProgressActions
     for (var i = 0; i < preferredProgressActions.length; i++) {
         if (hasAction(preferredProgressActions[i])) {
@@ -1532,7 +1515,7 @@ function heuristicSequenceBuilder(synth) {
             break; // Stop looping once we find the first available action
         }
     }
-    
+
 
     // Calculate progress gain
     var bProgressGain = synth.calculateBaseProgressIncrease(effCrafterLevel, synth.crafter.craftsmanship);
