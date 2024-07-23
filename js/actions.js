@@ -1,4 +1,4 @@
-function Action(shortName, name, durabilityCost, cpCost, successProbability, qualityIncreaseMultiplier, progressIncreaseMultiplier, aType, activeTurns, cls, level, onGood, onExcellent, onPoor, isCombo, comboActions, oncePerSequence, isSpecialist) {
+function Action(shortName, name, durabilityCost, cpCost, successProbability, qualityIncreaseMultiplier, progressIncreaseMultiplier, aType, activeTurns, cls, level, onGood, onExcellent, onPoor, isCombo, comboActions, oncePerSequence, durSaved, isSpecialist) {
     this.shortName = shortName;
     this.name = name;
     this.durabilityCost = durabilityCost;
@@ -29,6 +29,9 @@ function Action(shortName, name, durabilityCost, cpCost, successProbability, qua
     // Single use
     this.oncePerSequence = oncePerSequence;
     this.isSpecialist = isSpecialist;
+
+    // trainedPerfection
+    this.durSaved = durSaved;
 }
 
 // Actions Table
@@ -85,7 +88,7 @@ var AllActions = {
     refinedTouch: new Action(        'refinedTouch',        'Refined Touch',        10,     24,  1.0, 1.0, 0.0, 'immediate',   1,  'All',          92),
     delicateSynthesis2: new Action(  'delicateSynthesis2',  'Delicate Synthesis',   10,     32,  1.0, 1.0, 1.5, 'immediate',   1,  'All',          94),
     immaculateMend: new Action(      'immaculateMend',      'Immaculate Mend',       0,    112,  1.0, 0.0, 0.0, 'immediate',   1,  'All',          98),
-    trainedPerfection: new Action(   'trainedPerfection',   'Trained Perfection',    0,      0,  1.0, 0.0, 0.0, 'countdown',   1,  'All',          100, false, false, false, false, [], true),
+    trainedPerfection: new Action(   'trainedPerfection',   'Trained Perfection',    0,      0,  1.0, 0.0, 0.0, 'countdown',   1,  'All',          100, false, false, false, false, [], true, 0, false),
 
     // Ranged edit: special combo'd actions that are handled differently
     // Combo Actions. Making new combo actions need an image, extraActionInfo, and some code in getComboAction() in ffxivcraftmodel.js
