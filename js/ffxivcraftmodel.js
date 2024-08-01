@@ -1436,13 +1436,6 @@ function evalSeq(individual, mySynth, penaltyWeight) {
         }
     }
 
-    // Reward for combo actions
-    var comboActionsCount = individual.filter(action => action.isCombo).length;
-    if (comboActionsCount > 0) {
-        fitness += comboActionsCount * 100; // Reward based on the number of combo actions
-    }
-
-
     fitness -= penaltyWeight * penalties;
 
     // Encourage shorter sequences with maximum progress and quality
