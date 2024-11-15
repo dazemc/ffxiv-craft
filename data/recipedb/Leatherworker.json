@@ -1130,6 +1130,253 @@
     "suggestedCraftsmanship": 468
   },
   {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Armschützer der Magie",
+      "en": "Archeo Kingdom Armguards of Casting",
+      "fr": "Garde-bras d'incantateur de l'ancien royaume",
+      "ja": "オールドキングダム・キャスターアームガード"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Armschützer des Spähens",
+      "en": "Archeo Kingdom Armguards of Scouting",
+      "fr": "Garde-bras d'éclaireur de l'ancien royaume",
+      "ja": "オールドキングダム・スカウトアームガード"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Armschützer des Schlagens",
+      "en": "Archeo Kingdom Armguards of Striking",
+      "fr": "Garde-bras d'agresseur de l'ancien royaume",
+      "ja": "オールドキングダム・ストライカーアームガード"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Halsberge des Zielens",
+      "en": "Archeo Kingdom Choker of Aiming",
+      "fr": "Ras de cou de pisteur de l'ancien royaume",
+      "ja": "オールドキングダム・レンジャーチョーカー"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Halsberge der Magie",
+      "en": "Archeo Kingdom Choker of Casting",
+      "fr": "Ras de cou d'incantateur de l'ancien royaume",
+      "ja": "オールドキングダム・キャスターチョーカー"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Halsberge der Verteidigung",
+      "en": "Archeo Kingdom Choker of Fending",
+      "fr": "Ras de cou de protecteur de l'ancien royaume",
+      "ja": "オールドキングダム・ディフェンダーチョーカー"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Halsberge der Heilung",
+      "en": "Archeo Kingdom Choker of Healing",
+      "fr": "Ras de cou de soigneur de l'ancien royaume",
+      "ja": "オールドキングダム・ヒーラーチョーカー"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Halsberge des Schlachtens",
+      "en": "Archeo Kingdom Choker of Slaying",
+      "fr": "Ras de cou d'attaquant de l'ancien royaume",
+      "ja": "オールドキングダム・アタッカーチョーカー"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Handschuhe des Zielens",
+      "en": "Archeo Kingdom Gloves of Aiming",
+      "fr": "Gants de pisteur de l'ancien royaume",
+      "ja": "オールドキングダム・レンジャーグローブ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Handschuhe der Heilung",
+      "en": "Archeo Kingdom Gloves of Healing",
+      "fr": "Gants de soigneur de l'ancien royaume",
+      "ja": "オールドキングダム・ヒーラーグローブ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Schuhe der Magie",
+      "en": "Archeo Kingdom Shoes of Casting",
+      "fr": "Chaussures d'incantateur de l'ancien royaume",
+      "ja": "オールドキングダム・キャスターシューズ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Schuhe der Heilung",
+      "en": "Archeo Kingdom Shoes of Healing",
+      "fr": "Chaussures de soigneur de l'ancien royaume",
+      "ja": "オールドキングダム・ヒーラーシューズ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Schuhe des Schlagens",
+      "en": "Archeo Kingdom Shoes of Striking",
+      "fr": "Chaussures d'agresseur de l'ancien royaume",
+      "ja": "オールドキングダム・ストライカーシューズ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
     "baseLevel": 68,
     "difficulty": 980,
     "durability": 60,
@@ -19895,6 +20142,25 @@
     "suggestedCraftsmanship": 325
   },
   {
+    "baseLevel": 100,
+    "difficulty": 4125,
+    "durability": 35,
+    "level": 710,
+    "maxQuality": 12000,
+    "name": {
+      "de": "Purussaurus-Leder",
+      "en": "Purussaurus Leather",
+      "fr": "Cuir de purussaurus",
+      "ja": "プルスサウルスレザー"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
     "baseLevel": 70,
     "difficulty": 1200,
     "durability": 70,
@@ -23716,6 +23982,44 @@
     "qualityDivider": 107,
     "qualityModifier": 100,
     "suggestedCraftsmanship": 2438
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 700,
+    "maxQuality": 12000,
+    "name": {
+      "de": "Wissenschaftler-Stiefeletten",
+      "en": "Scientist's Boots",
+      "fr": "Bottes de scientifique",
+      "ja": "サイエンティスト・ブーツ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 1,
+    "suggestedCraftsmanship": 4352
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 700,
+    "maxQuality": 12000,
+    "name": {
+      "de": "Wissenschaftler-Handschuhe",
+      "en": "Scientist's Gloves",
+      "fr": "Gants de scientifique",
+      "ja": "サイエンティスト・グローブ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 1,
+    "suggestedCraftsmanship": 4352
   },
   {
     "baseLevel": 78,

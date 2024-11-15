@@ -1453,6 +1453,386 @@
     "suggestedCraftsmanship": 136
   },
   {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Bogen",
+      "en": "Archeo Kingdom Bow",
+      "fr": "Arc de l'ancien royaume",
+      "ja": "オールドキングダム・ボウ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Dolche",
+      "en": "Archeo Kingdom Daggers",
+      "fr": "Dagues de l'ancien royaume",
+      "ja": "オールドキングダム・ダガー"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Ohrringe des Zielens",
+      "en": "Archeo Kingdom Earrings of Aiming",
+      "fr": "Boucles d'oreilles de pisteur de l'ancien royaume",
+      "ja": "オールドキングダム・レンジャーイヤリング"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Ohrringe der Magie",
+      "en": "Archeo Kingdom Earrings of Casting",
+      "fr": "Boucles d'oreilles d'incantateur de l'ancien royaume",
+      "ja": "オールドキングダム・キャスターイヤリング"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Ohrringe der Verteidigung",
+      "en": "Archeo Kingdom Earrings of Fending",
+      "fr": "Boucles d'oreilles de protecteur de l'ancien royaume",
+      "ja": "オールドキングダム・ディフェンダーイヤリング"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Ohrringe der Heilung",
+      "en": "Archeo Kingdom Earrings of Healing",
+      "fr": "Boucles d'oreilles de soigneur de l'ancien royaume",
+      "ja": "オールドキングダム・ヒーラーイヤリング"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Ohrringe des Schlachtens",
+      "en": "Archeo Kingdom Earrings of Slaying",
+      "fr": "Boucles d'oreilles d'attaquant de l'ancien royaume",
+      "ja": "オールドキングダム・アタッカーイヤリング"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Hascherlite",
+      "en": "Archeo Kingdom Milpreves",
+      "fr": "Mein gwrac'h de l'ancien royaume",
+      "ja": "オールドキングダム・ミルプレーヴェ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Planisphäre",
+      "en": "Archeo Kingdom Planisphere",
+      "fr": "Planisphère de l'ancien royaume",
+      "ja": "オールドキングダム・プラニスフィア"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Ring des Zielens",
+      "en": "Archeo Kingdom Ring of Aiming",
+      "fr": "Bague de pisteur de l'ancien royaume",
+      "ja": "オールドキングダム・レンジャーリング"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Ring der Magie",
+      "en": "Archeo Kingdom Ring of Casting",
+      "fr": "Bague d'incantateur de l'ancien royaume",
+      "ja": "オールドキングダム・キャスターリング"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Ring der Verteidigung",
+      "en": "Archeo Kingdom Ring of Fending",
+      "fr": "Bague de protecteur de l'ancien royaume",
+      "ja": "オールドキングダム・ディフェンダーリング"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Ring der Heilung",
+      "en": "Archeo Kingdom Ring of Healing",
+      "fr": "Bague de soigneur de l'ancien royaume",
+      "ja": "オールドキングダム・ヒーラーリング"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Ring des Schlachtens",
+      "en": "Archeo Kingdom Ring of Slaying",
+      "fr": "Bague d'attaquant de l'ancien royaume",
+      "ja": "オールドキングダム・アタッカーリング"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Estoc",
+      "en": "Archeo Kingdom Tuck",
+      "fr": "Estoc de l'ancien royaume",
+      "ja": "オールドキングダム・タック"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Armband-Bund des Zielens",
+      "en": "Archeo Kingdom Wristband of Aiming",
+      "fr": "Poignet de pisteur de l'ancien royaume",
+      "ja": "オールドキングダム・レンジャーリストバンド"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Armband-Bund der Magie",
+      "en": "Archeo Kingdom Wristband of Casting",
+      "fr": "Poignet d'incantateur de l'ancien royaume",
+      "ja": "オールドキングダム・キャスターリストバンド"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Armband-Bund der Verteidigung",
+      "en": "Archeo Kingdom Wristband of Fending",
+      "fr": "Poignet de protecteur de l'ancien royaume",
+      "ja": "オールドキングダム・ディフェンダーリストバンド"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Armband-Bund der Heilung",
+      "en": "Archeo Kingdom Wristband of Healing",
+      "fr": "Poignet de soigneur de l'ancien royaume",
+      "ja": "オールドキングダム・ヒーラーリストバンド"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Armband-Bund des Schlachtens",
+      "en": "Archeo Kingdom Wristband of Slaying",
+      "fr": "Poignet d'attaquant de l'ancien royaume",
+      "ja": "オールドキングダム・アタッカーリストバンド"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
     "baseLevel": 68,
     "difficulty": 980,
     "durability": 60,
@@ -3350,7 +3730,7 @@
     "name": {
       "de": "Schwarzstern-Ohrringe des Eifers",
       "en": "Black Star Earrings of Gathering",
-      "fr": "Boucles d'oreilles des ressources de l'étoile sombre",
+      "fr": "Boucles d'oreilles des ressources en étoile sombre",
       "ja": "ブラックスター・ギャザラーイヤリング"
     },
     "progressDivider": 170,
@@ -6282,7 +6662,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "de": "Wolfram-Koboldeise-Nadel",
+      "de": "Wolfram-Koboldeisen-Nadel",
       "en": "Cobalt Tungsten Needle",
       "fr": "Aiguille en alliage de cobalt-tungstène",
       "ja": "コバルトタングステン・ニードル"
@@ -14770,6 +15150,24 @@
     "qualityDivider": 129,
     "qualityModifier": 100,
     "suggestedCraftsmanship": 3587
+  },
+  {
+    "baseLevel": 96,
+    "difficulty": 5400,
+    "durability": 80,
+    "level": 670,
+    "maxQuality": 10200,
+    "name": {
+      "de": "Il Mheg-Laube",
+      "en": "Il Mheg Arbor",
+      "fr": "Tonnelle d'Il Mheg",
+      "ja": "イルメグ・アーバー"
+    },
+    "progressDivider": 158,
+    "progressModifier": 100,
+    "qualityDivider": 138,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3876
   },
   {
     "baseLevel": 86,
@@ -26018,7 +26416,7 @@
     "name": {
       "de": "Schilfsense",
       "en": "Reed Scythe",
-      "fr": "Faucille à roseaux",
+      "fr": "Faux à roseaux",
       "ja": "葦刈鎌"
     },
     "progressDivider": 130,
@@ -28163,6 +28561,25 @@
     "suggestedCraftsmanship": 2438
   },
   {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 700,
+    "maxQuality": 12000,
+    "name": {
+      "de": "Wissenschaftler-Monokel",
+      "en": "Scientist's Monocle",
+      "fr": "Monocle de scientifique",
+      "ja": "サイエンティスト・モノクル"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 1,
+    "suggestedCraftsmanship": 4352
+  },
+  {
     "baseLevel": 60,
     "difficulty": 1000,
     "durability": 70,
@@ -28493,7 +28910,7 @@
     "name": {
       "de": "Wolkenmeer-Innenwand ",
       "en": "Seafade Interior Wall",
-      "fr": "Revêtement mural en dégradés de bleus océans",
+      "fr": "Revêtement mural en dégradés de bleus océan",
       "ja": "シーフェイド・インナーウォール"
     },
     "progressDivider": 158,
@@ -31785,6 +32202,25 @@
     "qualityDivider": 30,
     "qualityModifier": 100,
     "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 4125,
+    "durability": 35,
+    "level": 710,
+    "maxQuality": 12000,
+    "name": {
+      "de": "Sternensilber-Barren",
+      "en": "Sterling Silver Ingot",
+      "fr": "Lingot d'argent étoilé",
+      "ja": "スターリングシルバーインゴット"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
   },
   {
     "baseLevel": 71,

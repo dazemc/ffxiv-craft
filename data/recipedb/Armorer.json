@@ -1062,6 +1062,215 @@
     "suggestedCraftsmanship": 1027
   },
   {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Kürass der Verteidigung",
+      "en": "Archeo Kingdom Cuirass of Fending",
+      "fr": "Cuirasse de protecteur de l'ancien royaume",
+      "ja": "オールドキングダム・ディフェンダーキュイラス"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Kürass des Verstümmelns",
+      "en": "Archeo Kingdom Cuirass of Maiming",
+      "fr": "Cuirasse d'abatteur de l'ancien royaume",
+      "ja": "オールドキングダム・スレイヤーキュイラス"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Helm der Verteidigung",
+      "en": "Archeo Kingdom Helm of Fending",
+      "fr": "Casque de protecteur de l'ancien royaume",
+      "ja": "オールドキングダム・ディフェンダーヘルム"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Helm des Verstümmelns",
+      "en": "Archeo Kingdom Helm of Maiming",
+      "fr": "Casque d'abatteur de l'ancien royaume",
+      "ja": "オールドキングダム・スレイヤーヘルム"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Bärlatschen des Zielens",
+      "en": "Archeo Kingdom Sabatons of Aiming",
+      "fr": "Sabatons de pisteur de l'ancien royaume",
+      "ja": "オールドキングダム・レンジャーサバトン"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Bärlatschen der Verteidigung",
+      "en": "Archeo Kingdom Sabatons of Fending",
+      "fr": "Sabatons de protecteur de l'ancien royaume",
+      "ja": "オールドキングダム・ディフェンダーサバトン"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Bärlatschen des Verstümmelns",
+      "en": "Archeo Kingdom Sabatons of Maiming",
+      "fr": "Sabatons d'abatteur de l'ancien royaume",
+      "ja": "オールドキングダム・スレイヤーサバトン"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Bärlatschen des Spähens",
+      "en": "Archeo Kingdom Sabatons of Scouting",
+      "fr": "Sabatons d'éclaireur de l'ancien royaume",
+      "ja": "オールドキングダム・スカウトサバトン"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Turmschild",
+      "en": "Archeo Kingdom Scutum",
+      "fr": "Scutum de l'ancien royaume",
+      "ja": "オールドキングダム・スクトゥム"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Unterarmschienen der Verteidigung",
+      "en": "Archeo Kingdom Vambraces of Fending",
+      "fr": "Canons d'avant-bras de protecteur de l'ancien royaume",
+      "ja": "オールドキングダム・ディフェンダーヴァンブレイス"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Unterarmschienen des Verstümmelns",
+      "en": "Archeo Kingdom Vambraces of Maiming",
+      "fr": "Canons d'avant-bras d'abatteur de l'ancien royaume",
+      "ja": "オールドキングダム・スレイヤーヴァンブレイス"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
     "baseLevel": 68,
     "difficulty": 980,
     "durability": 60,
@@ -12831,6 +13040,25 @@
     "suggestedCraftsmanship": 391
   },
   {
+    "baseLevel": 100,
+    "difficulty": 4125,
+    "durability": 35,
+    "level": 710,
+    "maxQuality": 12000,
+    "name": {
+      "de": "Maraging-Stahlbarren",
+      "en": "Maraging Steel Ingot",
+      "fr": "Lingot d'acier maraging",
+      "ja": "マルエージングインゴット"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
     "baseLevel": 72,
     "difficulty": 1220,
     "durability": 60,
@@ -16499,7 +16727,7 @@
     "name": {
       "de": "Schilfsense",
       "en": "Reed Scythe",
-      "fr": "Faucille à roseaux",
+      "fr": "Faux à roseaux",
       "ja": "葦刈鎌"
     },
     "progressDivider": 130,

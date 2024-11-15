@@ -912,6 +912,158 @@
     "suggestedCraftsmanship": 106
   },
   {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Barett des Zielens",
+      "en": "Archeo Kingdom Beret of Aiming",
+      "fr": "Béret de pisteur de l'ancien royaume",
+      "ja": "オールドキングダム・レンジャーベレー"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Barett der Heilung",
+      "en": "Archeo Kingdom Beret of Healing",
+      "fr": "Béret de soigneur de l'ancien royaume",
+      "ja": "オールドキングダム・ヒーラーベレー"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Kerzenstab",
+      "en": "Archeo Kingdom Candelarod",
+      "fr": "Sceptre-candélabre de l'ancien royaume",
+      "ja": "オールドキングダム・キャンドルロッド"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Haube der Magie",
+      "en": "Archeo Kingdom Hood of Casting",
+      "fr": "Capuche d'incantateur de l'ancien royaume",
+      "ja": "オールドキングダム・キャスターフード"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Haube des Spähens",
+      "en": "Archeo Kingdom Hood of Scouting",
+      "fr": "Capuche d'éclaireur de l'ancien royaume",
+      "ja": "オールドキングダム・スカウトフード"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Haube des Schlagens",
+      "en": "Archeo Kingdom Hood of Striking",
+      "fr": "Capuche d'agresseur de l'ancien royaume",
+      "ja": "オールドキングダム・ストライカーフード"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Partisane",
+      "en": "Archeo Kingdom Partisan",
+      "fr": "Pertuisane de l'ancien royaume",
+      "ja": "オールドキングダム・パルチザン"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Zepter",
+      "en": "Archeo Kingdom Scepter",
+      "fr": "Sceptre de l'ancien royaume",
+      "ja": "オールドキングダム・セプター"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
     "baseLevel": 68,
     "difficulty": 980,
     "durability": 60,
@@ -5323,6 +5475,24 @@
     "suggestedCraftsmanship": 22
   },
   {
+    "baseLevel": 96,
+    "difficulty": 5400,
+    "durability": 80,
+    "level": 670,
+    "maxQuality": 10200,
+    "name": {
+      "de": "Fernöstliche Ziertür",
+      "en": "Decorative Hingan Door",
+      "fr": "Fenêtre coulissante à l'orientale",
+      "ja": "東方飾り戸窓"
+    },
+    "progressDivider": 158,
+    "progressModifier": 100,
+    "qualityDivider": 138,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3876
+  },
+  {
     "baseLevel": 16,
     "difficulty": 201,
     "durability": 70,
@@ -7349,7 +7519,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "de": "Ginseng-Ohrringe des Zielens",
+      "de": "Ginseng-Ohrring des Zielens",
       "en": "Ginseng Earring of Aiming",
       "fr": "Boucle d'oreille de pisteur en ginseng",
       "ja": "ウコギ・レンジャーイヤリング"
@@ -7367,7 +7537,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "de": "Ginseng-Ohrringe der Magie",
+      "de": "Ginseng-Ohrring der Magie",
       "en": "Ginseng Earring of Casting",
       "fr": "Boucle d'oreille d'incantateur en ginseng",
       "ja": "ウコギ・キャスターイヤリング"
@@ -7385,7 +7555,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "de": "Ginseng-Ohrringe der Verteidigung",
+      "de": "Ginseng-Ohrring der Verteidigung",
       "en": "Ginseng Earring of Fending",
       "fr": "Boucle d'oreille de protecteur en ginseng",
       "ja": "ウコギ・ディフェンダーイヤリング"
@@ -7403,7 +7573,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "de": "Ginseng-Ohrringe der Heilung",
+      "de": "Ginseng-Ohrring der Heilung",
       "en": "Ginseng Earring of Healing",
       "fr": "Boucle d'oreille de soigneur en ginseng",
       "ja": "ウコギ・ヒーラーイヤリング"
@@ -7421,7 +7591,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "de": "Ginseng-Ohrringe des Schlachtens",
+      "de": "Ginseng-Ohrring des Schlachtens",
       "en": "Ginseng Earring of Slaying",
       "fr": "Boucle d'oreille d'attaquant en ginseng",
       "ja": "ウコギ・アタッカーイヤリング"
@@ -11333,6 +11503,25 @@
     "qualityModifier": 70,
     "stars": 2,
     "suggestedCraftsmanship": 718
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 4125,
+    "durability": 35,
+    "level": 710,
+    "maxQuality": 12000,
+    "name": {
+      "de": "Ipe-Bauholz",
+      "en": "Ipe Lumber",
+      "fr": "Madrier d'ipe",
+      "ja": "イペー材"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
   },
   {
     "baseLevel": 22,
@@ -19053,6 +19242,24 @@
     "qualityDivider": 115,
     "qualityModifier": 80,
     "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 96,
+    "difficulty": 5400,
+    "durability": 80,
+    "level": 670,
+    "maxQuality": 10200,
+    "name": {
+      "de": "Sake-Fass",
+      "en": "Sake Barrel",
+      "fr": "Fût de saké",
+      "ja": "樽酒"
+    },
+    "progressDivider": 158,
+    "progressModifier": 100,
+    "qualityDivider": 138,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3876
   },
   {
     "baseLevel": 80,

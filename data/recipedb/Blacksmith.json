@@ -1577,6 +1577,196 @@
     "suggestedCraftsmanship": 150
   },
   {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Breitschwert",
+      "en": "Archeo Kingdom Broadsword",
+      "fr": "Épée large de l'ancien royaume",
+      "ja": "オールドキングダム・ブロードソード"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Chakrams",
+      "en": "Archeo Kingdom Chakrams",
+      "fr": "Chakrams de l'ancien royaume",
+      "ja": "オールドキングダム・チャクラム"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Claymore",
+      "en": "Archeo Kingdom Claymore",
+      "fr": "Claymore de l'ancien royaume",
+      "ja": "オールドキングダム・クレイモア"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Kalverine",
+      "en": "Archeo Kingdom Culverin",
+      "fr": "Couleuvrine de l'ancien royaume",
+      "ja": "オールドキングダム・カルバリン"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Revolverklinge",
+      "en": "Archeo Kingdom Gunblade",
+      "fr": "Pistolame de l'ancien royaume",
+      "ja": "オールドキングダム・ガンブレード"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Labrys",
+      "en": "Archeo Kingdom Labrys",
+      "fr": "Labrys de l'ancien royaume",
+      "ja": "オールドキングダム・ラブリュス"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Pata",
+      "en": "Archeo Kingdom Patas",
+      "fr": "Patas de l'ancien royaume",
+      "ja": "オールドキングダム・パタ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Samuraiklinge",
+      "en": "Archeo Kingdom Samurai Blade",
+      "fr": "Lame de samouraï de l'ancien royaume",
+      "ja": "オールドキングダム・サムライブレード"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Sichel",
+      "en": "Archeo Kingdom Sickle",
+      "fr": "Faucille de l'ancien royaume",
+      "ja": "オールドキングダム・シックル"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Altkönigreich-Zwillingsfänge",
+      "en": "Archeo Kingdom Twinfangs",
+      "fr": "Crochets jumeaux de l'ancien royaume",
+      "ja": "オールドキングダム・ツインファング"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
     "baseLevel": 68,
     "difficulty": 980,
     "durability": 60,
@@ -17638,6 +17828,25 @@
     "suggestedCraftsmanship": 325
   },
   {
+    "baseLevel": 100,
+    "difficulty": 4125,
+    "durability": 35,
+    "level": 710,
+    "maxQuality": 12000,
+    "name": {
+      "de": "Maraging-Stahlbarren",
+      "en": "Maraging Steel Ingot",
+      "fr": "Lingot d'acier maraging",
+      "ja": "マルエージングインゴット"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
     "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
@@ -23735,7 +23944,7 @@
     "name": {
       "de": "Schilfsense",
       "en": "Reed Scythe",
-      "fr": "Faucille à roseaux",
+      "fr": "Faux à roseaux",
       "ja": "葦刈鎌"
     },
     "progressDivider": 130,

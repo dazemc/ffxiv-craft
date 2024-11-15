@@ -1619,6 +1619,25 @@
   },
   {
     "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Gekochter Hummer",
+      "en": "Boiled Lobster",
+      "fr": "Homard bouilli",
+      "ja": "ボイルドロブスター"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
     "difficulty": 4950,
     "durability": 80,
     "level": 690,
@@ -2409,7 +2428,7 @@
     "name": {
       "de": "Cherimoya-Saft",
       "en": "Cherimoya Juice",
-      "fr": "Jus de cherimoyas",
+      "fr": "Jus de cherimoya",
       "ja": "チェリモヤジュース"
     },
     "progressDivider": 130,
@@ -2436,6 +2455,25 @@
     "qualityModifier": 70,
     "stars": 4,
     "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Hähnchennudeln",
+      "en": "Chicken Pasta",
+      "fr": "Pâtes au poulet",
+      "ja": "チキンパスタ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
   },
   {
     "baseLevel": 28,
@@ -2548,6 +2586,25 @@
     "suggestedCraftsmanship": 1075
   },
   {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Churrasco",
+      "en": "Churrasco",
+      "fr": "Churrasco",
+      "ja": "シュラスコ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
     "baseLevel": 16,
     "difficulty": 31,
     "durability": 40,
@@ -2564,6 +2621,25 @@
     "qualityDivider": 30,
     "qualityModifier": 100,
     "suggestedCraftsmanship": 78
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Zimtkaffee mit Sahne",
+      "en": "Cinnamon Cream Coffee",
+      "fr": "Café viennois à la cardamome",
+      "ja": "シナモンホイップコーヒー"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
   },
   {
     "baseLevel": 60,
@@ -2834,6 +2910,25 @@
     "qualityDivider": 89,
     "qualityModifier": 100,
     "suggestedCraftsmanship": 1702
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Kaffee-Kukuru-Zwieback",
+      "en": "Coffee Kukuru Rusks",
+      "fr": "Biscottes kukuru au café",
+      "ja": "コーヒーククルラスク"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
   },
   {
     "baseLevel": 80,
@@ -8138,6 +8233,25 @@
     "suggestedCraftsmanship": 106
   },
   {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Hummerbisque",
+      "en": "Lobster Bisque",
+      "fr": "Bisque de homard",
+      "ja": "ロブスタービスク"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
     "baseLevel": 80,
     "difficulty": 1780,
     "durability": 70,
@@ -8955,6 +9069,25 @@
     "suggestedCraftsmanship": 176
   },
   {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Moqueca",
+      "en": "Moqueca",
+      "fr": "Moqueca",
+      "ja": "ムケッカ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
@@ -9225,6 +9358,25 @@
     "qualityDivider": 141,
     "qualityModifier": 100,
     "suggestedCraftsmanship": 3952
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Navelorangen-Keks",
+      "en": "Navel Orange Cookies",
+      "fr": "Biscuits à l'orange navel",
+      "ja": "ネーブルオレンジクッキー"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
   },
   {
     "baseLevel": 57,
@@ -10451,6 +10603,25 @@
     "qualityModifier": 70,
     "stars": 2,
     "suggestedCraftsmanship": 325
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Ananas-Orangengelee",
+      "en": "Pineapple Orange Jelly",
+      "fr": "Gelée orange-ananas",
+      "ja": "パインオレンジゼリー"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
   },
   {
     "baseLevel": 50,
@@ -11945,6 +12116,25 @@
     "qualityModifier": 70,
     "stars": 3,
     "suggestedCraftsmanship": 391
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "de": "Brathähnchen",
+      "en": "Roast Chicken",
+      "fr": "Poulet rôti",
+      "ja": "ローストチキン"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
   },
   {
     "baseLevel": 76,
