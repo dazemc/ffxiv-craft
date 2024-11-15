@@ -190,12 +190,12 @@ if __name__ == '__main__':
     recipes = handle_api_calls(pages_amount)
     save_data_to_json(recipes)
 
-    for buff_name in buff_types:
-        buffs = extract_buff_data(buff_name)
-        # Because of the way xivapi serves data, the call is != to the category name.
-        # Probably a cleaner way to do it but it works.
-        if buff_name == "Medicine":
-            buff_name = "Meal"
-        else:
-            buff_name = "Medicine"
-        save_buffs_to_file(buffs, buff_name)
+    # for buff_name in buff_types:
+    #     buffs = extract_buff_data(buff_name)
+    #     # Because of the way xivapi serves data, the call is != to the category name.
+    #     # Probably a cleaner way to do it but it works.
+    #     if buff_name == "Medicine":
+    #         buff_name = "Meal"
+    #     else:
+    #         buff_name = "Medicine"
+    #     save_buffs_to_file(buffs, buff_name)
