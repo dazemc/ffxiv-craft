@@ -36,6 +36,11 @@ jobs:
           source: ./
           destination: ./_site
 
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          name: site-artifact # Explicit artifact name
+
   deploy:
     needs: update_and_deploy
     runs-on: ubuntu-latest
@@ -43,13 +48,9 @@ jobs:
       name: github-pages
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          target-folder: _site
+          artifact_name: site-artifact # Match the uploaded artifact name
