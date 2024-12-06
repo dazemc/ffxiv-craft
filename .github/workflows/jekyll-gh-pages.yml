@@ -27,10 +27,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Run Python Script
-        run: |
-          python scripts/xivapi_calls.py || echo "Failed to run Python script"
-
       - name: Setup Pages
         uses: actions/configure-pages@v3
 
@@ -57,12 +53,6 @@ jobs:
             echo "HASH=$HASH" >> $GITHUB_ENV
           fi
 
-      - name: Update CSS Cache Key
-        run: |
-          if [ "${{ env.HASH }}" != "none" ]; then
-            sed -i "s|style.css?v=.*|style.css?v=${{ env.HASH }}|g" ./_site/index.html
-          fi
-
       - name: Commit Cache Key Change
         id: commit_cache_key
         run: |
@@ -83,18 +73,6 @@ jobs:
             echo "CHANGES_DETECTED=true" >> $GITHUB_ENV
           else
             echo "CHANGES_DETECTED=false" >> $GITHUB_ENV
-          fi
-
-      - name: Commit Other Changes
-        run: |
-          git add --all
-          if [ "${{ env.CHANGES_DETECTED }}" == "true" ]; then
-            if ! git diff --cached --exit-code; then
-              git commit -m "Automatic update"
-              git push
-            fi
-          else
-            echo "No substantial changes detected."
           fi
 
       - name: Upload artifact
