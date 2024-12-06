@@ -36,56 +36,23 @@ jobs:
           source: ./
           destination: ./_site
 
-      - name: Record Current Hash
-        id: record_hash
-        run: |
-          HASH=$(git rev-parse HEAD)
-          echo $HASH > previous_commit_hash.txt
-        continue-on-error: true
-
-      - name: Calculate New Hash
-        id: calculate_hash
-        run: |
-          if git diff --quiet; then
-            echo "HASH=none" >> $GITHUB_ENV
-          else
-            HASH=$(git rev-parse HEAD)
-            echo "HASH=$HASH" >> $GITHUB_ENV
-          fi
-
-      - name: Commit Cache Key Change
-        id: commit_cache_key
-        run: |
-          git config --global user.name "Daazed McFarland"
-          git config --global user.email "daazedjmcfarland@gmail.com"
-          git add --all
-          if ! git diff --cached --exit-code; then
-            git commit -m "Update cache key"
-          fi
-
-      - name: Check for Other Changes
-        id: check_changes
-        run: |
-          PREV_HASH=$(cat previous_commit_hash.txt)
-          CURR_HASH=$(git rev-parse HEAD)
-          if [ "$PREV_HASH" != "$CURR_HASH" ]; then
-            # Store status for later use
-            echo "CHANGES_DETECTED=true" >> $GITHUB_ENV
-          else
-            echo "CHANGES_DETECTED=false" >> $GITHUB_ENV
-          fi
-
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
+        with:
+          name: site-artifact
 
   deploy:
+    needs: update_and_deploy
+    runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: update_and_deploy
 
     steps:
+      - name: Download artifact
+        uses: actions/download-pages-artifact@v1
+        with:
+          name: site-artifact
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
