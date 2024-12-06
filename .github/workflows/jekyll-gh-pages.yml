@@ -36,11 +36,6 @@ jobs:
           source: ./
           destination: ./_site
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
-        with:
-          name: site-artifact
-
   deploy:
     needs: update_and_deploy
     runs-on: ubuntu-latest
@@ -48,10 +43,8 @@ jobs:
       name: github-pages
 
     steps:
-      - name: Download artifact
-        uses: actions/download-pages-artifact@v1
-        with:
-          name: site-artifact
+      - name: Checkout
+        uses: actions/checkout@v3
 
       - name: Deploy to GitHub Pages
         id: deployment
