@@ -2185,10 +2185,10 @@
     "suggestedCraftsmanship": 150
   },
   {
-    "baseLevel": 55,
+    "baseLevel": 50,
     "difficulty": 210,
     "durability": 80,
-    "level": 50,
+    "level": 55,
     "maxQuality": 2200,
     "name": {
       "de": "Tomatenpastete",
@@ -2223,10 +2223,10 @@
     "suggestedCraftsmanship": 176
   },
   {
-    "baseLevel": 55,
+    "baseLevel": 50,
     "difficulty": 210,
     "durability": 80,
-    "level": 50,
+    "level": 55,
     "maxQuality": 2200,
     "name": {
       "de": "Bouillabaisse",
@@ -2242,10 +2242,10 @@
     "suggestedCraftsmanship": 325
   },
   {
-    "baseLevel": 55,
+    "baseLevel": 50,
     "difficulty": 210,
     "durability": 80,
-    "level": 50,
+    "level": 55,
     "maxQuality": 2200,
     "name": {
       "de": "Gebratener Mahi-Mahi",
@@ -2261,10 +2261,10 @@
     "suggestedCraftsmanship": 325
   },
   {
-    "baseLevel": 55,
+    "baseLevel": 50,
     "difficulty": 210,
     "durability": 80,
-    "level": 50,
+    "level": 55,
     "maxQuality": 2200,
     "name": {
       "de": "Karnivorenblattsalat",
@@ -2280,10 +2280,10 @@
     "suggestedCraftsmanship": 325
   },
   {
-    "baseLevel": 55,
+    "baseLevel": 50,
     "difficulty": 210,
     "durability": 80,
-    "level": 50,
+    "level": 55,
     "maxQuality": 2200,
     "name": {
       "de": "Rolanbeeren-Käsekuchen",
@@ -2299,10 +2299,10 @@
     "suggestedCraftsmanship": 325
   },
   {
-    "baseLevel": 70,
+    "baseLevel": 50,
     "difficulty": 250,
     "durability": 80,
-    "level": 50,
+    "level": 70,
     "maxQuality": 2500,
     "name": {
       "de": "Apkallu-Omelett",
@@ -2318,10 +2318,10 @@
     "suggestedCraftsmanship": 325
   },
   {
-    "baseLevel": 70,
+    "baseLevel": 50,
     "difficulty": 250,
     "durability": 80,
-    "level": 50,
+    "level": 70,
     "maxQuality": 2500,
     "name": {
       "de": "Coeurlfleisch",
@@ -2337,10 +2337,10 @@
     "suggestedCraftsmanship": 325
   },
   {
-    "baseLevel": 70,
+    "baseLevel": 50,
     "difficulty": 250,
     "durability": 80,
-    "level": 50,
+    "level": 70,
     "maxQuality": 2500,
     "name": {
       "de": "Ananas-Ponzenkuchen",
@@ -2356,10 +2356,10 @@
     "suggestedCraftsmanship": 325
   },
   {
-    "baseLevel": 70,
+    "baseLevel": 50,
     "difficulty": 250,
     "durability": 80,
-    "level": 50,
+    "level": 70,
     "maxQuality": 2500,
     "name": {
       "de": "Ananassaft",
@@ -2375,10 +2375,10 @@
     "suggestedCraftsmanship": 325
   },
   {
-    "baseLevel": 70,
+    "baseLevel": 50,
     "difficulty": 250,
     "durability": 80,
-    "level": 50,
+    "level": 70,
     "maxQuality": 2500,
     "name": {
       "de": "Eiersandwich à la Bismarck",
@@ -2394,10 +2394,10 @@
     "suggestedCraftsmanship": 325
   },
   {
-    "baseLevel": 70,
+    "baseLevel": 50,
     "difficulty": 250,
     "durability": 80,
-    "level": 50,
+    "level": 70,
     "maxQuality": 2500,
     "name": {
       "de": "Risotto mit schwarzen Trüffeln",
@@ -2413,10 +2413,10 @@
     "suggestedCraftsmanship": 325
   },
   {
-    "baseLevel": 70,
+    "baseLevel": 50,
     "difficulty": 250,
     "durability": 80,
-    "level": 50,
+    "level": 70,
     "maxQuality": 2500,
     "name": {
       "de": "Lavakrötenschenkel",
@@ -2432,10 +2432,10 @@
     "suggestedCraftsmanship": 325
   },
   {
-    "baseLevel": 70,
+    "baseLevel": 50,
     "difficulty": 250,
     "durability": 80,
-    "level": 50,
+    "level": 70,
     "maxQuality": 2500,
     "name": {
       "de": "Kalte Toffelsuppe",
@@ -2451,10 +2451,10 @@
     "suggestedCraftsmanship": 325
   },
   {
-    "baseLevel": 70,
+    "baseLevel": 50,
     "difficulty": 250,
     "durability": 80,
-    "level": 50,
+    "level": 70,
     "maxQuality": 2500,
     "name": {
       "de": "Spinat-Quiche",
@@ -2508,10 +2508,10 @@
     "suggestedCraftsmanship": 136
   },
   {
-    "baseLevel": 70,
+    "baseLevel": 50,
     "difficulty": 250,
     "durability": 80,
-    "level": 50,
+    "level": 70,
     "maxQuality": 2500,
     "name": {
       "de": "Gourmet-Abendessen",
@@ -2527,10 +2527,10 @@
     "suggestedCraftsmanship": 325
   },
   {
-    "baseLevel": 70,
+    "baseLevel": 50,
     "difficulty": 250,
     "durability": 80,
-    "level": 50,
+    "level": 70,
     "maxQuality": 2500,
     "name": {
       "de": "Nachmittagstee-Set",
@@ -2641,10 +2641,10 @@
     "suggestedCraftsmanship": 106
   },
   {
-    "baseLevel": 70,
+    "baseLevel": 50,
     "difficulty": 250,
     "durability": 80,
-    "level": 50,
+    "level": 70,
     "maxQuality": 2500,
     "name": {
       "de": "Futter: Ge<SoftHyphen/>schwindig<SoftHyphen/>keit II",
@@ -2679,10 +2679,10 @@
     "suggestedCraftsmanship": 106
   },
   {
-    "baseLevel": 70,
+    "baseLevel": 50,
     "difficulty": 250,
     "durability": 80,
-    "level": 50,
+    "level": 70,
     "maxQuality": 2500,
     "name": {
       "de": "Futter: Antritt II",
@@ -2717,10 +2717,10 @@
     "suggestedCraftsmanship": 106
   },
   {
-    "baseLevel": 70,
+    "baseLevel": 50,
     "difficulty": 250,
     "durability": 80,
-    "level": 50,
+    "level": 70,
     "maxQuality": 2500,
     "name": {
       "de": "Futter: Köpfchen II",
@@ -2755,10 +2755,10 @@
     "suggestedCraftsmanship": 106
   },
   {
-    "baseLevel": 70,
+    "baseLevel": 50,
     "difficulty": 250,
     "durability": 80,
-    "level": 50,
+    "level": 70,
     "maxQuality": 2500,
     "name": {
       "de": "Futter: Puste II",
@@ -2793,10 +2793,10 @@
     "suggestedCraftsmanship": 106
   },
   {
-    "baseLevel": 70,
+    "baseLevel": 50,
     "difficulty": 250,
     "durability": 80,
-    "level": 50,
+    "level": 70,
     "maxQuality": 2500,
     "name": {
       "de": "Futter: Ausdauer II",
@@ -2869,10 +2869,10 @@
     "suggestedCraftsmanship": 99
   },
   {
-    "baseLevel": 55,
+    "baseLevel": 50,
     "difficulty": 210,
     "durability": 80,
-    "level": 50,
+    "level": 55,
     "maxQuality": 2200,
     "name": {
       "de": "Oasen-Frühstücks-Set",
@@ -2888,10 +2888,10 @@
     "suggestedCraftsmanship": 325
   },
   {
-    "baseLevel": 90,
+    "baseLevel": 50,
     "difficulty": 420,
     "durability": 80,
-    "level": 50,
+    "level": 90,
     "maxQuality": 2750,
     "name": {
       "de": "Valentionkuchen",
@@ -2907,10 +2907,10 @@
     "suggestedCraftsmanship": 391
   },
   {
-    "baseLevel": 55,
+    "baseLevel": 50,
     "difficulty": 210,
     "durability": 80,
-    "level": 50,
+    "level": 55,
     "maxQuality": 2200,
     "name": {
       "de": "Grüntee-Set",
@@ -2945,10 +2945,10 @@
     "suggestedCraftsmanship": 50
   },
   {
-    "baseLevel": 142,
+    "baseLevel": 57,
     "difficulty": 460,
     "durability": 70,
-    "level": 57,
+    "level": 142,
     "maxQuality": 2490,
     "name": {
       "de": "Ishgarder Teeservice",
@@ -2964,10 +2964,10 @@
     "suggestedCraftsmanship": 560
   },
   {
-    "baseLevel": 125,
+    "baseLevel": 52,
     "difficulty": 260,
     "durability": 80,
-    "level": 52,
+    "level": 125,
     "maxQuality": 2140,
     "name": {
       "de": "Etagere",
@@ -2983,10 +2983,10 @@
     "suggestedCraftsmanship": 502
   },
   {
-    "baseLevel": 139,
+    "baseLevel": 56,
     "difficulty": 420,
     "durability": 70,
-    "level": 56,
+    "level": 139,
     "maxQuality": 2420,
     "name": {
       "de": "Riviera-Lunch",
@@ -3002,10 +3002,10 @@
     "suggestedCraftsmanship": 550
   },
   {
-    "baseLevel": 130,
+    "baseLevel": 53,
     "difficulty": 300,
     "durability": 80,
-    "level": 53,
+    "level": 130,
     "maxQuality": 2210,
     "name": {
       "de": "Ishgarder Tee",
@@ -3021,10 +3021,10 @@
     "suggestedCraftsmanship": 519
   },
   {
-    "baseLevel": 145,
+    "baseLevel": 58,
     "difficulty": 500,
     "durability": 70,
-    "level": 58,
+    "level": 145,
     "maxQuality": 2560,
     "name": {
       "de": "Eiskalter Fruchtcocktail",
@@ -3040,10 +3040,10 @@
     "suggestedCraftsmanship": 570
   },
   {
-    "baseLevel": 115,
+    "baseLevel": 51,
     "difficulty": 220,
     "durability": 80,
-    "level": 51,
+    "level": 115,
     "maxQuality": 2070,
     "name": {
       "de": "Feigen à la Barvarois",
@@ -3059,10 +3059,10 @@
     "suggestedCraftsmanship": 468
   },
   {
-    "baseLevel": 133,
+    "baseLevel": 54,
     "difficulty": 340,
     "durability": 80,
-    "level": 54,
+    "level": 133,
     "maxQuality": 2280,
     "name": {
       "de": "Mont Sohm Al",
@@ -3078,10 +3078,10 @@
     "suggestedCraftsmanship": 529
   },
   {
-    "baseLevel": 148,
+    "baseLevel": 59,
     "difficulty": 540,
     "durability": 70,
-    "level": 59,
+    "level": 148,
     "maxQuality": 2630,
     "name": {
       "de": "Glasierte Glanznüsse",
@@ -3097,10 +3097,10 @@
     "suggestedCraftsmanship": 580
   },
   {
-    "baseLevel": 136,
+    "baseLevel": 55,
     "difficulty": 380,
     "durability": 70,
-    "level": 55,
+    "level": 136,
     "maxQuality": 2350,
     "name": {
       "de": "Kaisersemmel",
@@ -3116,10 +3116,10 @@
     "suggestedCraftsmanship": 539
   },
   {
-    "baseLevel": 130,
+    "baseLevel": 53,
     "difficulty": 300,
     "durability": 80,
-    "level": 53,
+    "level": 130,
     "maxQuality": 2210,
     "name": {
       "de": "Quiche Ishgarder Art",
@@ -3135,10 +3135,10 @@
     "suggestedCraftsmanship": 519
   },
   {
-    "baseLevel": 148,
+    "baseLevel": 59,
     "difficulty": 540,
     "durability": 70,
-    "level": 59,
+    "level": 148,
     "maxQuality": 2630,
     "name": {
       "de": "Leberkäsesemmel",
@@ -3154,10 +3154,10 @@
     "suggestedCraftsmanship": 580
   },
   {
-    "baseLevel": 130,
+    "baseLevel": 53,
     "difficulty": 300,
     "durability": 80,
-    "level": 53,
+    "level": 130,
     "maxQuality": 2210,
     "name": {
       "de": "Porciniragout",
@@ -3173,10 +3173,10 @@
     "suggestedCraftsmanship": 519
   },
   {
-    "baseLevel": 150,
+    "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
-    "level": 60,
+    "level": 150,
     "maxQuality": 2700,
     "name": {
       "de": "Mörchel-Salat",
@@ -3192,10 +3192,10 @@
     "suggestedCraftsmanship": 587
   },
   {
-    "baseLevel": 133,
+    "baseLevel": 54,
     "difficulty": 340,
     "durability": 80,
-    "level": 54,
+    "level": 133,
     "maxQuality": 2280,
     "name": {
       "de": "Gegrillte Purpur-Forelle",
@@ -3211,10 +3211,10 @@
     "suggestedCraftsmanship": 529
   },
   {
-    "baseLevel": 145,
+    "baseLevel": 58,
     "difficulty": 500,
     "durability": 70,
-    "level": 58,
+    "level": 145,
     "maxQuality": 2560,
     "name": {
       "de": "Gebackener Pipira Pira",
@@ -3230,10 +3230,10 @@
     "suggestedCraftsmanship": 570
   },
   {
-    "baseLevel": 145,
+    "baseLevel": 58,
     "difficulty": 500,
     "durability": 70,
-    "level": 58,
+    "level": 145,
     "maxQuality": 2560,
     "name": {
       "de": "Cockatrice-Frikadelle",
@@ -3249,10 +3249,10 @@
     "suggestedCraftsmanship": 570
   },
   {
-    "baseLevel": 142,
+    "baseLevel": 57,
     "difficulty": 460,
     "durability": 70,
-    "level": 57,
+    "level": 142,
     "maxQuality": 2490,
     "name": {
       "de": "Eier Royal",
@@ -3268,10 +3268,10 @@
     "suggestedCraftsmanship": 560
   },
   {
-    "baseLevel": 150,
+    "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
-    "level": 60,
+    "level": 150,
     "maxQuality": 2700,
     "name": {
       "de": "Okeanis-Schnitzel",
@@ -3287,10 +3287,10 @@
     "suggestedCraftsmanship": 587
   },
   {
-    "baseLevel": 125,
+    "baseLevel": 52,
     "difficulty": 260,
     "durability": 80,
-    "level": 52,
+    "level": 125,
     "maxQuality": 2140,
     "name": {
       "de": "Überbackene Zwiebelsuppe",
@@ -3306,10 +3306,10 @@
     "suggestedCraftsmanship": 502
   },
   {
-    "baseLevel": 133,
+    "baseLevel": 54,
     "difficulty": 340,
     "durability": 80,
-    "level": 54,
+    "level": 133,
     "maxQuality": 2280,
     "name": {
       "de": "Purpurrote Bete-Suppe",
@@ -3325,10 +3325,10 @@
     "suggestedCraftsmanship": 529
   },
   {
-    "baseLevel": 139,
+    "baseLevel": 56,
     "difficulty": 420,
     "durability": 70,
-    "level": 56,
+    "level": 139,
     "maxQuality": 2420,
     "name": {
       "de": "Emeraldgrüne Bohnensuppe",
@@ -3344,10 +3344,10 @@
     "suggestedCraftsmanship": 550
   },
   {
-    "baseLevel": 150,
+    "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
-    "level": 60,
+    "level": 150,
     "maxQuality": 2700,
     "name": {
       "de": "Muschelsuppe",
@@ -3363,10 +3363,10 @@
     "suggestedCraftsmanship": 587
   },
   {
-    "baseLevel": 125,
+    "baseLevel": 52,
     "difficulty": 260,
     "durability": 80,
-    "level": 52,
+    "level": 125,
     "maxQuality": 2140,
     "name": {
       "de": "Gefüllte Kohlroulade",
@@ -3382,10 +3382,10 @@
     "suggestedCraftsmanship": 502
   },
   {
-    "baseLevel": 133,
+    "baseLevel": 54,
     "difficulty": 340,
     "durability": 80,
-    "level": 54,
+    "level": 133,
     "maxQuality": 2280,
     "name": {
       "de": "Dhalmel-Gratin",
@@ -3401,10 +3401,10 @@
     "suggestedCraftsmanship": 529
   },
   {
-    "baseLevel": 150,
+    "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
-    "level": 60,
+    "level": 150,
     "maxQuality": 2700,
     "name": {
       "de": "Gefüllter Kohlkraut-Kopf",
@@ -3420,10 +3420,10 @@
     "suggestedCraftsmanship": 587
   },
   {
-    "baseLevel": 142,
+    "baseLevel": 57,
     "difficulty": 460,
     "durability": 70,
-    "level": 57,
+    "level": 142,
     "maxQuality": 2490,
     "name": {
       "de": "Dhalmel-Frikassee",
@@ -3439,10 +3439,10 @@
     "suggestedCraftsmanship": 560
   },
   {
-    "baseLevel": 125,
+    "baseLevel": 52,
     "difficulty": 260,
     "durability": 80,
-    "level": 52,
+    "level": 125,
     "maxQuality": 2140,
     "name": {
       "de": "Hochlandmehl",
@@ -3458,10 +3458,10 @@
     "suggestedCraftsmanship": 502
   },
   {
-    "baseLevel": 136,
+    "baseLevel": 55,
     "difficulty": 380,
     "durability": 70,
-    "level": 55,
+    "level": 136,
     "maxQuality": 2350,
     "name": {
       "de": "Sauce ishgardaise",
@@ -3477,10 +3477,10 @@
     "suggestedCraftsmanship": 539
   },
   {
-    "baseLevel": 148,
+    "baseLevel": 59,
     "difficulty": 540,
     "durability": 70,
-    "level": 59,
+    "level": 148,
     "maxQuality": 2630,
     "name": {
       "de": "Birkensirup",
@@ -3496,10 +3496,10 @@
     "suggestedCraftsmanship": 580
   },
   {
-    "baseLevel": 115,
+    "baseLevel": 51,
     "difficulty": 220,
     "durability": 80,
-    "level": 51,
+    "level": 115,
     "maxQuality": 2070,
     "name": {
       "de": "Sauerrahm",
@@ -3515,10 +3515,10 @@
     "suggestedCraftsmanship": 468
   },
   {
-    "baseLevel": 130,
+    "baseLevel": 53,
     "difficulty": 300,
     "durability": 80,
-    "level": 53,
+    "level": 130,
     "maxQuality": 2210,
     "name": {
       "de": "Fermentierte Butter",
@@ -3534,10 +3534,10 @@
     "suggestedCraftsmanship": 519
   },
   {
-    "baseLevel": 139,
+    "baseLevel": 56,
     "difficulty": 420,
     "durability": 70,
-    "level": 56,
+    "level": 139,
     "maxQuality": 2420,
     "name": {
       "de": "Vermicelli",
@@ -3553,10 +3553,10 @@
     "suggestedCraftsmanship": 550
   },
   {
-    "baseLevel": 139,
+    "baseLevel": 56,
     "difficulty": 420,
     "durability": 70,
-    "level": 56,
+    "level": 139,
     "maxQuality": 2420,
     "name": {
       "de": "Fernöstliches Teeservice",
@@ -3572,10 +3572,10 @@
     "suggestedCraftsmanship": 550
   },
   {
-    "baseLevel": 139,
+    "baseLevel": 56,
     "difficulty": 420,
     "durability": 70,
-    "level": 56,
+    "level": 139,
     "maxQuality": 2420,
     "name": {
       "de": "Sesamkeks",
@@ -3591,10 +3591,10 @@
     "suggestedCraftsmanship": 550
   },
   {
-    "baseLevel": 150,
+    "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
-    "level": 60,
+    "level": 150,
     "maxQuality": 2700,
     "name": {
       "de": "Ishgarder Abendessen",
@@ -3610,10 +3610,10 @@
     "suggestedCraftsmanship": 587
   },
   {
-    "baseLevel": 139,
+    "baseLevel": 56,
     "difficulty": 420,
     "durability": 70,
-    "level": 56,
+    "level": 139,
     "maxQuality": 2420,
     "name": {
       "de": "Adels-Abendessen",
@@ -3667,10 +3667,10 @@
     "suggestedCraftsmanship": 50
   },
   {
-    "baseLevel": 139,
+    "baseLevel": 56,
     "difficulty": 420,
     "durability": 70,
-    "level": 56,
+    "level": 139,
     "maxQuality": 2420,
     "name": {
       "de": "Riviera-Frühstücks-Set",
@@ -3686,10 +3686,10 @@
     "suggestedCraftsmanship": 550
   },
   {
-    "baseLevel": 276,
+    "baseLevel": 65,
     "difficulty": 830,
     "durability": 80,
-    "level": 65,
+    "level": 276,
     "maxQuality": 3150,
     "name": {
       "de": "Fernöstlicher Sushi-Lunch",
@@ -3705,10 +3705,10 @@
     "suggestedCraftsmanship": 1050
   },
   {
-    "baseLevel": 279,
+    "baseLevel": 66,
     "difficulty": 880,
     "durability": 80,
-    "level": 66,
+    "level": 279,
     "maxQuality": 3240,
     "name": {
       "de": "Fernöstlicher Soba-Lunch",
@@ -3724,10 +3724,10 @@
     "suggestedCraftsmanship": 1056
   },
   {
-    "baseLevel": 273,
+    "baseLevel": 64,
     "difficulty": 780,
     "durability": 80,
-    "level": 64,
+    "level": 273,
     "maxQuality": 3060,
     "name": {
       "de": "Fernöstlicher Udon-Lunch",
@@ -3743,10 +3743,10 @@
     "suggestedCraftsmanship": 1044
   },
   {
-    "baseLevel": 276,
+    "baseLevel": 65,
     "difficulty": 830,
     "durability": 80,
-    "level": 65,
+    "level": 276,
     "maxQuality": 3150,
     "name": {
       "de": "Fernöstlicher Onigiri-Lunch",
@@ -3762,10 +3762,10 @@
     "suggestedCraftsmanship": 1050
   },
   {
-    "baseLevel": 285,
+    "baseLevel": 68,
     "difficulty": 980,
     "durability": 80,
-    "level": 68,
+    "level": 285,
     "maxQuality": 3420,
     "name": {
       "de": "Domanischer Tee",
@@ -3781,10 +3781,10 @@
     "suggestedCraftsmanship": 1069
   },
   {
-    "baseLevel": 255,
+    "baseLevel": 61,
     "difficulty": 630,
     "durability": 80,
-    "level": 61,
+    "level": 255,
     "maxQuality": 2790,
     "name": {
       "de": "Mispelsaft",
@@ -3800,10 +3800,10 @@
     "suggestedCraftsmanship": 1006
   },
   {
-    "baseLevel": 265,
+    "baseLevel": 62,
     "difficulty": 680,
     "durability": 80,
-    "level": 62,
+    "level": 265,
     "maxQuality": 2880,
     "name": {
       "de": "Buchweizen-Tee",
@@ -3819,10 +3819,10 @@
     "suggestedCraftsmanship": 1027
   },
   {
-    "baseLevel": 255,
+    "baseLevel": 61,
     "difficulty": 630,
     "durability": 80,
-    "level": 61,
+    "level": 255,
     "maxQuality": 2790,
     "name": {
       "de": "Baklava",
@@ -3838,10 +3838,10 @@
     "suggestedCraftsmanship": 1006
   },
   {
-    "baseLevel": 300,
+    "baseLevel": 70,
     "difficulty": 1140,
     "durability": 70,
-    "level": 70,
+    "level": 300,
     "maxQuality": 4200,
     "name": {
       "de": "Geliertes Kompott",
@@ -3857,10 +3857,10 @@
     "suggestedCraftsmanship": 1100
   },
   {
-    "baseLevel": 282,
+    "baseLevel": 67,
     "difficulty": 930,
     "durability": 80,
-    "level": 67,
+    "level": 282,
     "maxQuality": 3330,
     "name": {
       "de": "Kakipudding",
@@ -3876,10 +3876,10 @@
     "suggestedCraftsmanship": 1063
   },
   {
-    "baseLevel": 288,
+    "baseLevel": 69,
     "difficulty": 1030,
     "durability": 80,
-    "level": 69,
+    "level": 288,
     "maxQuality": 3510,
     "name": {
       "de": "Chirashi-Sushi",
@@ -3895,10 +3895,10 @@
     "suggestedCraftsmanship": 1075
   },
   {
-    "baseLevel": 300,
+    "baseLevel": 70,
     "difficulty": 1140,
     "durability": 70,
-    "level": 70,
+    "level": 300,
     "maxQuality": 4200,
     "name": {
       "de": "Kakiblatt-Sushi",
@@ -3914,10 +3914,10 @@
     "suggestedCraftsmanship": 1100
   },
   {
-    "baseLevel": 270,
+    "baseLevel": 63,
     "difficulty": 730,
     "durability": 80,
-    "level": 63,
+    "level": 270,
     "maxQuality": 2970,
     "name": {
       "de": "Toffel-Soba",
@@ -3933,10 +3933,10 @@
     "suggestedCraftsmanship": 1037
   },
   {
-    "baseLevel": 276,
+    "baseLevel": 65,
     "difficulty": 830,
     "durability": 80,
-    "level": 65,
+    "level": 276,
     "maxQuality": 3150,
     "name": {
       "de": "Shorlog",
@@ -3952,10 +3952,10 @@
     "suggestedCraftsmanship": 1050
   },
   {
-    "baseLevel": 288,
+    "baseLevel": 69,
     "difficulty": 1030,
     "durability": 80,
-    "level": 69,
+    "level": 288,
     "maxQuality": 3510,
     "name": {
       "de": "Getrocknetes Jhammel-Fleisch",
@@ -3971,10 +3971,10 @@
     "suggestedCraftsmanship": 1075
   },
   {
-    "baseLevel": 282,
+    "baseLevel": 67,
     "difficulty": 930,
     "durability": 80,
-    "level": 67,
+    "level": 282,
     "maxQuality": 3330,
     "name": {
       "de": "Ei Foo Young",
@@ -3990,10 +3990,10 @@
     "suggestedCraftsmanship": 1063
   },
   {
-    "baseLevel": 285,
+    "baseLevel": 68,
     "difficulty": 980,
     "durability": 80,
-    "level": 68,
+    "level": 285,
     "maxQuality": 3420,
     "name": {
       "de": "Gegrillter Hummer",
@@ -4009,10 +4009,10 @@
     "suggestedCraftsmanship": 1069
   },
   {
-    "baseLevel": 270,
+    "baseLevel": 63,
     "difficulty": 730,
     "durability": 80,
-    "level": 63,
+    "level": 270,
     "maxQuality": 2970,
     "name": {
       "de": "Gekochte Turbanschnecke",
@@ -4028,10 +4028,10 @@
     "suggestedCraftsmanship": 1037
   },
   {
-    "baseLevel": 285,
+    "baseLevel": 68,
     "difficulty": 980,
     "durability": 80,
-    "level": 68,
+    "level": 285,
     "maxQuality": 3420,
     "name": {
       "de": "Gekochter Bernsteinmakrelen-Kopf",
@@ -4047,10 +4047,10 @@
     "suggestedCraftsmanship": 1069
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Gedünsteter Zackenbarsch",
@@ -4066,10 +4066,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 276,
+    "baseLevel": 65,
     "difficulty": 830,
     "durability": 80,
-    "level": 65,
+    "level": 276,
     "maxQuality": 3150,
     "name": {
       "de": "Froschschenkel Süß-Sauer",
@@ -4085,10 +4085,10 @@
     "suggestedCraftsmanship": 1050
   },
   {
-    "baseLevel": 279,
+    "baseLevel": 66,
     "difficulty": 880,
     "durability": 80,
-    "level": 66,
+    "level": 279,
     "maxQuality": 3240,
     "name": {
       "de": "Tempura-Platte",
@@ -4104,10 +4104,10 @@
     "suggestedCraftsmanship": 1056
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Gedünstete Flussbrasse",
@@ -4123,10 +4123,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 265,
+    "baseLevel": 62,
     "difficulty": 680,
     "durability": 80,
-    "level": 62,
+    "level": 265,
     "maxQuality": 2880,
     "name": {
       "de": "Gegrillter Saibling",
@@ -4142,10 +4142,10 @@
     "suggestedCraftsmanship": 1027
   },
   {
-    "baseLevel": 288,
+    "baseLevel": 69,
     "difficulty": 1030,
     "durability": 80,
-    "level": 69,
+    "level": 288,
     "maxQuality": 3510,
     "name": {
       "de": "Miso-Dengaku",
@@ -4161,10 +4161,10 @@
     "suggestedCraftsmanship": 1075
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Jhammel-Moussaka",
@@ -4180,10 +4180,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 276,
+    "baseLevel": 65,
     "difficulty": 830,
     "durability": 80,
-    "level": 65,
+    "level": 276,
     "maxQuality": 3150,
     "name": {
       "de": "Gameni",
@@ -4199,10 +4199,10 @@
     "suggestedCraftsmanship": 1050
   },
   {
-    "baseLevel": 279,
+    "baseLevel": 66,
     "difficulty": 880,
     "durability": 80,
-    "level": 66,
+    "level": 279,
     "maxQuality": 3240,
     "name": {
       "de": "Steppensalat",
@@ -4218,10 +4218,10 @@
     "suggestedCraftsmanship": 1056
   },
   {
-    "baseLevel": 273,
+    "baseLevel": 64,
     "difficulty": 780,
     "durability": 80,
-    "level": 64,
+    "level": 273,
     "maxQuality": 3060,
     "name": {
       "de": "Krabbenkroketten",
@@ -4237,10 +4237,10 @@
     "suggestedCraftsmanship": 1044
   },
   {
-    "baseLevel": 273,
+    "baseLevel": 64,
     "difficulty": 780,
     "durability": 80,
-    "level": 64,
+    "level": 273,
     "maxQuality": 3060,
     "name": {
       "de": "Miso-Suppe mit Tofu",
@@ -4256,10 +4256,10 @@
     "suggestedCraftsmanship": 1044
   },
   {
-    "baseLevel": 282,
+    "baseLevel": 67,
     "difficulty": 930,
     "durability": 80,
-    "level": 67,
+    "level": 282,
     "maxQuality": 3330,
     "name": {
       "de": "Fischeintopf",
@@ -4275,10 +4275,10 @@
     "suggestedCraftsmanship": 1063
   },
   {
-    "baseLevel": 279,
+    "baseLevel": 66,
     "difficulty": 880,
     "durability": 80,
-    "level": 66,
+    "level": 279,
     "maxQuality": 3240,
     "name": {
       "de": "Kriegereintopf",
@@ -4294,10 +4294,10 @@
     "suggestedCraftsmanship": 1056
   },
   {
-    "baseLevel": 265,
+    "baseLevel": 62,
     "difficulty": 680,
     "durability": 80,
-    "level": 62,
+    "level": 265,
     "maxQuality": 2880,
     "name": {
       "de": "Kascha",
@@ -4313,10 +4313,10 @@
     "suggestedCraftsmanship": 1027
   },
   {
-    "baseLevel": 279,
+    "baseLevel": 66,
     "difficulty": 880,
     "durability": 80,
-    "level": 66,
+    "level": 279,
     "maxQuality": 3240,
     "name": {
       "de": "Nomaden-Fleischpastete",
@@ -4332,10 +4332,10 @@
     "suggestedCraftsmanship": 1056
   },
   {
-    "baseLevel": 255,
+    "baseLevel": 61,
     "difficulty": 630,
     "durability": 80,
-    "level": 61,
+    "level": 255,
     "maxQuality": 2790,
     "name": {
       "de": "Abanisches Mehl",
@@ -4351,10 +4351,10 @@
     "suggestedCraftsmanship": 1006
   },
   {
-    "baseLevel": 273,
+    "baseLevel": 64,
     "difficulty": 780,
     "durability": 80,
-    "level": 64,
+    "level": 273,
     "maxQuality": 3060,
     "name": {
       "de": "Fester Tofu",
@@ -4370,10 +4370,10 @@
     "suggestedCraftsmanship": 1044
   },
   {
-    "baseLevel": 276,
+    "baseLevel": 65,
     "difficulty": 830,
     "durability": 80,
-    "level": 65,
+    "level": 276,
     "maxQuality": 3150,
     "name": {
       "de": "Reisessig",
@@ -4389,10 +4389,10 @@
     "suggestedCraftsmanship": 1050
   },
   {
-    "baseLevel": 273,
+    "baseLevel": 64,
     "difficulty": 780,
     "durability": 80,
-    "level": 64,
+    "level": 273,
     "maxQuality": 3060,
     "name": {
       "de": "Rübenzucker",
@@ -4408,10 +4408,10 @@
     "suggestedCraftsmanship": 1044
   },
   {
-    "baseLevel": 270,
+    "baseLevel": 63,
     "difficulty": 730,
     "durability": 80,
-    "level": 63,
+    "level": 270,
     "maxQuality": 2970,
     "name": {
       "de": "Baumwollsamenöl",
@@ -4427,10 +4427,10 @@
     "suggestedCraftsmanship": 1037
   },
   {
-    "baseLevel": 265,
+    "baseLevel": 62,
     "difficulty": 680,
     "durability": 80,
-    "level": 62,
+    "level": 265,
     "maxQuality": 2880,
     "name": {
       "de": "Algensalz",
@@ -4446,10 +4446,10 @@
     "suggestedCraftsmanship": 1027
   },
   {
-    "baseLevel": 288,
+    "baseLevel": 69,
     "difficulty": 1030,
     "durability": 80,
-    "level": 69,
+    "level": 288,
     "maxQuality": 3510,
     "name": {
       "de": "Brotkorb",
@@ -4465,10 +4465,10 @@
     "suggestedCraftsmanship": 1075
   },
   {
-    "baseLevel": 136,
+    "baseLevel": 55,
     "difficulty": 380,
     "durability": 70,
-    "level": 55,
+    "level": 136,
     "maxQuality": 2350,
     "name": {
       "de": "Teeservice des Hauses Borel",
@@ -4484,10 +4484,10 @@
     "suggestedCraftsmanship": 539
   },
   {
-    "baseLevel": 125,
+    "baseLevel": 52,
     "difficulty": 260,
     "durability": 80,
-    "level": 52,
+    "level": 125,
     "maxQuality": 2140,
     "name": {
       "de": "Teeservice der königlichen Matrone",
@@ -4560,10 +4560,10 @@
     "suggestedCraftsmanship": 99
   },
   {
-    "baseLevel": 390,
+    "baseLevel": 71,
     "difficulty": 1195,
     "durability": 80,
-    "level": 71,
+    "level": 390,
     "maxQuality": 3763,
     "name": {
       "de": "Frantoio-Öl",
@@ -4579,10 +4579,10 @@
     "suggestedCraftsmanship": 1320
   },
   {
-    "baseLevel": 395,
+    "baseLevel": 72,
     "difficulty": 1220,
     "durability": 80,
-    "level": 72,
+    "level": 395,
     "maxQuality": 3800,
     "name": {
       "de": "Gartenrübenzucker",
@@ -4598,10 +4598,10 @@
     "suggestedCraftsmanship": 1388
   },
   {
-    "baseLevel": 400,
+    "baseLevel": 73,
     "difficulty": 1290,
     "durability": 80,
-    "level": 73,
+    "level": 400,
     "maxQuality": 3900,
     "name": {
       "de": "Tintenfischtinte",
@@ -4617,10 +4617,10 @@
     "suggestedCraftsmanship": 1457
   },
   {
-    "baseLevel": 403,
+    "baseLevel": 74,
     "difficulty": 1360,
     "durability": 80,
-    "level": 74,
+    "level": 403,
     "maxQuality": 4000,
     "name": {
       "de": "Hochplateau-Mehl",
@@ -4636,10 +4636,10 @@
     "suggestedCraftsmanship": 1498
   },
   {
-    "baseLevel": 403,
+    "baseLevel": 74,
     "difficulty": 1360,
     "durability": 80,
-    "level": 74,
+    "level": 403,
     "maxQuality": 4000,
     "name": {
       "de": "Goldhonig",
@@ -4655,10 +4655,10 @@
     "suggestedCraftsmanship": 1498
   },
   {
-    "baseLevel": 406,
+    "baseLevel": 75,
     "difficulty": 1430,
     "durability": 80,
-    "level": 75,
+    "level": 406,
     "maxQuality": 4100,
     "name": {
       "de": "Schwarzer Essig",
@@ -4674,10 +4674,10 @@
     "suggestedCraftsmanship": 1539
   },
   {
-    "baseLevel": 390,
+    "baseLevel": 71,
     "difficulty": 1195,
     "durability": 80,
-    "level": 71,
+    "level": 390,
     "maxQuality": 3763,
     "name": {
       "de": "Gegrillte Ralle",
@@ -4693,10 +4693,10 @@
     "suggestedCraftsmanship": 1320
   },
   {
-    "baseLevel": 390,
+    "baseLevel": 71,
     "difficulty": 1195,
     "durability": 80,
-    "level": 71,
+    "level": 390,
     "maxQuality": 3763,
     "name": {
       "de": "Purpurkarottensaft",
@@ -4712,10 +4712,10 @@
     "suggestedCraftsmanship": 1320
   },
   {
-    "baseLevel": 395,
+    "baseLevel": 72,
     "difficulty": 1220,
     "durability": 80,
-    "level": 72,
+    "level": 395,
     "maxQuality": 3800,
     "name": {
       "de": "Karamell",
@@ -4731,10 +4731,10 @@
     "suggestedCraftsmanship": 1388
   },
   {
-    "baseLevel": 395,
+    "baseLevel": 72,
     "difficulty": 1220,
     "durability": 80,
-    "level": 72,
+    "level": 395,
     "maxQuality": 3800,
     "name": {
       "de": "Favabohnensuppe",
@@ -4750,10 +4750,10 @@
     "suggestedCraftsmanship": 1388
   },
   {
-    "baseLevel": 400,
+    "baseLevel": 73,
     "difficulty": 1290,
     "durability": 80,
-    "level": 73,
+    "level": 400,
     "maxQuality": 3900,
     "name": {
       "de": "Tintenschwarze Spaghetti",
@@ -4769,10 +4769,10 @@
     "suggestedCraftsmanship": 1457
   },
   {
-    "baseLevel": 400,
+    "baseLevel": 73,
     "difficulty": 1290,
     "durability": 80,
-    "level": 73,
+    "level": 400,
     "maxQuality": 3900,
     "name": {
       "de": "Favabohnensalat",
@@ -4788,10 +4788,10 @@
     "suggestedCraftsmanship": 1457
   },
   {
-    "baseLevel": 400,
+    "baseLevel": 73,
     "difficulty": 1290,
     "durability": 80,
-    "level": 73,
+    "level": 400,
     "maxQuality": 3900,
     "name": {
       "de": "Gegrillte Platinbrasse",
@@ -4807,10 +4807,10 @@
     "suggestedCraftsmanship": 1457
   },
   {
-    "baseLevel": 403,
+    "baseLevel": 74,
     "difficulty": 1360,
     "durability": 80,
-    "level": 74,
+    "level": 403,
     "maxQuality": 4000,
     "name": {
       "de": "Baguette",
@@ -4826,10 +4826,10 @@
     "suggestedCraftsmanship": 1498
   },
   {
-    "baseLevel": 403,
+    "baseLevel": 74,
     "difficulty": 1360,
     "durability": 80,
-    "level": 74,
+    "level": 403,
     "maxQuality": 4000,
     "name": {
       "de": "Bluttomatensaft",
@@ -4845,10 +4845,10 @@
     "suggestedCraftsmanship": 1498
   },
   {
-    "baseLevel": 403,
+    "baseLevel": 74,
     "difficulty": 1360,
     "durability": 80,
-    "level": 74,
+    "level": 403,
     "maxQuality": 4000,
     "name": {
       "de": "Pixie-Apfeltasche",
@@ -4864,10 +4864,10 @@
     "suggestedCraftsmanship": 1498
   },
   {
-    "baseLevel": 406,
+    "baseLevel": 75,
     "difficulty": 1430,
     "durability": 80,
-    "level": 75,
+    "level": 406,
     "maxQuality": 4100,
     "name": {
       "de": "Nusstörtchen",
@@ -4883,10 +4883,10 @@
     "suggestedCraftsmanship": 1539
   },
   {
-    "baseLevel": 406,
+    "baseLevel": 75,
     "difficulty": 1430,
     "durability": 80,
-    "level": 75,
+    "level": 406,
     "maxQuality": 4100,
     "name": {
       "de": "Bluttomatensalat",
@@ -4902,10 +4902,10 @@
     "suggestedCraftsmanship": 1539
   },
   {
-    "baseLevel": 406,
+    "baseLevel": 75,
     "difficulty": 1430,
     "durability": 80,
-    "level": 75,
+    "level": 406,
     "maxQuality": 4100,
     "name": {
       "de": "Champignonsauté",
@@ -4921,10 +4921,10 @@
     "suggestedCraftsmanship": 1539
   },
   {
-    "baseLevel": 409,
+    "baseLevel": 76,
     "difficulty": 1500,
     "durability": 80,
-    "level": 76,
+    "level": 409,
     "maxQuality": 4200,
     "name": {
       "de": "Knackwurst",
@@ -4940,10 +4940,10 @@
     "suggestedCraftsmanship": 1580
   },
   {
-    "baseLevel": 409,
+    "baseLevel": 76,
     "difficulty": 1500,
     "durability": 80,
-    "level": 76,
+    "level": 409,
     "maxQuality": 4200,
     "name": {
       "de": "Gerösteter Ovim",
@@ -4959,10 +4959,10 @@
     "suggestedCraftsmanship": 1580
   },
   {
-    "baseLevel": 409,
+    "baseLevel": 76,
     "difficulty": 1500,
     "durability": 80,
-    "level": 76,
+    "level": 409,
     "maxQuality": 4200,
     "name": {
       "de": "Champignons am Spieß",
@@ -4978,10 +4978,10 @@
     "suggestedCraftsmanship": 1580
   },
   {
-    "baseLevel": 409,
+    "baseLevel": 76,
     "difficulty": 1500,
     "durability": 80,
-    "level": 76,
+    "level": 409,
     "maxQuality": 4200,
     "name": {
       "de": "Gebackener Megapiranha",
@@ -4997,10 +4997,10 @@
     "suggestedCraftsmanship": 1580
   },
   {
-    "baseLevel": 412,
+    "baseLevel": 77,
     "difficulty": 1570,
     "durability": 80,
-    "level": 77,
+    "level": 412,
     "maxQuality": 4300,
     "name": {
       "de": "Pfeffertoffel",
@@ -5016,10 +5016,10 @@
     "suggestedCraftsmanship": 1621
   },
   {
-    "baseLevel": 412,
+    "baseLevel": 77,
     "difficulty": 1570,
     "durability": 80,
-    "level": 77,
+    "level": 412,
     "maxQuality": 4300,
     "name": {
       "de": "Ockertoffel-Gratin",
@@ -5035,10 +5035,10 @@
     "suggestedCraftsmanship": 1621
   },
   {
-    "baseLevel": 412,
+    "baseLevel": 77,
     "difficulty": 1570,
     "durability": 80,
-    "level": 77,
+    "level": 412,
     "maxQuality": 4300,
     "name": {
       "de": "Masala-Tee",
@@ -5054,10 +5054,10 @@
     "suggestedCraftsmanship": 1621
   },
   {
-    "baseLevel": 415,
+    "baseLevel": 78,
     "difficulty": 1640,
     "durability": 80,
-    "level": 78,
+    "level": 415,
     "maxQuality": 4400,
     "name": {
       "de": "Risotto al nero",
@@ -5073,10 +5073,10 @@
     "suggestedCraftsmanship": 1662
   },
   {
-    "baseLevel": 415,
+    "baseLevel": 78,
     "difficulty": 1640,
     "durability": 80,
-    "level": 78,
+    "level": 415,
     "maxQuality": 4400,
     "name": {
       "de": "Sahne-Espresso",
@@ -5092,10 +5092,10 @@
     "suggestedCraftsmanship": 1662
   },
   {
-    "baseLevel": 415,
+    "baseLevel": 78,
     "difficulty": 1640,
     "durability": 80,
-    "level": 78,
+    "level": 415,
     "maxQuality": 4400,
     "name": {
       "de": "Sautierter Dunstspinat",
@@ -5111,10 +5111,10 @@
     "suggestedCraftsmanship": 1662
   },
   {
-    "baseLevel": 418,
+    "baseLevel": 79,
     "difficulty": 1710,
     "durability": 80,
-    "level": 79,
+    "level": 418,
     "maxQuality": 4500,
     "name": {
       "de": "Blut-Bouillabaisse",
@@ -5130,10 +5130,10 @@
     "suggestedCraftsmanship": 1702
   },
   {
-    "baseLevel": 418,
+    "baseLevel": 79,
     "difficulty": 1710,
     "durability": 80,
-    "level": 79,
+    "level": 418,
     "maxQuality": 4500,
     "name": {
       "de": "Paella",
@@ -5149,10 +5149,10 @@
     "suggestedCraftsmanship": 1702
   },
   {
-    "baseLevel": 418,
+    "baseLevel": 79,
     "difficulty": 1710,
     "durability": 80,
-    "level": 79,
+    "level": 418,
     "maxQuality": 4500,
     "name": {
       "de": "Kaffeekeks",
@@ -5168,10 +5168,10 @@
     "suggestedCraftsmanship": 1702
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Cordon bleu vom Ovim",
@@ -5187,10 +5187,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Limonade",
@@ -5206,10 +5206,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Harcot-Kompott",
@@ -5225,10 +5225,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Feinschmecker-Auster",
@@ -5263,10 +5263,10 @@
     "suggestedCraftsmanship": 78
   },
   {
-    "baseLevel": 415,
+    "baseLevel": 78,
     "difficulty": 1640,
     "durability": 80,
-    "level": 78,
+    "level": 415,
     "maxQuality": 4400,
     "name": {
       "de": "Fernöstlicher Chawanmushi-Lunch",
@@ -5282,10 +5282,10 @@
     "suggestedCraftsmanship": 1662
   },
   {
-    "baseLevel": 415,
+    "baseLevel": 78,
     "difficulty": 1640,
     "durability": 80,
-    "level": 78,
+    "level": 415,
     "maxQuality": 4400,
     "name": {
       "de": "Backwaren-Marktstand",
@@ -5301,10 +5301,10 @@
     "suggestedCraftsmanship": 1662
   },
   {
-    "baseLevel": 415,
+    "baseLevel": 78,
     "difficulty": 1640,
     "durability": 80,
-    "level": 78,
+    "level": 415,
     "maxQuality": 4400,
     "name": {
       "de": "Obst-Marktstand",
@@ -5320,10 +5320,10 @@
     "suggestedCraftsmanship": 1662
   },
   {
-    "baseLevel": 415,
+    "baseLevel": 78,
     "difficulty": 1640,
     "durability": 80,
-    "level": 78,
+    "level": 415,
     "maxQuality": 4400,
     "name": {
       "de": "Gemüse-Marktstand",
@@ -5339,10 +5339,10 @@
     "suggestedCraftsmanship": 1662
   },
   {
-    "baseLevel": 415,
+    "baseLevel": 78,
     "difficulty": 1640,
     "durability": 80,
-    "level": 78,
+    "level": 415,
     "maxQuality": 4400,
     "name": {
       "de": "Wurstwaren-Marktstand",
@@ -5358,10 +5358,10 @@
     "suggestedCraftsmanship": 1662
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Frühstück à la Bismarck",
@@ -5377,10 +5377,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Salat mit verteufelten Eiern",
@@ -5396,10 +5396,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Takoyaki-Grillplatte",
@@ -5415,10 +5415,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Riesenburger-Set",
@@ -5434,10 +5434,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Geschnittene Melone",
@@ -5453,10 +5453,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Tablett mit Keksen",
@@ -5472,10 +5472,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Gebäck-Schaukasten",
@@ -5491,10 +5491,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Aal-Set",
@@ -5510,10 +5510,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Heiße Tomatenpfanne",
@@ -5529,10 +5529,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Gebäck-Schaufenster",
@@ -5548,10 +5548,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Büfett auf Rädern",
@@ -5567,10 +5567,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Ishgarder Lunch",
@@ -5586,10 +5586,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Tasse Filterkaffee",
@@ -5605,10 +5605,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Pixie-Apfelkorb",
@@ -5624,10 +5624,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 517,
+    "baseLevel": 81,
     "difficulty": 2000,
     "durability": 80,
-    "level": 81,
+    "level": 517,
     "maxQuality": 5200,
     "name": {
       "de": "Exegetenbrot",
@@ -5643,10 +5643,10 @@
     "suggestedCraftsmanship": 2234
   },
   {
-    "baseLevel": 517,
+    "baseLevel": 81,
     "difficulty": 2000,
     "durability": 80,
-    "level": 81,
+    "level": 517,
     "maxQuality": 5200,
     "name": {
       "de": "Zurek",
@@ -5662,10 +5662,10 @@
     "suggestedCraftsmanship": 2234
   },
   {
-    "baseLevel": 520,
+    "baseLevel": 82,
     "difficulty": 2300,
     "durability": 80,
-    "level": 82,
+    "level": 520,
     "maxQuality": 5700,
     "name": {
       "de": "Amrasalat",
@@ -5681,10 +5681,10 @@
     "suggestedCraftsmanship": 2336
   },
   {
-    "baseLevel": 520,
+    "baseLevel": 82,
     "difficulty": 2300,
     "durability": 80,
-    "level": 82,
+    "level": 520,
     "maxQuality": 5700,
     "name": {
       "de": "Amra-Lassi",
@@ -5700,10 +5700,10 @@
     "suggestedCraftsmanship": 2336
   },
   {
-    "baseLevel": 520,
+    "baseLevel": 82,
     "difficulty": 2300,
     "durability": 80,
-    "level": 82,
+    "level": 520,
     "maxQuality": 5700,
     "name": {
       "de": "Hühnchen-Miqo'Kebab",
@@ -5719,10 +5719,10 @@
     "suggestedCraftsmanship": 2336
   },
   {
-    "baseLevel": 525,
+    "baseLevel": 83,
     "difficulty": 2600,
     "durability": 80,
-    "level": 83,
+    "level": 525,
     "maxQuality": 6200,
     "name": {
       "de": "Königskrabbenkuchen",
@@ -5738,10 +5738,10 @@
     "suggestedCraftsmanship": 2438
   },
   {
-    "baseLevel": 525,
+    "baseLevel": 83,
     "difficulty": 2600,
     "durability": 80,
-    "level": 83,
+    "level": 525,
     "maxQuality": 6200,
     "name": {
       "de": "Ucha",
@@ -5757,10 +5757,10 @@
     "suggestedCraftsmanship": 2438
   },
   {
-    "baseLevel": 525,
+    "baseLevel": 83,
     "difficulty": 2600,
     "durability": 80,
-    "level": 83,
+    "level": 525,
     "maxQuality": 6200,
     "name": {
       "de": "Borschtsch",
@@ -5776,10 +5776,10 @@
     "suggestedCraftsmanship": 2438
   },
   {
-    "baseLevel": 530,
+    "baseLevel": 84,
     "difficulty": 2900,
     "durability": 80,
-    "level": 84,
+    "level": 530,
     "maxQuality": 6600,
     "name": {
       "de": "Rote-Bete-Suppe",
@@ -5795,10 +5795,10 @@
     "suggestedCraftsmanship": 2507
   },
   {
-    "baseLevel": 530,
+    "baseLevel": 84,
     "difficulty": 2900,
     "durability": 80,
-    "level": 84,
+    "level": 530,
     "maxQuality": 6600,
     "name": {
       "de": "Kaisersuppe",
@@ -5814,10 +5814,10 @@
     "suggestedCraftsmanship": 2507
   },
   {
-    "baseLevel": 535,
+    "baseLevel": 85,
     "difficulty": 3000,
     "durability": 80,
-    "level": 85,
+    "level": 535,
     "maxQuality": 6700,
     "name": {
       "de": "Glückskarottensaft",
@@ -5833,10 +5833,10 @@
     "suggestedCraftsmanship": 2549
   },
   {
-    "baseLevel": 535,
+    "baseLevel": 85,
     "difficulty": 3000,
     "durability": 80,
-    "level": 85,
+    "level": 535,
     "maxQuality": 6700,
     "name": {
       "de": "Karottenraspel",
@@ -5852,10 +5852,10 @@
     "suggestedCraftsmanship": 2549
   },
   {
-    "baseLevel": 540,
+    "baseLevel": 86,
     "difficulty": 3100,
     "durability": 80,
-    "level": 86,
+    "level": 540,
     "maxQuality": 6800,
     "name": {
       "de": "Hamsa-Curry",
@@ -5871,10 +5871,10 @@
     "suggestedCraftsmanship": 2590
   },
   {
-    "baseLevel": 540,
+    "baseLevel": 86,
     "difficulty": 3100,
     "durability": 80,
-    "level": 86,
+    "level": 540,
     "maxQuality": 6800,
     "name": {
       "de": "Karniyarik",
@@ -5890,10 +5890,10 @@
     "suggestedCraftsmanship": 2590
   },
   {
-    "baseLevel": 540,
+    "baseLevel": 86,
     "difficulty": 3100,
     "durability": 80,
-    "level": 86,
+    "level": 540,
     "maxQuality": 6800,
     "name": {
       "de": "Gewürzshakshouka",
@@ -5909,10 +5909,10 @@
     "suggestedCraftsmanship": 2590
   },
   {
-    "baseLevel": 540,
+    "baseLevel": 86,
     "difficulty": 3100,
     "durability": 80,
-    "level": 86,
+    "level": 540,
     "maxQuality": 6800,
     "name": {
       "de": "Linsencurry",
@@ -5928,10 +5928,10 @@
     "suggestedCraftsmanship": 2590
   },
   {
-    "baseLevel": 540,
+    "baseLevel": 86,
     "difficulty": 3100,
     "durability": 80,
-    "level": 86,
+    "level": 540,
     "maxQuality": 6800,
     "name": {
       "de": "Skyr",
@@ -5947,10 +5947,10 @@
     "suggestedCraftsmanship": 2590
   },
   {
-    "baseLevel": 545,
+    "baseLevel": 87,
     "difficulty": 3200,
     "durability": 80,
-    "level": 87,
+    "level": 545,
     "maxQuality": 6900,
     "name": {
       "de": "Riesentaramosalata",
@@ -5966,10 +5966,10 @@
     "suggestedCraftsmanship": 2626
   },
   {
-    "baseLevel": 545,
+    "baseLevel": 87,
     "difficulty": 3200,
     "durability": 80,
-    "level": 87,
+    "level": 545,
     "maxQuality": 6900,
     "name": {
       "de": "Yakuh-Moussaka",
@@ -5985,10 +5985,10 @@
     "suggestedCraftsmanship": 2626
   },
   {
-    "baseLevel": 550,
+    "baseLevel": 88,
     "difficulty": 3300,
     "durability": 80,
-    "level": 88,
+    "level": 550,
     "maxQuality": 7000,
     "name": {
       "de": "Exegetenstulle",
@@ -6004,10 +6004,10 @@
     "suggestedCraftsmanship": 2686
   },
   {
-    "baseLevel": 550,
+    "baseLevel": 88,
     "difficulty": 3300,
     "durability": 80,
-    "level": 88,
+    "level": 550,
     "maxQuality": 7000,
     "name": {
       "de": "Flachküstendorsch in Salz",
@@ -6023,10 +6023,10 @@
     "suggestedCraftsmanship": 2686
   },
   {
-    "baseLevel": 550,
+    "baseLevel": 88,
     "difficulty": 3300,
     "durability": 80,
-    "level": 88,
+    "level": 550,
     "maxQuality": 7000,
     "name": {
       "de": "Dorsch-Chowder",
@@ -6042,10 +6042,10 @@
     "suggestedCraftsmanship": 2686
   },
   {
-    "baseLevel": 550,
+    "baseLevel": 88,
     "difficulty": 3300,
     "durability": 80,
-    "level": 88,
+    "level": 550,
     "maxQuality": 7000,
     "name": {
       "de": "Elpisnudeln",
@@ -6061,10 +6061,10 @@
     "suggestedCraftsmanship": 2686
   },
   {
-    "baseLevel": 550,
+    "baseLevel": 88,
     "difficulty": 3300,
     "durability": 80,
-    "level": 88,
+    "level": 550,
     "maxQuality": 7000,
     "name": {
       "de": "Riesentoffelpuffer",
@@ -6080,10 +6080,10 @@
     "suggestedCraftsmanship": 2686
   },
   {
-    "baseLevel": 555,
+    "baseLevel": 89,
     "difficulty": 3400,
     "durability": 80,
-    "level": 89,
+    "level": 555,
     "maxQuality": 7100,
     "name": {
       "de": "Tsai Tou Vounou",
@@ -6099,10 +6099,10 @@
     "suggestedCraftsmanship": 2748
   },
   {
-    "baseLevel": 555,
+    "baseLevel": 89,
     "difficulty": 3400,
     "durability": 80,
-    "level": 89,
+    "level": 555,
     "maxQuality": 7100,
     "name": {
       "de": "Sideritiskeks",
@@ -6118,10 +6118,10 @@
     "suggestedCraftsmanship": 2748
   },
   {
-    "baseLevel": 560,
+    "baseLevel": 90,
     "difficulty": 3500,
     "durability": 80,
-    "level": 90,
+    "level": 560,
     "maxQuality": 7200,
     "name": {
       "de": "Elpisfrikadellen",
@@ -6137,10 +6137,10 @@
     "suggestedCraftsmanship": 2805
   },
   {
-    "baseLevel": 560,
+    "baseLevel": 90,
     "difficulty": 3500,
     "durability": 80,
-    "level": 90,
+    "level": 560,
     "maxQuality": 7200,
     "name": {
       "de": "Aliensuppe",
@@ -6156,10 +6156,10 @@
     "suggestedCraftsmanship": 2805
   },
   {
-    "baseLevel": 560,
+    "baseLevel": 90,
     "difficulty": 3500,
     "durability": 80,
-    "level": 90,
+    "level": 560,
     "maxQuality": 7200,
     "name": {
       "de": "Lykon-Salat",
@@ -6175,10 +6175,10 @@
     "suggestedCraftsmanship": 2805
   },
   {
-    "baseLevel": 560,
+    "baseLevel": 90,
     "difficulty": 3500,
     "durability": 80,
-    "level": 90,
+    "level": 560,
     "maxQuality": 7200,
     "name": {
       "de": "Lykon-Kompott",
@@ -6194,10 +6194,10 @@
     "suggestedCraftsmanship": 2805
   },
   {
-    "baseLevel": 560,
+    "baseLevel": 90,
     "difficulty": 3500,
     "durability": 80,
-    "level": 90,
+    "level": 560,
     "maxQuality": 7200,
     "name": {
       "de": "Lykon à la Barvarois",
@@ -6213,10 +6213,10 @@
     "suggestedCraftsmanship": 2805
   },
   {
-    "baseLevel": 517,
+    "baseLevel": 81,
     "difficulty": 2000,
     "durability": 80,
-    "level": 81,
+    "level": 517,
     "maxQuality": 5200,
     "name": {
       "de": "Schwarzmehl",
@@ -6232,10 +6232,10 @@
     "suggestedCraftsmanship": 2234
   },
   {
-    "baseLevel": 517,
+    "baseLevel": 81,
     "difficulty": 2000,
     "durability": 80,
-    "level": 81,
+    "level": 517,
     "maxQuality": 5200,
     "name": {
       "de": "Nordsalz",
@@ -6251,10 +6251,10 @@
     "suggestedCraftsmanship": 2234
   },
   {
-    "baseLevel": 520,
+    "baseLevel": 82,
     "difficulty": 2300,
     "durability": 80,
-    "level": 82,
+    "level": 520,
     "maxQuality": 5700,
     "name": {
       "de": "Perilla-Öl",
@@ -6270,10 +6270,10 @@
     "suggestedCraftsmanship": 2336
   },
   {
-    "baseLevel": 520,
+    "baseLevel": 82,
     "difficulty": 2300,
     "durability": 80,
-    "level": 82,
+    "level": 520,
     "maxQuality": 5700,
     "name": {
       "de": "Palmzucker",
@@ -6289,10 +6289,10 @@
     "suggestedCraftsmanship": 2336
   },
   {
-    "baseLevel": 530,
+    "baseLevel": 84,
     "difficulty": 2900,
     "durability": 80,
-    "level": 84,
+    "level": 530,
     "maxQuality": 6600,
     "name": {
       "de": "Garleischer Käse",
@@ -6308,10 +6308,10 @@
     "suggestedCraftsmanship": 2507
   },
   {
-    "baseLevel": 530,
+    "baseLevel": 84,
     "difficulty": 2900,
     "durability": 80,
-    "level": 84,
+    "level": 530,
     "maxQuality": 6600,
     "name": {
       "de": "Kokosnussmilch",
@@ -6327,10 +6327,10 @@
     "suggestedCraftsmanship": 2507
   },
   {
-    "baseLevel": 540,
+    "baseLevel": 86,
     "difficulty": 3100,
     "durability": 80,
-    "level": 86,
+    "level": 540,
     "maxQuality": 6800,
     "name": {
       "de": "Fluffige Pfannkuchen",
@@ -6346,10 +6346,10 @@
     "suggestedCraftsmanship": 2590
   },
   {
-    "baseLevel": 540,
+    "baseLevel": 86,
     "difficulty": 3100,
     "durability": 80,
-    "level": 86,
+    "level": 540,
     "maxQuality": 6800,
     "name": {
       "de": "Burrito-Lunchset der Neuen Welt",
@@ -6365,10 +6365,10 @@
     "suggestedCraftsmanship": 2590
   },
   {
-    "baseLevel": 560,
+    "baseLevel": 90,
     "difficulty": 3500,
     "durability": 80,
-    "level": 90,
+    "level": 560,
     "maxQuality": 7200,
     "name": {
       "de": "Wunderparfait",
@@ -6384,10 +6384,10 @@
     "suggestedCraftsmanship": 2805
   },
   {
-    "baseLevel": 560,
+    "baseLevel": 90,
     "difficulty": 3500,
     "durability": 80,
-    "level": 90,
+    "level": 560,
     "maxQuality": 7200,
     "name": {
       "de": "Gegrillter Süßfisch",
@@ -6403,10 +6403,10 @@
     "suggestedCraftsmanship": 2805
   },
   {
-    "baseLevel": 560,
+    "baseLevel": 90,
     "difficulty": 3500,
     "durability": 80,
-    "level": 90,
+    "level": 560,
     "maxQuality": 7200,
     "name": {
       "de": "Käsefondue-Set",
@@ -6422,10 +6422,10 @@
     "suggestedCraftsmanship": 2805
   },
   {
-    "baseLevel": 560,
+    "baseLevel": 90,
     "difficulty": 3500,
     "durability": 80,
-    "level": 90,
+    "level": 560,
     "maxQuality": 7200,
     "name": {
       "de": "Kaffeekannenset",
@@ -6441,10 +6441,10 @@
     "suggestedCraftsmanship": 2805
   },
   {
-    "baseLevel": 560,
+    "baseLevel": 90,
     "difficulty": 3500,
     "durability": 80,
-    "level": 90,
+    "level": 560,
     "maxQuality": 7200,
     "name": {
       "de": "Pudding-Pudding",
@@ -6460,10 +6460,10 @@
     "suggestedCraftsmanship": 2805
   },
   {
-    "baseLevel": 560,
+    "baseLevel": 90,
     "difficulty": 3500,
     "durability": 80,
-    "level": 90,
+    "level": 560,
     "maxQuality": 7200,
     "name": {
       "de": "Shumai-Körbchen",
@@ -6479,10 +6479,10 @@
     "suggestedCraftsmanship": 2805
   },
   {
-    "baseLevel": 560,
+    "baseLevel": 90,
     "difficulty": 3500,
     "durability": 80,
-    "level": 90,
+    "level": 560,
     "maxQuality": 7200,
     "name": {
       "de": "Gyoza-Platte",
@@ -6498,10 +6498,10 @@
     "suggestedCraftsmanship": 2805
   },
   {
-    "baseLevel": 560,
+    "baseLevel": 90,
     "difficulty": 3500,
     "durability": 80,
-    "level": 90,
+    "level": 560,
     "maxQuality": 7200,
     "name": {
       "de": "Keksteller",
@@ -6517,10 +6517,10 @@
     "suggestedCraftsmanship": 2805
   },
   {
-    "baseLevel": 560,
+    "baseLevel": 90,
     "difficulty": 3500,
     "durability": 80,
-    "level": 90,
+    "level": 560,
     "maxQuality": 7200,
     "name": {
       "de": "Manderville-Abenteurer-Müsli",
@@ -6536,10 +6536,10 @@
     "suggestedCraftsmanship": 2805
   },
   {
-    "baseLevel": 560,
+    "baseLevel": 90,
     "difficulty": 3500,
     "durability": 80,
-    "level": 90,
+    "level": 560,
     "maxQuality": 7200,
     "name": {
       "de": "Bom-Bom-Eissoda",
@@ -6555,10 +6555,10 @@
     "suggestedCraftsmanship": 2805
   },
   {
-    "baseLevel": 650,
+    "baseLevel": 91,
     "difficulty": 4000,
     "durability": 80,
-    "level": 91,
+    "level": 650,
     "maxQuality": 8200,
     "name": {
       "de": "Kochmezcal",
@@ -6574,10 +6574,10 @@
     "suggestedCraftsmanship": 3366
   },
   {
-    "baseLevel": 650,
+    "baseLevel": 91,
     "difficulty": 4000,
     "durability": 80,
-    "level": 91,
+    "level": 650,
     "maxQuality": 8200,
     "name": {
       "de": "Ut'ohmu-Chilisoße",
@@ -6593,10 +6593,10 @@
     "suggestedCraftsmanship": 3366
   },
   {
-    "baseLevel": 653,
+    "baseLevel": 92,
     "difficulty": 4250,
     "durability": 80,
-    "level": 92,
+    "level": 653,
     "maxQuality": 8600,
     "name": {
       "de": "Gebirgssalz",
@@ -6612,10 +6612,10 @@
     "suggestedCraftsmanship": 3485
   },
   {
-    "baseLevel": 656,
+    "baseLevel": 93,
     "difficulty": 4500,
     "durability": 80,
-    "level": 93,
+    "level": 656,
     "maxQuality": 9000,
     "name": {
       "de": "Königsahornsirup",
@@ -6631,10 +6631,10 @@
     "suggestedCraftsmanship": 3587
   },
   {
-    "baseLevel": 660,
+    "baseLevel": 94,
     "difficulty": 4800,
     "durability": 80,
-    "level": 94,
+    "level": 660,
     "maxQuality": 9400,
     "name": {
       "de": "Tural-Maisöl",
@@ -6650,10 +6650,10 @@
     "suggestedCraftsmanship": 3706
   },
   {
-    "baseLevel": 665,
+    "baseLevel": 95,
     "difficulty": 5100,
     "durability": 80,
-    "level": 95,
+    "level": 665,
     "maxQuality": 9800,
     "name": {
       "de": "Schlagrahm",
@@ -6669,10 +6669,10 @@
     "suggestedCraftsmanship": 3789
   },
   {
-    "baseLevel": 650,
+    "baseLevel": 91,
     "difficulty": 4000,
     "durability": 80,
-    "level": 91,
+    "level": 650,
     "maxQuality": 8200,
     "name": {
       "de": "Alpakafleischpfanne",
@@ -6688,10 +6688,10 @@
     "suggestedCraftsmanship": 3366
   },
   {
-    "baseLevel": 650,
+    "baseLevel": 91,
     "difficulty": 4000,
     "durability": 80,
-    "level": 91,
+    "level": 650,
     "maxQuality": 8200,
     "name": {
       "de": "Omuraisu",
@@ -6707,10 +6707,10 @@
     "suggestedCraftsmanship": 3366
   },
   {
-    "baseLevel": 650,
+    "baseLevel": 91,
     "difficulty": 4000,
     "durability": 80,
-    "level": 91,
+    "level": 650,
     "maxQuality": 8200,
     "name": {
       "de": "Krabbencocktail",
@@ -6726,10 +6726,10 @@
     "suggestedCraftsmanship": 3366
   },
   {
-    "baseLevel": 653,
+    "baseLevel": 92,
     "difficulty": 4250,
     "durability": 80,
-    "level": 92,
+    "level": 653,
     "maxQuality": 8600,
     "name": {
       "de": "Marinierter Sumpfmönch",
@@ -6745,10 +6745,10 @@
     "suggestedCraftsmanship": 3485
   },
   {
-    "baseLevel": 653,
+    "baseLevel": 92,
     "difficulty": 4250,
     "durability": 80,
-    "level": 92,
+    "level": 653,
     "maxQuality": 8600,
     "name": {
       "de": "Gegrillte Urqo-Forelle",
@@ -6764,10 +6764,10 @@
     "suggestedCraftsmanship": 3485
   },
   {
-    "baseLevel": 656,
+    "baseLevel": 93,
     "difficulty": 4500,
     "durability": 80,
-    "level": 93,
+    "level": 656,
     "maxQuality": 9000,
     "name": {
       "de": "Toast Royale",
@@ -6783,10 +6783,10 @@
     "suggestedCraftsmanship": 3587
   },
   {
-    "baseLevel": 656,
+    "baseLevel": 93,
     "difficulty": 4500,
     "durability": 80,
-    "level": 93,
+    "level": 656,
     "maxQuality": 9000,
     "name": {
       "de": "Bananen-Ponzenkuchen",
@@ -6802,10 +6802,10 @@
     "suggestedCraftsmanship": 3587
   },
   {
-    "baseLevel": 656,
+    "baseLevel": 93,
     "difficulty": 4500,
     "durability": 80,
-    "level": 93,
+    "level": 656,
     "maxQuality": 9000,
     "name": {
       "de": "Ahorn-Teriyaki",
@@ -6821,10 +6821,10 @@
     "suggestedCraftsmanship": 3587
   },
   {
-    "baseLevel": 660,
+    "baseLevel": 94,
     "difficulty": 4800,
     "durability": 80,
-    "level": 94,
+    "level": 660,
     "maxQuality": 9400,
     "name": {
       "de": "Olio e Peperoncino",
@@ -6840,10 +6840,10 @@
     "suggestedCraftsmanship": 3706
   },
   {
-    "baseLevel": 660,
+    "baseLevel": 94,
     "difficulty": 4800,
     "durability": 80,
-    "level": 94,
+    "level": 660,
     "maxQuality": 9400,
     "name": {
       "de": "Süßer Muffin",
@@ -6859,10 +6859,10 @@
     "suggestedCraftsmanship": 3706
   },
   {
-    "baseLevel": 665,
+    "baseLevel": 95,
     "difficulty": 5100,
     "durability": 80,
-    "level": 95,
+    "level": 665,
     "maxQuality": 9800,
     "name": {
       "de": "Gâteau au Chocolat",
@@ -6878,10 +6878,10 @@
     "suggestedCraftsmanship": 3789
   },
   {
-    "baseLevel": 665,
+    "baseLevel": 95,
     "difficulty": 5100,
     "durability": 80,
-    "level": 95,
+    "level": 665,
     "maxQuality": 9800,
     "name": {
       "de": "Turalischer Ananas-Ponzenkuchen",
@@ -6897,10 +6897,10 @@
     "suggestedCraftsmanship": 3789
   },
   {
-    "baseLevel": 670,
+    "baseLevel": 96,
     "difficulty": 5400,
     "durability": 80,
-    "level": 96,
+    "level": 670,
     "maxQuality": 10200,
     "name": {
       "de": "Tacos al pastor",
@@ -6916,10 +6916,10 @@
     "suggestedCraftsmanship": 3876
   },
   {
-    "baseLevel": 670,
+    "baseLevel": 96,
     "difficulty": 5400,
     "durability": 80,
-    "level": 96,
+    "level": 670,
     "maxQuality": 10200,
     "name": {
       "de": "Heiße Schokolade mit Sahne",
@@ -6935,10 +6935,10 @@
     "suggestedCraftsmanship": 3876
   },
   {
-    "baseLevel": 670,
+    "baseLevel": 96,
     "difficulty": 5400,
     "durability": 80,
-    "level": 96,
+    "level": 670,
     "maxQuality": 10200,
     "name": {
       "de": "Turalisches Fruchttörtchen",
@@ -6954,10 +6954,10 @@
     "suggestedCraftsmanship": 3876
   },
   {
-    "baseLevel": 670,
+    "baseLevel": 96,
     "difficulty": 5400,
     "durability": 80,
-    "level": 96,
+    "level": 670,
     "maxQuality": 10200,
     "name": {
       "de": "Wildbananen-Smoothie",
@@ -6973,10 +6973,10 @@
     "suggestedCraftsmanship": 3876
   },
   {
-    "baseLevel": 670,
+    "baseLevel": 96,
     "difficulty": 5400,
     "durability": 80,
-    "level": 96,
+    "level": 670,
     "maxQuality": 10200,
     "name": {
       "de": "Wolkenkuchen",
@@ -6992,10 +6992,10 @@
     "suggestedCraftsmanship": 3876
   },
   {
-    "baseLevel": 675,
+    "baseLevel": 97,
     "difficulty": 5700,
     "durability": 80,
-    "level": 97,
+    "level": 675,
     "maxQuality": 10600,
     "name": {
       "de": "Getrockneter Lachs",
@@ -7011,10 +7011,10 @@
     "suggestedCraftsmanship": 3952
   },
   {
-    "baseLevel": 675,
+    "baseLevel": 97,
     "difficulty": 5700,
     "durability": 80,
-    "level": 97,
+    "level": 675,
     "maxQuality": 10600,
     "name": {
       "de": "Nasi Goreng",
@@ -7030,10 +7030,10 @@
     "suggestedCraftsmanship": 3952
   },
   {
-    "baseLevel": 680,
+    "baseLevel": 98,
     "difficulty": 6000,
     "durability": 80,
-    "level": 98,
+    "level": 680,
     "maxQuality": 11000,
     "name": {
       "de": "Gebratenes Rroneek",
@@ -7049,10 +7049,10 @@
     "suggestedCraftsmanship": 4041
   },
   {
-    "baseLevel": 680,
+    "baseLevel": 98,
     "difficulty": 6000,
     "durability": 80,
-    "level": 98,
+    "level": 680,
     "maxQuality": 11000,
     "name": {
       "de": "Mesquite-Saft",
@@ -7068,10 +7068,10 @@
     "suggestedCraftsmanship": 4041
   },
   {
-    "baseLevel": 680,
+    "baseLevel": 98,
     "difficulty": 6000,
     "durability": 80,
-    "level": 98,
+    "level": 680,
     "maxQuality": 11000,
     "name": {
       "de": "Aloe-Fruchtgelee",
@@ -7087,10 +7087,10 @@
     "suggestedCraftsmanship": 4041
   },
   {
-    "baseLevel": 680,
+    "baseLevel": 98,
     "difficulty": 6000,
     "durability": 80,
-    "level": 98,
+    "level": 680,
     "maxQuality": 11000,
     "name": {
       "de": "Treibholz-Katfischpastete",
@@ -7106,10 +7106,10 @@
     "suggestedCraftsmanship": 4041
   },
   {
-    "baseLevel": 680,
+    "baseLevel": 98,
     "difficulty": 6000,
     "durability": 80,
-    "level": 98,
+    "level": 680,
     "maxQuality": 11000,
     "name": {
       "de": "Acqua Pazza",
@@ -7125,10 +7125,10 @@
     "suggestedCraftsmanship": 4041
   },
   {
-    "baseLevel": 685,
+    "baseLevel": 99,
     "difficulty": 6300,
     "durability": 80,
-    "level": 99,
+    "level": 685,
     "maxQuality": 11400,
     "name": {
       "de": "Rroneek-Steak",
@@ -7144,10 +7144,10 @@
     "suggestedCraftsmanship": 4131
   },
   {
-    "baseLevel": 685,
+    "baseLevel": 99,
     "difficulty": 6300,
     "durability": 80,
-    "level": 99,
+    "level": 685,
     "maxQuality": 11400,
     "name": {
       "de": "Gefüllte Paprika",
@@ -7163,10 +7163,10 @@
     "suggestedCraftsmanship": 4131
   },
   {
-    "baseLevel": 690,
+    "baseLevel": 100,
     "difficulty": 6600,
     "durability": 80,
-    "level": 100,
+    "level": 690,
     "maxQuality": 12000,
     "name": {
       "de": "Tacos mit Carne Asada",
@@ -7182,10 +7182,10 @@
     "suggestedCraftsmanship": 4207
   },
   {
-    "baseLevel": 690,
+    "baseLevel": 100,
     "difficulty": 6600,
     "durability": 80,
-    "level": 100,
+    "level": 690,
     "maxQuality": 12000,
     "name": {
       "de": "Mesquite-Suppe",
@@ -7201,10 +7201,10 @@
     "suggestedCraftsmanship": 4207
   },
   {
-    "baseLevel": 690,
+    "baseLevel": 100,
     "difficulty": 6600,
     "durability": 80,
-    "level": 100,
+    "level": 690,
     "maxQuality": 12000,
     "name": {
       "de": "Sahnige Alpaka-Spaghetti",
@@ -7220,10 +7220,10 @@
     "suggestedCraftsmanship": 4207
   },
   {
-    "baseLevel": 690,
+    "baseLevel": 100,
     "difficulty": 6600,
     "durability": 80,
-    "level": 100,
+    "level": 690,
     "maxQuality": 12000,
     "name": {
       "de": "Sautiertes grünes Gemüse",
@@ -7239,10 +7239,10 @@
     "suggestedCraftsmanship": 4207
   },
   {
-    "baseLevel": 690,
+    "baseLevel": 100,
     "difficulty": 6600,
     "durability": 80,
-    "level": 100,
+    "level": 690,
     "maxQuality": 12000,
     "name": {
       "de": "Gemüsesuppe",
@@ -7258,10 +7258,10 @@
     "suggestedCraftsmanship": 4207
   },
   {
-    "baseLevel": 670,
+    "baseLevel": 96,
     "difficulty": 5400,
     "durability": 80,
-    "level": 96,
+    "level": 670,
     "maxQuality": 10200,
     "name": {
       "de": "Kakaotasse",
@@ -7277,10 +7277,10 @@
     "suggestedCraftsmanship": 3876
   },
   {
-    "baseLevel": 690,
+    "baseLevel": 100,
     "difficulty": 6600,
     "durability": 80,
-    "level": 100,
+    "level": 690,
     "maxQuality": 12000,
     "name": {
       "de": "Frittierte Toffelscheiben",
@@ -7296,10 +7296,10 @@
     "suggestedCraftsmanship": 4207
   },
   {
-    "baseLevel": 690,
+    "baseLevel": 100,
     "difficulty": 6600,
     "durability": 80,
-    "level": 100,
+    "level": 690,
     "maxQuality": 12000,
     "name": {
       "de": "Kuganeyaki",
@@ -7676,10 +7676,10 @@
     "suggestedCraftsmanship": 106
   },
   {
-    "baseLevel": 90,
+    "baseLevel": 50,
     "difficulty": 420,
     "durability": 80,
-    "level": 50,
+    "level": 90,
     "maxQuality": 2750,
     "name": {
       "de": "Gedünsteter Katfisch",
@@ -7695,10 +7695,10 @@
     "suggestedCraftsmanship": 391
   },
   {
-    "baseLevel": 90,
+    "baseLevel": 50,
     "difficulty": 420,
     "durability": 80,
-    "level": 50,
+    "level": 90,
     "maxQuality": 2750,
     "name": {
       "de": "Toffelpuffer",
@@ -7714,10 +7714,10 @@
     "suggestedCraftsmanship": 391
   },
   {
-    "baseLevel": 90,
+    "baseLevel": 50,
     "difficulty": 420,
     "durability": 80,
-    "level": 50,
+    "level": 90,
     "maxQuality": 2750,
     "name": {
       "de": "Röstente",
@@ -7733,10 +7733,10 @@
     "suggestedCraftsmanship": 391
   },
   {
-    "baseLevel": 90,
+    "baseLevel": 50,
     "difficulty": 420,
     "durability": 80,
-    "level": 50,
+    "level": 90,
     "maxQuality": 2750,
     "name": {
       "de": "Sachertorte",
@@ -7752,10 +7752,10 @@
     "suggestedCraftsmanship": 391
   },
   {
-    "baseLevel": 70,
+    "baseLevel": 50,
     "difficulty": 250,
     "durability": 80,
-    "level": 50,
+    "level": 70,
     "maxQuality": 2500,
     "name": {
       "de": "Tomatenwürze",
@@ -7885,10 +7885,10 @@
     "suggestedCraftsmanship": 106
   },
   {
-    "baseLevel": 90,
+    "baseLevel": 50,
     "difficulty": 420,
     "durability": 80,
-    "level": 50,
+    "level": 90,
     "maxQuality": 2750,
     "name": {
       "de": "Fleischtomatenwürze",
@@ -8645,10 +8645,10 @@
     "suggestedCraftsmanship": 78
   },
   {
-    "baseLevel": 90,
+    "baseLevel": 50,
     "difficulty": 420,
     "durability": 80,
-    "level": 50,
+    "level": 90,
     "maxQuality": 2750,
     "name": {
       "de": "Haifischflossensuppe",
@@ -8664,10 +8664,10 @@
     "suggestedCraftsmanship": 391
   },
   {
-    "baseLevel": 90,
+    "baseLevel": 50,
     "difficulty": 420,
     "durability": 80,
-    "level": 50,
+    "level": 90,
     "maxQuality": 2750,
     "name": {
       "de": "Taramosalata",
@@ -8683,10 +8683,10 @@
     "suggestedCraftsmanship": 391
   },
   {
-    "baseLevel": 110,
+    "baseLevel": 50,
     "difficulty": 480,
     "durability": 80,
-    "level": 50,
+    "level": 110,
     "maxQuality": 2900,
     "name": {
       "de": "Einspänner",
@@ -8702,10 +8702,10 @@
     "suggestedCraftsmanship": 451
   },
   {
-    "baseLevel": 110,
+    "baseLevel": 50,
     "difficulty": 480,
     "durability": 80,
-    "level": 50,
+    "level": 110,
     "maxQuality": 2900,
     "name": {
       "de": "Speckzopf",
@@ -8721,10 +8721,10 @@
     "suggestedCraftsmanship": 451
   },
   {
-    "baseLevel": 110,
+    "baseLevel": 50,
     "difficulty": 480,
     "durability": 80,
-    "level": 50,
+    "level": 110,
     "maxQuality": 2900,
     "name": {
       "de": "Feuerstein-Kaviar",
@@ -8740,10 +8740,10 @@
     "suggestedCraftsmanship": 451
   },
   {
-    "baseLevel": 110,
+    "baseLevel": 50,
     "difficulty": 480,
     "durability": 80,
-    "level": 50,
+    "level": 110,
     "maxQuality": 2900,
     "name": {
       "de": "Specksuppe",
@@ -8759,10 +8759,10 @@
     "suggestedCraftsmanship": 451
   },
   {
-    "baseLevel": 90,
+    "baseLevel": 50,
     "difficulty": 420,
     "durability": 80,
-    "level": 50,
+    "level": 90,
     "maxQuality": 2750,
     "name": {
       "de": "Aalpastete Spezial",
@@ -8778,10 +8778,10 @@
     "suggestedCraftsmanship": 391
   },
   {
-    "baseLevel": 90,
+    "baseLevel": 50,
     "difficulty": 420,
     "durability": 80,
-    "level": 50,
+    "level": 90,
     "maxQuality": 2750,
     "name": {
       "de": "Entenbrühe",
@@ -8797,10 +8797,10 @@
     "suggestedCraftsmanship": 391
   },
   {
-    "baseLevel": 70,
+    "baseLevel": 50,
     "difficulty": 250,
     "durability": 80,
-    "level": 50,
+    "level": 70,
     "maxQuality": 2500,
     "name": {
       "de": "Magitek-Reparaturkit",
@@ -8816,10 +8816,10 @@
     "suggestedCraftsmanship": 325
   },
   {
-    "baseLevel": 139,
+    "baseLevel": 56,
     "difficulty": 420,
     "durability": 70,
-    "level": 56,
+    "level": 139,
     "maxQuality": 2420,
     "name": {
       "de": "Fernöstliches Frühstück",
@@ -8835,10 +8835,10 @@
     "suggestedCraftsmanship": 550
   },
   {
-    "baseLevel": 160,
+    "baseLevel": 60,
     "difficulty": 660,
     "durability": 70,
-    "level": 60,
+    "level": 160,
     "maxQuality": 2800,
     "name": {
       "de": "Geburtstagskuchen",
@@ -8854,10 +8854,10 @@
     "suggestedCraftsmanship": 620
   },
   {
-    "baseLevel": 142,
+    "baseLevel": 57,
     "difficulty": 460,
     "durability": 70,
-    "level": 57,
+    "level": 142,
     "maxQuality": 2490,
     "name": {
       "de": "Fernöstliches Abendessen",
@@ -8873,10 +8873,10 @@
     "suggestedCraftsmanship": 560
   },
   {
-    "baseLevel": 160,
+    "baseLevel": 60,
     "difficulty": 660,
     "durability": 70,
-    "level": 60,
+    "level": 160,
     "maxQuality": 2800,
     "name": {
       "de": "Heiße Schokolade",
@@ -8892,10 +8892,10 @@
     "suggestedCraftsmanship": 620
   },
   {
-    "baseLevel": 160,
+    "baseLevel": 60,
     "difficulty": 660,
     "durability": 70,
-    "level": 60,
+    "level": 160,
     "maxQuality": 2800,
     "name": {
       "de": "Crème brulée",
@@ -8911,10 +8911,10 @@
     "suggestedCraftsmanship": 620
   },
   {
-    "baseLevel": 160,
+    "baseLevel": 60,
     "difficulty": 660,
     "durability": 70,
-    "level": 60,
+    "level": 160,
     "maxQuality": 2800,
     "name": {
       "de": "Mandelcroissant",
@@ -8930,10 +8930,10 @@
     "suggestedCraftsmanship": 620
   },
   {
-    "baseLevel": 160,
+    "baseLevel": 60,
     "difficulty": 660,
     "durability": 70,
-    "level": 60,
+    "level": 160,
     "maxQuality": 2800,
     "name": {
       "de": "Seeigel-Pastete",
@@ -8949,10 +8949,10 @@
     "suggestedCraftsmanship": 620
   },
   {
-    "baseLevel": 160,
+    "baseLevel": 60,
     "difficulty": 660,
     "durability": 70,
-    "level": 60,
+    "level": 160,
     "maxQuality": 2800,
     "name": {
       "de": "Ishgarder Fischtopf",
@@ -8968,10 +8968,10 @@
     "suggestedCraftsmanship": 620
   },
   {
-    "baseLevel": 160,
+    "baseLevel": 60,
     "difficulty": 660,
     "durability": 70,
-    "level": 60,
+    "level": 160,
     "maxQuality": 2800,
     "name": {
       "de": "Flockenbeerentorte",
@@ -8987,10 +8987,10 @@
     "suggestedCraftsmanship": 620
   },
   {
-    "baseLevel": 160,
+    "baseLevel": 60,
     "difficulty": 660,
     "durability": 70,
-    "level": 60,
+    "level": 160,
     "maxQuality": 2800,
     "name": {
       "de": "Brioche des Rois",
@@ -9006,10 +9006,10 @@
     "suggestedCraftsmanship": 620
   },
   {
-    "baseLevel": 160,
+    "baseLevel": 60,
     "difficulty": 660,
     "durability": 70,
-    "level": 60,
+    "level": 160,
     "maxQuality": 2800,
     "name": {
       "de": "Gedünsteter Vergelter",
@@ -9025,10 +9025,10 @@
     "suggestedCraftsmanship": 620
   },
   {
-    "baseLevel": 210,
+    "baseLevel": 60,
     "difficulty": 880,
     "durability": 70,
-    "level": 60,
+    "level": 210,
     "maxQuality": 3300,
     "name": {
       "de": "Würziger Apfelsaft",
@@ -9044,10 +9044,10 @@
     "suggestedCraftsmanship": 850
   },
   {
-    "baseLevel": 210,
+    "baseLevel": 60,
     "difficulty": 880,
     "durability": 70,
-    "level": 60,
+    "level": 210,
     "maxQuality": 3300,
     "name": {
       "de": "Apfelstrudel",
@@ -9063,10 +9063,10 @@
     "suggestedCraftsmanship": 850
   },
   {
-    "baseLevel": 210,
+    "baseLevel": 60,
     "difficulty": 880,
     "durability": 70,
-    "level": 60,
+    "level": 210,
     "maxQuality": 3300,
     "name": {
       "de": "Peperoncino",
@@ -9082,10 +9082,10 @@
     "suggestedCraftsmanship": 850
   },
   {
-    "baseLevel": 210,
+    "baseLevel": 60,
     "difficulty": 880,
     "durability": 70,
-    "level": 60,
+    "level": 210,
     "maxQuality": 3300,
     "name": {
       "de": "Boscaiola",
@@ -9101,10 +9101,10 @@
     "suggestedCraftsmanship": 850
   },
   {
-    "baseLevel": 210,
+    "baseLevel": 60,
     "difficulty": 880,
     "durability": 70,
-    "level": 60,
+    "level": 210,
     "maxQuality": 3300,
     "name": {
       "de": "Loaghtan-Steak",
@@ -9120,10 +9120,10 @@
     "suggestedCraftsmanship": 850
   },
   {
-    "baseLevel": 180,
+    "baseLevel": 60,
     "difficulty": 740,
     "durability": 70,
-    "level": 60,
+    "level": 180,
     "maxQuality": 2900,
     "name": {
       "de": "Austern-Confit",
@@ -9139,10 +9139,10 @@
     "suggestedCraftsmanship": 718
   },
   {
-    "baseLevel": 180,
+    "baseLevel": 60,
     "difficulty": 740,
     "durability": 70,
-    "level": 60,
+    "level": 180,
     "maxQuality": 2900,
     "name": {
       "de": "Anglerfisch-Eintopf",
@@ -9158,10 +9158,10 @@
     "suggestedCraftsmanship": 718
   },
   {
-    "baseLevel": 180,
+    "baseLevel": 60,
     "difficulty": 740,
     "durability": 70,
-    "level": 60,
+    "level": 180,
     "maxQuality": 2900,
     "name": {
       "de": "Süßer Gnomenfisch",
@@ -9671,10 +9671,10 @@
     "suggestedCraftsmanship": 176
   },
   {
-    "baseLevel": 220,
+    "baseLevel": 60,
     "difficulty": 900,
     "durability": 70,
-    "level": 60,
+    "level": 220,
     "maxQuality": 3390,
     "name": {
       "de": "Himmelseier-Suppe",
@@ -9690,10 +9690,10 @@
     "suggestedCraftsmanship": 870
   },
   {
-    "baseLevel": 220,
+    "baseLevel": 60,
     "difficulty": 900,
     "durability": 70,
-    "level": 60,
+    "level": 220,
     "maxQuality": 3390,
     "name": {
       "de": "Pasta Ortolano",
@@ -9709,10 +9709,10 @@
     "suggestedCraftsmanship": 870
   },
   {
-    "baseLevel": 250,
+    "baseLevel": 60,
     "difficulty": 1000,
     "durability": 70,
-    "level": 60,
+    "level": 250,
     "maxQuality": 3800,
     "name": {
       "de": "Himmlischer Eierflip",
@@ -9728,10 +9728,10 @@
     "suggestedCraftsmanship": 995
   },
   {
-    "baseLevel": 250,
+    "baseLevel": 60,
     "difficulty": 1000,
     "durability": 70,
-    "level": 60,
+    "level": 250,
     "maxQuality": 3800,
     "name": {
       "de": "Apfel-Flaugnarde",
@@ -9747,10 +9747,10 @@
     "suggestedCraftsmanship": 995
   },
   {
-    "baseLevel": 250,
+    "baseLevel": 60,
     "difficulty": 1000,
     "durability": 70,
-    "level": 60,
+    "level": 250,
     "maxQuality": 3800,
     "name": {
       "de": "Carbonara",
@@ -9766,10 +9766,10 @@
     "suggestedCraftsmanship": 995
   },
   {
-    "baseLevel": 250,
+    "baseLevel": 60,
     "difficulty": 1000,
     "durability": 70,
-    "level": 60,
+    "level": 250,
     "maxQuality": 3800,
     "name": {
       "de": "Pilzomelett",
@@ -9785,10 +9785,10 @@
     "suggestedCraftsmanship": 995
   },
   {
-    "baseLevel": 250,
+    "baseLevel": 60,
     "difficulty": 1000,
     "durability": 70,
-    "level": 60,
+    "level": 250,
     "maxQuality": 3800,
     "name": {
       "de": "Pescatole",
@@ -9804,10 +9804,10 @@
     "suggestedCraftsmanship": 995
   },
   {
-    "baseLevel": 250,
+    "baseLevel": 60,
     "difficulty": 1000,
     "durability": 70,
-    "level": 60,
+    "level": 250,
     "maxQuality": 3800,
     "name": {
       "de": "Cordon bleu vom Loaghtan",
@@ -9823,10 +9823,10 @@
     "suggestedCraftsmanship": 995
   },
   {
-    "baseLevel": 250,
+    "baseLevel": 60,
     "difficulty": 1000,
     "durability": 70,
-    "level": 60,
+    "level": 250,
     "maxQuality": 3800,
     "name": {
       "de": "Priester-Omelett",
@@ -9842,10 +9842,10 @@
     "suggestedCraftsmanship": 995
   },
   {
-    "baseLevel": 142,
+    "baseLevel": 57,
     "difficulty": 460,
     "durability": 70,
-    "level": 57,
+    "level": 142,
     "maxQuality": 2490,
     "name": {
       "de": "Komponente einer nahöstlichen Antiquität",
@@ -9861,10 +9861,10 @@
     "suggestedCraftsmanship": 560
   },
   {
-    "baseLevel": 142,
+    "baseLevel": 57,
     "difficulty": 460,
     "durability": 70,
-    "level": 57,
+    "level": 142,
     "maxQuality": 2490,
     "name": {
       "de": "Nahöstliche Antiquität",
@@ -9880,10 +9880,10 @@
     "suggestedCraftsmanship": 560
   },
   {
-    "baseLevel": 145,
+    "baseLevel": 58,
     "difficulty": 500,
     "durability": 70,
-    "level": 58,
+    "level": 145,
     "maxQuality": 2560,
     "name": {
       "de": "Komponente eines coerthischen Souvenirs",
@@ -9899,10 +9899,10 @@
     "suggestedCraftsmanship": 570
   },
   {
-    "baseLevel": 145,
+    "baseLevel": 58,
     "difficulty": 500,
     "durability": 70,
-    "level": 58,
+    "level": 145,
     "maxQuality": 2560,
     "name": {
       "de": "Coerthisches Souvenir",
@@ -9918,10 +9918,10 @@
     "suggestedCraftsmanship": 570
   },
   {
-    "baseLevel": 148,
+    "baseLevel": 59,
     "difficulty": 540,
     "durability": 70,
-    "level": 59,
+    "level": 148,
     "maxQuality": 2630,
     "name": {
       "de": "Komponente eines Stücks Mahlstrom-Ausrüstung",
@@ -9937,10 +9937,10 @@
     "suggestedCraftsmanship": 580
   },
   {
-    "baseLevel": 148,
+    "baseLevel": 59,
     "difficulty": 540,
     "durability": 70,
-    "level": 59,
+    "level": 148,
     "maxQuality": 2630,
     "name": {
       "de": "Mahlstrom-Ausrüstung",
@@ -9956,10 +9956,10 @@
     "suggestedCraftsmanship": 580
   },
   {
-    "baseLevel": 150,
+    "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
-    "level": 60,
+    "level": 150,
     "maxQuality": 2700,
     "name": {
       "de": "Komponente eines innigen Geschenks",
@@ -9975,10 +9975,10 @@
     "suggestedCraftsmanship": 587
   },
   {
-    "baseLevel": 150,
+    "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
-    "level": 60,
+    "level": 150,
     "maxQuality": 2700,
     "name": {
       "de": "Inniges Geschenk",
@@ -9994,10 +9994,10 @@
     "suggestedCraftsmanship": 587
   },
   {
-    "baseLevel": 160,
+    "baseLevel": 60,
     "difficulty": 660,
     "durability": 70,
-    "level": 60,
+    "level": 160,
     "maxQuality": 2800,
     "name": {
       "de": "Komponente einer Waisenhaus-Spende",
@@ -10013,10 +10013,10 @@
     "suggestedCraftsmanship": 620
   },
   {
-    "baseLevel": 160,
+    "baseLevel": 60,
     "difficulty": 660,
     "durability": 70,
-    "level": 60,
+    "level": 160,
     "maxQuality": 2800,
     "name": {
       "de": "Waisenhaus-Spende",
@@ -10032,10 +10032,10 @@
     "suggestedCraftsmanship": 620
   },
   {
-    "baseLevel": 270,
+    "baseLevel": 63,
     "difficulty": 730,
     "durability": 80,
-    "level": 63,
+    "level": 270,
     "maxQuality": 2970,
     "name": {
       "de": "Domanische Onigiri",
@@ -10051,10 +10051,10 @@
     "suggestedCraftsmanship": 1037
   },
   {
-    "baseLevel": 276,
+    "baseLevel": 65,
     "difficulty": 830,
     "durability": 80,
-    "level": 65,
+    "level": 276,
     "maxQuality": 3150,
     "name": {
       "de": "Udon-Suppe",
@@ -10070,10 +10070,10 @@
     "suggestedCraftsmanship": 1050
   },
   {
-    "baseLevel": 285,
+    "baseLevel": 68,
     "difficulty": 980,
     "durability": 80,
-    "level": 68,
+    "level": 285,
     "maxQuality": 3420,
     "name": {
       "de": "Sushi",
@@ -10089,10 +10089,10 @@
     "suggestedCraftsmanship": 1069
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Domanisches Sukiyaki",
@@ -10108,10 +10108,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 320,
+    "baseLevel": 70,
     "difficulty": 1200,
     "durability": 70,
-    "level": 70,
+    "level": 320,
     "maxQuality": 4800,
     "name": {
       "de": "Steppen-Tee",
@@ -10127,10 +10127,10 @@
     "suggestedCraftsmanship": 1320
   },
   {
-    "baseLevel": 320,
+    "baseLevel": 70,
     "difficulty": 1200,
     "durability": 70,
-    "level": 70,
+    "level": 320,
     "maxQuality": 4800,
     "name": {
       "de": "Kakuni",
@@ -10146,10 +10146,10 @@
     "suggestedCraftsmanship": 1320
   },
   {
-    "baseLevel": 320,
+    "baseLevel": 70,
     "difficulty": 1200,
     "durability": 70,
-    "level": 70,
+    "level": 320,
     "maxQuality": 4800,
     "name": {
       "de": "Schweinefleischeintopf",
@@ -10165,10 +10165,10 @@
     "suggestedCraftsmanship": 1320
   },
   {
-    "baseLevel": 320,
+    "baseLevel": 70,
     "difficulty": 1200,
     "durability": 70,
-    "level": 70,
+    "level": 320,
     "maxQuality": 4800,
     "name": {
       "de": "Othardischer Lachs nach Müllerinart",
@@ -10184,10 +10184,10 @@
     "suggestedCraftsmanship": 1320
   },
   {
-    "baseLevel": 320,
+    "baseLevel": 70,
     "difficulty": 1200,
     "durability": 70,
-    "level": 70,
+    "level": 320,
     "maxQuality": 4800,
     "name": {
       "de": "Hinganische Eierspeise",
@@ -10203,10 +10203,10 @@
     "suggestedCraftsmanship": 1320
   },
   {
-    "baseLevel": 150,
+    "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
-    "level": 60,
+    "level": 150,
     "maxQuality": 2700,
     "name": {
       "de": "Komponente eines abanischen Souvenirs",
@@ -10222,10 +10222,10 @@
     "suggestedCraftsmanship": 587
   },
   {
-    "baseLevel": 150,
+    "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
-    "level": 60,
+    "level": 150,
     "maxQuality": 2700,
     "name": {
       "de": "Abanische Spezialität",
@@ -10241,10 +10241,10 @@
     "suggestedCraftsmanship": 587
   },
   {
-    "baseLevel": 160,
+    "baseLevel": 60,
     "difficulty": 660,
     "durability": 70,
-    "level": 60,
+    "level": 160,
     "maxQuality": 2800,
     "name": {
       "de": "Komponente einer fernöstlichen Antiquität",
@@ -10260,10 +10260,10 @@
     "suggestedCraftsmanship": 620
   },
   {
-    "baseLevel": 160,
+    "baseLevel": 60,
     "difficulty": 660,
     "durability": 70,
-    "level": 60,
+    "level": 160,
     "maxQuality": 2800,
     "name": {
       "de": "Fernöstliche Antiquität",
@@ -10279,10 +10279,10 @@
     "suggestedCraftsmanship": 620
   },
   {
-    "baseLevel": 255,
+    "baseLevel": 61,
     "difficulty": 630,
     "durability": 80,
-    "level": 61,
+    "level": 255,
     "maxQuality": 2790,
     "name": {
       "de": "Komponente eines Gold Saucer-Trostpreises",
@@ -10298,10 +10298,10 @@
     "suggestedCraftsmanship": 1006
   },
   {
-    "baseLevel": 255,
+    "baseLevel": 61,
     "difficulty": 630,
     "durability": 80,
-    "level": 61,
+    "level": 255,
     "maxQuality": 2790,
     "name": {
       "de": "Trostpreis für den Gold Saucer",
@@ -10317,10 +10317,10 @@
     "suggestedCraftsmanship": 1006
   },
   {
-    "baseLevel": 265,
+    "baseLevel": 62,
     "difficulty": 680,
     "durability": 80,
-    "level": 62,
+    "level": 265,
     "maxQuality": 2880,
     "name": {
       "de": "Komponente für Jagdbedarf für die M",
@@ -10336,10 +10336,10 @@
     "suggestedCraftsmanship": 1027
   },
   {
-    "baseLevel": 265,
+    "baseLevel": 62,
     "difficulty": 680,
     "durability": 80,
-    "level": 62,
+    "level": 265,
     "maxQuality": 2880,
     "name": {
       "de": "Jagdbedarf",
@@ -10355,10 +10355,10 @@
     "suggestedCraftsmanship": 1027
   },
   {
-    "baseLevel": 270,
+    "baseLevel": 63,
     "difficulty": 730,
     "durability": 80,
-    "level": 63,
+    "level": 270,
     "maxQuality": 2970,
     "name": {
       "de": "Komponente eines Stücks Be<SoftHyphen/>freiungs<SoftHyphen/>armee-Ausrüstung",
@@ -10374,10 +10374,10 @@
     "suggestedCraftsmanship": 1037
   },
   {
-    "baseLevel": 270,
+    "baseLevel": 63,
     "difficulty": 730,
     "durability": 80,
-    "level": 63,
+    "level": 270,
     "maxQuality": 2970,
     "name": {
       "de": "Rucksack für die Be<SoftHyphen/>freiungs<SoftHyphen/>armee",
@@ -10393,10 +10393,10 @@
     "suggestedCraftsmanship": 1037
   },
   {
-    "baseLevel": 350,
+    "baseLevel": 70,
     "difficulty": 1350,
     "durability": 70,
-    "level": 70,
+    "level": 350,
     "maxQuality": 5200,
     "name": {
       "de": "Takoyaki",
@@ -10412,10 +10412,10 @@
     "suggestedCraftsmanship": 1500
   },
   {
-    "baseLevel": 350,
+    "baseLevel": 70,
     "difficulty": 1350,
     "durability": 70,
-    "level": 70,
+    "level": 350,
     "maxQuality": 5200,
     "name": {
       "de": "Futomaki-Rolle",
@@ -10431,10 +10431,10 @@
     "suggestedCraftsmanship": 1500
   },
   {
-    "baseLevel": 350,
+    "baseLevel": 70,
     "difficulty": 1350,
     "durability": 70,
-    "level": 70,
+    "level": 350,
     "maxQuality": 5200,
     "name": {
       "de": "Oden",
@@ -10450,10 +10450,10 @@
     "suggestedCraftsmanship": 1500
   },
   {
-    "baseLevel": 350,
+    "baseLevel": 70,
     "difficulty": 1350,
     "durability": 70,
-    "level": 70,
+    "level": 350,
     "maxQuality": 5200,
     "name": {
       "de": "Dzo-Steak",
@@ -10469,10 +10469,10 @@
     "suggestedCraftsmanship": 1500
   },
   {
-    "baseLevel": 350,
+    "baseLevel": 70,
     "difficulty": 1350,
     "durability": 70,
-    "level": 70,
+    "level": 350,
     "maxQuality": 5200,
     "name": {
       "de": "Purpur-Apfelsaft",
@@ -10488,10 +10488,10 @@
     "suggestedCraftsmanship": 1500
   },
   {
-    "baseLevel": 350,
+    "baseLevel": 70,
     "difficulty": 1350,
     "durability": 70,
-    "level": 70,
+    "level": 350,
     "maxQuality": 5200,
     "name": {
       "de": "Gebratener Lauch",
@@ -10507,10 +10507,10 @@
     "suggestedCraftsmanship": 1500
   },
   {
-    "baseLevel": 350,
+    "baseLevel": 70,
     "difficulty": 1350,
     "durability": 70,
-    "level": 70,
+    "level": 350,
     "maxQuality": 5200,
     "name": {
       "de": "Tofu-Pfannkuchen",
@@ -10526,10 +10526,10 @@
     "suggestedCraftsmanship": 1500
   },
   {
-    "baseLevel": 145,
+    "baseLevel": 58,
     "difficulty": 500,
     "durability": 70,
-    "level": 58,
+    "level": 145,
     "maxQuality": 2560,
     "name": {
       "de": "Happi-Element",
@@ -10545,10 +10545,10 @@
     "suggestedCraftsmanship": 570
   },
   {
-    "baseLevel": 148,
+    "baseLevel": 59,
     "difficulty": 540,
     "durability": 70,
-    "level": 59,
+    "level": 148,
     "maxQuality": 2630,
     "name": {
       "de": "Altarelement",
@@ -10564,10 +10564,10 @@
     "suggestedCraftsmanship": 580
   },
   {
-    "baseLevel": 150,
+    "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
-    "level": 60,
+    "level": 150,
     "maxQuality": 2700,
     "name": {
       "de": "Mikoshi-Element",
@@ -10583,10 +10583,10 @@
     "suggestedCraftsmanship": 587
   },
   {
-    "baseLevel": 150,
+    "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
-    "level": 60,
+    "level": 150,
     "maxQuality": 2700,
     "name": {
       "de": "Scherenteil",
@@ -10602,10 +10602,10 @@
     "suggestedCraftsmanship": 587
   },
   {
-    "baseLevel": 150,
+    "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
-    "level": 60,
+    "level": 150,
     "maxQuality": 2700,
     "name": {
       "de": "Trommelwerkstoff",
@@ -10621,10 +10621,10 @@
     "suggestedCraftsmanship": 587
   },
   {
-    "baseLevel": 150,
+    "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
-    "level": 60,
+    "level": 150,
     "maxQuality": 2700,
     "name": {
       "de": "Konfettiwerkzeug",
@@ -10640,10 +10640,10 @@
     "suggestedCraftsmanship": 587
   },
   {
-    "baseLevel": 150,
+    "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
-    "level": 60,
+    "level": 150,
     "maxQuality": 2700,
     "name": {
       "de": "Kochwerkzeug",
@@ -10659,10 +10659,10 @@
     "suggestedCraftsmanship": 587
   },
   {
-    "baseLevel": 150,
+    "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
-    "level": 60,
+    "level": 150,
     "maxQuality": 2700,
     "name": {
       "de": "Ritualbogenelement",
@@ -10678,10 +10678,10 @@
     "suggestedCraftsmanship": 587
   },
   {
-    "baseLevel": 150,
+    "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
-    "level": 60,
+    "level": 150,
     "maxQuality": 2700,
     "name": {
       "de": "Utensil für die Pferdezucht",
@@ -10697,10 +10697,10 @@
     "suggestedCraftsmanship": 587
   },
   {
-    "baseLevel": 150,
+    "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
-    "level": 60,
+    "level": 150,
     "maxQuality": 2700,
     "name": {
       "de": "Messerteil",
@@ -10716,10 +10716,10 @@
     "suggestedCraftsmanship": 587
   },
   {
-    "baseLevel": 150,
+    "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
-    "level": 60,
+    "level": 150,
     "maxQuality": 2700,
     "name": {
       "de": "Dankeschön-Geschenk",
@@ -10735,10 +10735,10 @@
     "suggestedCraftsmanship": 587
   },
   {
-    "baseLevel": 150,
+    "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
-    "level": 60,
+    "level": 150,
     "maxQuality": 2700,
     "name": {
       "de": "Destillierapparat-Ersatzteil",
@@ -10754,10 +10754,10 @@
     "suggestedCraftsmanship": 587
   },
   {
-    "baseLevel": 150,
+    "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
-    "level": 60,
+    "level": 150,
     "maxQuality": 2700,
     "name": {
       "de": "Namazuo-Puppenelement",
@@ -10773,10 +10773,10 @@
     "suggestedCraftsmanship": 587
   },
   {
-    "baseLevel": 145,
+    "baseLevel": 58,
     "difficulty": 500,
     "durability": 70,
-    "level": 58,
+    "level": 145,
     "maxQuality": 2560,
     "name": {
       "de": "Tauschware",
@@ -10792,10 +10792,10 @@
     "suggestedCraftsmanship": 570
   },
   {
-    "baseLevel": 145,
+    "baseLevel": 58,
     "difficulty": 500,
     "durability": 70,
-    "level": 58,
+    "level": 145,
     "maxQuality": 2560,
     "name": {
       "de": "Reinigungsfetisch",
@@ -10811,10 +10811,10 @@
     "suggestedCraftsmanship": 570
   },
   {
-    "baseLevel": 145,
+    "baseLevel": 58,
     "difficulty": 500,
     "durability": 70,
-    "level": 58,
+    "level": 145,
     "maxQuality": 2560,
     "name": {
       "de": "Feuerschalenteil",
@@ -10830,10 +10830,10 @@
     "suggestedCraftsmanship": 570
   },
   {
-    "baseLevel": 145,
+    "baseLevel": 58,
     "difficulty": 500,
     "durability": 70,
-    "level": 58,
+    "level": 145,
     "maxQuality": 2560,
     "name": {
       "de": "Fächerteil",
@@ -10849,10 +10849,10 @@
     "suggestedCraftsmanship": 570
   },
   {
-    "baseLevel": 145,
+    "baseLevel": 58,
     "difficulty": 500,
     "durability": 70,
-    "level": 58,
+    "level": 145,
     "maxQuality": 2560,
     "name": {
       "de": "Kleinigkeit",
@@ -10868,10 +10868,10 @@
     "suggestedCraftsmanship": 570
   },
   {
-    "baseLevel": 148,
+    "baseLevel": 59,
     "difficulty": 540,
     "durability": 70,
-    "level": 59,
+    "level": 148,
     "maxQuality": 2630,
     "name": {
       "de": "Wels-Köder",
@@ -10887,10 +10887,10 @@
     "suggestedCraftsmanship": 580
   },
   {
-    "baseLevel": 148,
+    "baseLevel": 59,
     "difficulty": 540,
     "durability": 70,
-    "level": 59,
+    "level": 148,
     "maxQuality": 2630,
     "name": {
       "de": "Handelsware",
@@ -10906,10 +10906,10 @@
     "suggestedCraftsmanship": 580
   },
   {
-    "baseLevel": 148,
+    "baseLevel": 59,
     "difficulty": 540,
     "durability": 70,
-    "level": 59,
+    "level": 148,
     "maxQuality": 2630,
     "name": {
       "de": "Ritualgegenstand zur Ahnenverehrung",
@@ -10925,10 +10925,10 @@
     "suggestedCraftsmanship": 580
   },
   {
-    "baseLevel": 148,
+    "baseLevel": 59,
     "difficulty": 540,
     "durability": 70,
-    "level": 59,
+    "level": 148,
     "maxQuality": 2630,
     "name": {
       "de": "Buuds-Kochutensil",
@@ -10944,10 +10944,10 @@
     "suggestedCraftsmanship": 580
   },
   {
-    "baseLevel": 148,
+    "baseLevel": 59,
     "difficulty": 540,
     "durability": 70,
-    "level": 59,
+    "level": 148,
     "maxQuality": 2630,
     "name": {
       "de": "Tee-Bedarfsartikel",
@@ -10963,10 +10963,10 @@
     "suggestedCraftsmanship": 580
   },
   {
-    "baseLevel": 148,
+    "baseLevel": 59,
     "difficulty": 540,
     "durability": 70,
-    "level": 59,
+    "level": 148,
     "maxQuality": 2630,
     "name": {
       "de": "Opfergabe",
@@ -10982,10 +10982,10 @@
     "suggestedCraftsmanship": 580
   },
   {
-    "baseLevel": 150,
+    "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
-    "level": 60,
+    "level": 150,
     "maxQuality": 2700,
     "name": {
       "de": "Festliches Wurfgeschoss",
@@ -11001,10 +11001,10 @@
     "suggestedCraftsmanship": 587
   },
   {
-    "baseLevel": 150,
+    "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
-    "level": 60,
+    "level": 150,
     "maxQuality": 2700,
     "name": {
       "de": "Zubehörteil für ein Naghol-Sprungseil",
@@ -11020,10 +11020,10 @@
     "suggestedCraftsmanship": 587
   },
   {
-    "baseLevel": 150,
+    "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
-    "level": 60,
+    "level": 150,
     "maxQuality": 2700,
     "name": {
       "de": "Bezaubernde Korrigane-Puppe",
@@ -11039,10 +11039,10 @@
     "suggestedCraftsmanship": 587
   },
   {
-    "baseLevel": 265,
+    "baseLevel": 62,
     "difficulty": 680,
     "durability": 80,
-    "level": 62,
+    "level": 265,
     "maxQuality": 2880,
     "name": {
       "de": "Komponente abanischer Medizin",
@@ -11058,10 +11058,10 @@
     "suggestedCraftsmanship": 1027
   },
   {
-    "baseLevel": 265,
+    "baseLevel": 62,
     "difficulty": 680,
     "durability": 80,
-    "level": 62,
+    "level": 265,
     "maxQuality": 2880,
     "name": {
       "de": "Phiolenset abanischer Medizin",
@@ -11077,10 +11077,10 @@
     "suggestedCraftsmanship": 1027
   },
   {
-    "baseLevel": 265,
+    "baseLevel": 62,
     "difficulty": 680,
     "durability": 80,
-    "level": 62,
+    "level": 265,
     "maxQuality": 2880,
     "name": {
       "de": "Komponente einer Haifischharpune",
@@ -11096,10 +11096,10 @@
     "suggestedCraftsmanship": 1027
   },
   {
-    "baseLevel": 265,
+    "baseLevel": 62,
     "difficulty": 680,
     "durability": 80,
-    "level": 62,
+    "level": 265,
     "maxQuality": 2880,
     "name": {
       "de": "Haifischharpune",
@@ -11115,10 +11115,10 @@
     "suggestedCraftsmanship": 1027
   },
   {
-    "baseLevel": 270,
+    "baseLevel": 63,
     "difficulty": 730,
     "durability": 80,
-    "level": 63,
+    "level": 270,
     "maxQuality": 2970,
     "name": {
       "de": "Komponente coerthischer Winterkleidung",
@@ -11134,10 +11134,10 @@
     "suggestedCraftsmanship": 1037
   },
   {
-    "baseLevel": 270,
+    "baseLevel": 63,
     "difficulty": 730,
     "durability": 80,
-    "level": 63,
+    "level": 270,
     "maxQuality": 2970,
     "name": {
       "de": "Coerthischer Wintermantel",
@@ -11153,10 +11153,10 @@
     "suggestedCraftsmanship": 1037
   },
   {
-    "baseLevel": 270,
+    "baseLevel": 63,
     "difficulty": 730,
     "durability": 80,
-    "level": 63,
+    "level": 270,
     "maxQuality": 2970,
     "name": {
       "de": "Komponente einer Kostbarkeit aus Sui no Sato",
@@ -11172,10 +11172,10 @@
     "suggestedCraftsmanship": 1037
   },
   {
-    "baseLevel": 270,
+    "baseLevel": 63,
     "difficulty": 730,
     "durability": 80,
-    "level": 63,
+    "level": 270,
     "maxQuality": 2970,
     "name": {
       "de": "Kostbarkeit aus Sui no Sato",
@@ -11191,10 +11191,10 @@
     "suggestedCraftsmanship": 1037
   },
   {
-    "baseLevel": 273,
+    "baseLevel": 64,
     "difficulty": 780,
     "durability": 80,
-    "level": 64,
+    "level": 273,
     "maxQuality": 3060,
     "name": {
       "de": "Komponente einer Wolkenmeerperle",
@@ -11210,10 +11210,10 @@
     "suggestedCraftsmanship": 1044
   },
   {
-    "baseLevel": 273,
+    "baseLevel": 64,
     "difficulty": 780,
     "durability": 80,
-    "level": 64,
+    "level": 273,
     "maxQuality": 3060,
     "name": {
       "de": "Wolkenmeerperle",
@@ -11229,10 +11229,10 @@
     "suggestedCraftsmanship": 1044
   },
   {
-    "baseLevel": 350,
+    "baseLevel": 70,
     "difficulty": 1350,
     "durability": 70,
-    "level": 70,
+    "level": 350,
     "maxQuality": 5200,
     "name": {
       "de": "Konpeito",
@@ -11248,10 +11248,10 @@
     "suggestedCraftsmanship": 1500
   },
   {
-    "baseLevel": 350,
+    "baseLevel": 70,
     "difficulty": 1350,
     "durability": 70,
-    "level": 70,
+    "level": 350,
     "maxQuality": 5200,
     "name": {
       "de": "Banh Xeo",
@@ -11267,10 +11267,10 @@
     "suggestedCraftsmanship": 1500
   },
   {
-    "baseLevel": 350,
+    "baseLevel": 70,
     "difficulty": 1350,
     "durability": 70,
-    "level": 70,
+    "level": 350,
     "maxQuality": 5200,
     "name": {
       "de": "Matcha-Tee",
@@ -11286,10 +11286,10 @@
     "suggestedCraftsmanship": 1500
   },
   {
-    "baseLevel": 350,
+    "baseLevel": 70,
     "difficulty": 1350,
     "durability": 70,
-    "level": 70,
+    "level": 350,
     "maxQuality": 5200,
     "name": {
       "de": "Ema Datshi",
@@ -11305,10 +11305,10 @@
     "suggestedCraftsmanship": 1500
   },
   {
-    "baseLevel": 380,
+    "baseLevel": 70,
     "difficulty": 1500,
     "durability": 70,
-    "level": 70,
+    "level": 380,
     "maxQuality": 6100,
     "name": {
       "de": "Rooibos-Tee",
@@ -11324,10 +11324,10 @@
     "suggestedCraftsmanship": 1650
   },
   {
-    "baseLevel": 380,
+    "baseLevel": 70,
     "difficulty": 1500,
     "durability": 70,
-    "level": 70,
+    "level": 380,
     "maxQuality": 6100,
     "name": {
       "de": "Ingwersalat",
@@ -11343,10 +11343,10 @@
     "suggestedCraftsmanship": 1650
   },
   {
-    "baseLevel": 380,
+    "baseLevel": 70,
     "difficulty": 1500,
     "durability": 70,
-    "level": 70,
+    "level": 380,
     "maxQuality": 6100,
     "name": {
       "de": "Laghman",
@@ -11362,10 +11362,10 @@
     "suggestedCraftsmanship": 1650
   },
   {
-    "baseLevel": 380,
+    "baseLevel": 70,
     "difficulty": 1500,
     "durability": 70,
-    "level": 70,
+    "level": 380,
     "maxQuality": 6100,
     "name": {
       "de": "Patlican Imam Bayildi",
@@ -11381,10 +11381,10 @@
     "suggestedCraftsmanship": 1650
   },
   {
-    "baseLevel": 380,
+    "baseLevel": 70,
     "difficulty": 1500,
     "durability": 70,
-    "level": 70,
+    "level": 380,
     "maxQuality": 6100,
     "name": {
       "de": "Papanasi",
@@ -11400,10 +11400,10 @@
     "suggestedCraftsmanship": 1650
   },
   {
-    "baseLevel": 380,
+    "baseLevel": 70,
     "difficulty": 1500,
     "durability": 70,
-    "level": 70,
+    "level": 380,
     "maxQuality": 6100,
     "name": {
       "de": "Lachs-Muffin",
@@ -11419,10 +11419,10 @@
     "suggestedCraftsmanship": 1650
   },
   {
-    "baseLevel": 380,
+    "baseLevel": 70,
     "difficulty": 1500,
     "durability": 70,
-    "level": 70,
+    "level": 380,
     "maxQuality": 6100,
     "name": {
       "de": "Shakshouka",
@@ -11438,10 +11438,10 @@
     "suggestedCraftsmanship": 1650
   },
   {
-    "baseLevel": 279,
+    "baseLevel": 66,
     "difficulty": 880,
     "durability": 80,
-    "level": 66,
+    "level": 279,
     "maxQuality": 3240,
     "name": {
       "de": "Komponente eines Ishgarder Kochutensils",
@@ -11457,10 +11457,10 @@
     "suggestedCraftsmanship": 1056
   },
   {
-    "baseLevel": 279,
+    "baseLevel": 66,
     "difficulty": 880,
     "durability": 80,
-    "level": 66,
+    "level": 279,
     "maxQuality": 3240,
     "name": {
       "de": "Ishgarder Kochutensil",
@@ -11476,10 +11476,10 @@
     "suggestedCraftsmanship": 1056
   },
   {
-    "baseLevel": 279,
+    "baseLevel": 66,
     "difficulty": 880,
     "durability": 80,
-    "level": 66,
+    "level": 279,
     "maxQuality": 3240,
     "name": {
       "de": "Komponente eines Spirituosenzubehörteils",
@@ -11495,10 +11495,10 @@
     "suggestedCraftsmanship": 1056
   },
   {
-    "baseLevel": 279,
+    "baseLevel": 66,
     "difficulty": 880,
     "durability": 80,
-    "level": 66,
+    "level": 279,
     "maxQuality": 3240,
     "name": {
       "de": "Spirituosenzubehörteil",
@@ -11514,10 +11514,10 @@
     "suggestedCraftsmanship": 1056
   },
   {
-    "baseLevel": 282,
+    "baseLevel": 67,
     "difficulty": 930,
     "durability": 80,
-    "level": 67,
+    "level": 282,
     "maxQuality": 3330,
     "name": {
       "de": "Komponente eines Buuds-Kochutensils",
@@ -11533,10 +11533,10 @@
     "suggestedCraftsmanship": 1063
   },
   {
-    "baseLevel": 282,
+    "baseLevel": 67,
     "difficulty": 930,
     "durability": 80,
-    "level": 67,
+    "level": 282,
     "maxQuality": 3330,
     "name": {
       "de": "Klippenhänger-Buuds-Kochutensil",
@@ -11552,10 +11552,10 @@
     "suggestedCraftsmanship": 1063
   },
   {
-    "baseLevel": 282,
+    "baseLevel": 67,
     "difficulty": 930,
     "durability": 80,
-    "level": 67,
+    "level": 282,
     "maxQuality": 3330,
     "name": {
       "de": "Komponente eines Klippenhänger-Einrichtungsgegenstands",
@@ -11571,10 +11571,10 @@
     "suggestedCraftsmanship": 1063
   },
   {
-    "baseLevel": 282,
+    "baseLevel": 67,
     "difficulty": 930,
     "durability": 80,
-    "level": 67,
+    "level": 282,
     "maxQuality": 3330,
     "name": {
       "de": "Klippenhänger-Einrichtungsgegenstand",
@@ -11590,10 +11590,10 @@
     "suggestedCraftsmanship": 1063
   },
   {
-    "baseLevel": 285,
+    "baseLevel": 68,
     "difficulty": 980,
     "durability": 80,
-    "level": 68,
+    "level": 285,
     "maxQuality": 3420,
     "name": {
       "de": "Komponente eines Arkhi-Destillierutensils",
@@ -11609,10 +11609,10 @@
     "suggestedCraftsmanship": 1069
   },
   {
-    "baseLevel": 285,
+    "baseLevel": 68,
     "difficulty": 980,
     "durability": 80,
-    "level": 68,
+    "level": 285,
     "maxQuality": 3420,
     "name": {
       "de": "Arkhi-Destillierutensil",
@@ -11628,10 +11628,10 @@
     "suggestedCraftsmanship": 1069
   },
   {
-    "baseLevel": 450,
+    "baseLevel": 80,
     "difficulty": 2050,
     "durability": 70,
-    "level": 80,
+    "level": 450,
     "maxQuality": 7900,
     "name": {
       "de": "Cremelachs-Spaghetti",
@@ -11647,10 +11647,10 @@
     "suggestedCraftsmanship": 2140
   },
   {
-    "baseLevel": 450,
+    "baseLevel": 80,
     "difficulty": 2050,
     "durability": 70,
-    "level": 80,
+    "level": 450,
     "maxQuality": 7900,
     "name": {
       "de": "Monarchenlachs nach Müllerinart",
@@ -11666,10 +11666,10 @@
     "suggestedCraftsmanship": 2140
   },
   {
-    "baseLevel": 450,
+    "baseLevel": 80,
     "difficulty": 2050,
     "durability": 70,
-    "level": 80,
+    "level": 450,
     "maxQuality": 7900,
     "name": {
       "de": "Toffelsalat",
@@ -11685,10 +11685,10 @@
     "suggestedCraftsmanship": 2140
   },
   {
-    "baseLevel": 450,
+    "baseLevel": 80,
     "difficulty": 2050,
     "durability": 70,
-    "level": 80,
+    "level": 450,
     "maxQuality": 7900,
     "name": {
       "de": "Bataviasalat",
@@ -11704,10 +11704,10 @@
     "suggestedCraftsmanship": 2140
   },
   {
-    "baseLevel": 450,
+    "baseLevel": 80,
     "difficulty": 2050,
     "durability": 70,
-    "level": 80,
+    "level": 450,
     "maxQuality": 7900,
     "name": {
       "de": "Pixiebeeren-Tee",
@@ -11723,10 +11723,10 @@
     "suggestedCraftsmanship": 2140
   },
   {
-    "baseLevel": 450,
+    "baseLevel": 80,
     "difficulty": 2050,
     "durability": 70,
-    "level": 80,
+    "level": 450,
     "maxQuality": 7900,
     "name": {
       "de": "Käsekuchen mit Beeren",
@@ -11742,10 +11742,10 @@
     "suggestedCraftsmanship": 2140
   },
   {
-    "baseLevel": 450,
+    "baseLevel": 80,
     "difficulty": 2050,
     "durability": 70,
-    "level": 80,
+    "level": 450,
     "maxQuality": 7900,
     "name": {
       "de": "Kukuru-Zwieback",
@@ -11761,10 +11761,10 @@
     "suggestedCraftsmanship": 2140
   },
   {
-    "baseLevel": 450,
+    "baseLevel": 80,
     "difficulty": 2050,
     "durability": 70,
-    "level": 80,
+    "level": 450,
     "maxQuality": 7900,
     "name": {
       "de": "Sachertorte mit Zitronencreme",
@@ -11780,10 +11780,10 @@
     "suggestedCraftsmanship": 2140
   },
   {
-    "baseLevel": 450,
+    "baseLevel": 80,
     "difficulty": 2050,
     "durability": 70,
-    "level": 80,
+    "level": 450,
     "maxQuality": 7900,
     "name": {
       "de": "Edler Rostbraten",
@@ -11799,10 +11799,10 @@
     "suggestedCraftsmanship": 2140
   },
   {
-    "baseLevel": 450,
+    "baseLevel": 80,
     "difficulty": 2050,
     "durability": 70,
-    "level": 80,
+    "level": 450,
     "maxQuality": 7900,
     "name": {
       "de": "Edler Rindereintopf",
@@ -11818,10 +11818,10 @@
     "suggestedCraftsmanship": 2140
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Entgiftende Brühe",
@@ -11837,10 +11837,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 400,
+    "baseLevel": 73,
     "difficulty": 1290,
     "durability": 80,
-    "level": 73,
+    "level": 400,
     "maxQuality": 3900,
     "name": {
       "de": "Proteinreiche Suppe",
@@ -11856,10 +11856,10 @@
     "suggestedCraftsmanship": 1457
   },
   {
-    "baseLevel": 406,
+    "baseLevel": 75,
     "difficulty": 1430,
     "durability": 80,
-    "level": 75,
+    "level": 406,
     "maxQuality": 4100,
     "name": {
       "de": "Stärkende Suppe",
@@ -11875,10 +11875,10 @@
     "suggestedCraftsmanship": 1539
   },
   {
-    "baseLevel": 415,
+    "baseLevel": 78,
     "difficulty": 1640,
     "durability": 80,
-    "level": 78,
+    "level": 415,
     "maxQuality": 4400,
     "name": {
       "de": "Berube-Futterkohl",
@@ -11894,10 +11894,10 @@
     "suggestedCraftsmanship": 1662
   },
   {
-    "baseLevel": 406,
+    "baseLevel": 75,
     "difficulty": 1430,
     "durability": 80,
-    "level": 75,
+    "level": 406,
     "maxQuality": 4100,
     "name": {
       "de": "Geschenk für die Pixies",
@@ -11913,10 +11913,10 @@
     "suggestedCraftsmanship": 1539
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Zun-Klöße",
@@ -11932,10 +11932,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 450,
+    "baseLevel": 80,
     "difficulty": 2050,
     "durability": 70,
-    "level": 80,
+    "level": 450,
     "maxQuality": 7900,
     "name": {
       "de": "Miserabelmuscheln al Ajillo",
@@ -11951,10 +11951,10 @@
     "suggestedCraftsmanship": 2140
   },
   {
-    "baseLevel": 450,
+    "baseLevel": 80,
     "difficulty": 2050,
     "durability": 70,
-    "level": 80,
+    "level": 450,
     "maxQuality": 7900,
     "name": {
       "de": "Schwarze Paella",
@@ -11970,10 +11970,10 @@
     "suggestedCraftsmanship": 2140
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Flugblattdruck-Utensil",
@@ -11989,10 +11989,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 300,
+    "baseLevel": 70,
     "difficulty": 1140,
     "durability": 70,
-    "level": 70,
+    "level": 300,
     "maxQuality": 4200,
     "name": {
       "de": "Menü-Komponenten",
@@ -12008,10 +12008,10 @@
     "suggestedCraftsmanship": 1100
   },
   {
-    "baseLevel": 390,
+    "baseLevel": 71,
     "difficulty": 1195,
     "durability": 80,
-    "level": 71,
+    "level": 390,
     "maxQuality": 3763,
     "name": {
       "de": "Bühnenkostümteil",
@@ -12027,10 +12027,10 @@
     "suggestedCraftsmanship": 1320
   },
   {
-    "baseLevel": 395,
+    "baseLevel": 72,
     "difficulty": 1220,
     "durability": 80,
-    "level": 72,
+    "level": 395,
     "maxQuality": 3800,
     "name": {
       "de": "Luftschiff-Komponente",
@@ -12046,10 +12046,10 @@
     "suggestedCraftsmanship": 1388
   },
   {
-    "baseLevel": 400,
+    "baseLevel": 73,
     "difficulty": 1290,
     "durability": 80,
-    "level": 73,
+    "level": 400,
     "maxQuality": 3900,
     "name": {
       "de": "Lustspielhaus-Souvenir",
@@ -12103,10 +12103,10 @@
     "suggestedCraftsmanship": 136
   },
   {
-    "baseLevel": 150,
+    "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
-    "level": 60,
+    "level": 150,
     "maxQuality": 2700,
     "name": {
       "de": "Himmelsstadt-Schwarztee",
@@ -12122,10 +12122,10 @@
     "suggestedCraftsmanship": 587
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Himmelsstadt-Kräuterbad",
@@ -12141,10 +12141,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Himmelsstadt-Eintopf",
@@ -12198,10 +12198,10 @@
     "suggestedCraftsmanship": 136
   },
   {
-    "baseLevel": 150,
+    "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
-    "level": 60,
+    "level": 150,
     "maxQuality": 2700,
     "name": {
       "de": "Genist-Schwarztee",
@@ -12217,10 +12217,10 @@
     "suggestedCraftsmanship": 587
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Genist-Kräuterbad",
@@ -12236,10 +12236,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Genist-Eintopf",
@@ -12255,10 +12255,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 481,
+    "baseLevel": 80,
     "difficulty": 3856,
     "durability": 70,
-    "level": 80,
+    "level": 481,
     "maxQuality": 12323,
     "name": {
       "de": "Sonderbestellte Genist-Torte",
@@ -12274,10 +12274,10 @@
     "suggestedCraftsmanship": 2484
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Werkstätten-Getreidesamenextrakt",
@@ -12293,10 +12293,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 450,
+    "baseLevel": 80,
     "difficulty": 2050,
     "durability": 70,
-    "level": 80,
+    "level": 450,
     "maxQuality": 7900,
     "name": {
       "de": "Werkstätten-Samenmehl",
@@ -12312,10 +12312,10 @@
     "suggestedCraftsmanship": 2140
   },
   {
-    "baseLevel": 480,
+    "baseLevel": 80,
     "difficulty": 2800,
     "durability": 70,
-    "level": 80,
+    "level": 480,
     "maxQuality": 8500,
     "name": {
       "de": "Ovim-Hackbällchen",
@@ -12331,10 +12331,10 @@
     "suggestedCraftsmanship": 2480
   },
   {
-    "baseLevel": 480,
+    "baseLevel": 80,
     "difficulty": 2800,
     "durability": 70,
-    "level": 80,
+    "level": 480,
     "maxQuality": 8500,
     "name": {
       "de": "Mors",
@@ -12350,10 +12350,10 @@
     "suggestedCraftsmanship": 2480
   },
   {
-    "baseLevel": 480,
+    "baseLevel": 80,
     "difficulty": 2800,
     "durability": 70,
-    "level": 80,
+    "level": 480,
     "maxQuality": 8500,
     "name": {
       "de": "Zitronenwaffel",
@@ -12369,10 +12369,10 @@
     "suggestedCraftsmanship": 2480
   },
   {
-    "baseLevel": 480,
+    "baseLevel": 80,
     "difficulty": 2800,
     "durability": 70,
-    "level": 80,
+    "level": 480,
     "maxQuality": 8500,
     "name": {
       "de": "Honighörnchen",
@@ -12388,10 +12388,10 @@
     "suggestedCraftsmanship": 2480
   },
   {
-    "baseLevel": 480,
+    "baseLevel": 80,
     "difficulty": 2800,
     "durability": 70,
-    "level": 80,
+    "level": 480,
     "maxQuality": 8500,
     "name": {
       "de": "Würstchen mit Sauerkraut",
@@ -12407,10 +12407,10 @@
     "suggestedCraftsmanship": 2480
   },
   {
-    "baseLevel": 480,
+    "baseLevel": 80,
     "difficulty": 2800,
     "durability": 70,
-    "level": 80,
+    "level": 480,
     "maxQuality": 8500,
     "name": {
       "de": "Krautwickel nach Hochländer Art",
@@ -12426,10 +12426,10 @@
     "suggestedCraftsmanship": 2480
   },
   {
-    "baseLevel": 480,
+    "baseLevel": 80,
     "difficulty": 2800,
     "durability": 70,
-    "level": 80,
+    "level": 480,
     "maxQuality": 8500,
     "name": {
       "de": "Marinierter Hering",
@@ -12445,10 +12445,10 @@
     "suggestedCraftsmanship": 2480
   },
   {
-    "baseLevel": 480,
+    "baseLevel": 80,
     "difficulty": 2800,
     "durability": 70,
-    "level": 80,
+    "level": 480,
     "maxQuality": 8500,
     "name": {
       "de": "Heringspastete",
@@ -12464,10 +12464,10 @@
     "suggestedCraftsmanship": 2480
   },
   {
-    "baseLevel": 480,
+    "baseLevel": 80,
     "difficulty": 2800,
     "durability": 70,
-    "level": 80,
+    "level": 480,
     "maxQuality": 8500,
     "name": {
       "de": "Bauernfrühstück",
@@ -12483,10 +12483,10 @@
     "suggestedCraftsmanship": 2480
   },
   {
-    "baseLevel": 480,
+    "baseLevel": 80,
     "difficulty": 2800,
     "durability": 70,
-    "level": 80,
+    "level": 480,
     "maxQuality": 8500,
     "name": {
       "de": "Seidenpudding",
@@ -12502,10 +12502,10 @@
     "suggestedCraftsmanship": 2480
   },
   {
-    "baseLevel": 480,
+    "baseLevel": 80,
     "difficulty": 2800,
     "durability": 70,
-    "level": 80,
+    "level": 480,
     "maxQuality": 8500,
     "name": {
       "de": "Krabbenküchlein",
@@ -12521,10 +12521,10 @@
     "suggestedCraftsmanship": 2480
   },
   {
-    "baseLevel": 480,
+    "baseLevel": 80,
     "difficulty": 2800,
     "durability": 70,
-    "level": 80,
+    "level": 480,
     "maxQuality": 8500,
     "name": {
       "de": "Chili-Krabbengericht",
@@ -12540,10 +12540,10 @@
     "suggestedCraftsmanship": 2480
   },
   {
-    "baseLevel": 390,
+    "baseLevel": 71,
     "difficulty": 1195,
     "durability": 80,
-    "level": 71,
+    "level": 390,
     "maxQuality": 3763,
     "name": {
       "de": "Komponenten für ein spezielles Sammlerwerkzeug",
@@ -12559,10 +12559,10 @@
     "suggestedCraftsmanship": 1320
   },
   {
-    "baseLevel": 395,
+    "baseLevel": 72,
     "difficulty": 1220,
     "durability": 80,
-    "level": 72,
+    "level": 395,
     "maxQuality": 3800,
     "name": {
       "de": "Komponenten für ein spezielles Weberwerkzeug",
@@ -12578,10 +12578,10 @@
     "suggestedCraftsmanship": 1388
   },
   {
-    "baseLevel": 400,
+    "baseLevel": 73,
     "difficulty": 1290,
     "durability": 80,
-    "level": 73,
+    "level": 400,
     "maxQuality": 3900,
     "name": {
       "de": "Komponenten für ein spezielles Werkzeug",
@@ -12597,10 +12597,10 @@
     "suggestedCraftsmanship": 1457
   },
   {
-    "baseLevel": 403,
+    "baseLevel": 74,
     "difficulty": 1360,
     "durability": 80,
-    "level": 74,
+    "level": 403,
     "maxQuality": 4000,
     "name": {
       "de": "Handverlesene kulinarische Köstlichkeiten",
@@ -12616,10 +12616,10 @@
     "suggestedCraftsmanship": 1498
   },
   {
-    "baseLevel": 406,
+    "baseLevel": 75,
     "difficulty": 1430,
     "durability": 80,
-    "level": 75,
+    "level": 406,
     "maxQuality": 4100,
     "name": {
       "de": "Druckutensilien",
@@ -12654,10 +12654,10 @@
     "suggestedCraftsmanship": 176
   },
   {
-    "baseLevel": 125,
+    "baseLevel": 52,
     "difficulty": 260,
     "durability": 80,
-    "level": 52,
+    "level": 125,
     "maxQuality": 2140,
     "name": {
       "de": "Mont Sohm Al-Süßspeise (Sammlerstück)",
@@ -12673,10 +12673,10 @@
     "suggestedCraftsmanship": 502
   },
   {
-    "baseLevel": 133,
+    "baseLevel": 54,
     "difficulty": 340,
     "durability": 80,
-    "level": 54,
+    "level": 133,
     "maxQuality": 2280,
     "name": {
       "de": "Porciniragout (Sammlerstück)",
@@ -12692,10 +12692,10 @@
     "suggestedCraftsmanship": 529
   },
   {
-    "baseLevel": 139,
+    "baseLevel": 56,
     "difficulty": 420,
     "durability": 70,
-    "level": 56,
+    "level": 139,
     "maxQuality": 2420,
     "name": {
       "de": "Eier Royal (Sammlerstück)",
@@ -12711,10 +12711,10 @@
     "suggestedCraftsmanship": 550
   },
   {
-    "baseLevel": 145,
+    "baseLevel": 58,
     "difficulty": 500,
     "durability": 70,
-    "level": 58,
+    "level": 145,
     "maxQuality": 2560,
     "name": {
       "de": "Peperoncino (Sammlerstück)",
@@ -12730,10 +12730,10 @@
     "suggestedCraftsmanship": 570
   },
   {
-    "baseLevel": 150,
+    "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
-    "level": 60,
+    "level": 150,
     "maxQuality": 2700,
     "name": {
       "de": "Glasierte Glanznüsse (Sammlerstück)",
@@ -12749,10 +12749,10 @@
     "suggestedCraftsmanship": 587
   },
   {
-    "baseLevel": 265,
+    "baseLevel": 62,
     "difficulty": 680,
     "durability": 80,
-    "level": 62,
+    "level": 265,
     "maxQuality": 2880,
     "name": {
       "de": "Baklava (Sammlerstück)",
@@ -12768,10 +12768,10 @@
     "suggestedCraftsmanship": 1027
   },
   {
-    "baseLevel": 273,
+    "baseLevel": 64,
     "difficulty": 780,
     "durability": 80,
-    "level": 64,
+    "level": 273,
     "maxQuality": 3060,
     "name": {
       "de": "Shorlog (Sammlerstück)",
@@ -12787,10 +12787,10 @@
     "suggestedCraftsmanship": 1044
   },
   {
-    "baseLevel": 279,
+    "baseLevel": 66,
     "difficulty": 880,
     "durability": 80,
-    "level": 66,
+    "level": 279,
     "maxQuality": 3240,
     "name": {
       "de": "Tempura-Platte (Sammlerstück)",
@@ -12806,10 +12806,10 @@
     "suggestedCraftsmanship": 1056
   },
   {
-    "baseLevel": 285,
+    "baseLevel": 68,
     "difficulty": 980,
     "durability": 80,
-    "level": 68,
+    "level": 285,
     "maxQuality": 3420,
     "name": {
       "de": "Kakipudding (Sammlerstück)",
@@ -12825,10 +12825,10 @@
     "suggestedCraftsmanship": 1069
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Chirashi-Sushi (Sammlerstück)",
@@ -12844,10 +12844,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 395,
+    "baseLevel": 72,
     "difficulty": 1220,
     "durability": 80,
-    "level": 72,
+    "level": 395,
     "maxQuality": 3800,
     "name": {
       "de": "Gegrillte Ralle (Sammlerstück)",
@@ -12863,10 +12863,10 @@
     "suggestedCraftsmanship": 1388
   },
   {
-    "baseLevel": 403,
+    "baseLevel": 74,
     "difficulty": 1360,
     "durability": 80,
-    "level": 74,
+    "level": 403,
     "maxQuality": 4000,
     "name": {
       "de": "Tintenschwarze Spaghetti (Sammlerstück)",
@@ -12882,10 +12882,10 @@
     "suggestedCraftsmanship": 1498
   },
   {
-    "baseLevel": 409,
+    "baseLevel": 76,
     "difficulty": 1500,
     "durability": 80,
-    "level": 76,
+    "level": 409,
     "maxQuality": 4200,
     "name": {
       "de": "Ockertoffel-Gratin (Sammlerstück)",
@@ -12901,10 +12901,10 @@
     "suggestedCraftsmanship": 1580
   },
   {
-    "baseLevel": 415,
+    "baseLevel": 78,
     "difficulty": 1640,
     "durability": 80,
-    "level": 78,
+    "level": 415,
     "maxQuality": 4400,
     "name": {
       "de": "Sahne-Espresso (Sammlerstück)",
@@ -12920,10 +12920,10 @@
     "suggestedCraftsmanship": 1662
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Werkstattzubehör",
@@ -12939,10 +12939,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Brauereikomponenten",
@@ -12958,10 +12958,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Geschützkomponenten",
@@ -12977,10 +12977,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Komponenten für eine Werkstattserweiterung",
@@ -12996,10 +12996,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Fließbandkomponenten",
@@ -13015,10 +13015,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Reparaturwerkzeug",
@@ -13034,10 +13034,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Pflegeprodukt für den Bart",
@@ -13053,10 +13053,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Zubehörteil des Zwergenpanzers",
@@ -13072,10 +13072,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Experimentelles Achsenzubehörteil",
@@ -13091,10 +13091,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Schreibutensil",
@@ -13110,10 +13110,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Hilfsmittel für die Stahlplattenproduktion",
@@ -13129,10 +13129,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Fassbestandteil",
@@ -13148,10 +13148,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Hilfsmittel für die Motorwartung",
@@ -13167,10 +13167,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Utensil zum Experimentieren mit Zwergensprit",
@@ -13186,10 +13186,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Kühlmittel",
@@ -13205,10 +13205,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Barzubehörteil",
@@ -13224,10 +13224,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Hitzebeständiger Bestandteil",
@@ -13243,10 +13243,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Handelsgut",
@@ -13262,10 +13262,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Zielscheibe",
@@ -13281,10 +13281,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Bestandteil der Panzerung des Zwergenpanzers",
@@ -13300,10 +13300,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Ronitts Muntermacher",
@@ -13319,10 +13319,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Auffälliges Zubehörteil",
@@ -13338,10 +13338,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Reparaturwerkstoff für Eisenbärte",
@@ -13357,10 +13357,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Unauffälliges Zubehörteil",
@@ -13376,10 +13376,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 460,
+    "baseLevel": 80,
     "difficulty": 2300,
     "durability": 70,
-    "level": 80,
+    "level": 460,
     "maxQuality": 8100,
     "name": {
       "de": "Werkstätten-Öl",
@@ -13395,10 +13395,10 @@
     "suggestedCraftsmanship": 2250
   },
   {
-    "baseLevel": 480,
+    "baseLevel": 80,
     "difficulty": 2800,
     "durability": 70,
-    "level": 80,
+    "level": 480,
     "maxQuality": 8500,
     "name": {
       "de": "Werkstätten-Klebstoff",
@@ -13452,10 +13452,10 @@
     "suggestedCraftsmanship": 136
   },
   {
-    "baseLevel": 150,
+    "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
-    "level": 60,
+    "level": 150,
     "maxQuality": 2700,
     "name": {
       "de": "Federfall-Schwarztee",
@@ -13471,10 +13471,10 @@
     "suggestedCraftsmanship": 587
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Federfall-Kräuterbad",
@@ -13490,10 +13490,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Federfall-Eintopf",
@@ -13509,10 +13509,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 511,
+    "baseLevel": 80,
     "difficulty": 4672,
     "durability": 70,
-    "level": 80,
+    "level": 511,
     "maxQuality": 15656,
     "name": {
       "de": "Sonderbestellter Federfall-Speiseteller",
@@ -13528,10 +13528,10 @@
     "suggestedCraftsmanship": 2620
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Limonade (Sammlerstück)",
@@ -13585,10 +13585,10 @@
     "suggestedCraftsmanship": 136
   },
   {
-    "baseLevel": 150,
+    "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
-    "level": 60,
+    "level": 150,
     "maxQuality": 2700,
     "name": {
       "de": "Himmelsang-Schwarztee",
@@ -13604,10 +13604,10 @@
     "suggestedCraftsmanship": 587
   },
   {
-    "baseLevel": 290,
+    "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
-    "level": 70,
+    "level": 290,
     "maxQuality": 3600,
     "name": {
       "de": "Himmelsang-Kräuterbad",
@@ -13623,10 +13623,10 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Himmelsang-Eintopf",
@@ -13642,10 +13642,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 513,
+    "baseLevel": 80,
     "difficulty": 5059,
     "durability": 70,
-    "level": 80,
+    "level": 513,
     "maxQuality": 15474,
     "name": {
       "de": "Sonderbestelltes Himmelsang-Sorbet",
@@ -13661,10 +13661,10 @@
     "suggestedCraftsmanship": 2620
   },
   {
-    "baseLevel": 510,
+    "baseLevel": 80,
     "difficulty": 3600,
     "durability": 70,
-    "level": 80,
+    "level": 510,
     "maxQuality": 9500,
     "name": {
       "de": "Pizza",
@@ -13680,10 +13680,10 @@
     "suggestedCraftsmanship": 2620
   },
   {
-    "baseLevel": 510,
+    "baseLevel": 80,
     "difficulty": 3600,
     "durability": 70,
-    "level": 80,
+    "level": 510,
     "maxQuality": 9500,
     "name": {
       "de": "Dunstspinat-Quiche",
@@ -13699,10 +13699,10 @@
     "suggestedCraftsmanship": 2620
   },
   {
-    "baseLevel": 510,
+    "baseLevel": 80,
     "difficulty": 3600,
     "durability": 70,
-    "level": 80,
+    "level": 510,
     "maxQuality": 9500,
     "name": {
       "de": "Bandnudeln an Hähnchen-Sahnesoße",
@@ -13718,10 +13718,10 @@
     "suggestedCraftsmanship": 2620
   },
   {
-    "baseLevel": 510,
+    "baseLevel": 80,
     "difficulty": 3600,
     "durability": 70,
-    "level": 80,
+    "level": 510,
     "maxQuality": 9500,
     "name": {
       "de": "Geräucherte  Hähnchenkeule",
@@ -13737,10 +13737,10 @@
     "suggestedCraftsmanship": 2620
   },
   {
-    "baseLevel": 510,
+    "baseLevel": 80,
     "difficulty": 3600,
     "durability": 70,
-    "level": 80,
+    "level": 510,
     "maxQuality": 9500,
     "name": {
       "de": "Goldananassaft",
@@ -13756,10 +13756,10 @@
     "suggestedCraftsmanship": 2620
   },
   {
-    "baseLevel": 510,
+    "baseLevel": 80,
     "difficulty": 3600,
     "durability": 70,
-    "level": 80,
+    "level": 510,
     "maxQuality": 9500,
     "name": {
       "de": "Goldananassalat",
@@ -13775,10 +13775,10 @@
     "suggestedCraftsmanship": 2620
   },
   {
-    "baseLevel": 510,
+    "baseLevel": 80,
     "difficulty": 3600,
     "durability": 70,
-    "level": 80,
+    "level": 510,
     "maxQuality": 9500,
     "name": {
       "de": "Zefir",
@@ -13794,10 +13794,10 @@
     "suggestedCraftsmanship": 2620
   },
   {
-    "baseLevel": 510,
+    "baseLevel": 80,
     "difficulty": 3600,
     "durability": 70,
-    "level": 80,
+    "level": 510,
     "maxQuality": 9500,
     "name": {
       "de": "Toffelsalat mit Apfel",
@@ -13813,10 +13813,10 @@
     "suggestedCraftsmanship": 2620
   },
   {
-    "baseLevel": 510,
+    "baseLevel": 80,
     "difficulty": 3600,
     "durability": 70,
-    "level": 80,
+    "level": 510,
     "maxQuality": 9500,
     "name": {
       "de": "Bohnencurry",
@@ -13832,10 +13832,10 @@
     "suggestedCraftsmanship": 2620
   },
   {
-    "baseLevel": 510,
+    "baseLevel": 80,
     "difficulty": 3600,
     "durability": 70,
-    "level": 80,
+    "level": 510,
     "maxQuality": 9500,
     "name": {
       "de": "Zitronenmuffin",
@@ -13851,10 +13851,10 @@
     "suggestedCraftsmanship": 2620
   },
   {
-    "baseLevel": 512,
+    "baseLevel": 80,
     "difficulty": 4220,
     "durability": 70,
-    "level": 80,
+    "level": 512,
     "maxQuality": 14618,
     "name": {
       "de": "Haifischtran zur Himmelsstahl-Werkzeug-Vollendung",
@@ -13870,10 +13870,10 @@
     "suggestedCraftsmanship": 2620
   },
   {
-    "baseLevel": 514,
+    "baseLevel": 80,
     "difficulty": 5077,
     "durability": 70,
-    "level": 80,
+    "level": 514,
     "maxQuality": 14321,
     "name": {
       "de": "Tertiärbauteil für Gourmet-Prachtwerkzeuge",
@@ -13889,10 +13889,10 @@
     "suggestedCraftsmanship": 2620
   },
   {
-    "baseLevel": 515,
+    "baseLevel": 80,
     "difficulty": 5095,
     "durability": 70,
-    "level": 80,
+    "level": 515,
     "maxQuality": 14854,
     "name": {
       "de": "Sekundärbauteil für Gourmet-Prachtwerkzeuge",
@@ -13908,10 +13908,10 @@
     "suggestedCraftsmanship": 2620
   },
   {
-    "baseLevel": 516,
+    "baseLevel": 80,
     "difficulty": 5470,
     "durability": 70,
-    "level": 80,
+    "level": 516,
     "maxQuality": 16156,
     "name": {
       "de": "Primärbauteil für Gourmet-Prachtwerkzeuge",
@@ -13927,10 +13927,10 @@
     "suggestedCraftsmanship": 2620
   },
   {
-    "baseLevel": 390,
+    "baseLevel": 71,
     "difficulty": 1195,
     "durability": 80,
-    "level": 71,
+    "level": 390,
     "maxQuality": 3763,
     "name": {
       "de": "Alltägliche Bedarfsgüter",
@@ -13946,10 +13946,10 @@
     "suggestedCraftsmanship": 1320
   },
   {
-    "baseLevel": 395,
+    "baseLevel": 72,
     "difficulty": 1220,
     "durability": 80,
-    "level": 72,
+    "level": 395,
     "maxQuality": 3800,
     "name": {
       "de": "Medizinische Versorgungsgüter",
@@ -13965,10 +13965,10 @@
     "suggestedCraftsmanship": 1388
   },
   {
-    "baseLevel": 400,
+    "baseLevel": 73,
     "difficulty": 1290,
     "durability": 80,
-    "level": 73,
+    "level": 400,
     "maxQuality": 3900,
     "name": {
       "de": "Rehabilitations-Hilfsmittel",
@@ -13984,10 +13984,10 @@
     "suggestedCraftsmanship": 1457
   },
   {
-    "baseLevel": 406,
+    "baseLevel": 75,
     "difficulty": 1430,
     "durability": 80,
-    "level": 75,
+    "level": 406,
     "maxQuality": 4100,
     "name": {
       "de": "Teestunden-Utensilien",
@@ -14003,10 +14003,10 @@
     "suggestedCraftsmanship": 1539
   },
   {
-    "baseLevel": 412,
+    "baseLevel": 77,
     "difficulty": 1570,
     "durability": 80,
-    "level": 77,
+    "level": 412,
     "maxQuality": 4300,
     "name": {
       "de": "Künstlerbedarf",
@@ -14022,10 +14022,10 @@
     "suggestedCraftsmanship": 1621
   },
   {
-    "baseLevel": 517,
+    "baseLevel": 81,
     "difficulty": 2000,
     "durability": 80,
-    "level": 81,
+    "level": 517,
     "maxQuality": 5200,
     "name": {
       "de": "Exegetenbrot (Sammlerstück)",
@@ -14041,10 +14041,10 @@
     "suggestedCraftsmanship": 2234
   },
   {
-    "baseLevel": 525,
+    "baseLevel": 83,
     "difficulty": 2600,
     "durability": 80,
-    "level": 83,
+    "level": 525,
     "maxQuality": 6200,
     "name": {
       "de": "Königskrabbenkuchen (Sammlerstück)",
@@ -14060,10 +14060,10 @@
     "suggestedCraftsmanship": 2438
   },
   {
-    "baseLevel": 535,
+    "baseLevel": 85,
     "difficulty": 3000,
     "durability": 80,
-    "level": 85,
+    "level": 535,
     "maxQuality": 6700,
     "name": {
       "de": "Glückskarottensaft (Sammlerstück)",
@@ -14079,10 +14079,10 @@
     "suggestedCraftsmanship": 2549
   },
   {
-    "baseLevel": 545,
+    "baseLevel": 87,
     "difficulty": 3200,
     "durability": 80,
-    "level": 87,
+    "level": 545,
     "maxQuality": 6900,
     "name": {
       "de": "Riesentaramosalat (Sammlerstück)",
@@ -14098,10 +14098,10 @@
     "suggestedCraftsmanship": 2626
   },
   {
-    "baseLevel": 555,
+    "baseLevel": 89,
     "difficulty": 3400,
     "durability": 80,
-    "level": 89,
+    "level": 555,
     "maxQuality": 7100,
     "name": {
       "de": "Riesentoffelpuffer (Sammlerstück)",
@@ -14117,10 +14117,10 @@
     "suggestedCraftsmanship": 2748
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Süßstoff",
@@ -14136,10 +14136,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 525,
+    "baseLevel": 83,
     "difficulty": 2600,
     "durability": 80,
-    "level": 83,
+    "level": 525,
     "maxQuality": 6200,
     "name": {
       "de": "Hefe",
@@ -14155,10 +14155,10 @@
     "suggestedCraftsmanship": 2438
   },
   {
-    "baseLevel": 535,
+    "baseLevel": 85,
     "difficulty": 3000,
     "durability": 80,
-    "level": 85,
+    "level": 535,
     "maxQuality": 6700,
     "name": {
       "de": "Ätherisches Öl",
@@ -14174,10 +14174,10 @@
     "suggestedCraftsmanship": 2549
   },
   {
-    "baseLevel": 550,
+    "baseLevel": 88,
     "difficulty": 3300,
     "durability": 80,
-    "level": 88,
+    "level": 550,
     "maxQuality": 7000,
     "name": {
       "de": "Ascorbinsäure",
@@ -14193,10 +14193,10 @@
     "suggestedCraftsmanship": 2686
   },
   {
-    "baseLevel": 535,
+    "baseLevel": 85,
     "difficulty": 3000,
     "durability": 80,
-    "level": 85,
+    "level": 535,
     "maxQuality": 6700,
     "name": {
       "de": "Goldenes Gewürz",
@@ -14212,10 +14212,10 @@
     "suggestedCraftsmanship": 2549
   },
   {
-    "baseLevel": 560,
+    "baseLevel": 90,
     "difficulty": 3500,
     "durability": 80,
-    "level": 90,
+    "level": 560,
     "maxQuality": 7200,
     "name": {
       "de": "Zutat für Fischkuchen",
@@ -14231,10 +14231,10 @@
     "suggestedCraftsmanship": 2805
   },
   {
-    "baseLevel": 580,
+    "baseLevel": 90,
     "difficulty": 3900,
     "durability": 70,
-    "level": 90,
+    "level": 580,
     "maxQuality": 7800,
     "name": {
       "de": "Exegetenburger",
@@ -14250,10 +14250,10 @@
     "suggestedCraftsmanship": 3180
   },
   {
-    "baseLevel": 580,
+    "baseLevel": 90,
     "difficulty": 3900,
     "durability": 70,
-    "level": 90,
+    "level": 580,
     "maxQuality": 7800,
     "name": {
       "de": "Bœuf Stroganoff",
@@ -14269,10 +14269,10 @@
     "suggestedCraftsmanship": 3180
   },
   {
-    "baseLevel": 580,
+    "baseLevel": 90,
     "difficulty": 3900,
     "durability": 70,
-    "level": 90,
+    "level": 580,
     "maxQuality": 7800,
     "name": {
       "de": "Kürbis-Ratatouille",
@@ -14288,10 +14288,10 @@
     "suggestedCraftsmanship": 3180
   },
   {
-    "baseLevel": 580,
+    "baseLevel": 90,
     "difficulty": 3900,
     "durability": 70,
-    "level": 90,
+    "level": 580,
     "maxQuality": 7800,
     "name": {
       "de": "Kürbissuppe",
@@ -14307,10 +14307,10 @@
     "suggestedCraftsmanship": 3180
   },
   {
-    "baseLevel": 580,
+    "baseLevel": 90,
     "difficulty": 3900,
     "durability": 70,
-    "level": 90,
+    "level": 580,
     "maxQuality": 7800,
     "name": {
       "de": "Pfirsichsaft",
@@ -14326,10 +14326,10 @@
     "suggestedCraftsmanship": 3180
   },
   {
-    "baseLevel": 580,
+    "baseLevel": 90,
     "difficulty": 3900,
     "durability": 70,
-    "level": 90,
+    "level": 580,
     "maxQuality": 7800,
     "name": {
       "de": "Pfirsichtörtchen",
@@ -14345,10 +14345,10 @@
     "suggestedCraftsmanship": 3180
   },
   {
-    "baseLevel": 580,
+    "baseLevel": 90,
     "difficulty": 3900,
     "durability": 70,
-    "level": 90,
+    "level": 580,
     "maxQuality": 7800,
     "name": {
       "de": "Lykon-Keks",
@@ -14364,10 +14364,10 @@
     "suggestedCraftsmanship": 3180
   },
   {
-    "baseLevel": 580,
+    "baseLevel": 90,
     "difficulty": 3900,
     "durability": 70,
-    "level": 90,
+    "level": 580,
     "maxQuality": 7800,
     "name": {
       "de": "Tee nach thavnairischer Art",
@@ -14383,10 +14383,10 @@
     "suggestedCraftsmanship": 3180
   },
   {
-    "baseLevel": 580,
+    "baseLevel": 90,
     "difficulty": 3900,
     "durability": 70,
-    "level": 90,
+    "level": 580,
     "maxQuality": 7800,
     "name": {
       "de": "Muschelsalat",
@@ -14402,10 +14402,10 @@
     "suggestedCraftsmanship": 3180
   },
   {
-    "baseLevel": 580,
+    "baseLevel": 90,
     "difficulty": 3900,
     "durability": 70,
-    "level": 90,
+    "level": 580,
     "maxQuality": 7800,
     "name": {
       "de": "Meeresfrüchtecurry",
@@ -14421,10 +14421,10 @@
     "suggestedCraftsmanship": 3180
   },
   {
-    "baseLevel": 560,
+    "baseLevel": 90,
     "difficulty": 3500,
     "durability": 80,
-    "level": 90,
+    "level": 560,
     "maxQuality": 7200,
     "name": {
       "de": "Lykon à la Barvarois (Sammlerstück)",
@@ -14440,10 +14440,10 @@
     "suggestedCraftsmanship": 2805
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Akademisches Schreibset",
@@ -14459,10 +14459,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 440,
+    "baseLevel": 80,
     "difficulty": 1900,
     "durability": 70,
-    "level": 80,
+    "level": 440,
     "maxQuality": 6000,
     "name": {
       "de": "Akademisches Magie-Rüstzeug",
@@ -14478,10 +14478,10 @@
     "suggestedCraftsmanship": 2000
   },
   {
-    "baseLevel": 517,
+    "baseLevel": 81,
     "difficulty": 2000,
     "durability": 80,
-    "level": 81,
+    "level": 517,
     "maxQuality": 5200,
     "name": {
       "de": "Ätherothermosdose",
@@ -14497,10 +14497,10 @@
     "suggestedCraftsmanship": 2234
   },
   {
-    "baseLevel": 520,
+    "baseLevel": 82,
     "difficulty": 2300,
     "durability": 80,
-    "level": 82,
+    "level": 520,
     "maxQuality": 5700,
     "name": {
       "de": "Ätherionette",
@@ -14516,10 +14516,10 @@
     "suggestedCraftsmanship": 2336
   },
   {
-    "baseLevel": 525,
+    "baseLevel": 83,
     "difficulty": 2600,
     "durability": 80,
-    "level": 83,
+    "level": 525,
     "maxQuality": 6200,
     "name": {
       "de": "Akademische Ausstattung",
@@ -14535,10 +14535,10 @@
     "suggestedCraftsmanship": 2438
   },
   {
-    "baseLevel": 590,
+    "baseLevel": 90,
     "difficulty": 4300,
     "durability": 70,
-    "level": 90,
+    "level": 590,
     "maxQuality": 8000,
     "name": {
       "de": "Calamari Ripieni",
@@ -14554,10 +14554,10 @@
     "suggestedCraftsmanship": 3180
   },
   {
-    "baseLevel": 590,
+    "baseLevel": 90,
     "difficulty": 4300,
     "durability": 70,
-    "level": 90,
+    "level": 590,
     "maxQuality": 8000,
     "name": {
       "de": "Kalamarakia Tiganita",
@@ -14573,10 +14573,10 @@
     "suggestedCraftsmanship": 3180
   },
   {
-    "baseLevel": 610,
+    "baseLevel": 90,
     "difficulty": 4400,
     "durability": 70,
-    "level": 90,
+    "level": 610,
     "maxQuality": 8200,
     "name": {
       "de": "Melonenpastete",
@@ -14592,10 +14592,10 @@
     "suggestedCraftsmanship": 3700
   },
   {
-    "baseLevel": 610,
+    "baseLevel": 90,
     "difficulty": 4400,
     "durability": 70,
-    "level": 90,
+    "level": 610,
     "maxQuality": 8200,
     "name": {
       "de": "Melonensaft",
@@ -14611,10 +14611,10 @@
     "suggestedCraftsmanship": 3700
   },
   {
-    "baseLevel": 610,
+    "baseLevel": 90,
     "difficulty": 4400,
     "durability": 70,
-    "level": 90,
+    "level": 610,
     "maxQuality": 8200,
     "name": {
       "de": "Dämmermöhrenraspel",
@@ -14630,10 +14630,10 @@
     "suggestedCraftsmanship": 3700
   },
   {
-    "baseLevel": 610,
+    "baseLevel": 90,
     "difficulty": 4400,
     "durability": 70,
-    "level": 90,
+    "level": 610,
     "maxQuality": 8200,
     "name": {
       "de": "Karottenpudding",
@@ -14649,10 +14649,10 @@
     "suggestedCraftsmanship": 3700
   },
   {
-    "baseLevel": 610,
+    "baseLevel": 90,
     "difficulty": 4400,
     "durability": 70,
-    "level": 90,
+    "level": 610,
     "maxQuality": 8200,
     "name": {
       "de": "Gyros",
@@ -14668,10 +14668,10 @@
     "suggestedCraftsmanship": 3700
   },
   {
-    "baseLevel": 610,
+    "baseLevel": 90,
     "difficulty": 4400,
     "durability": 70,
-    "level": 90,
+    "level": 610,
     "maxQuality": 8200,
     "name": {
       "de": "Loaghtan-Rumpfsteak",
@@ -14687,10 +14687,10 @@
     "suggestedCraftsmanship": 3700
   },
   {
-    "baseLevel": 610,
+    "baseLevel": 90,
     "difficulty": 4400,
     "durability": 70,
-    "level": 90,
+    "level": 610,
     "maxQuality": 8200,
     "name": {
       "de": "Piennolo-Tomatensalat",
@@ -14706,10 +14706,10 @@
     "suggestedCraftsmanship": 3700
   },
   {
-    "baseLevel": 610,
+    "baseLevel": 90,
     "difficulty": 4400,
     "durability": 70,
-    "level": 90,
+    "level": 610,
     "maxQuality": 8200,
     "name": {
       "de": "Garleische Pizza",
@@ -14725,10 +14725,10 @@
     "suggestedCraftsmanship": 3700
   },
   {
-    "baseLevel": 610,
+    "baseLevel": 90,
     "difficulty": 4400,
     "durability": 70,
-    "level": 90,
+    "level": 610,
     "maxQuality": 8200,
     "name": {
       "de": "Königsigel-Pasta",
@@ -14744,10 +14744,10 @@
     "suggestedCraftsmanship": 3700
   },
   {
-    "baseLevel": 610,
+    "baseLevel": 90,
     "difficulty": 4400,
     "durability": 70,
-    "level": 90,
+    "level": 610,
     "maxQuality": 8200,
     "name": {
       "de": "Königsigel-Pastete",
@@ -14763,10 +14763,10 @@
     "suggestedCraftsmanship": 3700
   },
   {
-    "baseLevel": 611,
+    "baseLevel": 90,
     "difficulty": 7480,
     "durability": 70,
-    "level": 90,
+    "level": 611,
     "maxQuality": 13620,
     "name": {
       "de": "Otterborn-Kunstharz",
@@ -14782,10 +14782,10 @@
     "suggestedCraftsmanship": 3700
   },
   {
-    "baseLevel": 590,
+    "baseLevel": 90,
     "difficulty": 4300,
     "durability": 70,
-    "level": 90,
+    "level": 590,
     "maxQuality": 8000,
     "name": {
       "de": "Inselprisma",
@@ -14801,10 +14801,10 @@
     "suggestedCraftsmanship": 3180
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Bühnenbaustoff",
@@ -14820,10 +14820,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Maschinenelemente",
@@ -14839,10 +14839,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Küchenkomponenten",
@@ -14858,10 +14858,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Künstlerutensilien",
@@ -14877,10 +14877,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Radiostation-Bestandteile",
@@ -14896,10 +14896,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Ersatzteil für Audiogeräte",
@@ -14915,10 +14915,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Blasinstrumentbestandteil",
@@ -14934,10 +14934,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Münzherstellungselement",
@@ -14953,10 +14953,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Signiertes Erinnerungsstück",
@@ -14972,10 +14972,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Element zur Wartung der Beleuchtungsanlage",
@@ -14991,10 +14991,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Leuchtstabbestandteil",
@@ -15010,10 +15010,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Bestandteil für verbesserten Reiniger",
@@ -15029,10 +15029,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Element des Aufnahme-Supports",
@@ -15048,10 +15048,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Schutzanzugdichtungselement",
@@ -15067,10 +15067,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Abenteuerspielzeugelement",
@@ -15086,10 +15086,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Rezeptdruckutensil",
@@ -15105,10 +15105,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Karottenfrosterelement",
@@ -15124,10 +15124,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Pilzmesserzubehör",
@@ -15143,10 +15143,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Kochutensil",
@@ -15162,10 +15162,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Sportutensil",
@@ -15181,10 +15181,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Farbutensil",
@@ -15200,10 +15200,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Extrastarker Farbreiniger",
@@ -15219,10 +15219,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Explosives Fungizid",
@@ -15238,10 +15238,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 430,
+    "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
-    "level": 80,
+    "level": 430,
     "maxQuality": 4600,
     "name": {
       "de": "Modeaccessoire",
@@ -15257,10 +15257,10 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 517,
+    "baseLevel": 81,
     "difficulty": 2000,
     "durability": 80,
-    "level": 81,
+    "level": 517,
     "maxQuality": 5200,
     "name": {
       "de": "Hirten-Werkzeug",
@@ -15276,10 +15276,10 @@
     "suggestedCraftsmanship": 2234
   },
   {
-    "baseLevel": 520,
+    "baseLevel": 82,
     "difficulty": 2300,
     "durability": 80,
-    "level": 82,
+    "level": 520,
     "maxQuality": 5700,
     "name": {
       "de": "Kälteschutzmütze",
@@ -15295,10 +15295,10 @@
     "suggestedCraftsmanship": 2336
   },
   {
-    "baseLevel": 525,
+    "baseLevel": 83,
     "difficulty": 2600,
     "durability": 80,
-    "level": 83,
+    "level": 525,
     "maxQuality": 6200,
     "name": {
       "de": "Voeburtische Spezialität",
@@ -15314,10 +15314,10 @@
     "suggestedCraftsmanship": 2438
   },
   {
-    "baseLevel": 530,
+    "baseLevel": 84,
     "difficulty": 2900,
     "durability": 80,
-    "level": 84,
+    "level": 530,
     "maxQuality": 6600,
     "name": {
       "de": "Voeburtisches Kunsthandwerk",
@@ -15333,10 +15333,10 @@
     "suggestedCraftsmanship": 2507
   },
   {
-    "baseLevel": 535,
+    "baseLevel": 85,
     "difficulty": 3000,
     "durability": 80,
-    "level": 85,
+    "level": 535,
     "maxQuality": 6700,
     "name": {
       "de": "Dankesgeschenk",
@@ -15352,10 +15352,10 @@
     "suggestedCraftsmanship": 2549
   },
   {
-    "baseLevel": 570,
+    "baseLevel": 90,
     "difficulty": 3700,
     "durability": 80,
-    "level": 90,
+    "level": 570,
     "maxQuality": 7400,
     "name": {
       "de": "Sammler-Pixiebeeren-Tee",
@@ -15371,10 +15371,10 @@
     "suggestedCraftsmanship": 2924
   },
   {
-    "baseLevel": 580,
+    "baseLevel": 90,
     "difficulty": 3900,
     "durability": 70,
-    "level": 90,
+    "level": 580,
     "maxQuality": 7800,
     "name": {
       "de": "Sammler-Pixiebeerentörtchen",
@@ -15390,10 +15390,10 @@
     "suggestedCraftsmanship": 3180
   },
   {
-    "baseLevel": 620,
+    "baseLevel": 90,
     "difficulty": 4400,
     "durability": 70,
-    "level": 90,
+    "level": 620,
     "maxQuality": 8600,
     "name": {
       "de": "Zingarnelen-Biryani",
@@ -15409,10 +15409,10 @@
     "suggestedCraftsmanship": 3700
   },
   {
-    "baseLevel": 620,
+    "baseLevel": 90,
     "difficulty": 4400,
     "durability": 70,
-    "level": 90,
+    "level": 620,
     "maxQuality": 8600,
     "name": {
       "de": "Zingarnelen-Curry",
@@ -15428,10 +15428,10 @@
     "suggestedCraftsmanship": 3700
   },
   {
-    "baseLevel": 621,
+    "baseLevel": 90,
     "difficulty": 4400,
     "durability": 60,
-    "level": 90,
+    "level": 621,
     "maxQuality": 8620,
     "name": {
       "de": "Garten-Otterborn-Kunstharz",
@@ -15447,10 +15447,10 @@
     "suggestedCraftsmanship": 3700
   },
   {
-    "baseLevel": 640,
+    "baseLevel": 90,
     "difficulty": 4400,
     "durability": 70,
-    "level": 90,
+    "level": 640,
     "maxQuality": 9000,
     "name": {
       "de": "Eingelegte Drachenfrucht",
@@ -15466,10 +15466,10 @@
     "suggestedCraftsmanship": 3700
   },
   {
-    "baseLevel": 640,
+    "baseLevel": 90,
     "difficulty": 4400,
     "durability": 70,
-    "level": 90,
+    "level": 640,
     "maxQuality": 9000,
     "name": {
       "de": "Drachenfrucht-Smoothie",
@@ -15485,10 +15485,10 @@
     "suggestedCraftsmanship": 3700
   },
   {
-    "baseLevel": 640,
+    "baseLevel": 90,
     "difficulty": 4400,
     "durability": 70,
-    "level": 90,
+    "level": 640,
     "maxQuality": 9000,
     "name": {
       "de": "Baba Ghanoush",
@@ -15504,10 +15504,10 @@
     "suggestedCraftsmanship": 3700
   },
   {
-    "baseLevel": 640,
+    "baseLevel": 90,
     "difficulty": 4400,
     "durability": 70,
-    "level": 90,
+    "level": 640,
     "maxQuality": 9000,
     "name": {
       "de": "Überbackene Aubergine",
@@ -15523,10 +15523,10 @@
     "suggestedCraftsmanship": 3700
   },
   {
-    "baseLevel": 640,
+    "baseLevel": 90,
     "difficulty": 4400,
     "durability": 70,
-    "level": 90,
+    "level": 640,
     "maxQuality": 9000,
     "name": {
       "de": "Würzige Weltraumsuppe",
@@ -15542,10 +15542,10 @@
     "suggestedCraftsmanship": 3700
   },
   {
-    "baseLevel": 640,
+    "baseLevel": 90,
     "difficulty": 4400,
     "durability": 70,
-    "level": 90,
+    "level": 640,
     "maxQuality": 9000,
     "name": {
       "de": "Tandoori Raptor",
@@ -15561,10 +15561,10 @@
     "suggestedCraftsmanship": 3700
   },
   {
-    "baseLevel": 640,
+    "baseLevel": 90,
     "difficulty": 4400,
     "durability": 70,
-    "level": 90,
+    "level": 640,
     "maxQuality": 9000,
     "name": {
       "de": "Kaviar-Sandwich",
@@ -15580,10 +15580,10 @@
     "suggestedCraftsmanship": 3700
   },
   {
-    "baseLevel": 640,
+    "baseLevel": 90,
     "difficulty": 4400,
     "durability": 70,
-    "level": 90,
+    "level": 640,
     "maxQuality": 9000,
     "name": {
       "de": " Kaviar-Canapés",
@@ -15599,10 +15599,10 @@
     "suggestedCraftsmanship": 3700
   },
   {
-    "baseLevel": 640,
+    "baseLevel": 90,
     "difficulty": 4400,
     "durability": 70,
-    "level": 90,
+    "level": 640,
     "maxQuality": 9000,
     "name": {
       "de": "Marinierter Romanesco-Kohlkopf",
@@ -15618,10 +15618,10 @@
     "suggestedCraftsmanship": 3700
   },
   {
-    "baseLevel": 640,
+    "baseLevel": 90,
     "difficulty": 4400,
     "durability": 70,
-    "level": 90,
+    "level": 640,
     "maxQuality": 9000,
     "name": {
       "de": "Romanesco-Eintopf",
@@ -15637,10 +15637,10 @@
     "suggestedCraftsmanship": 3700
   },
   {
-    "baseLevel": 620,
+    "baseLevel": 90,
     "difficulty": 4400,
     "durability": 70,
-    "level": 90,
+    "level": 620,
     "maxQuality": 8600,
     "name": {
       "de": "Sammler-Tintenfischbaguette",
@@ -15656,10 +15656,10 @@
     "suggestedCraftsmanship": 3700
   },
   {
-    "baseLevel": 625,
+    "baseLevel": 90,
     "difficulty": 4400,
     "durability": 70,
-    "level": 90,
+    "level": 625,
     "maxQuality": 8700,
     "name": {
       "de": "Tintenschwarze Sammler-Spaghetti",
@@ -15675,10 +15675,10 @@
     "suggestedCraftsmanship": 3700
   },
   {
-    "baseLevel": 641,
+    "baseLevel": 90,
     "difficulty": 4400,
     "durability": 60,
-    "level": 90,
+    "level": 641,
     "maxQuality": 9020,
     "name": {
       "de": "Gymnastikutter-Kunstharz",
@@ -15694,10 +15694,10 @@
     "suggestedCraftsmanship": 3700
   },
   {
-    "baseLevel": 517,
+    "baseLevel": 81,
     "difficulty": 2000,
     "durability": 80,
-    "level": 81,
+    "level": 517,
     "maxQuality": 5200,
     "name": {
       "de": "Rückenfreude-Kissenset",
@@ -15713,10 +15713,10 @@
     "suggestedCraftsmanship": 2234
   },
   {
-    "baseLevel": 520,
+    "baseLevel": 82,
     "difficulty": 2300,
     "durability": 80,
-    "level": 82,
+    "level": 520,
     "maxQuality": 5700,
     "name": {
       "de": "Katzenfreude-Spielzeug",
@@ -15732,10 +15732,10 @@
     "suggestedCraftsmanship": 2336
   },
   {
-    "baseLevel": 525,
+    "baseLevel": 83,
     "difficulty": 2600,
     "durability": 80,
-    "level": 83,
+    "level": 525,
     "maxQuality": 6200,
     "name": {
       "de": "Faszinierendes Figürchen",
@@ -15751,10 +15751,10 @@
     "suggestedCraftsmanship": 2438
   },
   {
-    "baseLevel": 535,
+    "baseLevel": 85,
     "difficulty": 3000,
     "durability": 80,
-    "level": 85,
+    "level": 535,
     "maxQuality": 6700,
     "name": {
       "de": "Augenfreude-Elixir",
@@ -15770,10 +15770,10 @@
     "suggestedCraftsmanship": 2549
   },
   {
-    "baseLevel": 545,
+    "baseLevel": 87,
     "difficulty": 3200,
     "durability": 80,
-    "level": 87,
+    "level": 545,
     "maxQuality": 6900,
     "name": {
       "de": "Forscherpausen-Set",
@@ -15789,10 +15789,10 @@
     "suggestedCraftsmanship": 2626
   },
   {
-    "baseLevel": 642,
+    "baseLevel": 90,
     "difficulty": 4400,
     "durability": 70,
-    "level": 90,
+    "level": 642,
     "maxQuality": 9040,
     "name": {
       "de": "Sammler-Krabbenküchlein",
@@ -15808,10 +15808,10 @@
     "suggestedCraftsmanship": 3700
   },
   {
-    "baseLevel": 643,
+    "baseLevel": 90,
     "difficulty": 4400,
     "durability": 70,
-    "level": 90,
+    "level": 643,
     "maxQuality": 9060,
     "name": {
       "de": "Sammler-Chili-Krabbengericht",
@@ -15827,10 +15827,10 @@
     "suggestedCraftsmanship": 3700
   },
   {
-    "baseLevel": 644,
+    "baseLevel": 90,
     "difficulty": 4400,
     "durability": 70,
-    "level": 90,
+    "level": 644,
     "maxQuality": 9080,
     "name": {
       "de": "Hagenhain-Kunstharz",
@@ -15846,10 +15846,10 @@
     "suggestedCraftsmanship": 3700
   },
   {
-    "baseLevel": 560,
+    "baseLevel": 90,
     "difficulty": 3500,
     "durability": 80,
-    "level": 90,
+    "level": 560,
     "maxQuality": 7200,
     "name": {
       "de": "Cherimoya-Saft",
@@ -15865,10 +15865,10 @@
     "suggestedCraftsmanship": 2805
   },
   {
-    "baseLevel": 656,
+    "baseLevel": 93,
     "difficulty": 4500,
     "durability": 80,
-    "level": 93,
+    "level": 656,
     "maxQuality": 9000,
     "name": {
       "de": "Vergorener Aloe-Saft",
@@ -15884,10 +15884,10 @@
     "suggestedCraftsmanship": 3587
   },
   {
-    "baseLevel": 665,
+    "baseLevel": 95,
     "difficulty": 5100,
     "durability": 80,
-    "level": 95,
+    "level": 665,
     "maxQuality": 9800,
     "name": {
       "de": "Ja Tiika-Bananensaft",
@@ -15903,10 +15903,10 @@
     "suggestedCraftsmanship": 3789
   },
   {
-    "baseLevel": 680,
+    "baseLevel": 98,
     "difficulty": 6000,
     "durability": 80,
-    "level": 98,
+    "level": 680,
     "maxQuality": 11000,
     "name": {
       "de": "Kaktorfeigensaft",
@@ -15922,10 +15922,10 @@
     "suggestedCraftsmanship": 4041
   },
   {
-    "baseLevel": 665,
+    "baseLevel": 95,
     "difficulty": 5100,
     "durability": 80,
-    "level": 95,
+    "level": 665,
     "maxQuality": 9800,
     "name": {
       "de": "Kukuru-Manschsaft",
@@ -15941,10 +15941,10 @@
     "suggestedCraftsmanship": 3789
   },
   {
-    "baseLevel": 690,
+    "baseLevel": 100,
     "difficulty": 6600,
     "durability": 80,
-    "level": 100,
+    "level": 690,
     "maxQuality": 12000,
     "name": {
       "de": "Boonewa-Saftschorle",
@@ -15960,10 +15960,10 @@
     "suggestedCraftsmanship": 4207
   },
   {
-    "baseLevel": 650,
+    "baseLevel": 91,
     "difficulty": 4000,
     "durability": 80,
-    "level": 91,
+    "level": 650,
     "maxQuality": 8200,
     "name": {
       "de": "Alpakafleischpfanne (Sammlerstück)",
@@ -15979,10 +15979,10 @@
     "suggestedCraftsmanship": 3366
   },
   {
-    "baseLevel": 656,
+    "baseLevel": 93,
     "difficulty": 4500,
     "durability": 80,
-    "level": 93,
+    "level": 656,
     "maxQuality": 9000,
     "name": {
       "de": "Bananen-Ponzenkuchen (Sammlerstück)",
@@ -15998,10 +15998,10 @@
     "suggestedCraftsmanship": 3587
   },
   {
-    "baseLevel": 665,
+    "baseLevel": 95,
     "difficulty": 5100,
     "durability": 80,
-    "level": 95,
+    "level": 665,
     "maxQuality": 9800,
     "name": {
       "de": "Tural-Ananaskuchen (Sammlerstück)",
@@ -16017,10 +16017,10 @@
     "suggestedCraftsmanship": 3789
   },
   {
-    "baseLevel": 675,
+    "baseLevel": 97,
     "difficulty": 5700,
     "durability": 80,
-    "level": 97,
+    "level": 675,
     "maxQuality": 10600,
     "name": {
       "de": "Getrockneter Lachs (Sammlerstück)",
@@ -16036,10 +16036,10 @@
     "suggestedCraftsmanship": 3952
   },
   {
-    "baseLevel": 685,
+    "baseLevel": 99,
     "difficulty": 6300,
     "durability": 80,
-    "level": 99,
+    "level": 685,
     "maxQuality": 11400,
     "name": {
       "de": "Gefüllte Paprikas (Sammlerstück)",
@@ -16055,10 +16055,10 @@
     "suggestedCraftsmanship": 4131
   },
   {
-    "baseLevel": 690,
+    "baseLevel": 100,
     "difficulty": 6600,
     "durability": 80,
-    "level": 100,
+    "level": 690,
     "maxQuality": 12000,
     "name": {
       "de": "Tacos de Carne Asada (Sammlerstück)",
@@ -16074,10 +16074,10 @@
     "suggestedCraftsmanship": 4207
   },
   {
-    "baseLevel": 710,
+    "baseLevel": 100,
     "difficulty": 7500,
     "durability": 70,
-    "level": 100,
+    "level": 710,
     "maxQuality": 15000,
     "name": {
       "de": "Brathähnchen",
@@ -16093,10 +16093,10 @@
     "suggestedCraftsmanship": 4740
   },
   {
-    "baseLevel": 710,
+    "baseLevel": 100,
     "difficulty": 7500,
     "durability": 70,
-    "level": 100,
+    "level": 710,
     "maxQuality": 15000,
     "name": {
       "de": "Hähnchennudeln",
@@ -16112,10 +16112,10 @@
     "suggestedCraftsmanship": 4740
   },
   {
-    "baseLevel": 710,
+    "baseLevel": 100,
     "difficulty": 7500,
     "durability": 70,
-    "level": 100,
+    "level": 710,
     "maxQuality": 15000,
     "name": {
       "de": "Churrasco",
@@ -16131,10 +16131,10 @@
     "suggestedCraftsmanship": 4740
   },
   {
-    "baseLevel": 710,
+    "baseLevel": 100,
     "difficulty": 7500,
     "durability": 70,
-    "level": 100,
+    "level": 710,
     "maxQuality": 15000,
     "name": {
       "de": "Moqueca",
@@ -16150,10 +16150,10 @@
     "suggestedCraftsmanship": 4740
   },
   {
-    "baseLevel": 710,
+    "baseLevel": 100,
     "difficulty": 7500,
     "durability": 70,
-    "level": 100,
+    "level": 710,
     "maxQuality": 15000,
     "name": {
       "de": "Zimtkaffee mit Sahne",
@@ -16169,10 +16169,10 @@
     "suggestedCraftsmanship": 4740
   },
   {
-    "baseLevel": 710,
+    "baseLevel": 100,
     "difficulty": 7500,
     "durability": 70,
-    "level": 100,
+    "level": 710,
     "maxQuality": 15000,
     "name": {
       "de": "Kaffee-Kukuru-Zwieback",
@@ -16188,10 +16188,10 @@
     "suggestedCraftsmanship": 4740
   },
   {
-    "baseLevel": 710,
+    "baseLevel": 100,
     "difficulty": 7500,
     "durability": 70,
-    "level": 100,
+    "level": 710,
     "maxQuality": 15000,
     "name": {
       "de": "Navelorangen-Keks",
@@ -16207,10 +16207,10 @@
     "suggestedCraftsmanship": 4740
   },
   {
-    "baseLevel": 710,
+    "baseLevel": 100,
     "difficulty": 7500,
     "durability": 70,
-    "level": 100,
+    "level": 710,
     "maxQuality": 15000,
     "name": {
       "de": "Ananas-Orangengelee",
@@ -16226,10 +16226,10 @@
     "suggestedCraftsmanship": 4740
   },
   {
-    "baseLevel": 710,
+    "baseLevel": 100,
     "difficulty": 7500,
     "durability": 70,
-    "level": 100,
+    "level": 710,
     "maxQuality": 15000,
     "name": {
       "de": "Hummerbisque",
@@ -16245,10 +16245,10 @@
     "suggestedCraftsmanship": 4740
   },
   {
-    "baseLevel": 710,
+    "baseLevel": 100,
     "difficulty": 7500,
     "durability": 70,
-    "level": 100,
+    "level": 710,
     "maxQuality": 15000,
     "name": {
       "de": "Gekochter Hummer",
@@ -16264,10 +16264,10 @@
     "suggestedCraftsmanship": 4740
   },
   {
-    "baseLevel": 720,
+    "baseLevel": 100,
     "difficulty": 8050,
     "durability": 70,
-    "level": 100,
+    "level": 720,
     "maxQuality": 17600,
     "name": {
       "de": "Ceviche",
@@ -16283,10 +16283,10 @@
     "suggestedCraftsmanship": 4780
   },
   {
-    "baseLevel": 720,
+    "baseLevel": 100,
     "difficulty": 8050,
     "durability": 70,
-    "level": 100,
+    "level": 720,
     "maxQuality": 17600,
     "name": {
       "de": "Wolkensegler nach Müllerinart",
