@@ -36,10 +36,14 @@ jobs:
           source: ./
           destination: ./_site
 
+      - name: Debug _site directory
+        run: ls -R ./_site
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          name: site-artifact # Explicit artifact name
+          name: site-artifact
+          path: ./_site
 
   deploy:
     needs: update_and_deploy
@@ -53,4 +57,4 @@ jobs:
         uses: actions/deploy-pages@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          artifact_name: site-artifact # Match the uploaded artifact name
+          artifact_name: site-artifact
