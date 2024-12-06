@@ -766,7 +766,7 @@
     "level": 18,
     "maxQuality": 450,
     "name": {
-      "de": "Sonnenstein-Mes<SoftHyphen/>sing<SoftHyphen/>stirn<SoftHyphen/>reif",
+      "de": "Sonnenstein-Mes­sing­stirn­reif",
       "en": "Brass Circlet (Sunstone)",
       "fr": "Diadème en laiton (pierre de soleil)",
       "ja": "ブラスサークレット(サンストーン)"
@@ -785,7 +785,7 @@
     "level": 18,
     "maxQuality": 450,
     "name": {
-      "de": "Danburit-Mes<SoftHyphen/>sing<SoftHyphen/>stirn<SoftHyphen/>reif",
+      "de": "Danburit-Mes­sing­stirn­reif",
       "en": "Brass Circlet (Danburite)",
       "fr": "Diadème en laiton (danburite)",
       "ja": "ブラスサークレット(ダンビュライト)"
@@ -804,7 +804,7 @@
     "level": 18,
     "maxQuality": 450,
     "name": {
-      "de": "Fluorit-Mes<SoftHyphen/>sing<SoftHyphen/>stirn<SoftHyphen/>reif",
+      "de": "Fluorit-Mes­sing­stirn­reif",
       "en": "Brass Circlet (Fluorite)",
       "fr": "Diadème en laiton (fluorine)",
       "ja": "ブラスサークレット(フローライト)"
@@ -823,7 +823,7 @@
     "level": 19,
     "maxQuality": 480,
     "name": {
-      "de": "Titanit-Mes<SoftHyphen/>sing<SoftHyphen/>stirn<SoftHyphen/>reif",
+      "de": "Titanit-Mes­sing­stirn­reif",
       "en": "Brass Circlet (Sphene)",
       "fr": "Diadème en laiton (sphène)",
       "ja": "ブラスサークレット(スフェーン)"
@@ -842,7 +842,7 @@
     "level": 19,
     "maxQuality": 480,
     "name": {
-      "de": "Malachit-Mes<SoftHyphen/>sing<SoftHyphen/>stirn<SoftHyphen/>reif",
+      "de": "Malachit-Mes­sing­stirn­reif",
       "en": "Brass Circlet (Malachite)",
       "fr": "Diadème en laiton (malachite)",
       "ja": "ブラスサークレット(マラカイト)"
@@ -861,7 +861,7 @@
     "level": 19,
     "maxQuality": 480,
     "name": {
-      "de": "Lapislazuli-Mes<SoftHyphen/>sing<SoftHyphen/>stirn<SoftHyphen/>reif",
+      "de": "Lapislazuli-Mes­sing­stirn­reif",
       "en": "Brass Circlet (Lapis Lazuli)",
       "fr": "Diadème en laiton (lapis-lazuli)",
       "ja": "ブラスサークレット(ラピスラズリ)"
@@ -2419,7 +2419,7 @@
     "level": 34,
     "maxQuality": 1050,
     "name": {
-      "de": "Prunk-Sil<SoftHyphen/>ber<SoftHyphen/>zep<SoftHyphen/>ter",
+      "de": "Prunk-Sil­ber­zep­ter",
       "en": "Decorated Silver Scepter",
       "fr": "Sceptre en argent orné",
       "ja": "シルバーセプターDX"
@@ -3540,7 +3540,7 @@
     "level": 42,
     "maxQuality": 1520,
     "name": {
-      "de": "Schild<SoftHyphen/>patt-Ho<SoftHyphen/>ras",
+      "de": "Schild­patt-Ho­ras",
       "en": "Tortoiseshell Hora",
       "fr": "Hora tortue",
       "ja": "トータスホラ"
@@ -7891,7 +7891,7 @@
     "level": 130,
     "maxQuality": 2210,
     "name": {
-      "de": "Buntkristall-Wand<SoftHyphen/>verklei<SoftHyphen/>dung",
+      "de": "Buntkristall-Wand­verklei­dung",
       "en": "Stained Crystal Interior Wall",
       "fr": "Revêtement mural en vitrail",
       "ja": "ステンドクリスタル・インナーウォール"
@@ -20583,7 +20583,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "de": "Br'aaxleder-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Heilung",
+      "de": "Br'aaxleder-Kurz­fin­ger­hand­schu­he der Heilung",
       "en": "Pink Beryl Halfgloves of Healing",
       "fr": "Mitaines de soigneur en béryl rose",
       "ja": "ピンクベリル・ヒーラーハーフグローブ"
@@ -20602,7 +20602,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "de": "Br'aaxleder-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Magie",
+      "de": "Br'aaxleder-Kurz­fin­ger­hand­schu­he der Magie",
       "en": "Pink Beryl Halfgloves of Casting",
       "fr": "Mitaines d'incantateur en béryl rose",
       "ja": "ピンクベリル・キャスターハーフグローブ"
@@ -23834,7 +23834,7 @@
     "name": {
       "de": "Steuerbord-Tragflächengelenk-Bauteil",
       "en": "Starboard Wing Control Component",
-      "fr": "Composant d'ar<SoftHyphen/>ti<SoftHyphen/>cu<SoftHyphen/>la<SoftHyphen/>tion d'aile droite",
+      "fr": "Composant d'ar­ti­cu­la­tion d'aile droite",
       "ja": "右翼可動部材"
     },
     "progressDivider": 50,
@@ -23853,7 +23853,7 @@
     "name": {
       "de": "Backbord-Tragflächengelenk-Bauteil",
       "en": "Larboard Wing Control Component",
-      "fr": "Composant d'ar<SoftHyphen/>ti<SoftHyphen/>cu<SoftHyphen/>la<SoftHyphen/>tion d'aile gauche",
+      "fr": "Composant d'ar­ti­cu­la­tion d'aile gauche",
       "ja": "左翼可動部材"
     },
     "progressDivider": 50,
@@ -26361,7 +26361,7 @@
     "name": {
       "de": "Übungsmaterial",
       "en": "Training Supplies",
-      "fr": "Matériel d'en<SoftHyphen/>traî<SoftHyphen/>ne<SoftHyphen/>ment",
+      "fr": "Matériel d'en­traî­ne­ment",
       "ja": "訓練用部材"
     },
     "progressDivider": 50,
@@ -26380,7 +26380,7 @@
     "name": {
       "de": "Verwendbares Baumaterial",
       "en": "Repurposed Construction Component",
-      "fr": "Matériel de con<SoftHyphen/>struc<SoftHyphen/>tion",
+      "fr": "Matériel de con­struc­tion",
       "ja": "再生済み建築資材"
     },
     "progressDivider": 50,
@@ -28715,7 +28715,7 @@
     "level": 270,
     "maxQuality": 2970,
     "name": {
-      "de": "Komponente eines Stücks Be<SoftHyphen/>freiungs<SoftHyphen/>armee-Ausrüstung",
+      "de": "Komponente eines Stücks Be­freiungs­armee-Ausrüstung",
       "en": "Resistance Materiel Component",
       "fr": "Composant de provisions pour l'armée de libération",
       "ja": "解放軍の軍需品部材"
@@ -28734,7 +28734,7 @@
     "level": 270,
     "maxQuality": 2970,
     "name": {
-      "de": "Rucksack für die Be<SoftHyphen/>freiungs<SoftHyphen/>armee",
+      "de": "Rucksack für die Be­freiungs­armee",
       "en": "Resistance Materiel",
       "fr": "Provisions pour l'armée de libération",
       "ja": "解放軍の軍需品"
@@ -29382,7 +29382,7 @@
     "name": {
       "de": "Dankeschön-Geschenk",
       "en": "Generous Gift",
-      "fr": "Cadeau de re<SoftHyphen/>mer<SoftHyphen/>cie<SoftHyphen/>ment",
+      "fr": "Cadeau de re­mer­cie­ment",
       "ja": "感謝の贈答品"
     },
     "progressDivider": 70,
@@ -35044,7 +35044,7 @@
     "name": {
       "de": "Ätherionette",
       "en": "Aetheroconductive Mammet",
-      "fr": "Poupée d'en<SoftHyphen/>traî<SoftHyphen/>ne<SoftHyphen/>ment magique",
+      "fr": "Poupée d'en­traî­ne­ment magique",
       "ja": "特訓用の魔法人形"
     },
     "progressDivider": 122,
@@ -37571,7 +37571,7 @@
     "name": {
       "de": "Wissenschaftler-Monokel",
       "en": "Scientist's Monocle",
-      "fr": "Monocle de scien<SoftHyphen/>ti<SoftHyphen/>fi<SoftHyphen/>que",
+      "fr": "Monocle de scien­ti­fi­que",
       "ja": "サイエンティスト・モノクル"
     },
     "progressDivider": 170,

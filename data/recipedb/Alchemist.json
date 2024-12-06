@@ -483,7 +483,7 @@
     "name": {
       "de": "Trank der Intelligenz",
       "en": "Potion of Intelligence",
-      "fr": "Solution d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence",
+      "fr": "Solution d'in­tel­li­gence",
       "ja": "知力の薬"
     },
     "progressDivider": 50,
@@ -1034,7 +1034,7 @@
     "name": {
       "de": "Supertrank der Intelligenz",
       "en": "Hi-Potion of Intelligence",
-      "fr": "Décoction d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence",
+      "fr": "Décoction d'in­tel­li­gence",
       "ja": "知力の妙薬"
     },
     "progressDivider": 50,
@@ -1471,7 +1471,7 @@
     "name": {
       "de": "Megatrank der Intelligenz",
       "en": "Mega-Potion of Intelligence",
-      "fr": "Essence d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence",
+      "fr": "Essence d'in­tel­li­gence",
       "ja": "知力の秘薬"
     },
     "progressDivider": 50,
@@ -2571,7 +2571,7 @@
     "level": 31,
     "maxQuality": 900,
     "name": {
-      "de": "Oasen-Wand<SoftHyphen/>verklei<SoftHyphen/>dung",
+      "de": "Oasen-Wand­verklei­dung",
       "en": "Oasis Interior Wall",
       "fr": "Revêtement mural thanalanais",
       "ja": "ザナラーン・インナーウォール"
@@ -3162,7 +3162,7 @@
     "name": {
       "de": "Gigatrank der Intelligenz",
       "en": "X-Potion of Intelligence",
-      "fr": "Concentré d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence",
+      "fr": "Concentré d'in­tel­li­gence",
       "ja": "知力の霊薬"
     },
     "progressDivider": 50,
@@ -3694,7 +3694,7 @@
     "name": {
       "de": "Rad der Konfrontation I",
       "en": "Grade 1 Wheel of Confrontation",
-      "fr": "Tour de l'en<SoftHyphen/>traî<SoftHyphen/>ne<SoftHyphen/>ment I",
+      "fr": "Tour de l'en­traî­ne­ment I",
       "ja": "教練のエーテリアルホイールG1"
     },
     "progressDivider": 50,
@@ -3732,7 +3732,7 @@
     "name": {
       "de": "Rad der Industrie I",
       "en": "Grade 1 Wheel of Industry",
-      "fr": "Tour de l'ap<SoftHyphen/>pren<SoftHyphen/>tis<SoftHyphen/>sage I",
+      "fr": "Tour de l'ap­pren­tis­sage I",
       "ja": "鍛錬のエーテリアルホイールG1"
     },
     "progressDivider": 50,
@@ -3787,7 +3787,7 @@
     "level": 70,
     "maxQuality": 2500,
     "name": {
-      "de": "Rad der Ge<SoftHyphen/>sell<SoftHyphen/>schaft I",
+      "de": "Rad der Ge­sell­schaft I",
       "en": "Grade 1 Wheel of Company",
       "fr": "Tour du mérite I",
       "ja": "軍功のエーテリアルホイールG1"
@@ -3939,7 +3939,7 @@
     "level": 70,
     "maxQuality": 2500,
     "name": {
-      "de": "Rad der Bes<SoftHyphen/>tändig<SoftHyphen/>keit I",
+      "de": "Rad der Bes­tändig­keit I",
       "en": "Grade 1 Wheel of Permanence",
       "fr": "Tour de la rémanence I",
       "ja": "耐久のエーテリアルホイールG1"
@@ -4606,7 +4606,7 @@
     "name": {
       "de": "Intelligenz-Lösungsmittel I",
       "en": "Grade 1 Intelligence Dissolvent",
-      "fr": "Dissolvant d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence I",
+      "fr": "Dissolvant d'in­tel­li­gence I",
       "ja": "知力の錬金溶剤G1"
     },
     "progressDivider": 64,
@@ -5746,7 +5746,7 @@
     "name": {
       "de": "Aufguss der Intelligenz",
       "en": "Infusion of Intelligence",
-      "fr": "Concoction d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence",
+      "fr": "Concoction d'in­tel­li­gence",
       "ja": "知力の薬湯"
     },
     "progressDivider": 90,
@@ -5841,7 +5841,7 @@
     "name": {
       "de": "Wunderwasser der Intelligenz I",
       "en": "Grade 1 Reisui of Intelligence",
-      "fr": "Émulsion d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence I",
+      "fr": "Émulsion d'in­tel­li­gence I",
       "ja": "知力の霊水G1"
     },
     "progressDivider": 83,
@@ -7380,7 +7380,7 @@
     "name": {
       "de": "Visionslösung der Intelligenz I",
       "en": "Grade 1 Intelligence Alkahest",
-      "fr": "Eau chimérique d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence I",
+      "fr": "Eau chimérique d'in­tel­li­gence I",
       "ja": "知力の幻水G1"
     },
     "progressDivider": 103,
@@ -7570,7 +7570,7 @@
     "name": {
       "de": "Visionsremedium der Intelligenz",
       "en": "Tincture of Intelligence",
-      "fr": "Philtre chimérique d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence",
+      "fr": "Philtre chimérique d'in­tel­li­gence",
       "ja": "知力の幻薬"
     },
     "progressDivider": 110,
@@ -9641,7 +9641,7 @@
     "name": {
       "de": "Visionsremedium der Intelligenz V",
       "en": "Grade 5 Tincture of Intelligence",
-      "fr": "Philtre chimérique d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence V",
+      "fr": "Philtre chimérique d'in­tel­li­gence V",
       "ja": "知力の幻薬G5"
     },
     "progressDivider": 130,
@@ -9793,7 +9793,7 @@
     "name": {
       "de": "Visionslösung der Intelligenz V",
       "en": "Grade 5 Intelligence Alkahest",
-      "fr": "Eau chimérique d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence V",
+      "fr": "Eau chimérique d'in­tel­li­gence V",
       "ja": "知力の幻水G5"
     },
     "progressDivider": 123,
@@ -11503,7 +11503,7 @@
     "name": {
       "de": "Juwelenlösung der Intelligenz I",
       "en": "Grade 1 Gemsap of Intelligence",
-      "fr": "Eau prodigieuse d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence I",
+      "fr": "Eau prodigieuse d'in­tel­li­gence I",
       "ja": "知力の宝水"
     },
     "progressDivider": 149,
@@ -11674,7 +11674,7 @@
     "name": {
       "de": "Juwelenremedium der Intelligenz I",
       "en": "Grade 1 Gemdraught of Intelligence",
-      "fr": "Philtre prodigieux d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence I",
+      "fr": "Philtre prodigieux d'in­tel­li­gence I",
       "ja": "知力の宝薬"
     },
     "progressDivider": 170,
@@ -14011,7 +14011,7 @@
     "name": {
       "de": "Steuerbord-Tragflächengelenk-Bauteil",
       "en": "Starboard Wing Control Component",
-      "fr": "Composant d'ar<SoftHyphen/>ti<SoftHyphen/>cu<SoftHyphen/>la<SoftHyphen/>tion d'aile droite",
+      "fr": "Composant d'ar­ti­cu­la­tion d'aile droite",
       "ja": "右翼可動部材"
     },
     "progressDivider": 50,
@@ -14030,7 +14030,7 @@
     "name": {
       "de": "Backbord-Tragflächengelenk-Bauteil",
       "en": "Larboard Wing Control Component",
-      "fr": "Composant d'ar<SoftHyphen/>ti<SoftHyphen/>cu<SoftHyphen/>la<SoftHyphen/>tion d'aile gauche",
+      "fr": "Composant d'ar­ti­cu­la­tion d'aile gauche",
       "ja": "左翼可動部材"
     },
     "progressDivider": 50,
@@ -14904,7 +14904,7 @@
     "name": {
       "de": "Intelligenz-Lösungsmittel II",
       "en": "Grade 2 Intelligence Dissolvent",
-      "fr": "Dissolvant d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence II",
+      "fr": "Dissolvant d'in­tel­li­gence II",
       "ja": "知力の錬金溶剤G2"
     },
     "progressDivider": 70,
@@ -14999,7 +14999,7 @@
     "name": {
       "de": "Drachentrank der Intelligenz",
       "en": "Draconian Potion of Intelligence",
-      "fr": "Potion draconique d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence",
+      "fr": "Potion draconique d'in­tel­li­gence",
       "ja": "知力の竜薬"
     },
     "progressDivider": 69,
@@ -15341,7 +15341,7 @@
     "name": {
       "de": "Intelligenz-Lösungsmittel III",
       "en": "Grade 3 Intelligence Dissolvent",
-      "fr": "Dissolvant d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence III",
+      "fr": "Dissolvant d'in­tel­li­gence III",
       "ja": "知力の錬金溶剤G3"
     },
     "progressDivider": 70,
@@ -15436,7 +15436,7 @@
     "name": {
       "de": "Maxtrank der Intelligenz",
       "en": "Max-Potion of Intelligence",
-      "fr": "Thériaque d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence",
+      "fr": "Thériaque d'in­tel­li­gence",
       "ja": "知力の仙薬"
     },
     "progressDivider": 70,
@@ -16101,7 +16101,7 @@
     "name": {
       "de": "Übungsmaterial",
       "en": "Training Supplies",
-      "fr": "Matériel d'en<SoftHyphen/>traî<SoftHyphen/>ne<SoftHyphen/>ment",
+      "fr": "Matériel d'en­traî­ne­ment",
       "ja": "訓練用部材"
     },
     "progressDivider": 50,
@@ -16120,7 +16120,7 @@
     "name": {
       "de": "Verwendbares Baumaterial",
       "en": "Repurposed Construction Component",
-      "fr": "Matériel de con<SoftHyphen/>struc<SoftHyphen/>tion",
+      "fr": "Matériel de con­struc­tion",
       "ja": "再生済み建築資材"
     },
     "progressDivider": 50,
@@ -16937,7 +16937,7 @@
     "name": {
       "de": "Supramaxtrank der Intelligenz",
       "en": "Supramax-Potion of Intelligence",
-      "fr": "Thériaque améliorée d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence",
+      "fr": "Thériaque améliorée d'in­tel­li­gence",
       "ja": "知力の強化仙薬"
     },
     "progressDivider": 70,
@@ -17488,7 +17488,7 @@
     "name": {
       "de": "Süßer Megatrank der Intelligenz",
       "en": "Intellectuary",
-      "fr": "Essence d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence sucrée",
+      "fr": "Essence d'in­tel­li­gence sucrée",
       "ja": "知力の甘口秘薬"
     },
     "progressDivider": 83,
@@ -17735,7 +17735,7 @@
     "name": {
       "de": "Wunderwasser der Intelligenz II",
       "en": "Grade 2 Reisui of Intelligence",
-      "fr": "Émulsion d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence II",
+      "fr": "Émulsion d'in­tel­li­gence II",
       "ja": "知力の霊水G2"
     },
     "progressDivider": 90,
@@ -18037,7 +18037,7 @@
     "level": 270,
     "maxQuality": 2970,
     "name": {
-      "de": "Komponente eines Stücks Be<SoftHyphen/>freiungs<SoftHyphen/>armee-Ausrüstung",
+      "de": "Komponente eines Stücks Be­freiungs­armee-Ausrüstung",
       "en": "Resistance Materiel Component",
       "fr": "Composant de provisions pour l'armée de libération",
       "ja": "解放軍の軍需品部材"
@@ -18056,7 +18056,7 @@
     "level": 270,
     "maxQuality": 2970,
     "name": {
-      "de": "Rucksack für die Be<SoftHyphen/>freiungs<SoftHyphen/>armee",
+      "de": "Rucksack für die Be­freiungs­armee",
       "en": "Resistance Materiel",
       "fr": "Provisions pour l'armée de libération",
       "ja": "解放軍の軍需品"
@@ -18210,7 +18210,7 @@
     "name": {
       "de": "Wunderwasser der Intelligenz III",
       "en": "Grade 3 Reisui of Intelligence",
-      "fr": "Émulsion d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence III",
+      "fr": "Émulsion d'in­tel­li­gence III",
       "ja": "知力の霊水G3"
     },
     "progressDivider": 90,
@@ -18305,7 +18305,7 @@
     "name": {
       "de": "Aufguss der Intelligenz II",
       "en": "Grade 2 Infusion of Intelligence",
-      "fr": "Concoction d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence II",
+      "fr": "Concoction d'in­tel­li­gence II",
       "ja": "知力の薬湯G2"
     },
     "progressDivider": 90,
@@ -18590,7 +18590,7 @@
     "name": {
       "de": "Dankeschön-Geschenk",
       "en": "Generous Gift",
-      "fr": "Cadeau de re<SoftHyphen/>mer<SoftHyphen/>cie<SoftHyphen/>ment",
+      "fr": "Cadeau de re­mer­cie­ment",
       "ja": "感謝の贈答品"
     },
     "progressDivider": 70,
@@ -19388,7 +19388,7 @@
     "name": {
       "de": "Wunderwasser der Intelligenz IV",
       "en": "Grade 4 Reisui of Intelligence",
-      "fr": "Émulsion d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence IV",
+      "fr": "Émulsion d'in­tel­li­gence IV",
       "ja": "知力の霊水G4"
     },
     "progressDivider": 90,
@@ -19483,7 +19483,7 @@
     "name": {
       "de": "Aufguss der Intelligenz III",
       "en": "Grade 3 Infusion of Intelligence",
-      "fr": "Concoction d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence III",
+      "fr": "Concoction d'in­tel­li­gence III",
       "ja": "知力の薬湯G3"
     },
     "progressDivider": 90,
@@ -19920,7 +19920,7 @@
     "name": {
       "de": "Visionslösung der Intelligenz II",
       "en": "Grade 2 Intelligence Alkahest",
-      "fr": "Eau chimérique d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence II",
+      "fr": "Eau chimérique d'in­tel­li­gence II",
       "ja": "知力の幻水G2"
     },
     "progressDivider": 110,
@@ -20015,7 +20015,7 @@
     "name": {
       "de": "Visionsremedium der Intelligenz II",
       "en": "Grade 2 Tincture of Intelligence",
-      "fr": "Philtre chimérique d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence II",
+      "fr": "Philtre chimérique d'in­tel­li­gence II",
       "ja": "知力の幻薬G2"
     },
     "progressDivider": 110,
@@ -20775,7 +20775,7 @@
     "name": {
       "de": "Visionsremedium der Intelligenz III",
       "en": "Grade 3 Tincture of Intelligence",
-      "fr": "Philtre chimérique d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence III",
+      "fr": "Philtre chimérique d'in­tel­li­gence III",
       "ja": "知力の幻薬G3"
     },
     "progressDivider": 110,
@@ -20870,7 +20870,7 @@
     "name": {
       "de": "Visionslösung der Intelligenz III",
       "en": "Grade 3 Intelligence Alkahest",
-      "fr": "Eau chimérique d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence III",
+      "fr": "Eau chimérique d'in­tel­li­gence III",
       "ja": "知力の幻水G3"
     },
     "progressDivider": 110,
@@ -22314,7 +22314,7 @@
     "name": {
       "de": "Visionsremedium der Intelligenz IV",
       "en": "Grade 4 Tincture of Intelligence",
-      "fr": "Philtre chimérique d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence IV",
+      "fr": "Philtre chimérique d'in­tel­li­gence IV",
       "ja": "知力の幻薬G4"
     },
     "progressDivider": 110,
@@ -22409,7 +22409,7 @@
     "name": {
       "de": "Visionslösung der Intelligenz IV",
       "en": "Grade 4 Intelligence Alkahest",
-      "fr": "Eau chimérique d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence IV",
+      "fr": "Eau chimérique d'in­tel­li­gence IV",
       "ja": "知力の幻水G4"
     },
     "progressDivider": 110,
@@ -23036,7 +23036,7 @@
     "name": {
       "de": "Visionsremedium der Intelligenz VI",
       "en": "Grade 6 Tincture of Intelligence",
-      "fr": "Philtre chimérique d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence VI",
+      "fr": "Philtre chimérique d'in­tel­li­gence VI",
       "ja": "知力の幻薬G6"
     },
     "progressDivider": 130,
@@ -23131,7 +23131,7 @@
     "name": {
       "de": "Visionslösung der Intelligenz VI",
       "en": "Grade 6 Intelligence Alkahest",
-      "fr": "Eau chimérique d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence VI",
+      "fr": "Eau chimérique d'in­tel­li­gence VI",
       "ja": "知力の幻水G6"
     },
     "progressDivider": 130,
@@ -23283,7 +23283,7 @@
     "name": {
       "de": "Ätherionette",
       "en": "Aetheroconductive Mammet",
-      "fr": "Poupée d'en<SoftHyphen/>traî<SoftHyphen/>ne<SoftHyphen/>ment magique",
+      "fr": "Poupée d'en­traî­ne­ment magique",
       "ja": "特訓用の魔法人形"
     },
     "progressDivider": 122,
@@ -23511,7 +23511,7 @@
     "name": {
       "de": "Visionslösung der Intelligenz VII",
       "en": "Grade 7 Intelligence Alkahest",
-      "fr": "Eau chimérique d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence VII",
+      "fr": "Eau chimérique d'in­tel­li­gence VII",
       "ja": "知力の幻水G7"
     },
     "progressDivider": 130,
@@ -23606,7 +23606,7 @@
     "name": {
       "de": "Visionsremedium der Intelligenz VII",
       "en": "Grade 7 Tincture of Intelligence",
-      "fr": "Philtre chimérique d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence VII",
+      "fr": "Philtre chimérique d'in­tel­li­gence VII",
       "ja": "知力の幻薬G7"
     },
     "progressDivider": 130,
@@ -24518,7 +24518,7 @@
     "name": {
       "de": "Visionslösung der Intelligenz VIII",
       "en": "Grade 8 Intelligence Alkahest",
-      "fr": "Eau chimérique d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence VIII",
+      "fr": "Eau chimérique d'in­tel­li­gence VIII",
       "ja": "知力の幻水G8"
     },
     "progressDivider": 130,
@@ -24613,7 +24613,7 @@
     "name": {
       "de": "Visionsremedium der Intelligenz VIII",
       "en": "Grade 8 Tincture of Intelligence",
-      "fr": "Philtre chimérique d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence VIII",
+      "fr": "Philtre chimérique d'in­tel­li­gence VIII",
       "ja": "知力の幻薬G8"
     },
     "progressDivider": 130,
@@ -25297,7 +25297,7 @@
     "name": {
       "de": "Juwelenlösung der Intelligenz II",
       "en": "Grade 2 Gemsap of Intelligence",
-      "fr": "Eau prodigieuse d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence II",
+      "fr": "Eau prodigieuse d'in­tel­li­gence II",
       "ja": "知力の宝水G2"
     },
     "progressDivider": 170,
@@ -25392,7 +25392,7 @@
     "name": {
       "de": "Juwelenremedium der Intelligenz II",
       "en": "Grade 2 Gemdraught of Intelligence",
-      "fr": "Philtre prodigieux d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence II",
+      "fr": "Philtre prodigieux d'in­tel­li­gence II",
       "ja": "知力の宝薬G2"
     },
     "progressDivider": 170,

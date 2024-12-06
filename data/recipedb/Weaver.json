@@ -25,7 +25,7 @@
     "level": 2,
     "maxQuality": 110,
     "name": {
-      "de": "Na<SoftHyphen/>tur<SoftHyphen/>be<SoftHyphen/>las<SoftHyphen/>se<SoftHyphen/>ner Hanf",
+      "de": "Na­tur­be­las­se­ner Hanf",
       "en": "Undyed Hempen Cloth",
       "fr": "Étoffe de chanvre",
       "ja": "草布"
@@ -44,7 +44,7 @@
     "level": 2,
     "maxQuality": 110,
     "name": {
-      "de": "Hanf-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Hanf-Kurz­fin­ger­hand­schu­he",
       "en": "Hempen Halfgloves",
       "fr": "Mitaines",
       "ja": "ハーフグローブ"
@@ -500,7 +500,7 @@
     "level": 7,
     "maxQuality": 190,
     "name": {
-      "de": "Hanf-Ar<SoftHyphen/>beits<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Hanf-Ar­beits­hand­schu­he",
       "en": "Hempen Work Gloves",
       "fr": "Gants de travail",
       "ja": "ワークグローブ"
@@ -1013,7 +1013,7 @@
     "level": 14,
     "maxQuality": 330,
     "name": {
-      "de": "Baum<SoftHyphen/>woll-Chaus<SoftHyphen/>ses",
+      "de": "Baum­woll-Chaus­ses",
       "en": "Cotton Chausses",
       "fr": "Chausses en coton",
       "ja": "コットンショース"
@@ -1032,7 +1032,7 @@
     "level": 14,
     "maxQuality": 330,
     "name": {
-      "de": "Baum<SoftHyphen/>woll<SoftHyphen/>strumpf<SoftHyphen/>hose",
+      "de": "Baum­woll­strumpf­hose",
       "en": "Cotton Tights",
       "fr": "Collants en coton",
       "ja": "コットンタイツ"
@@ -1089,7 +1089,7 @@
     "level": 15,
     "maxQuality": 360,
     "name": {
-      "de": "Baum<SoftHyphen/>woll-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Baum­woll-Kurz­fin­ger­hand­schu­he",
       "en": "Cotton Halfgloves",
       "fr": "Mitaines en coton",
       "ja": "コットンハーフグローブ"
@@ -1412,7 +1412,7 @@
     "level": 20,
     "maxQuality": 510,
     "name": {
-      "de": "Baumwoll-Ar<SoftHyphen/>beits<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Baumwoll-Ar­beits­hand­schu­he",
       "en": "Cotton Work Gloves",
       "fr": "Gants de travail en coton",
       "ja": "コットンワークグローブ"
@@ -1621,7 +1621,7 @@
     "level": 24,
     "maxQuality": 630,
     "name": {
-      "de": "Na<SoftHyphen/>tur<SoftHyphen/>be<SoftHyphen/>las<SoftHyphen/>se<SoftHyphen/>ner Samt",
+      "de": "Na­tur­be­las­se­ner Samt",
       "en": "Undyed Velveteen",
       "fr": "Étoffe de veloutine",
       "ja": "別珍"
@@ -1716,7 +1716,7 @@
     "level": 24,
     "maxQuality": 630,
     "name": {
-      "de": "Samt-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Samt-Kurz­fin­ger­hand­schu­he",
       "en": "Velveteen Halfgloves",
       "fr": "Mitaines en veloutine",
       "ja": "ベルベティーンハーフグローブ"
@@ -2096,7 +2096,7 @@
     "level": 30,
     "maxQuality": 850,
     "name": {
-      "de": "Samt-Ar<SoftHyphen/>beits<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Samt-Ar­beits­hand­schu­he",
       "en": "Velveteen Work Gloves",
       "fr": "Gants de travail en veloutine",
       "ja": "ベルベティーンワークグローブ"
@@ -2305,7 +2305,7 @@
     "level": 33,
     "maxQuality": 1000,
     "name": {
-      "de": "Leinen-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Leinen-Kurz­fin­ger­hand­schu­he",
       "en": "Linen Halfgloves",
       "fr": "Mitaines en lin",
       "ja": "リネンハーフグローブ"
@@ -2400,7 +2400,7 @@
     "level": 35,
     "maxQuality": 1110,
     "name": {
-      "de": "Lei<SoftHyphen/>nen<SoftHyphen/>strumpf<SoftHyphen/>hose",
+      "de": "Lei­nen­strumpf­hose",
       "en": "Linen Tights",
       "fr": "Collants en lin",
       "ja": "リネンタイツ"
@@ -3103,7 +3103,7 @@
     "level": 43,
     "maxQuality": 1580,
     "name": {
-      "de": "Woll-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Woll-Kurz­fin­ger­hand­schu­he",
       "en": "Woolen Halfgloves",
       "fr": "Mitaines en laine",
       "ja": "ウールハーフグローブ"
@@ -3122,7 +3122,7 @@
     "level": 43,
     "maxQuality": 1580,
     "name": {
-      "de": "Woll-Ar<SoftHyphen/>beits<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Woll-Ar­beits­hand­schu­he",
       "en": "Woolen Work Gloves",
       "fr": "Gants de travail en laine",
       "ja": "ウールワークグローブ"
@@ -3464,7 +3464,7 @@
     "level": 45,
     "maxQuality": 1700,
     "name": {
-      "de": "Filz-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Filz-Kurz­fin­ger­hand­schu­he",
       "en": "Felt Halfgloves",
       "fr": "Mitaines en feutre",
       "ja": "フェルトハーフグローブ"
@@ -3521,7 +3521,7 @@
     "level": 46,
     "maxQuality": 1760,
     "name": {
-      "de": "Filz-Ar<SoftHyphen/>beits<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Filz-Ar­beits­hand­schu­he",
       "en": "Felt Work Gloves",
       "fr": "Gants de travail en feutre",
       "ja": "フェルトワークグローブ"
@@ -6960,7 +6960,7 @@
     "level": 115,
     "maxQuality": 2070,
     "name": {
-      "de": "Regenbogen-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Spähens",
+      "de": "Regenbogen-Kurz­fin­ger­hand­schu­he des Spähens",
       "en": "Rainbow Halfgloves of Scouting",
       "fr": "Mitaines d'éclaireur en étoffe arc-en-ciel",
       "ja": "レインボークロス・スカウトハーフグローブ"
@@ -7207,7 +7207,7 @@
     "level": 133,
     "maxQuality": 2280,
     "name": {
-      "de": "Ramien-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Heilung",
+      "de": "Ramien-Kurz­fin­ger­hand­schu­he der Heilung",
       "en": "Ramie Halfgloves of Healing",
       "fr": "Mitaines de soigneur en ramie",
       "ja": "ラミー・ヒーラーハーフグローブ"
@@ -7454,7 +7454,7 @@
     "level": 133,
     "maxQuality": 2280,
     "name": {
-      "de": "Ramien-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Magie",
+      "de": "Ramien-Kurz­fin­ger­hand­schu­he der Magie",
       "en": "Ramie Halfgloves of Casting",
       "fr": "Mitaines d'incantateur en ramie",
       "ja": "ラミー・キャスターハーフグローブ"
@@ -7929,7 +7929,7 @@
     "level": 130,
     "maxQuality": 2210,
     "name": {
-      "de": "Heilige Regenbogen-Ar<SoftHyphen/>beits<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Heilige Regenbogen-Ar­beits­hand­schu­he",
       "en": "Holy Rainbow Work Gloves",
       "fr": "Gants de travail en étoffe arc-en-ciel sacrée",
       "ja": "ホーリーレインボー・ワークグローブ"
@@ -10190,7 +10190,7 @@
     "level": 290,
     "maxQuality": 3600,
     "name": {
-      "de": "Sergen-Ar<SoftHyphen/>beits<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Sergen-Ar­beits­hand­schu­he",
       "en": "Serge Work Gloves",
       "fr": "Gants de travail en serge",
       "ja": "サージワークグローブ"
@@ -15985,7 +15985,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "de": "Rroneeksergen-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Zielens",
+      "de": "Rroneeksergen-Kurz­fin­ger­hand­schu­he des Zielens",
       "en": "Rroneek Serge Halfgloves of Aiming",
       "fr": "Mitaines de pisteur en serge de rroneek",
       "ja": "ロネークサージ・レンジャーハーフグローブ"
@@ -16004,7 +16004,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "de": "Rroneeksergen-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Heilung",
+      "de": "Rroneeksergen-Kurz­fin­ger­hand­schu­he der Heilung",
       "en": "Rroneek Serge Halfgloves of Healing",
       "fr": "Mitaines de soigneur en serge de rroneek",
       "ja": "ロネークサージ・ヒーラーハーフグローブ"
@@ -16023,7 +16023,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "de": "Rroneeksergen-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Magie",
+      "de": "Rroneeksergen-Kurz­fin­ger­hand­schu­he der Magie",
       "en": "Rroneek Serge Halfgloves of Casting",
       "fr": "Mitaines d'incantateur en serge de rroneek",
       "ja": "ロネークサージ・キャスターハーフグローブ"
@@ -17868,7 +17868,7 @@
     "name": {
       "de": "Steuerbord-Tragflächengelenk-Bauteil",
       "en": "Starboard Wing Control Component",
-      "fr": "Composant d'ar<SoftHyphen/>ti<SoftHyphen/>cu<SoftHyphen/>la<SoftHyphen/>tion d'aile droite",
+      "fr": "Composant d'ar­ti­cu­la­tion d'aile droite",
       "ja": "右翼可動部材"
     },
     "progressDivider": 50,
@@ -17887,7 +17887,7 @@
     "name": {
       "de": "Backbord-Tragflächengelenk-Bauteil",
       "en": "Larboard Wing Control Component",
-      "fr": "Composant d'ar<SoftHyphen/>ti<SoftHyphen/>cu<SoftHyphen/>la<SoftHyphen/>tion d'aile gauche",
+      "fr": "Composant d'ar­ti­cu­la­tion d'aile gauche",
       "ja": "左翼可動部材"
     },
     "progressDivider": 50,
@@ -18740,7 +18740,7 @@
     "level": 136,
     "maxQuality": 2350,
     "name": {
-      "de": "Ge<SoftHyphen/>sell<SoftHyphen/>schaftswappenrock",
+      "de": "Ge­sell­schaftswappenrock",
       "en": "Company Tabard",
       "fr": "Tabard de compagnie libre",
       "ja": "カンパニータバード"
@@ -19367,7 +19367,7 @@
     "level": 180,
     "maxQuality": 2900,
     "name": {
-      "de": "Schrei<SoftHyphen/>ner<SoftHyphen/>mei<SoftHyphen/>ster-Kappe",
+      "de": "Schrei­ner­mei­ster-Kappe",
       "en": "Millmaster's Cap",
       "fr": "Casquette d'expert de l'établi",
       "ja": "ミルマスターキャップ"
@@ -19386,7 +19386,7 @@
     "level": 180,
     "maxQuality": 2900,
     "name": {
-      "de": "Schrei<SoftHyphen/>ner<SoftHyphen/>mei<SoftHyphen/>ster-Schürze",
+      "de": "Schrei­ner­mei­ster-Schürze",
       "en": "Millmaster's Apron",
       "fr": "Tablier d'expert de l'établi",
       "ja": "ミルマスターエプロン"
@@ -19405,7 +19405,7 @@
     "level": 180,
     "maxQuality": 2900,
     "name": {
-      "de": "Schrei<SoftHyphen/>ner<SoftHyphen/>mei<SoftHyphen/>ster-Beinlinge",
+      "de": "Schrei­ner­mei­ster-Beinlinge",
       "en": "Millmaster's Slops",
       "fr": "Trousses d'expert de l'établi",
       "ja": "ミルマスタースロップ"
@@ -20965,7 +20965,7 @@
     "name": {
       "de": "Übungsmaterial",
       "en": "Training Supplies",
-      "fr": "Matériel d'en<SoftHyphen/>traî<SoftHyphen/>ne<SoftHyphen/>ment",
+      "fr": "Matériel d'en­traî­ne­ment",
       "ja": "訓練用部材"
     },
     "progressDivider": 50,
@@ -20984,7 +20984,7 @@
     "name": {
       "de": "Verwendbares Baumaterial",
       "en": "Repurposed Construction Component",
-      "fr": "Matériel de con<SoftHyphen/>struc<SoftHyphen/>tion",
+      "fr": "Matériel de con­struc­tion",
       "ja": "再生済み建築資材"
     },
     "progressDivider": 50,
@@ -23300,7 +23300,7 @@
     "level": 270,
     "maxQuality": 2970,
     "name": {
-      "de": "Komponente eines Stücks Be<SoftHyphen/>freiungs<SoftHyphen/>armee-Ausrüstung",
+      "de": "Komponente eines Stücks Be­freiungs­armee-Ausrüstung",
       "en": "Resistance Materiel Component",
       "fr": "Composant de provisions pour l'armée de libération",
       "ja": "解放軍の軍需品部材"
@@ -23319,7 +23319,7 @@
     "level": 270,
     "maxQuality": 2970,
     "name": {
-      "de": "Rucksack für die Be<SoftHyphen/>freiungs<SoftHyphen/>armee",
+      "de": "Rucksack für die Be­freiungs­armee",
       "en": "Resistance Materiel",
       "fr": "Provisions pour l'armée de libération",
       "ja": "解放軍の軍需品"
@@ -23471,7 +23471,7 @@
     "level": 350,
     "maxQuality": 5200,
     "name": {
-      "de": "Reinleinen-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Schlagens",
+      "de": "Reinleinen-Kurz­fin­ger­hand­schu­he des Schlagens",
       "en": "True Linen Halfgloves of Striking",
       "fr": "Mitaines d'agresseur en lin hingashien",
       "ja": "トゥルーリネン・ストライカーハーフグローブ"
@@ -24081,7 +24081,7 @@
     "name": {
       "de": "Dankeschön-Geschenk",
       "en": "Generous Gift",
-      "fr": "Cadeau de re<SoftHyphen/>mer<SoftHyphen/>cie<SoftHyphen/>ment",
+      "fr": "Cadeau de re­mer­cie­ment",
       "ja": "感謝の贈答品"
     },
     "progressDivider": 70,
@@ -29591,7 +29591,7 @@
     "name": {
       "de": "Ätherionette",
       "en": "Aetheroconductive Mammet",
-      "fr": "Poupée d'en<SoftHyphen/>traî<SoftHyphen/>ne<SoftHyphen/>ment magique",
+      "fr": "Poupée d'en­traî­ne­ment magique",
       "ja": "特訓用の魔法人形"
     },
     "progressDivider": 122,
@@ -29724,7 +29724,7 @@
     "name": {
       "de": "Universitäts-Ledermütze",
       "en": "Varsity Flat Cap",
-      "fr": "Casquette classique uni<SoftHyphen/>ver<SoftHyphen/>si<SoftHyphen/>tai<SoftHyphen/>re",
+      "fr": "Casquette classique uni­ver­si­tai­re",
       "ja": "ヴァーシティ・フラットキャップ"
     },
     "progressDivider": 130,
@@ -29743,7 +29743,7 @@
     "name": {
       "de": "Universitäts-Jacke",
       "en": "Varsity Jacket",
-      "fr": "Jaque uni<SoftHyphen/>ver<SoftHyphen/>si<SoftHyphen/>tai<SoftHyphen/>re",
+      "fr": "Jaque uni­ver­si­tai­re",
       "ja": "ヴァーシティ・ジャケット"
     },
     "progressDivider": 130,
@@ -29762,7 +29762,7 @@
     "name": {
       "de": "Universitäts-Hose",
       "en": "Varsity Bottoms",
-      "fr": "Bas-de-corps uni<SoftHyphen/>ver<SoftHyphen/>si<SoftHyphen/>tai<SoftHyphen/>re",
+      "fr": "Bas-de-corps uni­ver­si­tai­re",
       "ja": "ヴァーシティ・ボトム"
     },
     "progressDivider": 130,
@@ -29781,7 +29781,7 @@
     "name": {
       "de": "Zugeknöpfte Universitäts-Jacke",
       "en": "Buttoned Varsity Jacket",
-      "fr": "Jaque boutonnée uni<SoftHyphen/>ver<SoftHyphen/>si<SoftHyphen/>tai<SoftHyphen/>re",
+      "fr": "Jaque boutonnée uni­ver­si­tai­re",
       "ja": "ボタンド・ヴァーシティジャケット"
     },
     "progressDivider": 130,
@@ -29800,7 +29800,7 @@
     "name": {
       "de": "Universitäts-Rock",
       "en": "Varsity Skirt",
-      "fr": "Jupe uni<SoftHyphen/>ver<SoftHyphen/>si<SoftHyphen/>tai<SoftHyphen/>re",
+      "fr": "Jupe uni­ver­si­tai­re",
       "ja": "ヴァーシティ・スカート"
     },
     "progressDivider": 130,
@@ -32289,7 +32289,7 @@
     "name": {
       "de": "Wissenschaftler-Mantel",
       "en": "Scientist's Coat",
-      "fr": "Manteau de scien<SoftHyphen/>ti<SoftHyphen/>fi<SoftHyphen/>que",
+      "fr": "Manteau de scien­ti­fi­que",
       "ja": "サイエンティスト・コート"
     },
     "progressDivider": 170,
@@ -32308,7 +32308,7 @@
     "name": {
       "de": "Wissenschaftler-Reiterhose",
       "en": "Scientist's Breeches",
-      "fr": "Braies de scien<SoftHyphen/>ti<SoftHyphen/>fi<SoftHyphen/>que",
+      "fr": "Braies de scien­ti­fi­que",
       "ja": "サイエンティスト・ブリーチ"
     },
     "progressDivider": 170,

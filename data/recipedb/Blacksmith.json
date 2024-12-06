@@ -101,7 +101,7 @@
     "level": 3,
     "maxQuality": 120,
     "name": {
-      "de": "Bron<SoftHyphen/>ze<SoftHyphen/>streit<SoftHyphen/>axt",
+      "de": "Bron­ze­streit­axt",
       "en": "Bronze War Axe",
       "fr": "Hache de guerre",
       "ja": "ウォーアクス"
@@ -196,7 +196,7 @@
     "level": 5,
     "maxQuality": 150,
     "name": {
-      "de": "Bronze-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Bronze-Kreuz­schlag­ham­mer",
       "en": "Bronze Cross-pein Hammer",
       "fr": "Marteau à panne croisée",
       "ja": "クロスペインハンマー"
@@ -462,7 +462,7 @@
     "level": 10,
     "maxQuality": 250,
     "name": {
-      "de": "Laien-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Laien-Kreuz­schlag­ham­mer",
       "en": "Amateur's Cross-pein Hammer",
       "fr": "Marteau à panne croisée d'amateur",
       "ja": "アマチュア・クロスペインハンマー"
@@ -975,7 +975,7 @@
     "level": 18,
     "maxQuality": 450,
     "name": {
-      "de": "Ei<SoftHyphen/>sen-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Ei­sen-Kreuz­schlag­ham­mer",
       "en": "Iron Cross-pein Hammer",
       "fr": "Marteau à panne croisée en fer",
       "ja": "アイアン・クロスペインハンマー"
@@ -1127,7 +1127,7 @@
     "level": 20,
     "maxQuality": 510,
     "name": {
-      "de": "Ei<SoftHyphen/>sen<SoftHyphen/>spitz<SoftHyphen/>ha<SoftHyphen/>cke",
+      "de": "Ei­sen­spitz­ha­cke",
       "en": "Iron Pickaxe",
       "fr": "Pioche en fer",
       "ja": "アイアンピック"
@@ -1279,7 +1279,7 @@
     "level": 21,
     "maxQuality": 540,
     "name": {
-      "de": "Anfänger-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Anfänger-Kreuz­schlag­ham­mer",
       "en": "Initiate's Cross-pein Hammer",
       "fr": "Marteau à panne croisée d'initié",
       "ja": "イニシエート・クロスペインハンマー"
@@ -1697,7 +1697,7 @@
     "level": 26,
     "maxQuality": 690,
     "name": {
-      "de": "Krä<SoftHyphen/>hen<SoftHyphen/>schna<SoftHyphen/>bel<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Krä­hen­schna­bel­ham­mer",
       "en": "Crowsbeak Hammer",
       "fr": "Marteau corbeau",
       "ja": "クロウビークハンマー"
@@ -1906,7 +1906,7 @@
     "level": 29,
     "maxQuality": 800,
     "name": {
-      "de": "Schwerer Krä<SoftHyphen/>hen<SoftHyphen/>schna<SoftHyphen/>bel<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Schwerer Krä­hen­schna­bel­ham­mer",
       "en": "Heavy Crowsbeak Hammer",
       "fr": "Marteau corbeau lourd",
       "ja": "ヘヴィ・クロウビークハンマー"
@@ -2172,7 +2172,7 @@
     "level": 32,
     "maxQuality": 950,
     "name": {
-      "de": "Stahl-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Stahl-Kreuz­schlag­ham­mer",
       "en": "Steel Cross-pein Hammer",
       "fr": "Marteau à panne croisée en acier",
       "ja": "スチール・クロスペインハンマー"
@@ -2324,7 +2324,7 @@
     "level": 34,
     "maxQuality": 1050,
     "name": {
-      "de": "Stahl-Krä<SoftHyphen/>hen<SoftHyphen/>schna<SoftHyphen/>bel<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Stahl-Krä­hen­schna­bel­ham­mer",
       "en": "Steel Crowsbeak Hammer",
       "fr": "Marteau corbeau en acier",
       "ja": "スチールビークハンマー"
@@ -3369,7 +3369,7 @@
     "level": 42,
     "maxQuality": 1520,
     "name": {
-      "de": "Koboldeisen-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Koboldeisen-Kreuz­schlag­ham­mer",
       "en": "Cobalt Cross-pein Hammer",
       "fr": "Marteau à panne croisée en cobalt",
       "ja": "コバルト・クロスペインハンマー"
@@ -6276,7 +6276,7 @@
     "level": 136,
     "maxQuality": 2350,
     "name": {
-      "de": "Titan-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Titan-Kreuz­schlag­ham­mer",
       "en": "Titanium Cross-pein Hammer",
       "fr": "Marteau à panne croisée en titane",
       "ja": "チタン・クロスペインハンマー"
@@ -7948,7 +7948,7 @@
     "level": 255,
     "maxQuality": 2790,
     "name": {
-      "de": "Edelstahl-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Edelstahl-Kreuz­schlag­ham­mer",
       "en": "High Steel Cross-pein Hammer",
       "fr": "Marteau à panne croisée en acier noble",
       "ja": "ハイスチール・クロスペインハンマー"
@@ -8518,7 +8518,7 @@
     "level": 279,
     "maxQuality": 3240,
     "name": {
-      "de": "Domastahl-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Domastahl-Kreuz­schlag­ham­mer",
       "en": "Doman Steel Cross-pein Hammer",
       "fr": "Marteau à panne croisée en acier domien",
       "ja": "ドマスチール・クロスペインハンマー"
@@ -9582,7 +9582,7 @@
     "level": 390,
     "maxQuality": 3763,
     "name": {
-      "de": "Dunkelgold-Revolver<SoftHyphen/>klinge",
+      "de": "Dunkelgold-Revolver­klinge",
       "en": "Deepgold Gunblade",
       "fr": "Pistolame en or incarnat",
       "ja": "ディープゴールド・ガンブレード"
@@ -9867,7 +9867,7 @@
     "level": 403,
     "maxQuality": 4000,
     "name": {
-      "de": "Seelenazurit-Revolver<SoftHyphen/>klinge",
+      "de": "Seelenazurit-Revolver­klinge",
       "en": "Bluespirit Gunblade",
       "fr": "Pistolame en azuresprit",
       "ja": "ブルースピリット・ガンブレード"
@@ -10266,7 +10266,7 @@
     "level": 390,
     "maxQuality": 3763,
     "name": {
-      "de": "Dunkelgold-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Dunkelgold-Kreuz­schlag­ham­mer",
       "en": "Deepgold Cross-pein Hammer",
       "fr": "Marteau à panne croisée en or incarnat",
       "ja": "ディープゴールド・クロスペインハンマー"
@@ -10551,7 +10551,7 @@
     "level": 406,
     "maxQuality": 4100,
     "name": {
-      "de": "Seelenazurit-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Seelenazurit-Kreuz­schlag­ham­mer",
       "en": "Bluespirit Cross-pein Hammer",
       "fr": "Marteau à panne croisée en azuresprit",
       "ja": "ブルースピリット・クロスペインハンマー"
@@ -10836,7 +10836,7 @@
     "level": 412,
     "maxQuality": 4300,
     "name": {
-      "de": "Titanbronze-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Titanbronze-Kreuz­schlag­ham­mer",
       "en": "Titanbronze Lump Hammer",
       "fr": "Massette en bronze titané",
       "ja": "チタンブロンズ・ランプハンマー"
@@ -11121,7 +11121,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "de": "Edelmithril-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Edelmithril-Kreuz­schlag­ham­mer",
       "en": "Dwarven Mythril Cross-pein Hammer",
       "fr": "Marteau à panne croisée en mithril noble",
       "ja": "ハイミスリル・クロスペインハンマー"
@@ -11387,7 +11387,7 @@
     "level": 255,
     "maxQuality": 2790,
     "name": {
-      "de": "Edelstahl-Revolver<SoftHyphen/>klinge",
+      "de": "Edelstahl-Revolver­klinge",
       "en": "High Steel Gunblade",
       "fr": "Pistolame en acier noble",
       "ja": "ハイスチール・ガンブレード"
@@ -11463,7 +11463,7 @@
     "level": 273,
     "maxQuality": 3060,
     "name": {
-      "de": "Domaeisen-Revolver<SoftHyphen/>klinge",
+      "de": "Domaeisen-Revolver­klinge",
       "en": "Doman Iron Gunblade",
       "fr": "Pistolame en fer domien",
       "ja": "ドマアイアン・ガンブレード"
@@ -11501,7 +11501,7 @@
     "level": 279,
     "maxQuality": 3240,
     "name": {
-      "de": "Domastahl-Revolver<SoftHyphen/>klinge",
+      "de": "Domastahl-Revolver­klinge",
       "en": "Doman Steel Gunblade",
       "fr": "Pistolame en acier domien",
       "ja": "ドマスチール・ガンブレード"
@@ -11539,7 +11539,7 @@
     "level": 285,
     "maxQuality": 3420,
     "name": {
-      "de": "Molybdän-Revolver<SoftHyphen/>klinge",
+      "de": "Molybdän-Revolver­klinge",
       "en": "Molybdenum Gunblade",
       "fr": "Pistolame en molybdène",
       "ja": "モリブデンガンブレード"
@@ -11826,7 +11826,7 @@
     "name": {
       "de": "Kneipenstandtafel",
       "en": "Pub Signboard",
-      "fr": "Tableau d'in<SoftHyphen/>for<SoftHyphen/>ma<SoftHyphen/>tions<Indent/>: taverne",
+      "fr": "Tableau d'in­for­ma­tions<Indent/>: taverne",
       "ja": "スタンディングサインボード:パブ"
     },
     "progressDivider": 110,
@@ -12394,7 +12394,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "de": "Bismut-Revolver<SoftHyphen/>klinge",
+      "de": "Bismut-Revolver­klinge",
       "en": "Bismuth Gunblade",
       "fr": "Pistolame en bismuth",
       "ja": "ビスマスガンブレード"
@@ -12850,7 +12850,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "de": "Edeldurium-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Edeldurium-Kreuz­schlag­ham­mer",
       "en": "High Durium Cross-pein Hammer",
       "fr": "Marteau à panne croisée en durium noble",
       "ja": "ハイダリウム・クロスペインハンマー"
@@ -13135,7 +13135,7 @@
     "level": 535,
     "maxQuality": 6700,
     "name": {
-      "de": "Bismut-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Bismut-Kreuz­schlag­ham­mer",
       "en": "Bismuth Cross-pein Hammer",
       "fr": "Marteau à panne croisée en bismuth",
       "ja": "ビスマス・クロスペインハンマー"
@@ -13420,7 +13420,7 @@
     "level": 545,
     "maxQuality": 6900,
     "name": {
-      "de": "Mangan-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Mangan-Kreuz­schlag­ham­mer",
       "en": "Manganese Cross-pein Hammer",
       "fr": "Marteau à panne croisée en manganèse",
       "ja": "マンガン・クロスペインハンマー"
@@ -13705,7 +13705,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "de": "Chondrit-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Chondrit-Kreuz­schlag­ham­mer",
       "en": "Chondrite Cross-pein Hammer",
       "fr": "Marteau à panne croisée en chondrite",
       "ja": "コンドライト・クロスペインハンマー"
@@ -15111,7 +15111,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "de": "Ruthenium-Revolver<SoftHyphen/>klinge",
+      "de": "Ruthenium-Revolver­klinge",
       "en": "Ruthenium Gunblade",
       "fr": "Pistolame en ruthénium",
       "ja": "ルテニウム・ガンブレード"
@@ -15510,7 +15510,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "de": "Titangold-Revolver<SoftHyphen/>klinge",
+      "de": "Titangold-Revolver­klinge",
       "en": "Titanium Gold Gunblade",
       "fr": "Pistolame en titane aurifère",
       "ja": "ゴールドチタン・ガンブレード"
@@ -15738,7 +15738,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "de": "Ra'Kaznar-Revolver<SoftHyphen/>klinge",
+      "de": "Ra'Kaznar-Revolver­klinge",
       "en": "Ra'Kaznar Gunblade",
       "fr": "Pistolame de Ra'Kaznar",
       "ja": "カザナル・ガンブレード"
@@ -15833,7 +15833,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "de": "Bergchromeisen-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Bergchromeisen-Kreuz­schlag­ham­mer",
       "en": "Mountain Chromite Cross-pein Hammer",
       "fr": "Marteau à panne croisée en chromite d'Urqopacha",
       "ja": "オルコクロマイト・クロスペインハンマー"
@@ -16118,7 +16118,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "de": "Wolfram-Koboldeisen-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Wolfram-Koboldeisen-Kreuz­schlag­ham­mer",
       "en": "Cobalt Tungsten Cross-pein Hammer",
       "fr": "Marteau à panne croisée en alliage de cobalt-tungstène",
       "ja": "コバルトタングステン・クロスペインハンマー"
@@ -16403,7 +16403,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "de": "Titangold-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Titangold-Kreuz­schlag­ham­mer",
       "en": "Titanium Gold Cross-pein Hammer",
       "fr": "Marteau à panne croisée en titane aurifère",
       "ja": "ゴールドチタン・クロスペインハンマー"
@@ -16688,7 +16688,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "de": "Ra'Kaznar-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Ra'Kaznar-Kreuz­schlag­ham­mer",
       "en": "Ra'Kaznar Cross-pein Hammer",
       "fr": "Marteau à panne croisée de Ra'Kaznar",
       "ja": "カザナル・クロスペインハンマー"
@@ -18077,7 +18077,7 @@
     "name": {
       "de": "Steuerbord-Tragflächengelenk-Bauteil",
       "en": "Starboard Wing Control Component",
-      "fr": "Composant d'ar<SoftHyphen/>ti<SoftHyphen/>cu<SoftHyphen/>la<SoftHyphen/>tion d'aile droite",
+      "fr": "Composant d'ar­ti­cu­la­tion d'aile droite",
       "ja": "右翼可動部材"
     },
     "progressDivider": 50,
@@ -18096,7 +18096,7 @@
     "name": {
       "de": "Backbord-Tragflächengelenk-Bauteil",
       "en": "Larboard Wing Control Component",
-      "fr": "Composant d'ar<SoftHyphen/>ti<SoftHyphen/>cu<SoftHyphen/>la<SoftHyphen/>tion d'aile gauche",
+      "fr": "Composant d'ar­ti­cu­la­tion d'aile gauche",
       "ja": "左翼可動部材"
     },
     "progressDivider": 50,
@@ -19139,7 +19139,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "de": "Adamantit-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Adamantit-Kreuz­schlag­ham­mer",
       "en": "Adamantite Cross-pein Hammer",
       "fr": "Marteau à panne croisée en adamantium",
       "ja": "アダマン・クロスペインハンマー"
@@ -19443,7 +19443,7 @@
     "level": 180,
     "maxQuality": 2900,
     "name": {
-      "de": "Schrei<SoftHyphen/>ner<SoftHyphen/>mei<SoftHyphen/>ster-Säge",
+      "de": "Schrei­ner­mei­ster-Säge",
       "en": "Millmaster's Saw",
       "fr": "Scie d'expert de l'établi",
       "ja": "ミルマスターソー"
@@ -20072,7 +20072,7 @@
     "name": {
       "de": "Übungsmaterial",
       "en": "Training Supplies",
-      "fr": "Matériel d'en<SoftHyphen/>traî<SoftHyphen/>ne<SoftHyphen/>ment",
+      "fr": "Matériel d'en­traî­ne­ment",
       "ja": "訓練用部材"
     },
     "progressDivider": 50,
@@ -20091,7 +20091,7 @@
     "name": {
       "de": "Verwendbares Baumaterial",
       "en": "Repurposed Construction Component",
-      "fr": "Matériel de con<SoftHyphen/>struc<SoftHyphen/>tion",
+      "fr": "Matériel de con­struc­tion",
       "ja": "再生済み建築資材"
     },
     "progressDivider": 50,
@@ -20488,7 +20488,7 @@
     "level": 220,
     "maxQuality": 3390,
     "name": {
-      "de": "Edelmythrit-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Edelmythrit-Kreuz­schlag­ham­mer",
       "en": "High Mythrite Cross-pein Hammer",
       "fr": "Marteau à panne croisée en mithrite noble",
       "ja": "ハイミスライト・クロスペインハンマー"
@@ -21742,7 +21742,7 @@
     "level": 285,
     "maxQuality": 3420,
     "name": {
-      "de": "Maßgefertigter Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Maßgefertigter Kreuz­schlag­ham­mer",
       "en": "Custom-made Hammer",
       "fr": "Marteau de précision",
       "ja": "小ぶりなハンマー"
@@ -22103,7 +22103,7 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
-      "de": "Mhigischer Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Mhigischer Kreuz­schlag­ham­mer",
       "en": "Ala Mhigan Cross-pein Hammer",
       "fr": "Marteau à panne croisée mhigois",
       "ja": "アラミガン・クロスペインハンマー"
@@ -22369,7 +22369,7 @@
     "level": 270,
     "maxQuality": 2970,
     "name": {
-      "de": "Komponente eines Stücks Be<SoftHyphen/>freiungs<SoftHyphen/>armee-Ausrüstung",
+      "de": "Komponente eines Stücks Be­freiungs­armee-Ausrüstung",
       "en": "Resistance Materiel Component",
       "fr": "Composant de provisions pour l'armée de libération",
       "ja": "解放軍の軍需品部材"
@@ -22388,7 +22388,7 @@
     "level": 270,
     "maxQuality": 2970,
     "name": {
-      "de": "Rucksack für die Be<SoftHyphen/>freiungs<SoftHyphen/>armee",
+      "de": "Rucksack für die Be­freiungs­armee",
       "en": "Resistance Materiel",
       "fr": "Provisions pour l'armée de libération",
       "ja": "解放軍の軍需品"
@@ -22789,7 +22789,7 @@
     "name": {
       "de": "Dankeschön-Geschenk",
       "en": "Generous Gift",
-      "fr": "Cadeau de re<SoftHyphen/>mer<SoftHyphen/>cie<SoftHyphen/>ment",
+      "fr": "Cadeau de re­mer­cie­ment",
       "ja": "感謝の贈答品"
     },
     "progressDivider": 70,
@@ -23319,7 +23319,7 @@
     "level": 350,
     "maxQuality": 5200,
     "name": {
-      "de": "Nachtstahl-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Nachtstahl-Kreuz­schlag­ham­mer",
       "en": "Nightsteel Cross-pein Hammer",
       "fr": "Marteau à panne croisée en noctacier",
       "ja": "ナイトスチール・クロスペインハンマー"
@@ -24706,7 +24706,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "de": "Manufaktur-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Manufaktur-Kreuz­schlag­ham­mer",
       "en": "Facet Cross-pein Hammer",
       "fr": "Marteau à panne croisée de la halle",
       "ja": "ミーン・クロスペインハンマー"
@@ -25732,7 +25732,7 @@
     "level": 480,
     "maxQuality": 8500,
     "name": {
-      "de": "Ästhetischer Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Ästhetischer Kreuz­schlag­ham­mer",
       "en": "Aesthete's Cross-pein Hammer",
       "fr": "Marteau à panne croisée esthétique",
       "ja": "エースセチック・クロスペインハンマー"
@@ -26796,7 +26796,7 @@
     "level": 409,
     "maxQuality": 4200,
     "name": {
-      "de": "Seelenazurit-Revolver<SoftHyphen/>klinge (Sammlerstück)",
+      "de": "Seelenazurit-Revolver­klinge (Sammlerstück)",
       "en": "Rarefied Bluespirit Gunblade",
       "fr": "Pistolame en azuresprit collectionnable",
       "ja": "収集用のブルースピリット・ガンブレード"
@@ -27727,7 +27727,7 @@
     "level": 510,
     "maxQuality": 9500,
     "name": {
-      "de": "Exarchen-Revolver<SoftHyphen/>klinge",
+      "de": "Exarchen-Revolver­klinge",
       "en": "Exarchic Gunblade",
       "fr": "Pistolame de l'exarchat",
       "ja": "エクサークガンブレード"
@@ -28335,7 +28335,7 @@
     "level": 545,
     "maxQuality": 6900,
     "name": {
-      "de": "Mangan-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer (Sammlerstück)",
+      "de": "Mangan-Kreuz­schlag­ham­mer (Sammlerstück)",
       "en": "Rarefied Manganese Cross-pein Hammer",
       "fr": "Marteau à panne croisée en manganèse collectionnable",
       "ja": "収集用のマンガン・クロスペインハンマー"
@@ -28620,7 +28620,7 @@
     "level": 580,
     "maxQuality": 7800,
     "name": {
-      "de": "Klassische Revolver<SoftHyphen/>klinge",
+      "de": "Klassische Revolver­klinge",
       "en": "Classical Gunblade",
       "fr": "Pistolame classique",
       "ja": "クラシカル・ガンブレード"
@@ -28774,7 +28774,7 @@
     "name": {
       "de": "Ätherionette",
       "en": "Aetheroconductive Mammet",
-      "fr": "Poupée d'en<SoftHyphen/>traî<SoftHyphen/>ne<SoftHyphen/>ment magique",
+      "fr": "Poupée d'en­traî­ne­ment magique",
       "ja": "特訓用の魔法人形"
     },
     "progressDivider": 122,
@@ -28829,7 +28829,7 @@
     "level": 590,
     "maxQuality": 8000,
     "name": {
-      "de": "Paktschließer-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Paktschließer-Kreuz­schlag­ham­mer",
       "en": "Pactmaker's Cross-pein Hammer",
       "fr": "Marteau à panne croisée des associés",
       "ja": "パクトメーカー・クロスペインハンマー"
@@ -29095,7 +29095,7 @@
     "level": 210,
     "maxQuality": 3300,
     "name": {
-      "de": "Revolver<SoftHyphen/>klinge der Runde",
+      "de": "Revolver­klinge der Runde",
       "en": "Gunblade of the Round",
       "fr": "Pistolame de la Table ronde",
       "ja": "ガンブレード・オブ・ラウンド"
@@ -30349,7 +30349,7 @@
     "level": 620,
     "maxQuality": 8600,
     "name": {
-      "de": "Ermittler-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Ermittler-Kreuz­schlag­ham­mer",
       "en": "Indagator's Cross-pein Hammer",
       "fr": "Marteau à panne croisée d'indagator",
       "ja": "インダガトル・クロスペインハンマー"
@@ -30957,7 +30957,7 @@
     "level": 640,
     "maxQuality": 9000,
     "name": {
-      "de": "Diadochen-Revolver<SoftHyphen/>klinge",
+      "de": "Diadochen-Revolver­klinge",
       "en": "Diadochos Gunblade",
       "fr": "Pistolame de diadoque",
       "ja": "ディアドコス・ガンブレード"
@@ -31831,7 +31831,7 @@
     "level": 710,
     "maxQuality": 15000,
     "name": {
-      "de": "Altkönigreich-Revolver<SoftHyphen/>klinge",
+      "de": "Altkönigreich-Revolver­klinge",
       "en": "Archeo Kingdom Gunblade",
       "fr": "Pistolame de l'ancien royaume",
       "ja": "オールドキングダム・ガンブレード"
@@ -31945,7 +31945,7 @@
     "level": 720,
     "maxQuality": 17600,
     "name": {
-      "de": "Immersuch-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Immersuch-Kreuz­schlag­ham­mer",
       "en": "Everseeker's Cross-pein Hammer",
       "fr": "Marteau à panne croisée de bourlingueur invétéré",
       "ja": "エバーシーク・クロスペインハンマー"
@@ -32363,7 +32363,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "de": "Zeta-Diamantyn-Revolver<SoftHyphen/>klinge",
+      "de": "Zeta-Diamantyn-Revolver­klinge",
       "en": "Adamant Gunblade",
       "fr": "Pistolame adamantine",
       "ja": "アダマンティン・ガンブレード"

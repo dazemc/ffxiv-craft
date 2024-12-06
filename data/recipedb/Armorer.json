@@ -82,7 +82,7 @@
     "level": 3,
     "maxQuality": 120,
     "name": {
-      "de": "Kupfer-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Kupfer-De­stil­lier­kol­ben",
       "en": "Bronze Alembic",
       "fr": "Alambic",
       "ja": "アレンビック"
@@ -234,7 +234,7 @@
     "level": 9,
     "maxQuality": 230,
     "name": {
-      "de": "Laien-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Laien-De­stil­lier­kol­ben",
       "en": "Amateur's Alembic",
       "fr": "Alambic d'amateur",
       "ja": "アマチュアアレンビック"
@@ -424,7 +424,7 @@
     "level": 14,
     "maxQuality": 330,
     "name": {
-      "de": "Bronze-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Bronze-Pan­zer­hand­schu­he",
       "en": "Bronze Gauntlets",
       "fr": "Gantelets",
       "ja": "ガントレット"
@@ -500,7 +500,7 @@
     "level": 15,
     "maxQuality": 360,
     "name": {
-      "de": "Messing-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Messing-De­stil­lier­kol­ben",
       "en": "Brass Alembic",
       "fr": "Alambic en laiton",
       "ja": "ブラスアレンビック"
@@ -576,7 +576,7 @@
     "level": 18,
     "maxQuality": 450,
     "name": {
-      "de": "Anfänger-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Anfänger-De­stil­lier­kol­ben",
       "en": "Initiate's Alembic",
       "fr": "Alambic d'initié",
       "ja": "イニシエートアレンビック"
@@ -614,7 +614,7 @@
     "level": 19,
     "maxQuality": 480,
     "name": {
-      "de": "Ei<SoftHyphen/>sen-Bär<SoftHyphen/>lat<SoftHyphen/>schen",
+      "de": "Ei­sen-Bär­lat­schen",
       "en": "Iron Sabatons",
       "fr": "Sabatons en fer",
       "ja": "アイアンサバトン"
@@ -652,7 +652,7 @@
     "level": 20,
     "maxQuality": 510,
     "name": {
-      "de": "Ei<SoftHyphen/>sen-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Ei­sen-Pan­zer­hand­schu­he",
       "en": "Iron Gauntlets",
       "fr": "Gantelets en fer",
       "ja": "アイアンガントレット"
@@ -690,7 +690,7 @@
     "level": 20,
     "maxQuality": 510,
     "name": {
-      "de": "Ei<SoftHyphen/>sen<SoftHyphen/>sturm<SoftHyphen/>hau<SoftHyphen/>be",
+      "de": "Ei­sen­sturm­hau­be",
       "en": "Iron Celata",
       "fr": "Celata en fer",
       "ja": "アイアンチェラータ"
@@ -804,7 +804,7 @@
     "level": 23,
     "maxQuality": 600,
     "name": {
-      "de": "Eisen-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Eisen-De­stil­lier­kol­ben",
       "en": "Iron Alembic",
       "fr": "Alambic en fer",
       "ja": "アイアンアレンビック"
@@ -956,7 +956,7 @@
     "level": 25,
     "maxQuality": 660,
     "name": {
-      "de": "Schwere Ei<SoftHyphen/>sen-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Schwere Ei­sen-Pan­zer­hand­schu­he",
       "en": "Heavy Iron Gauntlets",
       "fr": "Gantelets lourds en fer",
       "ja": "ヘヴィアイアンガントレット"
@@ -1013,7 +1013,7 @@
     "level": 26,
     "maxQuality": 690,
     "name": {
-      "de": "Konischer De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Konischer De­stil­lier­kol­ben",
       "en": "Conical Alembic",
       "fr": "Alambic conique",
       "ja": "コニカルアレンビック"
@@ -1165,7 +1165,7 @@
     "level": 29,
     "maxQuality": 800,
     "name": {
-      "de": "Stahl-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Stahl-De­stil­lier­kol­ben",
       "en": "Steel Alembic",
       "fr": "Alambic en acier",
       "ja": "スチールアレンビック"
@@ -1203,7 +1203,7 @@
     "level": 30,
     "maxQuality": 850,
     "name": {
-      "de": "Stahl-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Stahl-Pan­zer­hand­schu­he",
       "en": "Steel Gauntlets",
       "fr": "Gantelets en acier",
       "ja": "スチールガントレット"
@@ -1412,7 +1412,7 @@
     "level": 33,
     "maxQuality": 1000,
     "name": {
-      "de": "Prunk<SoftHyphen/>faust<SoftHyphen/>schild",
+      "de": "Prunk­faust­schild",
       "en": "Decorated Buckler",
       "fr": "Rondache ornée",
       "ja": "デコレーテッドバックラー"
@@ -1450,7 +1450,7 @@
     "level": 34,
     "maxQuality": 1050,
     "name": {
-      "de": "Silber-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Silber-De­stil­lier­kol­ben",
       "en": "Silver Alembic",
       "fr": "Alambic en argent",
       "ja": "シルバーアレンビック"
@@ -1488,7 +1488,7 @@
     "level": 34,
     "maxQuality": 1050,
     "name": {
-      "de": "Schwere Stahl-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Schwere Stahl-Pan­zer­hand­schu­he",
       "en": "Heavy Steel Gauntlets",
       "fr": "Gantelets lourds en acier",
       "ja": "ヘヴィスチールガントレット"
@@ -1754,7 +1754,7 @@
     "level": 40,
     "maxQuality": 1400,
     "name": {
-      "de": "Mithril-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Mithril-De­stil­lier­kol­ben",
       "en": "Mythril Alembic",
       "fr": "Alambic en mithril",
       "ja": "ミスリルアレンビック"
@@ -2286,7 +2286,7 @@
     "level": 50,
     "maxQuality": 2000,
     "name": {
-      "de": "Thermo-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Thermo-De­stil­lier­kol­ben",
       "en": "Thermal Alembic",
       "fr": "Alambic thermique",
       "ja": "サーマルアレンビック"
@@ -2305,7 +2305,7 @@
     "level": 50,
     "maxQuality": 2000,
     "name": {
-      "de": "Koboldeisen-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Koboldeisen-Pan­zer­hand­schu­he",
       "en": "Cobalt Gauntlets",
       "fr": "Gantelets en cobalt",
       "ja": "コバルトガントレット"
@@ -2324,7 +2324,7 @@
     "level": 50,
     "maxQuality": 2000,
     "name": {
-      "de": "Ko<SoftHyphen/>bold<SoftHyphen/>ei<SoftHyphen/>sen<SoftHyphen/>kü<SoftHyphen/>rass",
+      "de": "Ko­bold­ei­sen­kü­rass",
       "en": "Cobalt Cuirass",
       "fr": "Cuirasse en cobalt",
       "ja": "コバルトキュイラス"
@@ -2343,7 +2343,7 @@
     "level": 50,
     "maxQuality": 2000,
     "name": {
-      "de": "Ko<SoftHyphen/>bold<SoftHyphen/>ei<SoftHyphen/>sen-Bär<SoftHyphen/>lat<SoftHyphen/>schen",
+      "de": "Ko­bold­ei­sen-Bär­lat­schen",
       "en": "Cobalt Sabatons",
       "fr": "Sabatons en cobalt",
       "ja": "コバルトサバトン"
@@ -2362,7 +2362,7 @@
     "level": 50,
     "maxQuality": 2000,
     "name": {
-      "de": "Ko<SoftHyphen/>bold<SoftHyphen/>ei<SoftHyphen/>sen-Sturm<SoftHyphen/>hau<SoftHyphen/>be",
+      "de": "Ko­bold­ei­sen-Sturm­hau­be",
       "en": "Cobalt Celata",
       "fr": "Celata en cobalt",
       "ja": "コバルトチェラータ"
@@ -2476,7 +2476,7 @@
     "level": 39,
     "maxQuality": 1340,
     "name": {
-      "de": "Mi<SoftHyphen/>thril-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Mi­thril-Pan­zer­hand­schu­he",
       "en": "Mythril Gauntlets",
       "fr": "Gantelets en mithril",
       "ja": "ミスリルガントレット"
@@ -2514,7 +2514,7 @@
     "level": 39,
     "maxQuality": 1340,
     "name": {
-      "de": "Mi<SoftHyphen/>thril-Bär<SoftHyphen/>lat<SoftHyphen/>schen",
+      "de": "Mi­thril-Bär­lat­schen",
       "en": "Mythril Sabatons",
       "fr": "Sabatons en mithril",
       "ja": "ミスリルサバトン"
@@ -2571,7 +2571,7 @@
     "level": 42,
     "maxQuality": 1520,
     "name": {
-      "de": "Elektrum-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Elektrum-De­stil­lier­kol­ben",
       "en": "Electrum Alembic",
       "fr": "Alambic en électrum",
       "ja": "エレクトラムアレンビック"
@@ -2609,7 +2609,7 @@
     "level": 43,
     "maxQuality": 1580,
     "name": {
-      "de": "Schwermithril-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Schwermithril-Pan­zer­hand­schu­he",
       "en": "High Mythril Gauntlets",
       "fr": "Gantelets lourds en mithril",
       "ja": "ヘヴィミスリルガントレット"
@@ -3046,7 +3046,7 @@
     "level": 55,
     "maxQuality": 2200,
     "name": {
-      "de": "Miliz-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Miliz-Pan­zer­hand­schu­he",
       "en": "Militia Gauntlets",
       "fr": "Gantelets de milicien",
       "ja": "ミリシアガントレット"
@@ -3255,7 +3255,7 @@
     "level": 70,
     "maxQuality": 2500,
     "name": {
-      "de": "Schwere Dun<SoftHyphen/>kel<SoftHyphen/>stahl-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Schwere Dun­kel­stahl-Pan­zer­hand­schu­he",
       "en": "Heavy Darksteel Gauntlets",
       "fr": "Gantelets lourds en sombracier",
       "ja": "ヘヴィ・ダークスチールガントレット"
@@ -3711,7 +3711,7 @@
     "level": 48,
     "maxQuality": 1880,
     "name": {
-      "de": "Ge<SoftHyphen/>sell<SoftHyphen/>schaftstruhe",
+      "de": "Ge­sell­schaftstruhe",
       "en": "Company Chest",
       "fr": "Coffre de compagnie libre",
       "ja": "カンパニーチェスト"
@@ -4110,7 +4110,7 @@
     "level": 46,
     "maxQuality": 1760,
     "name": {
-      "de": "Metall-Wand<SoftHyphen/>verklei<SoftHyphen/>dung",
+      "de": "Metall-Wand­verklei­dung",
       "en": "Metal Interior Wall",
       "fr": "Revêtement mural métallique",
       "ja": "メタルインナーウォール"
@@ -4471,7 +4471,7 @@
     "level": 115,
     "maxQuality": 2070,
     "name": {
-      "de": "Mythrit-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Mythrit-Pan­zer­hand­schu­he der Verteidigung",
       "en": "Mythrite Gauntlets of Fending",
       "fr": "Gantelets de protecteur en mithrite",
       "ja": "ミスライトディフェンダーガントレット"
@@ -4490,7 +4490,7 @@
     "level": 136,
     "maxQuality": 2350,
     "name": {
-      "de": "Titan-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Titan-Pan­zer­hand­schu­he der Verteidigung",
       "en": "Titanium Gauntlets of Fending",
       "fr": "Gantelets de protecteur en titane",
       "ja": "チタンディフェンダーガントレット"
@@ -4528,7 +4528,7 @@
     "level": 145,
     "maxQuality": 2560,
     "name": {
-      "de": "Adamantit-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Adamantit-Pan­zer­hand­schu­he der Verteidigung",
       "en": "Adamantite Gauntlets of Fending",
       "fr": "Gantelets de protecteur en adamantium",
       "ja": "アダマンディフェンダーガントレット"
@@ -4794,7 +4794,7 @@
     "level": 115,
     "maxQuality": 2070,
     "name": {
-      "de": "Mythrit-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "de": "Mythrit-Pan­zer­hand­schu­he des Verstümmelns",
       "en": "Mythrite Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur en mithrite",
       "ja": "ミスライトスレイヤーガントレット"
@@ -4851,7 +4851,7 @@
     "level": 145,
     "maxQuality": 2560,
     "name": {
-      "de": "Adamantit-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "de": "Adamantit-Pan­zer­hand­schu­he des Verstümmelns",
       "en": "Adamantite Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur en adamantium",
       "ja": "アダマンスレイヤーガントレット"
@@ -5174,7 +5174,7 @@
     "level": 125,
     "maxQuality": 2140,
     "name": {
-      "de": "Mythrit-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Mythrit-De­stil­lier­kol­ben",
       "en": "Mythrite Alembic",
       "fr": "Alambic en mithrite",
       "ja": "ミスライトアレンビック"
@@ -5193,7 +5193,7 @@
     "level": 133,
     "maxQuality": 2280,
     "name": {
-      "de": "Hartsilber-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Hartsilber-De­stil­lier­kol­ben",
       "en": "Hardsilver Alembic",
       "fr": "Alambic en durargent",
       "ja": "ハードシルバーアレンビック"
@@ -5212,7 +5212,7 @@
     "level": 142,
     "maxQuality": 2490,
     "name": {
-      "de": "Titan-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Titan-De­stil­lier­kol­ben",
       "en": "Titanium Alembic",
       "fr": "Alambic en titane",
       "ja": "チタンアレンビック"
@@ -5649,7 +5649,7 @@
     "level": 270,
     "maxQuality": 2970,
     "name": {
-      "de": "Edelstahl-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Edelstahl-Pan­zer­hand­schu­he der Verteidigung",
       "en": "High Steel Gauntlets of Fending",
       "fr": "Gantelets de protecteur en acier noble",
       "ja": "ハイスチール・ディフェンダーガントレット"
@@ -5725,7 +5725,7 @@
     "level": 270,
     "maxQuality": 2970,
     "name": {
-      "de": "Edelstahl-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "de": "Edelstahl-Pan­zer­hand­schu­he des Verstümmelns",
       "en": "High Steel Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur en acier noble",
       "ja": "ハイスチール・スレイヤーガントレット"
@@ -5801,7 +5801,7 @@
     "level": 273,
     "maxQuality": 3060,
     "name": {
-      "de": "Domaeisen-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Domaeisen-Pan­zer­hand­schu­he der Verteidigung",
       "en": "Doman Iron Gauntlets of Fending",
       "fr": "Gantelets de protecteur en fer domien",
       "ja": "ドマアイアン・ディフェンダーガントレット"
@@ -5858,7 +5858,7 @@
     "level": 273,
     "maxQuality": 3060,
     "name": {
-      "de": "Domaeisen-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "de": "Domaeisen-Pan­zer­hand­schu­he des Verstümmelns",
       "en": "Doman Iron Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur en fer domien",
       "ja": "ドマアイアン・スレイヤーガントレット"
@@ -5953,7 +5953,7 @@
     "level": 279,
     "maxQuality": 3240,
     "name": {
-      "de": "Domastahl-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Domastahl-Pan­zer­hand­schu­he der Verteidigung",
       "en": "Doman Steel Gauntlets of Fending",
       "fr": "Gantelets de protecteur en acier domien",
       "ja": "ドマスチール・ディフェンダーガントレット"
@@ -6029,7 +6029,7 @@
     "level": 279,
     "maxQuality": 3240,
     "name": {
-      "de": "Domastahl-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "de": "Domastahl-Pan­zer­hand­schu­he des Verstümmelns",
       "en": "Doman Steel Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur en acier domien",
       "ja": "ドマスチール・スレイヤーガントレット"
@@ -6067,7 +6067,7 @@
     "level": 279,
     "maxQuality": 3240,
     "name": {
-      "de": "Domastahl-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Schlagens",
+      "de": "Domastahl-Pan­zer­hand­schu­he des Schlagens",
       "en": "Doman Steel Gauntlets of Striking",
       "fr": "Gantelets d'agresseur en acier domien",
       "ja": "ドマスチール・ストライカーガントレット"
@@ -6105,7 +6105,7 @@
     "level": 279,
     "maxQuality": 3240,
     "name": {
-      "de": "Domastahl-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Spähens",
+      "de": "Domastahl-Pan­zer­hand­schu­he des Spähens",
       "en": "Doman Steel Gauntlets of Scouting",
       "fr": "Gantelets d'éclaireur en acier domien",
       "ja": "ドマスチール・スカウトガントレット"
@@ -6276,7 +6276,7 @@
     "level": 255,
     "maxQuality": 2790,
     "name": {
-      "de": "Edelstahl-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Edelstahl-De­stil­lier­kol­ben",
       "en": "High Steel Thermal Alembic",
       "fr": "Alambic thermique en acier noble",
       "ja": "ハイスチール・サーマルアレンビック"
@@ -6314,7 +6314,7 @@
     "level": 276,
     "maxQuality": 3150,
     "name": {
-      "de": "Domaeisen-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Domaeisen-De­stil­lier­kol­ben",
       "en": "Doman Iron Alembic",
       "fr": "Alambic en fer domien",
       "ja": "ドマアイアンアレンビック"
@@ -6352,7 +6352,7 @@
     "level": 282,
     "maxQuality": 3330,
     "name": {
-      "de": "Domastahl-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Domastahl-De­stil­lier­kol­ben",
       "en": "Doman Steel Alembic",
       "fr": "Alambic en acier domien",
       "ja": "ドマスチールアレンビック"
@@ -6390,7 +6390,7 @@
     "level": 290,
     "maxQuality": 3600,
     "name": {
-      "de": "Molybdän-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Molybdän-De­stil­lier­kol­ben",
       "en": "Molybdenum Alembic",
       "fr": "Alambic en molybdène",
       "ja": "モリブデンアレンビック"
@@ -6903,7 +6903,7 @@
     "level": 390,
     "maxQuality": 3763,
     "name": {
-      "de": "Dunkelgold-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Dunkelgold-Pan­zer­hand­schu­he der Verteidigung",
       "en": "Deepgold Gauntlets of Fending",
       "fr": "Gantelets de protecteur en or incarnat",
       "ja": "ディープゴールド・ディフェンダーガントレット"
@@ -7055,7 +7055,7 @@
     "level": 395,
     "maxQuality": 3800,
     "name": {
-      "de": "Dunkelgold-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "de": "Dunkelgold-Pan­zer­hand­schu­he des Verstümmelns",
       "en": "Deepgold Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur en or incarnat",
       "ja": "ディープゴールド・スレイヤーガントレット"
@@ -7150,7 +7150,7 @@
     "level": 403,
     "maxQuality": 4000,
     "name": {
-      "de": "Seelenazurit-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Seelenazurit-Pan­zer­hand­schu­he der Verteidigung",
       "en": "Bluespirit Gauntlets of Fending",
       "fr": "Gantelets de protecteur en azuresprit",
       "ja": "ブルースピリット・ディフェンダーガントレット"
@@ -7226,7 +7226,7 @@
     "level": 403,
     "maxQuality": 4000,
     "name": {
-      "de": "Seelenazurit-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "de": "Seelenazurit-Pan­zer­hand­schu­he des Verstümmelns",
       "en": "Bluespirit Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur en azuresprit",
       "ja": "ブルースピリット・スレイヤーガントレット"
@@ -7549,7 +7549,7 @@
     "level": 390,
     "maxQuality": 3763,
     "name": {
-      "de": "Dunkelgold-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Dunkelgold-De­stil­lier­kol­ben",
       "en": "Deepgold Alembic",
       "fr": "Alambic en or incarnat",
       "ja": "ディープゴールド・アレンビック"
@@ -7587,7 +7587,7 @@
     "level": 406,
     "maxQuality": 4100,
     "name": {
-      "de": "Seelenazurit-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Seelenazurit-De­stil­lier­kol­ben",
       "en": "Bluespirit Alembic",
       "fr": "Alambic en azuresprit",
       "ja": "ブルースピリットアレンビック"
@@ -7625,7 +7625,7 @@
     "level": 412,
     "maxQuality": 4300,
     "name": {
-      "de": "Titanbronze-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Titanbronze-De­stil­lier­kol­ben",
       "en": "Titanbronze Alembic",
       "fr": "Alambic en bronze titané",
       "ja": "チタンブロンズアレンビック"
@@ -7663,7 +7663,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "de": "Edelmithril-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Edelmithril-De­stil­lier­kol­ben",
       "en": "Dwarven Mythril Alembic",
       "fr": "Alambic en mithril noble",
       "ja": "ハイミスリルアレンビック"
@@ -7853,7 +7853,7 @@
     "level": 50,
     "maxQuality": 2000,
     "name": {
-      "de": "Bearbeiteter Ko<SoftHyphen/>bold<SoftHyphen/>ei<SoftHyphen/>sen<SoftHyphen/>kü<SoftHyphen/>rass",
+      "de": "Bearbeiteter Ko­bold­ei­sen­kü­rass",
       "en": "Altered Cobalt Cuirass",
       "fr": "Cuirasse en cobalt réinventée",
       "ja": "オルタード・コバルトキュイラス"
@@ -7872,7 +7872,7 @@
     "level": 50,
     "maxQuality": 2000,
     "name": {
-      "de": "Bearbeitete Koboldeisen-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he ",
+      "de": "Bearbeitete Koboldeisen-Pan­zer­hand­schu­he ",
       "en": "Altered Cobalt Gauntlets",
       "fr": "Gantelets réinventés",
       "ja": "オルタード・コバルトガントレット"
@@ -7891,7 +7891,7 @@
     "level": 50,
     "maxQuality": 2000,
     "name": {
-      "de": "Bearbeitete Ko<SoftHyphen/>bold<SoftHyphen/>ei<SoftHyphen/>sen-Bär<SoftHyphen/>lat<SoftHyphen/>schen",
+      "de": "Bearbeitete Ko­bold­ei­sen-Bär­lat­schen",
       "en": "Altered Cobalt Sabatons",
       "fr": "Sabatons réinventés",
       "ja": "オルタード・コバルトサバトン"
@@ -8385,7 +8385,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "de": "Edeldurium-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Edeldurium-Pan­zer­hand­schu­he der Verteidigung",
       "en": "High Durium Gauntlets of Fending",
       "fr": "Gantelets de protecteur en durium noble",
       "ja": "ハイダリウム・ディフェンダーガントレット"
@@ -8442,7 +8442,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "de": "Edeldurium-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "de": "Edeldurium-Pan­zer­hand­schu­he des Verstümmelns",
       "en": "High Durium Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur en durium noble",
       "ja": "ハイダリウム・スレイヤーガントレット"
@@ -8784,7 +8784,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "de": "König-Behemoth-Mangan-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "König-Behemoth-Mangan-Pan­zer­hand­schu­he",
       "en": "Manganese Gauntlets of the Behemoth King",
       "fr": "Gantelets du roi béhémoth en manganèse",
       "ja": "マンガン・キングベヒーモスガントレット"
@@ -8860,7 +8860,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "de": "Königin-Behemoth-Mangan-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Königin-Behemoth-Mangan-Pan­zer­hand­schu­he",
       "en": "Manganese Gauntlets of the Behemoth Queen",
       "fr": "Gantelets de la reine béhémoth en manganèse",
       "ja": "マンガン・クィーンベヒーモスガントレット"
@@ -9088,7 +9088,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "de": "Chondrit-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Chondrit-Pan­zer­hand­schu­he der Verteidigung",
       "en": "Chondrite Gauntlets of Fending",
       "fr": "Gantelets de protecteur en chondrite",
       "ja": "コンドライト・ディフェンダーガントレット"
@@ -9278,7 +9278,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "de": "Edeldurium-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Edeldurium-De­stil­lier­kol­ben",
       "en": "High Durium Alembic",
       "fr": "Alambic en durium noble",
       "ja": "ハイダリウム・アレンビック"
@@ -9316,7 +9316,7 @@
     "level": 535,
     "maxQuality": 6700,
     "name": {
-      "de": "Bismut-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Bismut-De­stil­lier­kol­ben",
       "en": "Bismuth Alembic",
       "fr": "Alambic en bismuth",
       "ja": "ビスマス・アレンビック"
@@ -9354,7 +9354,7 @@
     "level": 545,
     "maxQuality": 6900,
     "name": {
-      "de": "Mangan-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Mangan-De­stil­lier­kol­ben",
       "en": "Manganese Alembic",
       "fr": "Alambic en manganèse",
       "ja": "マンガン・アレンビック"
@@ -9392,7 +9392,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "de": "Chondrit-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Chondrit-De­stil­lier­kol­ben",
       "en": "Chondrite Alembic",
       "fr": "Alambic en chondrite",
       "ja": "コンドライト・アレンビック"
@@ -10551,7 +10551,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "de": "Ra'Kaznar-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Ra'Kaznar-Pan­zer­hand­schu­he der Verteidigung",
       "en": "Ra'Kaznar Gauntlets of Fending",
       "fr": "Gantelets de protecteur de Ra'Kaznar",
       "ja": "カザナル・ディフェンダーガントレット"
@@ -10627,7 +10627,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "de": "Ra'Kaznar-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "de": "Ra'Kaznar-Pan­zer­hand­schu­he des Verstümmelns",
       "en": "Ra'Kaznar Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur de Ra'Kaznar",
       "ja": "カザナル・スレイヤーガントレット"
@@ -10779,7 +10779,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "de": "Bergchromeisen-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Bergchromeisen-De­stil­lier­kol­ben",
       "en": "Mountain Chromite Alembic",
       "fr": "Alambic en chromite d'Urqopacha",
       "ja": "オルコクロマイト・アレンビック"
@@ -10817,7 +10817,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "de": "Wolfram-Koboldeisen-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Wolfram-Koboldeisen-De­stil­lier­kol­ben",
       "en": "Cobalt Tungsten Alembic",
       "fr": "Alambic en alliage de cobalt-tungstène",
       "ja": "コバルトタングステン・アレンビック"
@@ -10855,7 +10855,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "de": "Titangold-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Titangold-De­stil­lier­kol­ben",
       "en": "Titanium Gold Alembic",
       "fr": "Alambic en titane aurifère",
       "ja": "ゴールドチタン・アレンビック"
@@ -10893,7 +10893,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "de": "Ra'Kaznar-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Ra'Kaznar-De­stil­lier­kol­ben",
       "en": "Ra'Kaznar Alembic",
       "fr": "Alambic de Ra'Kaznar",
       "ja": "カザナル・アレンビック"
@@ -11387,7 +11387,7 @@
     "level": 90,
     "maxQuality": 2750,
     "name": {
-      "de": "Schwere Wolfram-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Schwere Wolfram-Pan­zer­hand­schu­he",
       "en": "Heavy Wolfram Gauntlets",
       "fr": "Gantelets lourds en tungstène",
       "ja": "ヘヴィウォルフラムガントレット"
@@ -11482,7 +11482,7 @@
     "level": 90,
     "maxQuality": 2750,
     "name": {
-      "de": "Wolfram-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Wolfram-Pan­zer­hand­schu­he",
       "en": "Wolfram Gauntlets",
       "fr": "Gantelets en tungstène",
       "ja": "ウォルフラムガントレット"
@@ -12054,7 +12054,7 @@
     "name": {
       "de": "Steuerbord-Tragflächengelenk-Bauteil",
       "en": "Starboard Wing Control Component",
-      "fr": "Composant d'ar<SoftHyphen/>ti<SoftHyphen/>cu<SoftHyphen/>la<SoftHyphen/>tion d'aile droite",
+      "fr": "Composant d'ar­ti­cu­la­tion d'aile droite",
       "ja": "右翼可動部材"
     },
     "progressDivider": 50,
@@ -12073,7 +12073,7 @@
     "name": {
       "de": "Backbord-Tragflächengelenk-Bauteil",
       "en": "Larboard Wing Control Component",
-      "fr": "Composant d'ar<SoftHyphen/>ti<SoftHyphen/>cu<SoftHyphen/>la<SoftHyphen/>tion d'aile gauche",
+      "fr": "Composant d'ar­ti­cu­la­tion d'aile gauche",
       "ja": "左翼可動部材"
     },
     "progressDivider": 50,
@@ -12603,7 +12603,7 @@
     "level": 110,
     "maxQuality": 2900,
     "name": {
-      "de": "Wootz-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Wootz-Pan­zer­hand­schu­he",
       "en": "Wootz Gauntlets",
       "fr": "Gantelets en wootz",
       "ja": "ウーツガントレット"
@@ -12698,7 +12698,7 @@
     "level": 136,
     "maxQuality": 2350,
     "name": {
-      "de": "Ge<SoftHyphen/>sell<SoftHyphen/>schafts-Wappenschild",
+      "de": "Ge­sell­schafts-Wappenschild",
       "en": "Company Escutcheon",
       "fr": "Escuchon de compagnie libre",
       "ja": "カンパニーエスカッシャン"
@@ -12831,7 +12831,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "de": "Schwere Adamantit-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Schwere Adamantit-Pan­zer­hand­schu­he der Verteidigung",
       "en": "Heavy Adamantite Gauntlets of Fending",
       "fr": "Gantelets de protecteur lourds en adamantium",
       "ja": "ヘヴィ・アダマンディフェンダーガントレット"
@@ -13040,7 +13040,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "de": "Adamantit-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Adamantit-De­stil­lier­kol­ben",
       "en": "Adamantite Alembic",
       "fr": "Alambic en adamantium",
       "ja": "アダマンアレンビック"
@@ -13287,7 +13287,7 @@
     "level": 180,
     "maxQuality": 2900,
     "name": {
-      "de": "Labormeister-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Labormeister-De­stil­lier­kol­ben",
       "en": "Cauldronmaster's Alembic",
       "fr": "Alambic d'expert des mixtures",
       "ja": "コルドロンマスターアレンビック"
@@ -13382,7 +13382,7 @@
     "level": 180,
     "maxQuality": 2900,
     "name": {
-      "de": "Luftpiraten-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Luftpiraten-Pan­zer­hand­schu­he der Verteidigung",
       "en": "Sky Pirate's Gauntlets of Fending",
       "fr": "Gantelets de protecteur de pirate des cieux",
       "ja": "スカイパイレーツ・ディフェンダーガントレット"
@@ -13439,7 +13439,7 @@
     "level": 180,
     "maxQuality": 2900,
     "name": {
-      "de": "Luftpiraten-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "de": "Luftpiraten-Pan­zer­hand­schu­he des Verstümmelns",
       "en": "Sky Pirate's Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur de pirate des cieux",
       "ja": "スカイパイレーツ・スレイヤーガントレット"
@@ -13515,7 +13515,7 @@
     "level": 180,
     "maxQuality": 2900,
     "name": {
-      "de": "Schwere allagische Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he (Replik)",
+      "de": "Schwere allagische Pan­zer­hand­schu­he (Replik)",
       "en": "Replica Heavy Allagan Gauntlets",
       "fr": "Répliques de gantelets lourds allagois",
       "ja": "レプリカ・ヘヴィアラガンガントレット"
@@ -13838,7 +13838,7 @@
     "level": 180,
     "maxQuality": 2900,
     "name": {
-      "de": "Hochallagische Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung (Replik)",
+      "de": "Hochallagische Pan­zer­hand­schu­he der Verteidigung (Replik)",
       "en": "Replica High Allagan Gauntlets of Fending",
       "fr": "Répliques de gantelets de protecteur haut-allagois",
       "ja": "レプリカ・ハイアラガン・ディフェンダーガントレット"
@@ -13914,7 +13914,7 @@
     "level": 180,
     "maxQuality": 2900,
     "name": {
-      "de": "Hochallagische Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns (Replik)",
+      "de": "Hochallagische Pan­zer­hand­schu­he des Verstümmelns (Replik)",
       "en": "Replica High Allagan Gauntlets of Maiming",
       "fr": "Répliques de gantelets d'abatteur haut-allagois",
       "ja": "レプリカ・ハイアラガン・スレイヤーガントレット"
@@ -13990,7 +13990,7 @@
     "level": 180,
     "maxQuality": 2900,
     "name": {
-      "de": "Hochallagische Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Schlagens (Replik)",
+      "de": "Hochallagische Pan­zer­hand­schu­he des Schlagens (Replik)",
       "en": "Replica High Allagan Gauntlets of Striking",
       "fr": "Répliques de gantelets d'agresseur haut-allagois",
       "ja": "レプリカ・ハイアラガン・ストライカーガントレット"
@@ -14030,7 +14030,7 @@
     "name": {
       "de": "Faust-Trainingspuppe",
       "en": "Faust Striking Dummy",
-      "fr": "Mannequin d'en<SoftHyphen/>traî<SoftHyphen/>ne<SoftHyphen/>ment faust",
+      "fr": "Mannequin d'en­traî­ne­ment faust",
       "ja": "ファウストダミー"
     },
     "progressDivider": 70,
@@ -14123,7 +14123,7 @@
     "level": 210,
     "maxQuality": 3300,
     "name": {
-      "de": "Edelmythrit-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Edelmythrit-Pan­zer­hand­schu­he der Verteidigung",
       "en": "High Mythrite Gauntlets of Fending",
       "fr": "Gantelets de protecteur en mithrite noble",
       "ja": "ハイミスライト・ディフェンダーガントレット"
@@ -14277,7 +14277,7 @@
     "name": {
       "de": "Übungsmaterial",
       "en": "Training Supplies",
-      "fr": "Matériel d'en<SoftHyphen/>traî<SoftHyphen/>ne<SoftHyphen/>ment",
+      "fr": "Matériel d'en­traî­ne­ment",
       "ja": "訓練用部材"
     },
     "progressDivider": 50,
@@ -14296,7 +14296,7 @@
     "name": {
       "de": "Verwendbares Baumaterial",
       "en": "Repurposed Construction Component",
-      "fr": "Matériel de con<SoftHyphen/>struc<SoftHyphen/>tion",
+      "fr": "Matériel de con­struc­tion",
       "ja": "再生済み建築資材"
     },
     "progressDivider": 50,
@@ -14693,7 +14693,7 @@
     "level": 180,
     "maxQuality": 2900,
     "name": {
-      "de": "Drachengott-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung (Replik)",
+      "de": "Drachengott-Pan­zer­hand­schu­he der Verteidigung (Replik)",
       "en": "Replica Dreadwyrm Gauntlets of Fending",
       "fr": "Répliques de gantelets de protecteur du Dragon-dieu",
       "ja": "レプリカ・バハムート・ディフェンダーガントレット"
@@ -14864,7 +14864,7 @@
     "level": 220,
     "maxQuality": 3390,
     "name": {
-      "de": "Edelmythrit-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Edelmythrit-De­stil­lier­kol­ben",
       "en": "High Mythrite Alembic",
       "fr": "Alambic en mithrite noble",
       "ja": "ハイミスライトアレンビック"
@@ -14997,7 +14997,7 @@
     "level": 250,
     "maxQuality": 3800,
     "name": {
-      "de": "Schwermetall-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Schwermetall-Pan­zer­hand­schu­he der Verteidigung",
       "en": "Heavy Metal Gauntlets of Fending",
       "fr": "Gantelets de protecteur en alliage de tungstène",
       "ja": "ヘヴィアロイ・ディフェンダーガントレット"
@@ -15073,7 +15073,7 @@
     "level": 250,
     "maxQuality": 3800,
     "name": {
-      "de": "Schwermetall-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "de": "Schwermetall-Pan­zer­hand­schu­he des Verstümmelns",
       "en": "Heavy Metal Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur en alliage de tungstène",
       "ja": "ヘヴィアロイ・スレイヤーガントレット"
@@ -15814,7 +15814,7 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
-      "de": "Chromeisen-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Chromeisen-Pan­zer­hand­schu­he der Verteidigung",
       "en": "Chromite Gauntlets of Fending",
       "fr": "Gantelets de protecteur en chromite",
       "ja": "クロマイトディフェンダーガントレット"
@@ -15871,7 +15871,7 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
-      "de": "Chromeisen-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "de": "Chromeisen-Pan­zer­hand­schu­he des Verstümmelns",
       "en": "Chromite Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur en chromite",
       "ja": "クロマイトスレイヤーガントレット"
@@ -15928,7 +15928,7 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
-      "de": "Mhigischer De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Mhigischer De­stil­lier­kol­ben",
       "en": "Ala Mhigan Alembic",
       "fr": "Alambic mhigois",
       "ja": "アラミガンアレンビック"
@@ -16118,7 +16118,7 @@
     "level": 270,
     "maxQuality": 2970,
     "name": {
-      "de": "Komponente eines Stücks Be<SoftHyphen/>freiungs<SoftHyphen/>armee-Ausrüstung",
+      "de": "Komponente eines Stücks Be­freiungs­armee-Ausrüstung",
       "en": "Resistance Materiel Component",
       "fr": "Composant de provisions pour l'armée de libération",
       "ja": "解放軍の軍需品部材"
@@ -16137,7 +16137,7 @@
     "level": 270,
     "maxQuality": 2970,
     "name": {
-      "de": "Rucksack für die Be<SoftHyphen/>freiungs<SoftHyphen/>armee",
+      "de": "Rucksack für die Be­freiungs­armee",
       "en": "Resistance Materiel",
       "fr": "Provisions pour l'armée de libération",
       "ja": "解放軍の軍需品"
@@ -16232,7 +16232,7 @@
     "level": 350,
     "maxQuality": 5200,
     "name": {
-      "de": "Nachtstahl-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Nachtstahl-Pan­zer­hand­schu­he der Verteidigung",
       "en": "Nightsteel Gauntlets of Fending",
       "fr": "Gantelets de protecteur en noctacier",
       "ja": "ナイトスチール・ディフェンダーガントレット"
@@ -16308,7 +16308,7 @@
     "level": 350,
     "maxQuality": 5200,
     "name": {
-      "de": "Nachtstahl-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "de": "Nachtstahl-Pan­zer­hand­schu­he des Verstümmelns",
       "en": "Nightsteel Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur en noctacier",
       "ja": "ナイトスチール・スレイヤーガントレット"
@@ -16595,7 +16595,7 @@
     "name": {
       "de": "Dankeschön-Geschenk",
       "en": "Generous Gift",
-      "fr": "Cadeau de re<SoftHyphen/>mer<SoftHyphen/>cie<SoftHyphen/>ment",
+      "fr": "Cadeau de re­mer­cie­ment",
       "ja": "感謝の贈答品"
     },
     "progressDivider": 70,
@@ -17106,7 +17106,7 @@
     "level": 350,
     "maxQuality": 5200,
     "name": {
-      "de": "Nachtstahl-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Nachtstahl-De­stil­lier­kol­ben",
       "en": "Nightsteel Alembic",
       "fr": "Alambic en noctacier",
       "ja": "ナイトスチールアレンビック"
@@ -17695,7 +17695,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "de": "Manufaktur-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Manufaktur-Pan­zer­hand­schu­he der Verteidigung",
       "en": "Facet Gauntlets of Fending",
       "fr": "Gantelets de protecteur de la halle",
       "ja": "ミーン・ディフェンダーガントレット"
@@ -17771,7 +17771,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "de": "Manufaktur-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "de": "Manufaktur-Pan­zer­hand­schu­he des Verstümmelns",
       "en": "Facet Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur de la halle",
       "ja": "ミーン・スレイヤーガントレット"
@@ -17980,7 +17980,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "de": "Manufaktur-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Manufaktur-De­stil­lier­kol­ben",
       "en": "Facet Alembic",
       "fr": "Alambic de la halle",
       "ja": "ミーン・アレンビック"
@@ -18246,7 +18246,7 @@
     "level": 255,
     "maxQuality": 2790,
     "name": {
-      "de": "Luftpiraten-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung (Replik)",
+      "de": "Luftpiraten-Pan­zer­hand­schu­he der Verteidigung (Replik)",
       "en": "Replica Sky Pirate's Gauntlets of Fending",
       "fr": "Répliques de gantelets de protecteur de pirate des cieux",
       "ja": "レプリカ・スカイパイレーツ・ディフェンダーガントレット"
@@ -18303,7 +18303,7 @@
     "level": 255,
     "maxQuality": 2790,
     "name": {
-      "de": "Luftpiraten-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns (Replik)",
+      "de": "Luftpiraten-Pan­zer­hand­schu­he des Verstümmelns (Replik)",
       "en": "Replica Sky Pirate's Gauntlets of Maiming",
       "fr": "Répliques de gantelets d'abatteur de pirate des cieux",
       "ja": "レプリカ・スカイパイレーツ・スレイヤーガントレット"
@@ -18550,7 +18550,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "de": "Genist-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Genist-De­stil­lier­kol­ben",
       "en": "Grade 2 Skybuilders' Still",
       "fr": "Alambic de restauration (2e phase)",
       "ja": "第二次復興用の蒸留器"
@@ -18759,7 +18759,7 @@
     "level": 480,
     "maxQuality": 8500,
     "name": {
-      "de": "Neo-Ishgarder Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Neo-Ishgarder Pan­zer­hand­schu­he der Verteidigung",
       "en": "Neo-Ishgardian Gauntlets of Fending",
       "fr": "Gantelets de protecteur néo-ishgardais",
       "ja": "ネオイシュガルディアン・ディフェンダーガントレット"
@@ -18968,7 +18968,7 @@
     "level": 480,
     "maxQuality": 8500,
     "name": {
-      "de": "Ästhetischer De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Ästhetischer De­stil­lier­kol­ben",
       "en": "Aesthete's Alembic",
       "fr": "Alambic esthétique",
       "ja": "エースセチック・アレンビック"
@@ -19329,7 +19329,7 @@
     "level": 265,
     "maxQuality": 2880,
     "name": {
-      "de": "Edelstahl-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben (Sammlerstück)",
+      "de": "Edelstahl-De­stil­lier­kol­ben (Sammlerstück)",
       "en": "Rarefied High Steel Thermal Alembic",
       "fr": "Alambic thermique en acier noble collectionnable",
       "ja": "収集用のハイスチール・サーマルアレンビック"
@@ -19462,7 +19462,7 @@
     "level": 409,
     "maxQuality": 4200,
     "name": {
-      "de": "Seelenazurit-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he (Sammlerstück)",
+      "de": "Seelenazurit-Pan­zer­hand­schu­he (Sammlerstück)",
       "en": "Rarefied Bluespirit Gauntlets",
       "fr": "Gantelets en azuresprit collectionnables",
       "ja": "収集用のブルースピリットガントレット"
@@ -20108,7 +20108,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "de": "Edelmithril-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben (Sammlerstück)",
+      "de": "Edelmithril-De­stil­lier­kol­ben (Sammlerstück)",
       "en": "Rarefied Mythril Alembic",
       "fr": "Alambic en mithril noble collectionnable",
       "ja": "収集用のハイミスリルアレンビック"
@@ -20222,7 +20222,7 @@
     "level": 513,
     "maxQuality": 15474,
     "name": {
-      "de": "Sonderbestellte Himmelsang-Ge<SoftHyphen/>sell<SoftHyphen/>schaftstruhe",
+      "de": "Sonderbestellte Himmelsang-Ge­sell­schaftstruhe",
       "en": "Grade 4 Artisanal Skybuilders' Company Chest",
       "fr": "Coffre de compagnie libre sur commande de restauration (4e phase)",
       "ja": "第四次復興用の特注カンパニーチェスト"
@@ -20298,7 +20298,7 @@
     "level": 510,
     "maxQuality": 9500,
     "name": {
-      "de": "Exarchen-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Exarchen-Pan­zer­hand­schu­he der Verteidigung",
       "en": "Exarchic Gauntlets of Fending",
       "fr": "Gantelets de protecteur de l'exarchat",
       "ja": "エクサーク・ディフェンダーガントレット"
@@ -20374,7 +20374,7 @@
     "level": 510,
     "maxQuality": 9500,
     "name": {
-      "de": "Exarchen-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "de": "Exarchen-Pan­zer­hand­schu­he des Verstümmelns",
       "en": "Exarchic Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur de l'exarchat",
       "ja": "エクサーク・スレイヤーガントレット"
@@ -21191,7 +21191,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "de": "Chondrit-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben (Sammlerstück)",
+      "de": "Chondrit-De­stil­lier­kol­ben (Sammlerstück)",
       "en": "Rarefied Chondrite Alembic",
       "fr": "Alambic en chondrite collectionnable",
       "ja": "収集用のコンドライトアレンビック"
@@ -21326,7 +21326,7 @@
     "name": {
       "de": "Ätherionette",
       "en": "Aetheroconductive Mammet",
-      "fr": "Poupée d'en<SoftHyphen/>traî<SoftHyphen/>ne<SoftHyphen/>ment magique",
+      "fr": "Poupée d'en­traî­ne­ment magique",
       "ja": "特訓用の魔法人形"
     },
     "progressDivider": 122,
@@ -21362,7 +21362,7 @@
     "level": 590,
     "maxQuality": 8000,
     "name": {
-      "de": "Paktschließer-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Paktschließer-De­stil­lier­kol­ben",
       "en": "Pactmaker's Alembic",
       "fr": "Alambic des associés",
       "ja": "パクトメーカー・アレンビック"
@@ -22312,7 +22312,7 @@
     "level": 620,
     "maxQuality": 8600,
     "name": {
-      "de": "Ermittler-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Ermittler-De­stil­lier­kol­ben",
       "en": "Indagator's Alembic",
       "fr": "Alambic d'indagator",
       "ja": "インダガトル・アレンビック"
@@ -22464,7 +22464,7 @@
     "level": 640,
     "maxQuality": 9000,
     "name": {
-      "de": "Diadochen-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Diadochen-Kurz­fin­ger­hand­schu­he der Verteidigung",
       "en": "Diadochos Halfgloves of Fending",
       "fr": "Mitaines de protecteur de diadoque",
       "ja": "ディアドコス・ディフェンダーハーフグローブ"
@@ -22502,7 +22502,7 @@
     "level": 640,
     "maxQuality": 9000,
     "name": {
-      "de": "Diadochen-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "de": "Diadochen-Kurz­fin­ger­hand­schu­he des Verstümmelns",
       "en": "Diadochos Halfgloves of Maiming",
       "fr": "Mitaines d'abatteur de diadoque",
       "ja": "ディアドコス・スレイヤーハーフグローブ"
@@ -22540,7 +22540,7 @@
     "level": 640,
     "maxQuality": 9000,
     "name": {
-      "de": "Diadochen-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Zielens",
+      "de": "Diadochen-Kurz­fin­ger­hand­schu­he des Zielens",
       "en": "Diadochos Halfgloves of Aiming",
       "fr": "Mitaines de pisteur de diadoque",
       "ja": "ディアドコス・レンジャーハーフグローブ"
@@ -23091,7 +23091,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "de": "Bergchromeisen-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben (Sammlerstück)",
+      "de": "Bergchromeisen-De­stil­lier­kol­ben (Sammlerstück)",
       "en": "Rarefied Mountain Chromite Alembic",
       "fr": "Alambic en chromite d'Urqopacha collectionnable",
       "ja": "収集用のオルコクロマイト・アレンビック"
@@ -23509,7 +23509,7 @@
     "level": 720,
     "maxQuality": 17600,
     "name": {
-      "de": "Immersuch-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Immersuch-De­stil­lier­kol­ben",
       "en": "Everseeker's Alembic",
       "fr": "Alambic de bourlingueur invétéré",
       "ja": "エバーシーク・アレンビック"

@@ -1146,7 +1146,7 @@
     "level": 31,
     "maxQuality": 900,
     "name": {
-      "de": "Eschen-Ka<SoftHyphen/>val<SoftHyphen/>le<SoftHyphen/>rie<SoftHyphen/>bo<SoftHyphen/>gen",
+      "de": "Eschen-Ka­val­le­rie­bo­gen",
       "en": "Ash Cavalry Bow",
       "fr": "Arc de cavalerie en frêne",
       "ja": "アッシュキャバルリーボウ"
@@ -1336,7 +1336,7 @@
     "level": 36,
     "maxQuality": 1160,
     "name": {
-      "de": "Mithril-Ka<SoftHyphen/>val<SoftHyphen/>le<SoftHyphen/>rie<SoftHyphen/>bo<SoftHyphen/>gen",
+      "de": "Mithril-Ka­val­le­rie­bo­gen",
       "en": "Mythril Cavalry Bow",
       "fr": "Arc de cavalerie en mithril",
       "ja": "ミスリルキャバルリーボウ"
@@ -1621,7 +1621,7 @@
     "level": 45,
     "maxQuality": 1700,
     "name": {
-      "de": "Koboldeisen-Ka<SoftHyphen/>val<SoftHyphen/>le<SoftHyphen/>rie<SoftHyphen/>bo<SoftHyphen/>gen",
+      "de": "Koboldeisen-Ka­val­le­rie­bo­gen",
       "en": "Cobalt Cavalry Bow",
       "fr": "Arc revêtu de cobalt",
       "ja": "コバルトクラッドボウ"
@@ -4264,7 +4264,7 @@
     "name": {
       "de": "Gebirgs-Holzpuppe",
       "en": "Alps Striking Dummy",
-      "fr": "Mannequin d'en<SoftHyphen/>traî<SoftHyphen/>ne<SoftHyphen/>ment coerthien",
+      "fr": "Mannequin d'en­traî­ne­ment coerthien",
       "ja": "クルザスダミー"
     },
     "progressDivider": 50,
@@ -4910,7 +4910,7 @@
     "name": {
       "de": "Fernöstliche Holzpuppe",
       "en": "Oriental Striking Dummy",
-      "fr": "Mannequin d'en<SoftHyphen/>traî<SoftHyphen/>ne<SoftHyphen/>ment oriental",
+      "fr": "Mannequin d'en­traî­ne­ment oriental",
       "ja": "オリエンタルダミー"
     },
     "progressDivider": 50,
@@ -4946,7 +4946,7 @@
     "level": 31,
     "maxQuality": 900,
     "name": {
-      "de": "Gehilfen<SoftHyphen/>kommode",
+      "de": "Gehilfen­kommode",
       "en": "Retainer Cartonnier",
       "fr": "Cartonnier de servant",
       "ja": "リテイナーカルトニエ"
@@ -5746,7 +5746,7 @@
     "name": {
       "de": "Klapptafel",
       "en": "Standing Signboard",
-      "fr": "Tableau d'in<SoftHyphen/>for<SoftHyphen/>ma<SoftHyphen/>tions",
+      "fr": "Tableau d'in­for­ma­tions",
       "ja": "スタンディングサインボード"
     },
     "progressDivider": 50,
@@ -7551,7 +7551,7 @@
     "name": {
       "de": "Diarium-Pult",
       "en": "Message Book Stand",
-      "fr": "Support à livre de cor<SoftHyphen/>res<SoftHyphen/>pon<SoftHyphen/>dance",
+      "fr": "Support à livre de cor­res­pon­dance",
       "ja": "メッセージブックスタンド"
     },
     "progressDivider": 82,
@@ -7570,7 +7570,7 @@
     "name": {
       "de": "Dodo-Diarium-Pult",
       "en": "Dodo Message Book Stand",
-      "fr": "Pupitre dodo à livre de cor<SoftHyphen/>res<SoftHyphen/>pon<SoftHyphen/>dance",
+      "fr": "Pupitre dodo à livre de cor­res­pon­dance",
       "ja": "ドードー・メッセージブックスタンド"
     },
     "progressDivider": 82,
@@ -14144,7 +14144,7 @@
     "name": {
       "de": "Steuerbord-Tragflächengelenk-Bauteil",
       "en": "Starboard Wing Control Component",
-      "fr": "Composant d'ar<SoftHyphen/>ti<SoftHyphen/>cu<SoftHyphen/>la<SoftHyphen/>tion d'aile droite",
+      "fr": "Composant d'ar­ti­cu­la­tion d'aile droite",
       "ja": "右翼可動部材"
     },
     "progressDivider": 50,
@@ -14163,7 +14163,7 @@
     "name": {
       "de": "Backbord-Tragflächengelenk-Bauteil",
       "en": "Larboard Wing Control Component",
-      "fr": "Composant d'ar<SoftHyphen/>ti<SoftHyphen/>cu<SoftHyphen/>la<SoftHyphen/>tion d'aile gauche",
+      "fr": "Composant d'ar­ti­cu­la­tion d'aile gauche",
       "ja": "左翼可動部材"
     },
     "progressDivider": 50,
@@ -15588,7 +15588,7 @@
     "name": {
       "de": "Übungsmaterial",
       "en": "Training Supplies",
-      "fr": "Matériel d'en<SoftHyphen/>traî<SoftHyphen/>ne<SoftHyphen/>ment",
+      "fr": "Matériel d'en­traî­ne­ment",
       "ja": "訓練用部材"
     },
     "progressDivider": 50,
@@ -15607,7 +15607,7 @@
     "name": {
       "de": "Verwendbares Baumaterial",
       "en": "Repurposed Construction Component",
-      "fr": "Matériel de con<SoftHyphen/>struc<SoftHyphen/>tion",
+      "fr": "Matériel de con­struc­tion",
       "ja": "再生済み建築資材"
     },
     "progressDivider": 50,
@@ -17733,7 +17733,7 @@
     "level": 270,
     "maxQuality": 2970,
     "name": {
-      "de": "Komponente eines Stücks Be<SoftHyphen/>freiungs<SoftHyphen/>armee-Ausrüstung",
+      "de": "Komponente eines Stücks Be­freiungs­armee-Ausrüstung",
       "en": "Resistance Materiel Component",
       "fr": "Composant de provisions pour l'armée de libération",
       "ja": "解放軍の軍需品部材"
@@ -17752,7 +17752,7 @@
     "level": 270,
     "maxQuality": 2970,
     "name": {
-      "de": "Rucksack für die Be<SoftHyphen/>freiungs<SoftHyphen/>armee",
+      "de": "Rucksack für die Be­freiungs­armee",
       "en": "Resistance Materiel",
       "fr": "Provisions pour l'armée de libération",
       "ja": "解放軍の軍需品"
@@ -18324,7 +18324,7 @@
     "name": {
       "de": "Dankeschön-Geschenk",
       "en": "Generous Gift",
-      "fr": "Cadeau de re<SoftHyphen/>mer<SoftHyphen/>cie<SoftHyphen/>ment",
+      "fr": "Cadeau de re­mer­cie­ment",
       "ja": "感謝の贈答品"
     },
     "progressDivider": 70,
@@ -22844,7 +22844,7 @@
     "level": 580,
     "maxQuality": 7800,
     "name": {
-      "de": "Klassischer Ka<SoftHyphen/>val<SoftHyphen/>le<SoftHyphen/>rie<SoftHyphen/>bo<SoftHyphen/>gen",
+      "de": "Klassischer Ka­val­le­rie­bo­gen",
       "en": "Classical Cavalry Bow",
       "fr": "Arc de cavalerie classique",
       "ja": "クラシカル・キャバルリーボウ"
@@ -23093,7 +23093,7 @@
     "name": {
       "de": "Ätherionette",
       "en": "Aetheroconductive Mammet",
-      "fr": "Poupée d'en<SoftHyphen/>traî<SoftHyphen/>ne<SoftHyphen/>ment magique",
+      "fr": "Poupée d'en­traî­ne­ment magique",
       "ja": "特訓用の魔法人形"
     },
     "progressDivider": 122,
