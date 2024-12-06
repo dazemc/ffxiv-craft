@@ -53,4 +53,4 @@ jobs:
         uses: actions/deploy-pages@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          artifact_name: _site # Match the uploaded artifact name
+          artifact_name: site-artifact # Match the uploaded artifact name
