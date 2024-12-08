@@ -26,6 +26,23 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          submodules: recursive # Ensure submodules are updated
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --cached --name-only | grep -q "^.gitmodules$\|^scripts/"; then
+            echo "Submodule-only changes detected."
+            echo "continue_build=false" >> $GITHUB_ENV
+          else
+            echo "Changes beyond submodules detected."
+            echo "continue_build=true" >> $GITHUB_ENV
+          fi
+
+      - name: Stop if only submodules updated
+        if: env.continue_build == 'false'
+        run: echo "Exiting as only submodules were updated." && exit 0
 
       - name: Setup Pages
         uses: actions/configure-pages@v3
