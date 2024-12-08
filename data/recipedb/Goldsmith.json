@@ -1,10 +1,10 @@
 [
   {
     "baseLevel": 1,
-    "difficulty": 19,
-    "durability": 60,
+    "difficulty": 9,
+    "durability": 40,
     "level": 1,
-    "maxQuality": 100,
+    "maxQuality": 80,
     "name": {
       "de": "Kupferbarren",
       "en": "Copper Ingot",
@@ -58,10 +58,10 @@
   },
   {
     "baseLevel": 4,
-    "difficulty": 21,
-    "durability": 60,
+    "difficulty": 10,
+    "durability": 40,
     "level": 4,
-    "maxQuality": 130,
+    "maxQuality": 104,
     "name": {
       "de": "Kupferdrahtringe",
       "en": "Copper Rings",
@@ -134,10 +134,10 @@
   },
   {
     "baseLevel": 6,
-    "difficulty": 36,
-    "durability": 60,
+    "difficulty": 18,
+    "durability": 40,
     "level": 6,
-    "maxQuality": 170,
+    "maxQuality": 136,
     "name": {
       "de": "Sandwetzstein",
       "en": "Ragstone Whetstone",
@@ -400,10 +400,10 @@
   },
   {
     "baseLevel": 13,
-    "difficulty": 54,
-    "durability": 60,
+    "difficulty": 27,
+    "durability": 40,
     "level": 13,
-    "maxQuality": 310,
+    "maxQuality": 248,
     "name": {
       "de": "Sonnenstein",
       "en": "Sunstone",
@@ -419,10 +419,10 @@
   },
   {
     "baseLevel": 13,
-    "difficulty": 54,
-    "durability": 60,
+    "difficulty": 27,
+    "durability": 40,
     "level": 13,
-    "maxQuality": 310,
+    "maxQuality": 248,
     "name": {
       "de": "Danburit",
       "en": "Danburite",
@@ -438,10 +438,10 @@
   },
   {
     "baseLevel": 13,
-    "difficulty": 54,
-    "durability": 60,
+    "difficulty": 27,
+    "durability": 40,
     "level": 13,
-    "maxQuality": 310,
+    "maxQuality": 248,
     "name": {
       "de": "Fluorit",
       "en": "Fluorite",
@@ -457,10 +457,10 @@
   },
   {
     "baseLevel": 13,
-    "difficulty": 54,
+    "difficulty": 81,
     "durability": 60,
     "level": 13,
-    "maxQuality": 310,
+    "maxQuality": 232,
     "name": {
       "de": "Prunk-Knochenstab",
       "en": "Decorated Bone Staff",
@@ -476,10 +476,10 @@
   },
   {
     "baseLevel": 14,
-    "difficulty": 54,
-    "durability": 60,
+    "difficulty": 27,
+    "durability": 40,
     "level": 14,
-    "maxQuality": 330,
+    "maxQuality": 264,
     "name": {
       "de": "Messingbarren",
       "en": "Brass Ingot",
@@ -495,10 +495,10 @@
   },
   {
     "baseLevel": 14,
-    "difficulty": 54,
-    "durability": 60,
+    "difficulty": 27,
+    "durability": 40,
     "level": 14,
-    "maxQuality": 330,
+    "maxQuality": 264,
     "name": {
       "de": "Titanit",
       "en": "Sphene",
@@ -514,10 +514,10 @@
   },
   {
     "baseLevel": 14,
-    "difficulty": 54,
-    "durability": 60,
+    "difficulty": 27,
+    "durability": 40,
     "level": 14,
-    "maxQuality": 330,
+    "maxQuality": 264,
     "name": {
       "de": "Malachit",
       "en": "Malachite",
@@ -533,10 +533,10 @@
   },
   {
     "baseLevel": 14,
-    "difficulty": 54,
-    "durability": 60,
+    "difficulty": 27,
+    "durability": 40,
     "level": 14,
-    "maxQuality": 330,
+    "maxQuality": 264,
     "name": {
       "de": "Lapislazuli",
       "en": "Lapis Lazuli",
@@ -590,10 +590,10 @@
   },
   {
     "baseLevel": 15,
-    "difficulty": 55,
-    "durability": 70,
+    "difficulty": 27,
+    "durability": 40,
     "level": 15,
-    "maxQuality": 360,
+    "maxQuality": 288,
     "name": {
       "de": "Messingdrahtringe",
       "en": "Brass Rings",
@@ -742,10 +742,10 @@
   },
   {
     "baseLevel": 17,
-    "difficulty": 66,
+    "difficulty": 99,
     "durability": 70,
     "level": 17,
-    "maxQuality": 420,
+    "maxQuality": 315,
     "name": {
       "de": "Prunk-Schafshornstab",
       "en": "Toothed Ramhorn Staff",
@@ -913,10 +913,10 @@
   },
   {
     "baseLevel": 20,
-    "difficulty": 74,
-    "durability": 70,
+    "difficulty": 37,
+    "durability": 40,
     "level": 20,
-    "maxQuality": 510,
+    "maxQuality": 408,
     "name": {
       "de": "Tonwetzstein",
       "en": "Mudstone Whetstone",
@@ -932,10 +932,10 @@
   },
   {
     "baseLevel": 20,
-    "difficulty": 74,
+    "difficulty": 111,
     "durability": 70,
     "level": 20,
-    "maxQuality": 510,
+    "maxQuality": 382,
     "name": {
       "de": "Prunk-Kupferzepter",
       "en": "Decorated Copper Scepter",
@@ -1046,10 +1046,10 @@
   },
   {
     "baseLevel": 22,
-    "difficulty": 75,
-    "durability": 70,
+    "difficulty": 37,
+    "durability": 40,
     "level": 22,
-    "maxQuality": 570,
+    "maxQuality": 456,
     "name": {
       "de": "Eisauge",
       "en": "Eye of Ice",
@@ -1065,10 +1065,10 @@
   },
   {
     "baseLevel": 22,
-    "difficulty": 75,
-    "durability": 70,
+    "difficulty": 37,
+    "durability": 40,
     "level": 22,
-    "maxQuality": 570,
+    "maxQuality": 456,
     "name": {
       "de": "Wasserauge",
       "en": "Eye of Water",
@@ -1084,10 +1084,10 @@
   },
   {
     "baseLevel": 22,
-    "difficulty": 75,
-    "durability": 70,
+    "difficulty": 37,
+    "durability": 40,
     "level": 22,
-    "maxQuality": 570,
+    "maxQuality": 456,
     "name": {
       "de": "Blitzauge",
       "en": "Eye of Lightning",
@@ -1122,10 +1122,10 @@
   },
   {
     "baseLevel": 23,
-    "difficulty": 79,
-    "durability": 70,
+    "difficulty": 39,
+    "durability": 40,
     "level": 23,
-    "maxQuality": 600,
+    "maxQuality": 480,
     "name": {
       "de": "Erdauge",
       "en": "Eye of Earth",
@@ -1141,10 +1141,10 @@
   },
   {
     "baseLevel": 23,
-    "difficulty": 79,
-    "durability": 70,
+    "difficulty": 39,
+    "durability": 40,
     "level": 23,
-    "maxQuality": 600,
+    "maxQuality": 480,
     "name": {
       "de": "Windauge",
       "en": "Eye of Wind",
@@ -1160,10 +1160,10 @@
   },
   {
     "baseLevel": 23,
-    "difficulty": 79,
-    "durability": 70,
+    "difficulty": 39,
+    "durability": 40,
     "level": 23,
-    "maxQuality": 600,
+    "maxQuality": 480,
     "name": {
       "de": "Feuerauge",
       "en": "Eye of Fire",
@@ -1179,10 +1179,10 @@
   },
   {
     "baseLevel": 23,
-    "difficulty": 79,
-    "durability": 70,
+    "difficulty": 39,
+    "durability": 40,
     "level": 23,
-    "maxQuality": 600,
+    "maxQuality": 480,
     "name": {
       "de": "Silberbarren",
       "en": "Silver Ingot",
@@ -1217,10 +1217,10 @@
   },
   {
     "baseLevel": 24,
-    "difficulty": 85,
-    "durability": 70,
+    "difficulty": 42,
+    "durability": 40,
     "level": 24,
-    "maxQuality": 630,
+    "maxQuality": 504,
     "name": {
       "de": "Silberdrahtringe",
       "en": "Silver Rings",
@@ -1293,10 +1293,10 @@
   },
   {
     "baseLevel": 25,
-    "difficulty": 89,
+    "difficulty": 133,
     "durability": 70,
     "level": 25,
-    "maxQuality": 660,
+    "maxQuality": 495,
     "name": {
       "de": "Silber-Lupenbrille",
       "en": "Silver Magnifiers",
@@ -1331,10 +1331,10 @@
   },
   {
     "baseLevel": 25,
-    "difficulty": 89,
+    "difficulty": 133,
     "durability": 70,
     "level": 25,
-    "maxQuality": 660,
+    "maxQuality": 495,
     "name": {
       "de": "Prunk-Antilopenhornstab",
       "en": "Toothed Staghorn Staff",
@@ -1901,10 +1901,10 @@
   },
   {
     "baseLevel": 30,
-    "difficulty": 102,
-    "durability": 70,
+    "difficulty": 51,
+    "durability": 40,
     "level": 30,
-    "maxQuality": 850,
+    "maxQuality": 680,
     "name": {
       "de": "Schluffwetzstein",
       "en": "Siltstone Whetstone",
@@ -2091,10 +2091,10 @@
   },
   {
     "baseLevel": 32,
-    "difficulty": 110,
-    "durability": 80,
+    "difficulty": 55,
+    "durability": 40,
     "level": 32,
-    "maxQuality": 950,
+    "maxQuality": 760,
     "name": {
       "de": "Aquamarin",
       "en": "Aquamarine",
@@ -2110,10 +2110,10 @@
   },
   {
     "baseLevel": 32,
-    "difficulty": 110,
-    "durability": 80,
+    "difficulty": 55,
+    "durability": 40,
     "level": 32,
-    "maxQuality": 950,
+    "maxQuality": 760,
     "name": {
       "de": "Amethyst",
       "en": "Amethyst",
@@ -2129,10 +2129,10 @@
   },
   {
     "baseLevel": 32,
-    "difficulty": 110,
-    "durability": 80,
+    "difficulty": 55,
+    "durability": 40,
     "level": 32,
-    "maxQuality": 950,
+    "maxQuality": 760,
     "name": {
       "de": "Granat",
       "en": "Garnet",
@@ -2148,10 +2148,10 @@
   },
   {
     "baseLevel": 32,
-    "difficulty": 110,
-    "durability": 80,
+    "difficulty": 55,
+    "durability": 40,
     "level": 32,
-    "maxQuality": 950,
+    "maxQuality": 760,
     "name": {
       "de": "Goshenit",
       "en": "Goshenite",
@@ -2167,10 +2167,10 @@
   },
   {
     "baseLevel": 32,
-    "difficulty": 110,
-    "durability": 80,
+    "difficulty": 55,
+    "durability": 40,
     "level": 32,
-    "maxQuality": 950,
+    "maxQuality": 760,
     "name": {
       "de": "Goldberyll",
       "en": "Heliodor",
@@ -2186,10 +2186,10 @@
   },
   {
     "baseLevel": 32,
-    "difficulty": 110,
-    "durability": 80,
+    "difficulty": 55,
+    "durability": 40,
     "level": 32,
-    "maxQuality": 950,
+    "maxQuality": 760,
     "name": {
       "de": "Peridot",
       "en": "Peridot",
@@ -2338,10 +2338,10 @@
   },
   {
     "baseLevel": 34,
-    "difficulty": 115,
-    "durability": 80,
+    "difficulty": 57,
+    "durability": 40,
     "level": 34,
-    "maxQuality": 1050,
+    "maxQuality": 840,
     "name": {
       "de": "Mithril-Barren",
       "en": "Mythril Ingot",
@@ -2414,10 +2414,10 @@
   },
   {
     "baseLevel": 34,
-    "difficulty": 115,
+    "difficulty": 172,
     "durability": 80,
     "level": 34,
-    "maxQuality": 1050,
+    "maxQuality": 787,
     "name": {
       "de": "Prunk-Sil­ber­zep­ter",
       "en": "Decorated Silver Scepter",
@@ -2433,10 +2433,10 @@
   },
   {
     "baseLevel": 34,
-    "difficulty": 115,
+    "difficulty": 172,
     "durability": 80,
     "level": 34,
-    "maxQuality": 1050,
+    "maxQuality": 787,
     "name": {
       "de": "Mithril-Lupenbrille",
       "en": "Mythril Magnifiers",
@@ -2471,10 +2471,10 @@
   },
   {
     "baseLevel": 35,
-    "difficulty": 123,
-    "durability": 80,
+    "difficulty": 61,
+    "durability": 40,
     "level": 35,
-    "maxQuality": 1110,
+    "maxQuality": 888,
     "name": {
       "de": "Mithrildraht-Ringe",
       "en": "Mythril Rings",
@@ -2490,10 +2490,10 @@
   },
   {
     "baseLevel": 35,
-    "difficulty": 123,
+    "difficulty": 184,
     "durability": 80,
     "level": 35,
-    "maxQuality": 1110,
+    "maxQuality": 832,
     "name": {
       "de": "Prunk-Ziegenhornstab",
       "en": "Toothed Goathorn Staff",
@@ -3079,10 +3079,10 @@
   },
   {
     "baseLevel": 40,
-    "difficulty": 138,
-    "durability": 80,
+    "difficulty": 69,
+    "durability": 40,
     "level": 40,
-    "maxQuality": 1400,
+    "maxQuality": 1120,
     "name": {
       "de": "Jadeit",
       "en": "Jadeite",
@@ -3098,10 +3098,10 @@
   },
   {
     "baseLevel": 40,
-    "difficulty": 138,
-    "durability": 80,
+    "difficulty": 69,
+    "durability": 40,
     "level": 40,
-    "maxQuality": 1400,
+    "maxQuality": 1120,
     "name": {
       "de": "Basilisk-Wetzstein",
       "en": "Basilisk Whetstone",
@@ -3212,10 +3212,10 @@
   },
   {
     "baseLevel": 41,
-    "difficulty": 143,
-    "durability": 80,
+    "difficulty": 71,
+    "durability": 40,
     "level": 41,
-    "maxQuality": 1460,
+    "maxQuality": 1168,
     "name": {
       "de": "Bernstein",
       "en": "Amber",
@@ -3231,10 +3231,10 @@
   },
   {
     "baseLevel": 41,
-    "difficulty": 143,
-    "durability": 80,
+    "difficulty": 71,
+    "durability": 40,
     "level": 41,
-    "maxQuality": 1460,
+    "maxQuality": 1168,
     "name": {
       "de": "Zirkon",
       "en": "Zircon",
@@ -3250,10 +3250,10 @@
   },
   {
     "baseLevel": 41,
-    "difficulty": 143,
-    "durability": 80,
+    "difficulty": 71,
+    "durability": 40,
     "level": 41,
-    "maxQuality": 1460,
+    "maxQuality": 1168,
     "name": {
       "de": "Spinell",
       "en": "Spinel",
@@ -3269,10 +3269,10 @@
   },
   {
     "baseLevel": 41,
-    "difficulty": 143,
-    "durability": 80,
+    "difficulty": 71,
+    "durability": 40,
     "level": 41,
-    "maxQuality": 1460,
+    "maxQuality": 1168,
     "name": {
       "de": "Türkis",
       "en": "Turquoise",
@@ -3288,10 +3288,10 @@
   },
   {
     "baseLevel": 41,
-    "difficulty": 143,
-    "durability": 80,
+    "difficulty": 71,
+    "durability": 40,
     "level": 41,
-    "maxQuality": 1460,
+    "maxQuality": 1168,
     "name": {
       "de": "Turmalin",
       "en": "Tourmaline",
@@ -3307,10 +3307,10 @@
   },
   {
     "baseLevel": 41,
-    "difficulty": 143,
-    "durability": 80,
+    "difficulty": 71,
+    "durability": 40,
     "level": 41,
-    "maxQuality": 1460,
+    "maxQuality": 1168,
     "name": {
       "de": "Rubellit",
       "en": "Rubellite",
@@ -3402,10 +3402,10 @@
   },
   {
     "baseLevel": 42,
-    "difficulty": 144,
-    "durability": 80,
+    "difficulty": 72,
+    "durability": 40,
     "level": 42,
-    "maxQuality": 1520,
+    "maxQuality": 1216,
     "name": {
       "de": "Elektrum-Barren",
       "en": "Electrum Ingot",
@@ -3573,10 +3573,10 @@
   },
   {
     "baseLevel": 43,
-    "difficulty": 155,
-    "durability": 80,
+    "difficulty": 77,
+    "durability": 40,
     "level": 43,
-    "maxQuality": 1580,
+    "maxQuality": 1264,
     "name": {
       "de": "Elektrumdraht-Ringe",
       "en": "Electrum Rings",
@@ -3763,10 +3763,10 @@
   },
   {
     "baseLevel": 45,
-    "difficulty": 158,
-    "durability": 80,
+    "difficulty": 79,
+    "durability": 40,
     "level": 45,
-    "maxQuality": 1700,
+    "maxQuality": 1360,
     "name": {
       "de": "Schwarze Perle",
       "en": "Black Pearl",
@@ -4694,10 +4694,10 @@
   },
   {
     "baseLevel": 36,
-    "difficulty": 124,
-    "durability": 80,
+    "difficulty": 62,
+    "durability": 40,
     "level": 36,
-    "maxQuality": 1160,
+    "maxQuality": 928,
     "name": {
       "de": "Weiße Perle",
       "en": "Pearl",
@@ -5112,7 +5112,7 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 180,
+    "difficulty": 90,
     "durability": 80,
     "level": 50,
     "maxQuality": 2000,
@@ -5131,7 +5131,7 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 180,
+    "difficulty": 90,
     "durability": 80,
     "level": 50,
     "maxQuality": 2000,
@@ -5150,10 +5150,10 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 210,
-    "durability": 80,
+    "difficulty": 105,
+    "durability": 40,
     "level": 55,
-    "maxQuality": 2200,
+    "maxQuality": 1760,
     "name": {
       "de": "Astralauge",
       "en": "Astral Eye",
@@ -5169,10 +5169,10 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 210,
-    "durability": 80,
+    "difficulty": 105,
+    "durability": 40,
     "level": 55,
-    "maxQuality": 2200,
+    "maxQuality": 1760,
     "name": {
       "de": "Rosengold-Nugget",
       "en": "Rose Gold Nugget",
@@ -5188,10 +5188,10 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 250,
-    "durability": 80,
+    "difficulty": 125,
+    "durability": 40,
     "level": 70,
-    "maxQuality": 2500,
+    "maxQuality": 2000,
     "name": {
       "de": "Strahlendes Astralauge",
       "en": "Radiant Astral Eye",
@@ -5207,10 +5207,10 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 250,
-    "durability": 80,
+    "difficulty": 125,
+    "durability": 40,
     "level": 70,
-    "maxQuality": 2500,
+    "maxQuality": 2000,
     "name": {
       "de": "Rosengold-Barren",
       "en": "Rose Gold Ingot",
@@ -5663,10 +5663,10 @@
   },
   {
     "baseLevel": 30,
-    "difficulty": 102,
-    "durability": 70,
+    "difficulty": 51,
+    "durability": 40,
     "level": 30,
-    "maxQuality": 850,
+    "maxQuality": 680,
     "name": {
       "de": "Behauener Stein",
       "en": "Cut Stone",
@@ -5685,7 +5685,7 @@
     "difficulty": 75,
     "durability": 70,
     "level": 21,
-    "maxQuality": 540,
+    "maxQuality": 270,
     "name": {
       "de": "Oasen-Komposithüttendach",
       "en": "Oasis Cottage Roof (Composite)",
@@ -5704,7 +5704,7 @@
     "difficulty": 74,
     "durability": 70,
     "level": 20,
-    "maxQuality": 510,
+    "maxQuality": 255,
     "name": {
       "de": "Oasen-Steinhüttendach",
       "en": "Oasis Cottage Roof (Stone)",
@@ -5723,7 +5723,7 @@
     "difficulty": 129,
     "durability": 80,
     "level": 38,
-    "maxQuality": 1280,
+    "maxQuality": 640,
     "name": {
       "de": "Oasen-Komposithausdach",
       "en": "Oasis House Roof (Composite)",
@@ -5742,7 +5742,7 @@
     "difficulty": 123,
     "durability": 80,
     "level": 35,
-    "maxQuality": 1110,
+    "maxQuality": 555,
     "name": {
       "de": "Oasen-Steinhausdach",
       "en": "Oasis House Roof (Stone)",
@@ -5761,7 +5761,7 @@
     "difficulty": 210,
     "durability": 80,
     "level": 55,
-    "maxQuality": 2200,
+    "maxQuality": 1100,
     "name": {
       "de": "Oasen-Kompositresidenzdach",
       "en": "Oasis Mansion Roof (Composite)",
@@ -5780,7 +5780,7 @@
     "difficulty": 210,
     "durability": 80,
     "level": 55,
-    "maxQuality": 2200,
+    "maxQuality": 1100,
     "name": {
       "de": "Oasen-Steinresidenzdach",
       "en": "Oasis Mansion Roof (Stone)",
@@ -5799,7 +5799,7 @@
     "difficulty": 74,
     "durability": 70,
     "level": 20,
-    "maxQuality": 510,
+    "maxQuality": 255,
     "name": {
       "de": "Riviera-Komposithüttenmauer",
       "en": "Riviera Cottage Wall (Composite)",
@@ -5818,7 +5818,7 @@
     "difficulty": 75,
     "durability": 70,
     "level": 22,
-    "maxQuality": 570,
+    "maxQuality": 285,
     "name": {
       "de": "Riviera-Steinhüttenmauer",
       "en": "Riviera Cottage Wall (Stone)",
@@ -5837,7 +5837,7 @@
     "difficulty": 124,
     "durability": 80,
     "level": 36,
-    "maxQuality": 1160,
+    "maxQuality": 580,
     "name": {
       "de": "Riviera-Komposithausmauer",
       "en": "Riviera House Wall (Composite)",
@@ -5856,7 +5856,7 @@
     "difficulty": 137,
     "durability": 80,
     "level": 39,
-    "maxQuality": 1340,
+    "maxQuality": 670,
     "name": {
       "de": "Riviera-Steinhausmauer",
       "en": "Riviera House Wall (Stone)",
@@ -5875,7 +5875,7 @@
     "difficulty": 210,
     "durability": 80,
     "level": 55,
-    "maxQuality": 2200,
+    "maxQuality": 1100,
     "name": {
       "de": "Riviera-Kompositresidenzmauer",
       "en": "Riviera Mansion Wall (Composite)",
@@ -5894,7 +5894,7 @@
     "difficulty": 210,
     "durability": 80,
     "level": 55,
-    "maxQuality": 2200,
+    "maxQuality": 1100,
     "name": {
       "de": "Riviera-Steinresidenzmauer",
       "en": "Riviera Mansion Wall (Stone)",
@@ -5913,7 +5913,7 @@
     "difficulty": 75,
     "durability": 70,
     "level": 21,
-    "maxQuality": 540,
+    "maxQuality": 270,
     "name": {
       "de": "Wald-Steinhüttenmauer",
       "en": "Glade Cottage Wall (Stone)",
@@ -5932,7 +5932,7 @@
     "difficulty": 129,
     "durability": 80,
     "level": 38,
-    "maxQuality": 1280,
+    "maxQuality": 640,
     "name": {
       "de": "Wald-Steinhausmauer",
       "en": "Glade House Wall (Stone)",
@@ -5951,7 +5951,7 @@
     "difficulty": 210,
     "durability": 80,
     "level": 55,
-    "maxQuality": 2200,
+    "maxQuality": 1100,
     "name": {
       "de": "Wald-Steinresidenzmauer",
       "en": "Glade Mansion Wall (Stone)",
@@ -5970,7 +5970,7 @@
     "difficulty": 75,
     "durability": 70,
     "level": 21,
-    "maxQuality": 540,
+    "maxQuality": 270,
     "name": {
       "de": "Oasen-Komposithüttenmauer",
       "en": "Oasis Cottage Wall (Composite)",
@@ -5989,7 +5989,7 @@
     "difficulty": 74,
     "durability": 70,
     "level": 20,
-    "maxQuality": 510,
+    "maxQuality": 255,
     "name": {
       "de": "Oasen-Steinhüttenmauer",
       "en": "Oasis Cottage Wall (Stone)",
@@ -6008,7 +6008,7 @@
     "difficulty": 129,
     "durability": 80,
     "level": 38,
-    "maxQuality": 1280,
+    "maxQuality": 640,
     "name": {
       "de": "Oasen-Komposithausmauer",
       "en": "Oasis House Wall (Composite)",
@@ -6027,7 +6027,7 @@
     "difficulty": 124,
     "durability": 80,
     "level": 36,
-    "maxQuality": 1160,
+    "maxQuality": 580,
     "name": {
       "de": "Oasen-Steinhausmauer",
       "en": "Oasis House Wall (Stone)",
@@ -6046,7 +6046,7 @@
     "difficulty": 210,
     "durability": 80,
     "level": 55,
-    "maxQuality": 2200,
+    "maxQuality": 1100,
     "name": {
       "de": "Oasen-Kompositresidenzmauer",
       "en": "Oasis Mansion Wall (Composite)",
@@ -6065,7 +6065,7 @@
     "difficulty": 210,
     "durability": 80,
     "level": 55,
-    "maxQuality": 2200,
+    "maxQuality": 1100,
     "name": {
       "de": "Oasen-Steinresidenzmauer",
       "en": "Oasis Mansion Wall (Stone)",
@@ -6084,7 +6084,7 @@
     "difficulty": 101,
     "durability": 70,
     "level": 29,
-    "maxQuality": 800,
+    "maxQuality": 400,
     "name": {
       "de": "Riviera-Beschlagtür",
       "en": "Riviera Studded Door",
@@ -6103,7 +6103,7 @@
     "difficulty": 106,
     "durability": 80,
     "level": 31,
-    "maxQuality": 900,
+    "maxQuality": 450,
     "name": {
       "de": "Wald-Monumentaltür",
       "en": "Glade Classical Door",
@@ -6122,7 +6122,7 @@
     "difficulty": 102,
     "durability": 70,
     "level": 30,
-    "maxQuality": 850,
+    "maxQuality": 425,
     "name": {
       "de": "Oasen-Monumentaltür",
       "en": "Oasis Classical Door",
@@ -6141,7 +6141,7 @@
     "difficulty": 128,
     "durability": 80,
     "level": 37,
-    "maxQuality": 1220,
+    "maxQuality": 610,
     "name": {
       "de": "Riviera-Steinschornstein",
       "en": "Riviera Stone Chimney",
@@ -6160,7 +6160,7 @@
     "difficulty": 102,
     "durability": 70,
     "level": 30,
-    "maxQuality": 850,
+    "maxQuality": 425,
     "name": {
       "de": "Gemauerter Oasen-Schornstein",
       "en": "Oasis Stone Chimney",
@@ -6179,7 +6179,7 @@
     "difficulty": 143,
     "durability": 80,
     "level": 41,
-    "maxQuality": 1460,
+    "maxQuality": 730,
     "name": {
       "de": "Oasen-Rundschornstein",
       "en": "Oasis Rounded Chimney",
@@ -6198,7 +6198,7 @@
     "difficulty": 167,
     "durability": 80,
     "level": 47,
-    "maxQuality": 1820,
+    "maxQuality": 910,
     "name": {
       "de": "Wettersabotender",
       "en": "Cactuar Weathervane",
@@ -6217,7 +6217,7 @@
     "difficulty": 124,
     "durability": 80,
     "level": 36,
-    "maxQuality": 1160,
+    "maxQuality": 580,
     "name": {
       "de": "Riviera-Wandschornstein",
       "en": "Riviera Wall Chimney",
@@ -6236,7 +6236,7 @@
     "difficulty": 124,
     "durability": 80,
     "level": 36,
-    "maxQuality": 1160,
+    "maxQuality": 580,
     "name": {
       "de": "Oasen-Wandschornstein",
       "en": "Oasis Wall Chimney",
@@ -6255,7 +6255,7 @@
     "difficulty": 85,
     "durability": 70,
     "level": 24,
-    "maxQuality": 630,
+    "maxQuality": 315,
     "name": {
       "de": "Oasen-Wappenplakette",
       "en": "Oasis Placard",
@@ -6274,7 +6274,7 @@
     "difficulty": 159,
     "durability": 80,
     "level": 46,
-    "maxQuality": 1760,
+    "maxQuality": 880,
     "name": {
       "de": "Oasen-Aushängeschild",
       "en": "Oasis Hanging Placard",
@@ -6293,7 +6293,7 @@
     "difficulty": 106,
     "durability": 80,
     "level": 31,
-    "maxQuality": 900,
+    "maxQuality": 450,
     "name": {
       "de": "Riviera-Ziegelbogenmauer",
       "en": "Riviera Roofed Wall",
@@ -6312,7 +6312,7 @@
     "difficulty": 158,
     "durability": 80,
     "level": 45,
-    "maxQuality": 1700,
+    "maxQuality": 850,
     "name": {
       "de": "Riviera-Steinpfeilermauer",
       "en": "Riviera Picket Wall",
@@ -6331,7 +6331,7 @@
     "difficulty": 180,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 1000,
     "name": {
       "de": "Riviera-Steinbogenmauer",
       "en": "Riviera Stone Wall",
@@ -6350,7 +6350,7 @@
     "difficulty": 110,
     "durability": 80,
     "level": 32,
-    "maxQuality": 950,
+    "maxQuality": 475,
     "name": {
       "de": "Wald-Steinbogenmauer",
       "en": "Glade Cobblestone Wall",
@@ -6369,7 +6369,7 @@
     "difficulty": 155,
     "durability": 80,
     "level": 43,
-    "maxQuality": 1580,
+    "maxQuality": 790,
     "name": {
       "de": "Oasen-Steinblockmauer",
       "en": "Oasis Stone Wall",
@@ -6388,7 +6388,7 @@
     "difficulty": 180,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 1000,
     "name": {
       "de": "Oasen-Schmiedeeisenzaun",
       "en": "Oasis Ornate Fence",
@@ -6407,7 +6407,7 @@
     "difficulty": 250,
     "durability": 80,
     "level": 70,
-    "maxQuality": 2500,
+    "maxQuality": 1250,
     "name": {
       "de": "Illuminationsmodul",
       "en": "Illumination Module",
@@ -6426,7 +6426,7 @@
     "difficulty": 210,
     "durability": 80,
     "level": 55,
-    "maxQuality": 2200,
+    "maxQuality": 1100,
     "name": {
       "de": "Licht der Felsen",
       "en": "Cragsoul Lamp",
@@ -6445,7 +6445,7 @@
     "difficulty": 250,
     "durability": 80,
     "level": 70,
-    "maxQuality": 2500,
+    "maxQuality": 1250,
     "name": {
       "de": "Herzglut Titans",
       "en": "Titanic Cragsoul Lamp",
@@ -6464,7 +6464,7 @@
     "difficulty": 250,
     "durability": 80,
     "level": 70,
-    "maxQuality": 2500,
+    "maxQuality": 1250,
     "name": {
       "de": "Phlegethon-Triumphbogen",
       "en": "Savage Arc of Triumph",
@@ -6483,7 +6483,7 @@
     "difficulty": 180,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 1000,
     "name": {
       "de": "Amdapor-Feuerbecken",
       "en": "Amdapori Beacon",
@@ -6502,7 +6502,7 @@
     "difficulty": 144,
     "durability": 80,
     "level": 42,
-    "maxQuality": 1520,
+    "maxQuality": 760,
     "name": {
       "de": "Sylphen-Stuhl",
       "en": "Sylphic Chair",
@@ -6521,7 +6521,7 @@
     "difficulty": 210,
     "durability": 80,
     "level": 55,
-    "maxQuality": 2200,
+    "maxQuality": 1100,
     "name": {
       "de": "Garuda-Couch",
       "en": "Vortex Couch",
@@ -6540,7 +6540,7 @@
     "difficulty": 250,
     "durability": 80,
     "level": 70,
-    "maxQuality": 2500,
+    "maxQuality": 1250,
     "name": {
       "de": "Windgewalten-Couch",
       "en": "Raging Vortex Couch",
@@ -6559,7 +6559,7 @@
     "difficulty": 155,
     "durability": 80,
     "level": 43,
-    "maxQuality": 1580,
+    "maxQuality": 790,
     "name": {
       "de": "Sylphen-Geschirrschrank",
       "en": "Sylphic Cupboard",
@@ -6578,7 +6578,7 @@
     "difficulty": 155,
     "durability": 80,
     "level": 43,
-    "maxQuality": 1580,
+    "maxQuality": 790,
     "name": {
       "de": "Sylphen-Bücherregal",
       "en": "Sylphic Bookshelf",
@@ -6597,7 +6597,7 @@
     "difficulty": 128,
     "durability": 80,
     "level": 37,
-    "maxQuality": 1220,
+    "maxQuality": 610,
     "name": {
       "de": "Riviera-Säule",
       "en": "Riviera Pillar",
@@ -6616,7 +6616,7 @@
     "difficulty": 137,
     "durability": 80,
     "level": 39,
-    "maxQuality": 1340,
+    "maxQuality": 670,
     "name": {
       "de": "Oasen-Säule",
       "en": "Oasis Pillar",
@@ -6635,7 +6635,7 @@
     "difficulty": 74,
     "durability": 70,
     "level": 20,
-    "maxQuality": 510,
+    "maxQuality": 255,
     "name": {
       "de": "Oasen-Raumteiler",
       "en": "Oasis Partition",
@@ -6654,7 +6654,7 @@
     "difficulty": 144,
     "durability": 80,
     "level": 42,
-    "maxQuality": 1520,
+    "maxQuality": 760,
     "name": {
       "de": "Sylphen-Wandschirm",
       "en": "Sylphic Screen",
@@ -6673,7 +6673,7 @@
     "difficulty": 91,
     "durability": 70,
     "level": 27,
-    "maxQuality": 720,
+    "maxQuality": 360,
     "name": {
       "de": "Herrenhaus-Kandelaber",
       "en": "Manor Candelabra",
@@ -6692,7 +6692,7 @@
     "difficulty": 180,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 1000,
     "name": {
       "de": "Mandragora-Stehlampe",
       "en": "Mandragora Floor Lamp",
@@ -6711,7 +6711,7 @@
     "difficulty": 250,
     "durability": 80,
     "level": 70,
-    "maxQuality": 2500,
+    "maxQuality": 1250,
     "name": {
       "de": "Sabotender-Stehlampe",
       "en": "Amigo Cactus Floor Lamp",
@@ -6730,7 +6730,7 @@
     "difficulty": 180,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 1000,
     "name": {
       "de": "Riviera-Badebecken",
       "en": "Riviera Bathtub",
@@ -6749,7 +6749,7 @@
     "difficulty": 180,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 1000,
     "name": {
       "de": "Oasen-Badebecken",
       "en": "Oasis Bathtub",
@@ -6768,7 +6768,7 @@
     "difficulty": 174,
     "durability": 80,
     "level": 49,
-    "maxQuality": 1940,
+    "maxQuality": 970,
     "name": {
       "de": "Astroskop",
       "en": "Astroscope",
@@ -6787,7 +6787,7 @@
     "difficulty": 210,
     "durability": 80,
     "level": 55,
-    "maxQuality": 2200,
+    "maxQuality": 1100,
     "name": {
       "de": "Vodoriga-Skulptur",
       "en": "Vodoriga Sculpture",
@@ -6806,7 +6806,7 @@
     "difficulty": 250,
     "durability": 80,
     "level": 70,
-    "maxQuality": 2500,
+    "maxQuality": 1250,
     "name": {
       "de": "Gargoyle-Skulptur",
       "en": "Gargoyle Sculpture",
@@ -6825,7 +6825,7 @@
     "difficulty": 172,
     "durability": 80,
     "level": 48,
-    "maxQuality": 1880,
+    "maxQuality": 940,
     "name": {
       "de": "„Llymlaens Umarmung“",
       "en": "Llymlaen's Embrace",
@@ -6844,7 +6844,7 @@
     "difficulty": 144,
     "durability": 80,
     "level": 42,
-    "maxQuality": 1520,
+    "maxQuality": 760,
     "name": {
       "de": "Sylphen-Tisch",
       "en": "Sylphic Table",
@@ -6863,7 +6863,7 @@
     "difficulty": 156,
     "durability": 80,
     "level": 44,
-    "maxQuality": 1640,
+    "maxQuality": 820,
     "name": {
       "de": "Sylphen-Esstisch",
       "en": "Sylphic Dining Table",
@@ -6882,7 +6882,7 @@
     "difficulty": 156,
     "durability": 80,
     "level": 44,
-    "maxQuality": 1640,
+    "maxQuality": 820,
     "name": {
       "de": "Sylphen-Empfangstisch",
       "en": "Sylphic Counter",
@@ -6901,7 +6901,7 @@
     "difficulty": 55,
     "durability": 70,
     "level": 15,
-    "maxQuality": 360,
+    "maxQuality": 180,
     "name": {
       "de": "Messing-Kerzenständer",
       "en": "Brass Pricket",
@@ -6920,7 +6920,7 @@
     "difficulty": 85,
     "durability": 70,
     "level": 24,
-    "maxQuality": 630,
+    "maxQuality": 315,
     "name": {
       "de": "Oasen-Tischlampe",
       "en": "Oasis Lantern",
@@ -6939,7 +6939,7 @@
     "difficulty": 123,
     "durability": 80,
     "level": 35,
-    "maxQuality": 1110,
+    "maxQuality": 555,
     "name": {
       "de": "Ahriman-Blumenvase",
       "en": "Ahriman Flower Vase",
@@ -6958,7 +6958,7 @@
     "difficulty": 159,
     "durability": 80,
     "level": 46,
-    "maxQuality": 1760,
+    "maxQuality": 880,
     "name": {
       "de": "Tisch-Chronometer",
       "en": "Table Chronometer",
@@ -6977,7 +6977,7 @@
     "difficulty": 123,
     "durability": 80,
     "level": 35,
-    "maxQuality": 1110,
+    "maxQuality": 555,
     "name": {
       "de": "Ahriman-Chronometer",
       "en": "Ahriman Chronometer",
@@ -6996,7 +6996,7 @@
     "difficulty": 91,
     "durability": 70,
     "level": 27,
-    "maxQuality": 720,
+    "maxQuality": 360,
     "name": {
       "de": "Waage",
       "en": "Weighing Scale",
@@ -7015,7 +7015,7 @@
     "difficulty": 144,
     "durability": 80,
     "level": 42,
-    "maxQuality": 1520,
+    "maxQuality": 760,
     "name": {
       "de": "Edelsteinlupe",
       "en": "Gemscope",
@@ -7034,7 +7034,7 @@
     "difficulty": 250,
     "durability": 80,
     "level": 70,
-    "maxQuality": 2500,
+    "maxQuality": 1250,
     "name": {
       "de": "Dämonenwand-Skulptur",
       "en": "Demon Wall Sculpture",
@@ -7053,7 +7053,7 @@
     "difficulty": 210,
     "durability": 80,
     "level": 55,
-    "maxQuality": 2200,
+    "maxQuality": 1100,
     "name": {
       "de": "Inferno-Wandlampe",
       "en": "Inferno Wall Lamp",
@@ -7072,7 +7072,7 @@
     "difficulty": 250,
     "durability": 80,
     "level": 70,
-    "maxQuality": 2500,
+    "maxQuality": 1250,
     "name": {
       "de": "Lodernde Inferno-Wandlampe",
       "en": "Blazing Inferno Wall Lamp",
@@ -7091,7 +7091,7 @@
     "difficulty": 155,
     "durability": 80,
     "level": 43,
-    "maxQuality": 1580,
+    "maxQuality": 790,
     "name": {
       "de": "Sylphen-Wandlaterne",
       "en": "Sylphic Wall Lantern",
@@ -7110,7 +7110,7 @@
     "difficulty": 180,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 1000,
     "name": {
       "de": "Amdapor-Wandlampe",
       "en": "Amdapori Wall Lantern",
@@ -7129,7 +7129,7 @@
     "difficulty": 172,
     "durability": 80,
     "level": 48,
-    "maxQuality": 1880,
+    "maxQuality": 940,
     "name": {
       "de": "Wand-Chronometer",
       "en": "Wall Chronometer",
@@ -7167,7 +7167,7 @@
     "difficulty": 420,
     "durability": 80,
     "level": 90,
-    "maxQuality": 2750,
+    "maxQuality": 1375,
     "name": {
       "de": "Plattner-Ofen",
       "en": "Armorcraft Forge",
@@ -7186,7 +7186,7 @@
     "difficulty": 159,
     "durability": 80,
     "level": 46,
-    "maxQuality": 1760,
+    "maxQuality": 880,
     "name": {
       "de": "Riviera-Chronometer",
       "en": "Riviera Table Chronometer",
@@ -7205,7 +7205,7 @@
     "difficulty": 172,
     "durability": 80,
     "level": 48,
-    "maxQuality": 1880,
+    "maxQuality": 940,
     "name": {
       "de": "Wald-Chronometer",
       "en": "Glade Wall Chronometer",
@@ -7224,7 +7224,7 @@
     "difficulty": 137,
     "durability": 80,
     "level": 39,
-    "maxQuality": 1340,
+    "maxQuality": 670,
     "name": {
       "de": "Ahriman-Vase",
       "en": "Ahriman Vase",
@@ -7243,7 +7243,7 @@
     "difficulty": 420,
     "durability": 80,
     "level": 90,
-    "maxQuality": 2750,
+    "maxQuality": 1375,
     "name": {
       "de": "Karfunkel-Chronometer",
       "en": "Carbuncle Chronometer",
@@ -7262,7 +7262,7 @@
     "difficulty": 420,
     "durability": 80,
     "level": 90,
-    "maxQuality": 2750,
+    "maxQuality": 1375,
     "name": {
       "de": "Karfunkel-Tischlampe",
       "en": "Carbuncle Lantern",
@@ -7281,7 +7281,7 @@
     "difficulty": 420,
     "durability": 80,
     "level": 90,
-    "maxQuality": 2750,
+    "maxQuality": 1375,
     "name": {
       "de": "Mogul Mog-Briefkasten",
       "en": "Regal Letter Box",
@@ -7300,7 +7300,7 @@
     "difficulty": 180,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 1000,
     "name": {
       "de": "Azurblaue Fliesenwand",
       "en": "Tiled Interior Wall",
@@ -7319,7 +7319,7 @@
     "difficulty": 180,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 1000,
     "name": {
       "de": "Azurblauer Fliesenboden",
       "en": "Tiled Flooring",
@@ -7376,7 +7376,7 @@
     "difficulty": 420,
     "durability": 80,
     "level": 90,
-    "maxQuality": 2750,
+    "maxQuality": 1375,
     "name": {
       "de": "Kaiserthron",
       "en": "Emperor's Throne",
@@ -7395,7 +7395,7 @@
     "difficulty": 420,
     "durability": 80,
     "level": 90,
-    "maxQuality": 2750,
+    "maxQuality": 1375,
     "name": {
       "de": "Gartenteich",
       "en": "Garden Pond",
@@ -7414,7 +7414,7 @@
     "difficulty": 111,
     "durability": 80,
     "level": 33,
-    "maxQuality": 1000,
+    "maxQuality": 500,
     "name": {
       "de": "Gerader Trittstein",
       "en": "Straight Stepping Stones",
@@ -7433,7 +7433,7 @@
     "difficulty": 111,
     "durability": 80,
     "level": 33,
-    "maxQuality": 1000,
+    "maxQuality": 500,
     "name": {
       "de": "Gebogener Trittstein",
       "en": "Curved Stepping Stones",
@@ -7452,7 +7452,7 @@
     "difficulty": 210,
     "durability": 80,
     "level": 55,
-    "maxQuality": 2200,
+    "maxQuality": 1100,
     "name": {
       "de": "Oasen-Mauer",
       "en": "Oasis Fence",
@@ -7471,7 +7471,7 @@
     "difficulty": 115,
     "durability": 80,
     "level": 34,
-    "maxQuality": 1050,
+    "maxQuality": 525,
     "name": {
       "de": "Mosaik-Innenwand",
       "en": "Mosaic Interior Wall",
@@ -7490,7 +7490,7 @@
     "difficulty": 250,
     "durability": 80,
     "level": 70,
-    "maxQuality": 2500,
+    "maxQuality": 1250,
     "name": {
       "de": "Marmorboden",
       "en": "Marble Flooring",
@@ -7509,7 +7509,7 @@
     "difficulty": 89,
     "durability": 70,
     "level": 25,
-    "maxQuality": 660,
+    "maxQuality": 330,
     "name": {
       "de": "Kachelboden",
       "en": "Ceramic Tile Flooring",
@@ -7604,7 +7604,7 @@
     "difficulty": 110,
     "durability": 80,
     "level": 32,
-    "maxQuality": 950,
+    "maxQuality": 475,
     "name": {
       "de": "Steinofen",
       "en": "Masonwork Stove",
@@ -7623,7 +7623,7 @@
     "difficulty": 250,
     "durability": 80,
     "level": 70,
-    "maxQuality": 2500,
+    "maxQuality": 1250,
     "name": {
       "de": "Megalodon-Kiefer",
       "en": "Megalodon Jaws",
@@ -7642,7 +7642,7 @@
     "difficulty": 106,
     "durability": 80,
     "level": 31,
-    "maxQuality": 900,
+    "maxQuality": 450,
     "name": {
       "de": "Steinerne Wand",
       "en": "Masonwork Interior Wall",
@@ -7661,7 +7661,7 @@
     "difficulty": 106,
     "durability": 80,
     "level": 31,
-    "maxQuality": 900,
+    "maxQuality": 450,
     "name": {
       "de": "Steinerner Boden",
       "en": "Masonwork Flooring",
@@ -7680,7 +7680,7 @@
     "difficulty": 180,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 1000,
     "name": {
       "de": "Karoboden",
       "en": "Checkered Flooring",
@@ -7699,7 +7699,7 @@
     "difficulty": 420,
     "durability": 80,
     "level": 90,
-    "maxQuality": 2750,
+    "maxQuality": 1375,
     "name": {
       "de": "Eisleuchter",
       "en": "Ice Chandelier",
@@ -7718,7 +7718,7 @@
     "difficulty": 480,
     "durability": 80,
     "level": 110,
-    "maxQuality": 2900,
+    "maxQuality": 1450,
     "name": {
       "de": "Diamantleuchter",
       "en": "Diamond Chandelier",
@@ -7794,7 +7794,7 @@
     "difficulty": 480,
     "durability": 80,
     "level": 110,
-    "maxQuality": 2900,
+    "maxQuality": 1450,
     "name": {
       "de": "Syrcus-Turm",
       "en": "Syrcus Tower",
@@ -7813,7 +7813,7 @@
     "difficulty": 210,
     "durability": 80,
     "level": 55,
-    "maxQuality": 2200,
+    "maxQuality": 1100,
     "name": {
       "de": "Persönliches Astroskop",
       "en": "Personal Astroscope",
@@ -7832,7 +7832,7 @@
     "difficulty": 250,
     "durability": 80,
     "level": 70,
-    "maxQuality": 2500,
+    "maxQuality": 1250,
     "name": {
       "de": "Schwarz-weißer Fußboden",
       "en": "Monochrome Flooring",
@@ -7851,7 +7851,7 @@
     "difficulty": 138,
     "durability": 80,
     "level": 40,
-    "maxQuality": 1400,
+    "maxQuality": 700,
     "name": {
       "de": "Oasen-Steinfußboden",
       "en": "Oasis Cobble Flooring",
@@ -7870,7 +7870,7 @@
     "difficulty": 210,
     "durability": 80,
     "level": 55,
-    "maxQuality": 2200,
+    "maxQuality": 1100,
     "name": {
       "de": "Sternen-Kronleuchter",
       "en": "Star Chandelier",
@@ -7889,7 +7889,7 @@
     "difficulty": 300,
     "durability": 80,
     "level": 130,
-    "maxQuality": 2210,
+    "maxQuality": 1105,
     "name": {
       "de": "Buntkristall-Wand­verklei­dung",
       "en": "Stained Crystal Interior Wall",
@@ -10147,10 +10147,10 @@
   },
   {
     "baseLevel": 51,
-    "difficulty": 220,
-    "durability": 80,
+    "difficulty": 110,
+    "durability": 40,
     "level": 115,
-    "maxQuality": 2070,
+    "maxQuality": 1656,
     "name": {
       "de": "Mythrit-Nugget",
       "en": "Mythrite Nugget",
@@ -10166,10 +10166,10 @@
   },
   {
     "baseLevel": 52,
-    "difficulty": 260,
-    "durability": 80,
+    "difficulty": 130,
+    "durability": 40,
     "level": 125,
-    "maxQuality": 2140,
+    "maxQuality": 1712,
     "name": {
       "de": "Mythrit-Barren",
       "en": "Mythrite Ingot",
@@ -10185,10 +10185,10 @@
   },
   {
     "baseLevel": 54,
-    "difficulty": 340,
-    "durability": 80,
+    "difficulty": 170,
+    "durability": 40,
     "level": 133,
-    "maxQuality": 2280,
+    "maxQuality": 1824,
     "name": {
       "de": "Hartsilber-Nugget",
       "en": "Hardsilver Nugget",
@@ -10204,10 +10204,10 @@
   },
   {
     "baseLevel": 56,
-    "difficulty": 420,
-    "durability": 70,
+    "difficulty": 210,
+    "durability": 35,
     "level": 139,
-    "maxQuality": 2420,
+    "maxQuality": 1936,
     "name": {
       "de": "Hartsilber-Barren",
       "en": "Hardsilver Ingot",
@@ -10223,10 +10223,10 @@
   },
   {
     "baseLevel": 58,
-    "difficulty": 500,
-    "durability": 70,
+    "difficulty": 250,
+    "durability": 35,
     "level": 145,
-    "maxQuality": 2560,
+    "maxQuality": 2048,
     "name": {
       "de": "Königsgold-Nugget",
       "en": "Aurum Regis Nugget",
@@ -10242,10 +10242,10 @@
   },
   {
     "baseLevel": 53,
-    "difficulty": 300,
-    "durability": 80,
+    "difficulty": 150,
+    "durability": 40,
     "level": 130,
-    "maxQuality": 2210,
+    "maxQuality": 1768,
     "name": {
       "de": "Larimar",
       "en": "Larimar",
@@ -10261,10 +10261,10 @@
   },
   {
     "baseLevel": 51,
-    "difficulty": 220,
-    "durability": 80,
+    "difficulty": 110,
+    "durability": 40,
     "level": 115,
-    "maxQuality": 2070,
+    "maxQuality": 1656,
     "name": {
       "de": "Tigerauge",
       "en": "Tiger's Eye",
@@ -10280,10 +10280,10 @@
   },
   {
     "baseLevel": 51,
-    "difficulty": 220,
-    "durability": 80,
+    "difficulty": 110,
+    "durability": 40,
     "level": 115,
-    "maxQuality": 2070,
+    "maxQuality": 1656,
     "name": {
       "de": "Achat",
       "en": "Agate",
@@ -10299,10 +10299,10 @@
   },
   {
     "baseLevel": 55,
-    "difficulty": 380,
-    "durability": 70,
+    "difficulty": 190,
+    "durability": 35,
     "level": 136,
-    "maxQuality": 2350,
+    "maxQuality": 1880,
     "name": {
       "de": "Sternenrubin",
       "en": "Star Ruby",
@@ -10318,10 +10318,10 @@
   },
   {
     "baseLevel": 55,
-    "difficulty": 380,
-    "durability": 70,
+    "difficulty": 190,
+    "durability": 35,
     "level": 136,
-    "maxQuality": 2350,
+    "maxQuality": 1880,
     "name": {
       "de": "Sternensaphir",
       "en": "Star Sapphire",
@@ -10337,10 +10337,10 @@
   },
   {
     "baseLevel": 56,
-    "difficulty": 420,
-    "durability": 70,
+    "difficulty": 210,
+    "durability": 35,
     "level": 139,
-    "maxQuality": 2420,
+    "maxQuality": 1936,
     "name": {
       "de": "Opal",
       "en": "Opal",
@@ -10356,10 +10356,10 @@
   },
   {
     "baseLevel": 59,
-    "difficulty": 540,
-    "durability": 70,
+    "difficulty": 270,
+    "durability": 35,
     "level": 148,
-    "maxQuality": 2630,
+    "maxQuality": 2104,
     "name": {
       "de": "Citrin",
       "en": "Citrine",
@@ -10375,10 +10375,10 @@
   },
   {
     "baseLevel": 60,
-    "difficulty": 580,
-    "durability": 70,
+    "difficulty": 290,
+    "durability": 35,
     "level": 150,
-    "maxQuality": 2700,
+    "maxQuality": 2160,
     "name": {
       "de": "Chrysolith",
       "en": "Chrysolite",
@@ -10394,10 +10394,10 @@
   },
   {
     "baseLevel": 54,
-    "difficulty": 340,
-    "durability": 80,
+    "difficulty": 170,
+    "durability": 40,
     "level": 133,
-    "maxQuality": 2280,
+    "maxQuality": 1824,
     "name": {
       "de": "Morion",
       "en": "Mormorion",
@@ -10413,10 +10413,10 @@
   },
   {
     "baseLevel": 57,
-    "difficulty": 460,
-    "durability": 70,
+    "difficulty": 230,
+    "durability": 35,
     "level": 142,
-    "maxQuality": 2490,
+    "maxQuality": 1992,
     "name": {
       "de": "Karneol",
       "en": "Carnelian",
@@ -10432,10 +10432,10 @@
   },
   {
     "baseLevel": 56,
-    "difficulty": 420,
-    "durability": 70,
+    "difficulty": 210,
+    "durability": 35,
     "level": 139,
-    "maxQuality": 2420,
+    "maxQuality": 1936,
     "name": {
       "de": "Wolkenglimmer-Wetzstein",
       "en": "Cloud Mica Whetstone",
@@ -10549,7 +10549,7 @@
     "difficulty": 420,
     "durability": 70,
     "level": 139,
-    "maxQuality": 2420,
+    "maxQuality": 1210,
     "name": {
       "de": "Ishgarder Fußboden",
       "en": "Alpine Flooring",
@@ -10568,7 +10568,7 @@
     "difficulty": 420,
     "durability": 70,
     "level": 139,
-    "maxQuality": 2420,
+    "maxQuality": 1210,
     "name": {
       "de": "Ishgarder Innenwand",
       "en": "Alpine Inner Wall",
@@ -10587,7 +10587,7 @@
     "difficulty": 250,
     "durability": 80,
     "level": 70,
-    "maxQuality": 2500,
+    "maxQuality": 1250,
     "name": {
       "de": "Sharlayan-Holzboden",
       "en": "Sharlayan Flooring",
@@ -10606,7 +10606,7 @@
     "difficulty": 210,
     "durability": 80,
     "level": 55,
-    "maxQuality": 2200,
+    "maxQuality": 1100,
     "name": {
       "de": "Efeu-Säule",
       "en": "Ivy Pillar",
@@ -10625,7 +10625,7 @@
     "difficulty": 250,
     "durability": 80,
     "level": 70,
-    "maxQuality": 2500,
+    "maxQuality": 1250,
     "name": {
       "de": "Blumentopf-Deckenleuchte",
       "en": "Pendant Lamp Planter",
@@ -13437,7 +13437,7 @@
     "difficulty": 101,
     "durability": 70,
     "level": 29,
-    "maxQuality": 800,
+    "maxQuality": 400,
     "name": {
       "de": "Wandblumenvase",
       "en": "Mounted Flower Vase",
@@ -13453,10 +13453,10 @@
   },
   {
     "baseLevel": 61,
-    "difficulty": 630,
-    "durability": 80,
+    "difficulty": 315,
+    "durability": 40,
     "level": 255,
-    "maxQuality": 2790,
+    "maxQuality": 2232,
     "name": {
       "de": "Kupfernickel-Nugget",
       "en": "Koppranickel Nugget",
@@ -13472,10 +13472,10 @@
   },
   {
     "baseLevel": 62,
-    "difficulty": 680,
-    "durability": 80,
+    "difficulty": 340,
+    "durability": 40,
     "level": 265,
-    "maxQuality": 2880,
+    "maxQuality": 2304,
     "name": {
       "de": "Kupfernickel-Barren",
       "en": "Koppranickel Ingot",
@@ -13491,10 +13491,10 @@
   },
   {
     "baseLevel": 64,
-    "difficulty": 780,
-    "durability": 80,
+    "difficulty": 390,
+    "durability": 40,
     "level": 273,
-    "maxQuality": 3060,
+    "maxQuality": 2448,
     "name": {
       "de": "Durium-Nugget",
       "en": "Durium Nugget",
@@ -13510,10 +13510,10 @@
   },
   {
     "baseLevel": 66,
-    "difficulty": 880,
-    "durability": 80,
+    "difficulty": 440,
+    "durability": 40,
     "level": 279,
-    "maxQuality": 3240,
+    "maxQuality": 2592,
     "name": {
       "de": "Durium-Barren",
       "en": "Durium Ingot",
@@ -13529,10 +13529,10 @@
   },
   {
     "baseLevel": 68,
-    "difficulty": 980,
-    "durability": 80,
+    "difficulty": 490,
+    "durability": 40,
     "level": 285,
-    "maxQuality": 3420,
+    "maxQuality": 2736,
     "name": {
       "de": "Palladium-Nugget",
       "en": "Palladium Nugget",
@@ -13548,10 +13548,10 @@
   },
   {
     "baseLevel": 61,
-    "difficulty": 630,
-    "durability": 80,
+    "difficulty": 315,
+    "durability": 40,
     "level": 255,
-    "maxQuality": 2790,
+    "maxQuality": 2232,
     "name": {
       "de": "Triphan",
       "en": "Triphane",
@@ -13567,10 +13567,10 @@
   },
   {
     "baseLevel": 62,
-    "difficulty": 680,
-    "durability": 80,
+    "difficulty": 340,
+    "durability": 40,
     "level": 265,
-    "maxQuality": 2880,
+    "maxQuality": 2304,
     "name": {
       "de": "Kyanit",
       "en": "Kyanite",
@@ -13586,10 +13586,10 @@
   },
   {
     "baseLevel": 64,
-    "difficulty": 780,
-    "durability": 80,
+    "difficulty": 390,
+    "durability": 40,
     "level": 273,
-    "maxQuality": 3060,
+    "maxQuality": 2448,
     "name": {
       "de": "Sternspinell",
       "en": "Star Spinel",
@@ -13605,10 +13605,10 @@
   },
   {
     "baseLevel": 66,
-    "difficulty": 880,
-    "durability": 80,
+    "difficulty": 440,
+    "durability": 40,
     "level": 279,
-    "maxQuality": 3240,
+    "maxQuality": 2592,
     "name": {
       "de": "Azurit",
       "en": "Azurite",
@@ -13624,10 +13624,10 @@
   },
   {
     "baseLevel": 68,
-    "difficulty": 980,
-    "durability": 80,
+    "difficulty": 490,
+    "durability": 40,
     "level": 285,
-    "maxQuality": 3420,
+    "maxQuality": 2736,
     "name": {
       "de": "Kaiserjade",
       "en": "Imperial Jade",
@@ -13643,10 +13643,10 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 1080,
-    "durability": 80,
+    "difficulty": 540,
+    "durability": 40,
     "level": 290,
-    "maxQuality": 3600,
+    "maxQuality": 2880,
     "name": {
       "de": "Rhodonit",
       "en": "Rhodonite",
@@ -13662,10 +13662,10 @@
   },
   {
     "baseLevel": 61,
-    "difficulty": 630,
-    "durability": 80,
+    "difficulty": 315,
+    "durability": 40,
     "level": 255,
-    "maxQuality": 2790,
+    "maxQuality": 2232,
     "name": {
       "de": "Schiefer-Wetzstein",
       "en": "Slate Whetstone",
@@ -13779,7 +13779,7 @@
     "difficulty": 630,
     "durability": 80,
     "level": 255,
-    "maxQuality": 2790,
+    "maxQuality": 1395,
     "name": {
       "de": "Hinganisches Nanpu-Hüttendach",
       "en": "Hingan Cottage Roof (Nanpu)",
@@ -13798,7 +13798,7 @@
     "difficulty": 780,
     "durability": 80,
     "level": 273,
-    "maxQuality": 3060,
+    "maxQuality": 1530,
     "name": {
       "de": "Hinganisches Nanpu-Hausdach",
       "en": "Hingan House Roof (Nanpu)",
@@ -13817,7 +13817,7 @@
     "difficulty": 980,
     "durability": 80,
     "level": 285,
-    "maxQuality": 3420,
+    "maxQuality": 1710,
     "name": {
       "de": "Hinganisches Nanpu-Residenzdach",
       "en": "Hingan Mansion Roof (Nanpu)",
@@ -13836,7 +13836,7 @@
     "difficulty": 730,
     "durability": 80,
     "level": 270,
-    "maxQuality": 2970,
+    "maxQuality": 1485,
     "name": {
       "de": "Hinganischer Nanpu-Wachturm",
       "en": "Hingan Watchtower (Nanpu)",
@@ -13855,7 +13855,7 @@
     "difficulty": 880,
     "durability": 80,
     "level": 279,
-    "maxQuality": 3240,
+    "maxQuality": 1620,
     "name": {
       "de": "Hinganischer Kurazukuri-Schornstein",
       "en": "Hingan Chimney (Kura-zukuri)",
@@ -13874,7 +13874,7 @@
     "difficulty": 980,
     "durability": 80,
     "level": 285,
-    "maxQuality": 3420,
+    "maxQuality": 1710,
     "name": {
       "de": "Hinganisches Mokuzo-Vordach",
       "en": "Hingan Awning (Mokuzo)",
@@ -13893,7 +13893,7 @@
     "difficulty": 630,
     "durability": 80,
     "level": 255,
-    "maxQuality": 2790,
+    "maxQuality": 1395,
     "name": {
       "de": "Hinganisches Nanpu-Vordach",
       "en": "Hingan Awning (Nanpu)",
@@ -13912,7 +13912,7 @@
     "difficulty": 630,
     "durability": 80,
     "level": 255,
-    "maxQuality": 2790,
+    "maxQuality": 1395,
     "name": {
       "de": "Hinganische Bonbori-Hängelampe",
       "en": "Hingan Hanging Bonbori Lamp",
@@ -13931,7 +13931,7 @@
     "difficulty": 460,
     "durability": 70,
     "level": 142,
-    "maxQuality": 2490,
+    "maxQuality": 1245,
     "name": {
       "de": "Fette Goldkatze",
       "en": "Fat Cat Bank",
@@ -13950,7 +13950,7 @@
     "difficulty": 102,
     "durability": 70,
     "level": 30,
-    "maxQuality": 850,
+    "maxQuality": 425,
     "name": {
       "de": "Weißer Raumtrenner",
       "en": "White Rectangular Partition",
@@ -13969,7 +13969,7 @@
     "difficulty": 380,
     "durability": 70,
     "level": 136,
-    "maxQuality": 2350,
+    "maxQuality": 1175,
     "name": {
       "de": "Algenkugellampe",
       "en": "Marimo Lamp",
@@ -13985,10 +13985,10 @@
   },
   {
     "baseLevel": 71,
-    "difficulty": 1195,
-    "durability": 80,
+    "difficulty": 597,
+    "durability": 40,
     "level": 390,
-    "maxQuality": 3763,
+    "maxQuality": 3010,
     "name": {
       "de": "Steingold-Nugget",
       "en": "Stonegold Nugget",
@@ -14004,10 +14004,10 @@
   },
   {
     "baseLevel": 72,
-    "difficulty": 1220,
-    "durability": 80,
+    "difficulty": 610,
+    "durability": 40,
     "level": 395,
-    "maxQuality": 3800,
+    "maxQuality": 3040,
     "name": {
       "de": "Steingold-Barren",
       "en": "Stonegold Ingot",
@@ -14023,10 +14023,10 @@
   },
   {
     "baseLevel": 74,
-    "difficulty": 1360,
-    "durability": 80,
+    "difficulty": 680,
+    "durability": 40,
     "level": 403,
-    "maxQuality": 4000,
+    "maxQuality": 3200,
     "name": {
       "de": "Manasilber-Nugget",
       "en": "Manasilver Nugget",
@@ -14042,10 +14042,10 @@
   },
   {
     "baseLevel": 76,
-    "difficulty": 1500,
-    "durability": 80,
+    "difficulty": 750,
+    "durability": 40,
     "level": 409,
-    "maxQuality": 4200,
+    "maxQuality": 3360,
     "name": {
       "de": "Titanbronze-Nugget",
       "en": "Titanbronze Nugget",
@@ -14061,10 +14061,10 @@
   },
   {
     "baseLevel": 78,
-    "difficulty": 1640,
-    "durability": 80,
+    "difficulty": 820,
+    "durability": 40,
     "level": 415,
-    "maxQuality": 4400,
+    "maxQuality": 3520,
     "name": {
       "de": "Edelmithril-Nugget",
       "en": "Dwarven Mythril Nugget",
@@ -14080,10 +14080,10 @@
   },
   {
     "baseLevel": 71,
-    "difficulty": 1195,
-    "durability": 80,
+    "difficulty": 597,
+    "durability": 40,
     "level": 390,
-    "maxQuality": 3763,
+    "maxQuality": 3010,
     "name": {
       "de": "Rauchquarz",
       "en": "Hematite",
@@ -14099,10 +14099,10 @@
   },
   {
     "baseLevel": 72,
-    "difficulty": 1220,
-    "durability": 80,
+    "difficulty": 610,
+    "durability": 40,
     "level": 395,
-    "maxQuality": 3800,
+    "maxQuality": 3040,
     "name": {
       "de": "Diaspor",
       "en": "Diaspore",
@@ -14118,10 +14118,10 @@
   },
   {
     "baseLevel": 74,
-    "difficulty": 1360,
-    "durability": 80,
+    "difficulty": 680,
+    "durability": 40,
     "level": 403,
-    "maxQuality": 4000,
+    "maxQuality": 3200,
     "name": {
       "de": "Lasurit",
       "en": "Lazurite",
@@ -14137,10 +14137,10 @@
   },
   {
     "baseLevel": 76,
-    "difficulty": 1500,
-    "durability": 80,
+    "difficulty": 750,
+    "durability": 40,
     "level": 409,
-    "maxQuality": 4200,
+    "maxQuality": 3360,
     "name": {
       "de": "Triphylin",
       "en": "Triplite",
@@ -14156,10 +14156,10 @@
   },
   {
     "baseLevel": 78,
-    "difficulty": 1640,
-    "durability": 80,
+    "difficulty": 820,
+    "durability": 40,
     "level": 415,
-    "maxQuality": 4400,
+    "maxQuality": 3520,
     "name": {
       "de": "Petalit",
       "en": "Petalite",
@@ -14175,10 +14175,10 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 1780,
-    "durability": 80,
+    "difficulty": 890,
+    "durability": 40,
     "level": 430,
-    "maxQuality": 4600,
+    "maxQuality": 3680,
     "name": {
       "de": "Onyx",
       "en": "Onyx",
@@ -14194,10 +14194,10 @@
   },
   {
     "baseLevel": 71,
-    "difficulty": 1195,
-    "durability": 80,
+    "difficulty": 597,
+    "durability": 40,
     "level": 390,
-    "maxQuality": 3763,
+    "maxQuality": 3010,
     "name": {
       "de": "Mergelwetzstein",
       "en": "Hard Mudstone Whetstone",
@@ -14213,10 +14213,10 @@
   },
   {
     "baseLevel": 76,
-    "difficulty": 1500,
-    "durability": 80,
+    "difficulty": 750,
+    "durability": 40,
     "level": 409,
-    "maxQuality": 4200,
+    "maxQuality": 3360,
     "name": {
       "de": "Tuffwetzstein",
       "en": "Tuff Whetstone",
@@ -16458,7 +16458,7 @@
     "difficulty": 1500,
     "durability": 80,
     "level": 409,
-    "maxQuality": 4200,
+    "maxQuality": 2100,
     "name": {
       "de": "Crystarium-Kronleuchter",
       "en": "Crystarium Chandelier",
@@ -16477,7 +16477,7 @@
     "difficulty": 115,
     "durability": 80,
     "level": 34,
-    "maxQuality": 1050,
+    "maxQuality": 525,
     "name": {
       "de": "Lilien-Stehlampe",
       "en": "Lily Floor Lamp",
@@ -16496,7 +16496,7 @@
     "difficulty": 115,
     "durability": 80,
     "level": 34,
-    "maxQuality": 1050,
+    "maxQuality": 525,
     "name": {
       "de": "Lilien-Wandleuchte",
       "en": "Lily Wall Lamp",
@@ -16515,7 +16515,7 @@
     "difficulty": 1780,
     "durability": 80,
     "level": 430,
-    "maxQuality": 4600,
+    "maxQuality": 2300,
     "name": {
       "de": "Automatisierte Gilkassette aus Crystarium",
       "en": "Crystarium Mechanical Till",
@@ -16534,7 +16534,7 @@
     "difficulty": 138,
     "durability": 80,
     "level": 40,
-    "maxQuality": 1400,
+    "maxQuality": 700,
     "name": {
       "de": "Verlegte Brille",
       "en": "Misplaced Eyeglasses",
@@ -16553,7 +16553,7 @@
     "difficulty": 1640,
     "durability": 80,
     "level": 415,
-    "maxQuality": 4400,
+    "maxQuality": 2200,
     "name": {
       "de": "Eulmore-Marmorboden",
       "en": "Eulmoran Marble Flooring",
@@ -16572,7 +16572,7 @@
     "difficulty": 1640,
     "durability": 80,
     "level": 415,
-    "maxQuality": 4400,
+    "maxQuality": 2200,
     "name": {
       "de": "Eulmore-Kronleuchter",
       "en": "Eulmoran Chandelier",
@@ -16591,7 +16591,7 @@
     "difficulty": 1640,
     "durability": 80,
     "level": 415,
-    "maxQuality": 4400,
+    "maxQuality": 2200,
     "name": {
       "de": "Kettenhalter",
       "en": "Necklace Display Stand",
@@ -16610,7 +16610,7 @@
     "difficulty": 1640,
     "durability": 80,
     "level": 415,
-    "maxQuality": 4400,
+    "maxQuality": 2200,
     "name": {
       "de": "Schminkspiegel",
       "en": "Vanity Mirror",
@@ -16629,7 +16629,7 @@
     "difficulty": 1640,
     "durability": 80,
     "level": 415,
-    "maxQuality": 4400,
+    "maxQuality": 2200,
     "name": {
       "de": "Schmuck-Marktstand",
       "en": "Jeweler's Stall",
@@ -16648,7 +16648,7 @@
     "difficulty": 1780,
     "durability": 80,
     "level": 430,
-    "maxQuality": 4600,
+    "maxQuality": 2300,
     "name": {
       "de": "Rustikale Steintapete",
       "en": "Rough Stone Interior Wall",
@@ -16667,7 +16667,7 @@
     "difficulty": 1780,
     "durability": 80,
     "level": 430,
-    "maxQuality": 4600,
+    "maxQuality": 2300,
     "name": {
       "de": "Rustikaler Steinboden",
       "en": "Rough Stone Flooring",
@@ -16686,7 +16686,7 @@
     "difficulty": 1780,
     "durability": 80,
     "level": 430,
-    "maxQuality": 4600,
+    "maxQuality": 2300,
     "name": {
       "de": "Marmor-Alkoven-Bett",
       "en": "Marble Alcove Bed",
@@ -16705,7 +16705,7 @@
     "difficulty": 1780,
     "durability": 80,
     "level": 430,
-    "maxQuality": 4600,
+    "maxQuality": 2300,
     "name": {
       "de": "Fernöstlicher Innenteich",
       "en": "Eastern Indoor Pond",
@@ -16724,7 +16724,7 @@
     "difficulty": 1780,
     "durability": 80,
     "level": 430,
-    "maxQuality": 4600,
+    "maxQuality": 2300,
     "name": {
       "de": "Philosophen-Rundtisch",
       "en": "Philosopher's Stone Table",
@@ -16743,7 +16743,7 @@
     "difficulty": 1780,
     "durability": 80,
     "level": 430,
-    "maxQuality": 4600,
+    "maxQuality": 2300,
     "name": {
       "de": "Goobbue-Wanduhr",
       "en": "Goobbue Wall Chronometer",
@@ -16762,7 +16762,7 @@
     "difficulty": 1780,
     "durability": 80,
     "level": 430,
-    "maxQuality": 4600,
+    "maxQuality": 2300,
     "name": {
       "de": "Dinosaurierschädel",
       "en": "Mounted Dinosaur Skull",
@@ -18792,8 +18792,8 @@
   },
   {
     "baseLevel": 81,
-    "difficulty": 2000,
-    "durability": 80,
+    "difficulty": 1000,
+    "durability": 40,
     "level": 517,
     "maxQuality": 5200,
     "name": {
@@ -18811,8 +18811,8 @@
   },
   {
     "baseLevel": 82,
-    "difficulty": 2300,
-    "durability": 80,
+    "difficulty": 1150,
+    "durability": 40,
     "level": 520,
     "maxQuality": 5700,
     "name": {
@@ -18830,8 +18830,8 @@
   },
   {
     "baseLevel": 84,
-    "difficulty": 2900,
-    "durability": 80,
+    "difficulty": 1450,
+    "durability": 40,
     "level": 530,
     "maxQuality": 6600,
     "name": {
@@ -18849,8 +18849,8 @@
   },
   {
     "baseLevel": 86,
-    "difficulty": 3100,
-    "durability": 80,
+    "difficulty": 1550,
+    "durability": 40,
     "level": 540,
     "maxQuality": 6800,
     "name": {
@@ -18868,8 +18868,8 @@
   },
   {
     "baseLevel": 88,
-    "difficulty": 3300,
-    "durability": 80,
+    "difficulty": 1650,
+    "durability": 40,
     "level": 550,
     "maxQuality": 7000,
     "name": {
@@ -18887,8 +18887,8 @@
   },
   {
     "baseLevel": 81,
-    "difficulty": 2000,
-    "durability": 80,
+    "difficulty": 1000,
+    "durability": 40,
     "level": 517,
     "maxQuality": 5200,
     "name": {
@@ -18906,8 +18906,8 @@
   },
   {
     "baseLevel": 86,
-    "difficulty": 3100,
-    "durability": 80,
+    "difficulty": 1550,
+    "durability": 40,
     "level": 540,
     "maxQuality": 6800,
     "name": {
@@ -19666,8 +19666,8 @@
   },
   {
     "baseLevel": 91,
-    "difficulty": 4000,
-    "durability": 80,
+    "difficulty": 2000,
+    "durability": 40,
     "level": 650,
     "maxQuality": 8200,
     "name": {
@@ -19685,8 +19685,8 @@
   },
   {
     "baseLevel": 92,
-    "difficulty": 4250,
-    "durability": 80,
+    "difficulty": 2125,
+    "durability": 40,
     "level": 653,
     "maxQuality": 8600,
     "name": {
@@ -19704,8 +19704,8 @@
   },
   {
     "baseLevel": 94,
-    "difficulty": 4800,
-    "durability": 80,
+    "difficulty": 2400,
+    "durability": 40,
     "level": 660,
     "maxQuality": 9400,
     "name": {
@@ -19723,8 +19723,8 @@
   },
   {
     "baseLevel": 96,
-    "difficulty": 5400,
-    "durability": 80,
+    "difficulty": 2700,
+    "durability": 40,
     "level": 670,
     "maxQuality": 10200,
     "name": {
@@ -19742,8 +19742,8 @@
   },
   {
     "baseLevel": 98,
-    "difficulty": 6000,
-    "durability": 80,
+    "difficulty": 3000,
+    "durability": 40,
     "level": 680,
     "maxQuality": 11000,
     "name": {
@@ -22269,7 +22269,7 @@
   },
   {
     "baseLevel": 30,
-    "difficulty": 102,
+    "difficulty": 51,
     "durability": 70,
     "level": 30,
     "maxQuality": 850,
@@ -22288,7 +22288,7 @@
   },
   {
     "baseLevel": 30,
-    "difficulty": 102,
+    "difficulty": 51,
     "durability": 70,
     "level": 30,
     "maxQuality": 850,
@@ -22307,7 +22307,7 @@
   },
   {
     "baseLevel": 30,
-    "difficulty": 102,
+    "difficulty": 51,
     "durability": 70,
     "level": 30,
     "maxQuality": 850,
@@ -22326,7 +22326,7 @@
   },
   {
     "baseLevel": 30,
-    "difficulty": 102,
+    "difficulty": 51,
     "durability": 70,
     "level": 30,
     "maxQuality": 850,
@@ -22345,7 +22345,7 @@
   },
   {
     "baseLevel": 30,
-    "difficulty": 102,
+    "difficulty": 51,
     "durability": 70,
     "level": 30,
     "maxQuality": 850,
@@ -22364,7 +22364,7 @@
   },
   {
     "baseLevel": 30,
-    "difficulty": 102,
+    "difficulty": 51,
     "durability": 70,
     "level": 30,
     "maxQuality": 850,
@@ -22383,7 +22383,7 @@
   },
   {
     "baseLevel": 30,
-    "difficulty": 102,
+    "difficulty": 51,
     "durability": 70,
     "level": 30,
     "maxQuality": 850,
@@ -22402,7 +22402,7 @@
   },
   {
     "baseLevel": 30,
-    "difficulty": 102,
+    "difficulty": 51,
     "durability": 70,
     "level": 30,
     "maxQuality": 850,
@@ -22421,7 +22421,7 @@
   },
   {
     "baseLevel": 30,
-    "difficulty": 102,
+    "difficulty": 51,
     "durability": 70,
     "level": 30,
     "maxQuality": 850,
@@ -22440,7 +22440,7 @@
   },
   {
     "baseLevel": 30,
-    "difficulty": 102,
+    "difficulty": 51,
     "durability": 70,
     "level": 30,
     "maxQuality": 850,
@@ -22459,7 +22459,7 @@
   },
   {
     "baseLevel": 30,
-    "difficulty": 102,
+    "difficulty": 51,
     "durability": 70,
     "level": 30,
     "maxQuality": 850,
@@ -22478,7 +22478,7 @@
   },
   {
     "baseLevel": 30,
-    "difficulty": 102,
+    "difficulty": 51,
     "durability": 70,
     "level": 30,
     "maxQuality": 850,
@@ -22497,7 +22497,7 @@
   },
   {
     "baseLevel": 30,
-    "difficulty": 102,
+    "difficulty": 51,
     "durability": 70,
     "level": 30,
     "maxQuality": 850,
@@ -22516,7 +22516,7 @@
   },
   {
     "baseLevel": 30,
-    "difficulty": 102,
+    "difficulty": 51,
     "durability": 70,
     "level": 30,
     "maxQuality": 850,
@@ -22535,7 +22535,7 @@
   },
   {
     "baseLevel": 30,
-    "difficulty": 102,
+    "difficulty": 51,
     "durability": 70,
     "level": 30,
     "maxQuality": 850,
@@ -22554,7 +22554,7 @@
   },
   {
     "baseLevel": 30,
-    "difficulty": 102,
+    "difficulty": 51,
     "durability": 70,
     "level": 30,
     "maxQuality": 850,
@@ -22573,7 +22573,7 @@
   },
   {
     "baseLevel": 30,
-    "difficulty": 102,
+    "difficulty": 51,
     "durability": 70,
     "level": 30,
     "maxQuality": 850,
@@ -22592,7 +22592,7 @@
   },
   {
     "baseLevel": 30,
-    "difficulty": 102,
+    "difficulty": 51,
     "durability": 70,
     "level": 30,
     "maxQuality": 850,
@@ -22611,7 +22611,7 @@
   },
   {
     "baseLevel": 30,
-    "difficulty": 102,
+    "difficulty": 51,
     "durability": 70,
     "level": 30,
     "maxQuality": 850,
@@ -22706,7 +22706,7 @@
   },
   {
     "baseLevel": 15,
-    "difficulty": 55,
+    "difficulty": 27,
     "durability": 70,
     "level": 15,
     "maxQuality": 360,
@@ -22725,7 +22725,7 @@
   },
   {
     "baseLevel": 30,
-    "difficulty": 102,
+    "difficulty": 51,
     "durability": 70,
     "level": 30,
     "maxQuality": 850,
@@ -22744,7 +22744,7 @@
   },
   {
     "baseLevel": 30,
-    "difficulty": 102,
+    "difficulty": 51,
     "durability": 70,
     "level": 30,
     "maxQuality": 850,
@@ -22763,7 +22763,7 @@
   },
   {
     "baseLevel": 30,
-    "difficulty": 102,
+    "difficulty": 51,
     "durability": 70,
     "level": 30,
     "maxQuality": 850,
@@ -22782,7 +22782,7 @@
   },
   {
     "baseLevel": 30,
-    "difficulty": 102,
+    "difficulty": 51,
     "durability": 70,
     "level": 30,
     "maxQuality": 850,
@@ -22801,7 +22801,7 @@
   },
   {
     "baseLevel": 30,
-    "difficulty": 102,
+    "difficulty": 51,
     "durability": 70,
     "level": 30,
     "maxQuality": 850,
@@ -22820,7 +22820,7 @@
   },
   {
     "baseLevel": 30,
-    "difficulty": 102,
+    "difficulty": 51,
     "durability": 70,
     "level": 30,
     "maxQuality": 850,
@@ -23542,10 +23542,10 @@
   },
   {
     "baseLevel": 1,
-    "difficulty": 19,
+    "difficulty": 28,
     "durability": 60,
     "level": 1,
-    "maxQuality": 100,
+    "maxQuality": 75,
     "name": {
       "de": "Hüllenverstärkungs-Bauteil",
       "en": "Bladder Lining Component",
@@ -23580,8 +23580,8 @@
   },
   {
     "baseLevel": 1,
-    "difficulty": 19,
-    "durability": 60,
+    "difficulty": 9,
+    "durability": 40,
     "level": 1,
     "maxQuality": 100,
     "name": {
@@ -23618,10 +23618,10 @@
   },
   {
     "baseLevel": 3,
-    "difficulty": 20,
+    "difficulty": 36,
     "durability": 60,
     "level": 3,
-    "maxQuality": 120,
+    "maxQuality": 60,
     "name": {
       "de": "Takelagen-Bauteil",
       "en": "Rigging Component",
@@ -23637,10 +23637,10 @@
   },
   {
     "baseLevel": 3,
-    "difficulty": 20,
+    "difficulty": 30,
     "durability": 60,
     "level": 3,
-    "maxQuality": 120,
+    "maxQuality": 90,
     "name": {
       "de": "Deck-Bauteil",
       "en": "Deck Component",
@@ -23656,8 +23656,8 @@
   },
   {
     "baseLevel": 3,
-    "difficulty": 20,
-    "durability": 60,
+    "difficulty": 10,
+    "durability": 40,
     "level": 3,
     "maxQuality": 120,
     "name": {
@@ -23675,10 +23675,10 @@
   },
   {
     "baseLevel": 3,
-    "difficulty": 20,
+    "difficulty": 30,
     "durability": 60,
     "level": 3,
-    "maxQuality": 120,
+    "maxQuality": 90,
     "name": {
       "de": "Werkzeug-Bauteil",
       "en": "Crafting Tool Component",
@@ -23789,8 +23789,8 @@
   },
   {
     "baseLevel": 10,
-    "difficulty": 45,
-    "durability": 60,
+    "difficulty": 22,
+    "durability": 40,
     "level": 10,
     "maxQuality": 250,
     "name": {
@@ -23808,8 +23808,8 @@
   },
   {
     "baseLevel": 10,
-    "difficulty": 45,
-    "durability": 60,
+    "difficulty": 22,
+    "durability": 40,
     "level": 10,
     "maxQuality": 250,
     "name": {
@@ -23827,10 +23827,10 @@
   },
   {
     "baseLevel": 10,
-    "difficulty": 45,
+    "difficulty": 67,
     "durability": 60,
     "level": 10,
-    "maxQuality": 250,
+    "maxQuality": 187,
     "name": {
       "de": "Steuerbord-Tragflächengelenk-Bauteil",
       "en": "Starboard Wing Control Component",
@@ -23846,10 +23846,10 @@
   },
   {
     "baseLevel": 10,
-    "difficulty": 45,
+    "difficulty": 67,
     "durability": 60,
     "level": 10,
-    "maxQuality": 250,
+    "maxQuality": 187,
     "name": {
       "de": "Backbord-Tragflächengelenk-Bauteil",
       "en": "Larboard Wing Control Component",
@@ -23903,10 +23903,10 @@
   },
   {
     "baseLevel": 15,
-    "difficulty": 55,
+    "difficulty": 82,
     "durability": 70,
     "level": 15,
-    "maxQuality": 360,
+    "maxQuality": 270,
     "name": {
       "de": "Kommunikationsrohr-Bauteil",
       "en": "Speaking Tube Component",
@@ -23922,8 +23922,8 @@
   },
   {
     "baseLevel": 15,
-    "difficulty": 55,
-    "durability": 70,
+    "difficulty": 27,
+    "durability": 40,
     "level": 15,
     "maxQuality": 360,
     "name": {
@@ -23960,10 +23960,10 @@
   },
   {
     "baseLevel": 15,
-    "difficulty": 55,
+    "difficulty": 176,
     "durability": 70,
     "level": 15,
-    "maxQuality": 360,
+    "maxQuality": 180,
     "name": {
       "de": "Entsorgungssystem-Bauteil",
       "en": "Disposal Unit Component",
@@ -23979,10 +23979,10 @@
   },
   {
     "baseLevel": 15,
-    "difficulty": 55,
+    "difficulty": 176,
     "durability": 70,
     "level": 15,
-    "maxQuality": 360,
+    "maxQuality": 180,
     "name": {
       "de": "Erdseim-Tank-Bauteil",
       "en": "Ceruleum Tank Component",
@@ -23998,10 +23998,10 @@
   },
   {
     "baseLevel": 15,
-    "difficulty": 55,
+    "difficulty": 82,
     "durability": 70,
     "level": 15,
-    "maxQuality": 360,
+    "maxQuality": 270,
     "name": {
       "de": "Steuermechanismus-Bauteil",
       "en": "Steering Mechanism Component",
@@ -24036,10 +24036,10 @@
   },
   {
     "baseLevel": 16,
-    "difficulty": 63,
+    "difficulty": 201,
     "durability": 70,
     "level": 16,
-    "maxQuality": 390,
+    "maxQuality": 195,
     "name": {
       "de": "Reservetank-Bauteil",
       "en": "Spare Tank Component",
@@ -24055,8 +24055,8 @@
   },
   {
     "baseLevel": 16,
-    "difficulty": 63,
-    "durability": 70,
+    "difficulty": 31,
+    "durability": 40,
     "level": 16,
     "maxQuality": 390,
     "name": {
@@ -24093,10 +24093,10 @@
   },
   {
     "baseLevel": 16,
-    "difficulty": 63,
+    "difficulty": 201,
     "durability": 70,
     "level": 16,
-    "maxQuality": 390,
+    "maxQuality": 195,
     "name": {
       "de": "Hyperleiter-Bauteil",
       "en": "Hyperconductor Component",
@@ -24131,10 +24131,10 @@
   },
   {
     "baseLevel": 16,
-    "difficulty": 63,
+    "difficulty": 201,
     "durability": 70,
     "level": 16,
-    "maxQuality": 390,
+    "maxQuality": 195,
     "name": {
       "de": "Zierplatten-Bauteil",
       "en": "Decorative Plating Component",
@@ -24169,10 +24169,10 @@
   },
   {
     "baseLevel": 3,
-    "difficulty": 20,
+    "difficulty": 30,
     "durability": 60,
     "level": 3,
-    "maxQuality": 120,
+    "maxQuality": 90,
     "name": {
       "de": "Erdseim-Motor-Bauteil",
       "en": "Propulsion Engine Component",
@@ -24245,10 +24245,10 @@
   },
   {
     "baseLevel": 18,
-    "difficulty": 67,
+    "difficulty": 214,
     "durability": 70,
     "level": 18,
-    "maxQuality": 450,
+    "maxQuality": 225,
     "name": {
       "de": "Bugschmuck-Bauteil",
       "en": "Figurehead Component",
@@ -24397,8 +24397,8 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 420,
-    "durability": 80,
+    "difficulty": 210,
+    "durability": 40,
     "level": 90,
     "maxQuality": 2750,
     "name": {
@@ -25426,7 +25426,7 @@
     "difficulty": 580,
     "durability": 70,
     "level": 150,
-    "maxQuality": 2700,
+    "maxQuality": 1350,
     "name": {
       "de": "Sternensaphir-Spieldose",
       "en": "Star Sapphire Music Box",
@@ -25445,7 +25445,7 @@
     "difficulty": 580,
     "durability": 70,
     "level": 150,
-    "maxQuality": 2700,
+    "maxQuality": 1350,
     "name": {
       "de": "Sternenrubin-Spieldose",
       "en": "Star Ruby Music Box",
@@ -25464,7 +25464,7 @@
     "difficulty": 580,
     "durability": 70,
     "level": 150,
-    "maxQuality": 2700,
+    "maxQuality": 1350,
     "name": {
       "de": "Bismarck-Brunnen",
       "en": "Expanse Fountain",
@@ -25483,7 +25483,7 @@
     "difficulty": 660,
     "durability": 70,
     "level": 160,
-    "maxQuality": 2800,
+    "maxQuality": 1400,
     "name": {
       "de": "Bismarck-Luxusbrunnen",
       "en": "Boundless Expanse Fountain",
@@ -25635,7 +25635,7 @@
     "difficulty": 740,
     "durability": 70,
     "level": 180,
-    "maxQuality": 2900,
+    "maxQuality": 1450,
     "name": {
       "de": "Feen-Kronleuchter",
       "en": "Faerie Chandelier",
@@ -26129,7 +26129,7 @@
     "difficulty": 740,
     "durability": 70,
     "level": 180,
-    "maxQuality": 2900,
+    "maxQuality": 1450,
     "name": {
       "de": "Dinosaurier-Schädel",
       "en": "Dinosaur Skull",
@@ -26148,7 +26148,7 @@
     "difficulty": 740,
     "durability": 70,
     "level": 180,
-    "maxQuality": 2900,
+    "maxQuality": 1450,
     "name": {
       "de": "Dinosaurier-Skelett",
       "en": "Dinosaur Skeleton",
@@ -26167,7 +26167,7 @@
     "difficulty": 740,
     "durability": 70,
     "level": 180,
-    "maxQuality": 2900,
+    "maxQuality": 1450,
     "name": {
       "de": "Dinosaurier-Steißbein",
       "en": "Dinosaur Tailbone",
@@ -26186,7 +26186,7 @@
     "difficulty": 740,
     "durability": 70,
     "level": 180,
-    "maxQuality": 2900,
+    "maxQuality": 1450,
     "name": {
       "de": "Gartenbogen",
       "en": "Living Arch",
@@ -26259,8 +26259,8 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 180,
-    "durability": 80,
+    "difficulty": 90,
+    "durability": 40,
     "level": 50,
     "maxQuality": 2000,
     "name": {
@@ -26278,10 +26278,10 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 180,
+    "difficulty": 259,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 500,
     "name": {
       "de": "Trötenkomponente",
       "en": "Horn Component",
@@ -26297,10 +26297,10 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 180,
+    "difficulty": 345,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 400,
     "name": {
       "de": "Mogry-Werkzeugkomponente",
       "en": "Moogle Tool Component",
@@ -26316,10 +26316,10 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 180,
+    "difficulty": 216,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 740,
     "name": {
       "de": "Steinstatuenkomponente",
       "en": "Statue Supplies",
@@ -26335,10 +26335,10 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 180,
+    "difficulty": 460,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 500,
     "name": {
       "de": "Gedenktafelkomponente",
       "en": "Tablet Supplies",
@@ -26373,10 +26373,10 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 180,
+    "difficulty": 324,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 1000,
     "name": {
       "de": "Verwendbares Baumaterial",
       "en": "Repurposed Construction Component",
@@ -26392,10 +26392,10 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 180,
+    "difficulty": 432,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 800,
     "name": {
       "de": "Fundamentmaterial",
       "en": "Foundation Component",
@@ -26411,10 +26411,10 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 180,
+    "difficulty": 270,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 1500,
     "name": {
       "de": "Korbkomponente",
       "en": "Basket Component",
@@ -26430,10 +26430,10 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 180,
+    "difficulty": 432,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 800,
     "name": {
       "de": "Werkzeug zur Mauerglättung",
       "en": "Wall Repair Supplies",
@@ -26449,10 +26449,10 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 180,
+    "difficulty": 324,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 1000,
     "name": {
       "de": "Komponente für die Werkzeugreparatur",
       "en": "Gathering Tool Component",
@@ -26468,10 +26468,10 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 180,
+    "difficulty": 259,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 500,
     "name": {
       "de": "Werkzeug zur Bodenplattenfärbung",
       "en": "Veneer Component",
@@ -26487,10 +26487,10 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 180,
+    "difficulty": 576,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 1000,
     "name": {
       "de": "Ätherdämmendes Gefäß",
       "en": "Aetheric Shielding",
@@ -26506,10 +26506,10 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 180,
+    "difficulty": 216,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 740,
     "name": {
       "de": "Formvollendete Steinblock-Vorlage",
       "en": "Stonemasonry Supplies",
@@ -26525,10 +26525,10 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 180,
+    "difficulty": 345,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 400,
     "name": {
       "de": "Rauchbombe",
       "en": "Exploding Kupo Nut",
@@ -26544,10 +26544,10 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 180,
+    "difficulty": 345,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 400,
     "name": {
       "de": "Drachengabe",
       "en": "Austere Offering",
@@ -26563,10 +26563,10 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 180,
+    "difficulty": 270,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 1500,
     "name": {
       "de": "Einzelteil für die Schneidemaschine",
       "en": "Shearing Machine Component",
@@ -26582,10 +26582,10 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 180,
+    "difficulty": 259,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 500,
     "name": {
       "de": "Abdichtungskomponente",
       "en": "Water Filter Component",
@@ -26601,10 +26601,10 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 180,
+    "difficulty": 324,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 1000,
     "name": {
       "de": "Küchenartikel",
       "en": "Mogstew Miscellany",
@@ -26620,10 +26620,10 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 180,
+    "difficulty": 345,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 400,
     "name": {
       "de": "Mogry-Figur",
       "en": "Moogle Statuette",
@@ -26639,10 +26639,10 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 180,
+    "difficulty": 432,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 800,
     "name": {
       "de": "Miniatur-Luftschiff",
       "en": "Makeshift Toy Airship",
@@ -26658,10 +26658,10 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 180,
+    "difficulty": 432,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 800,
     "name": {
       "de": "Schuppenfeile",
       "en": "Dragonscale Rasp",
@@ -26677,10 +26677,10 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 180,
+    "difficulty": 259,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 500,
     "name": {
       "de": "Wolkenmeer-Köder",
       "en": "Cloudfish Lure",
@@ -26696,10 +26696,10 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 180,
+    "difficulty": 324,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 1000,
     "name": {
       "de": "Bestandteil einer Mahlzeit",
       "en": "Ishgardian Cuisine Miscellany",
@@ -26715,10 +26715,10 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 180,
+    "difficulty": 576,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 1000,
     "name": {
       "de": "Flaschenzug-Ersatzteil",
       "en": "Treadwheel Crane Components",
@@ -26734,10 +26734,10 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 180,
+    "difficulty": 216,
     "durability": 80,
     "level": 50,
-    "maxQuality": 2000,
+    "maxQuality": 740,
     "name": {
       "de": "Kleine Belohnung",
       "en": "Moogle Mollifier",
@@ -26813,7 +26813,7 @@
     "difficulty": 900,
     "durability": 70,
     "level": 220,
-    "maxQuality": 3390,
+    "maxQuality": 1695,
     "name": {
       "de": "Nidhogg-Modell",
       "en": "Nidhogg Miniature",
@@ -26832,7 +26832,7 @@
     "difficulty": 420,
     "durability": 80,
     "level": 90,
-    "maxQuality": 2750,
+    "maxQuality": 1375,
     "name": {
       "de": "Großer Gartenteich",
       "en": "Large Garden Pond",
@@ -27364,7 +27364,7 @@
     "difficulty": 1000,
     "durability": 70,
     "level": 250,
-    "maxQuality": 3800,
+    "maxQuality": 1900,
     "name": {
       "de": "Miniatur-Sophia",
       "en": "Sophia Miniature",
@@ -27383,7 +27383,7 @@
     "difficulty": 880,
     "durability": 70,
     "level": 210,
-    "maxQuality": 3300,
+    "maxQuality": 1650,
     "name": {
       "de": "Kristallleuchter",
       "en": "Crystal Chandelier",
@@ -27399,7 +27399,7 @@
   },
   {
     "baseLevel": 60,
-    "difficulty": 1000,
+    "difficulty": 500,
     "durability": 70,
     "level": 250,
     "maxQuality": 3800,
@@ -27497,7 +27497,7 @@
     "difficulty": 880,
     "durability": 70,
     "level": 210,
-    "maxQuality": 3300,
+    "maxQuality": 1650,
     "name": {
       "de": "Diabolos-Modell",
       "en": "Diabolos Miniature",
@@ -27516,7 +27516,7 @@
     "difficulty": 880,
     "durability": 70,
     "level": 210,
-    "maxQuality": 3300,
+    "maxQuality": 1650,
     "name": {
       "de": "Scathach-Modell",
       "en": "Scathach Miniature",
@@ -27535,7 +27535,7 @@
     "difficulty": 740,
     "durability": 70,
     "level": 180,
-    "maxQuality": 2900,
+    "maxQuality": 1450,
     "name": {
       "de": "Tribunal-Fußboden",
       "en": "Tribunal Flooring",
@@ -27703,10 +27703,10 @@
   },
   {
     "baseLevel": 57,
-    "difficulty": 460,
-    "durability": 70,
+    "difficulty": 230,
+    "durability": 60,
     "level": 142,
-    "maxQuality": 2490,
+    "maxQuality": 996,
     "name": {
       "de": "Komponente einer nahöstlichen Antiquität",
       "en": "Near Eastern Antique Component",
@@ -27723,9 +27723,9 @@
   {
     "baseLevel": 57,
     "difficulty": 460,
-    "durability": 70,
+    "durability": 60,
     "level": 142,
-    "maxQuality": 2490,
+    "maxQuality": 1992,
     "name": {
       "de": "Nahöstliche Antiquität",
       "en": "Near Eastern Antique",
@@ -27741,10 +27741,10 @@
   },
   {
     "baseLevel": 58,
-    "difficulty": 500,
-    "durability": 70,
+    "difficulty": 250,
+    "durability": 60,
     "level": 145,
-    "maxQuality": 2560,
+    "maxQuality": 1024,
     "name": {
       "de": "Komponente eines coerthischen Souvenirs",
       "en": "Coerthan Souvenir Component",
@@ -27761,9 +27761,9 @@
   {
     "baseLevel": 58,
     "difficulty": 500,
-    "durability": 70,
+    "durability": 60,
     "level": 145,
-    "maxQuality": 2560,
+    "maxQuality": 2048,
     "name": {
       "de": "Coerthisches Souvenir",
       "en": "Coerthan Souvenir",
@@ -27779,10 +27779,10 @@
   },
   {
     "baseLevel": 59,
-    "difficulty": 540,
-    "durability": 70,
+    "difficulty": 270,
+    "durability": 60,
     "level": 148,
-    "maxQuality": 2630,
+    "maxQuality": 1052,
     "name": {
       "de": "Komponente eines Stücks Mahlstrom-Ausrüstung",
       "en": "Maelstrom Materiel Component",
@@ -27799,9 +27799,9 @@
   {
     "baseLevel": 59,
     "difficulty": 540,
-    "durability": 70,
+    "durability": 60,
     "level": 148,
-    "maxQuality": 2630,
+    "maxQuality": 2104,
     "name": {
       "de": "Mahlstrom-Ausrüstung",
       "en": "Maelstrom Materiel",
@@ -27817,10 +27817,10 @@
   },
   {
     "baseLevel": 60,
-    "difficulty": 580,
-    "durability": 70,
+    "difficulty": 290,
+    "durability": 60,
     "level": 150,
-    "maxQuality": 2700,
+    "maxQuality": 1080,
     "name": {
       "de": "Komponente eines innigen Geschenks",
       "en": "Heartfelt Gift Component",
@@ -27837,9 +27837,9 @@
   {
     "baseLevel": 60,
     "difficulty": 580,
-    "durability": 70,
+    "durability": 60,
     "level": 150,
-    "maxQuality": 2700,
+    "maxQuality": 2160,
     "name": {
       "de": "Inniges Geschenk",
       "en": "Heartfelt Gift",
@@ -27855,10 +27855,10 @@
   },
   {
     "baseLevel": 60,
-    "difficulty": 660,
-    "durability": 70,
+    "difficulty": 330,
+    "durability": 60,
     "level": 160,
-    "maxQuality": 2800,
+    "maxQuality": 1120,
     "name": {
       "de": "Komponente einer Waisenhaus-Spende",
       "en": "Orphanage Donation Component",
@@ -27875,9 +27875,9 @@
   {
     "baseLevel": 60,
     "difficulty": 660,
-    "durability": 70,
+    "durability": 60,
     "level": 160,
-    "maxQuality": 2800,
+    "maxQuality": 2240,
     "name": {
       "de": "Waisenhaus-Spende",
       "en": "Orphanage Donation",
@@ -27893,10 +27893,10 @@
   },
   {
     "baseLevel": 63,
-    "difficulty": 730,
+    "difficulty": 510,
     "durability": 80,
     "level": 270,
-    "maxQuality": 2970,
+    "maxQuality": 1633,
     "name": {
       "de": "Muster-Silberring",
       "en": "Sample Silver Ring",
@@ -27912,10 +27912,10 @@
   },
   {
     "baseLevel": 65,
-    "difficulty": 830,
+    "difficulty": 581,
     "durability": 80,
     "level": 276,
-    "maxQuality": 3150,
+    "maxQuality": 1732,
     "name": {
       "de": "Spezialbrille",
       "en": "Precision Spectacles",
@@ -27931,10 +27931,10 @@
   },
   {
     "baseLevel": 68,
-    "difficulty": 980,
+    "difficulty": 686,
     "durability": 80,
     "level": 285,
-    "maxQuality": 3420,
+    "maxQuality": 1881,
     "name": {
       "de": "Muster-Chronometer",
       "en": "Sample Chronometer",
@@ -27950,10 +27950,10 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 1080,
+    "difficulty": 756,
     "durability": 80,
     "level": 290,
-    "maxQuality": 3600,
+    "maxQuality": 1980,
     "name": {
       "de": "Kronjuwelschmieden-Orchestrion",
       "en": "Tribute Orchestrion",
@@ -27972,7 +27972,7 @@
     "difficulty": 740,
     "durability": 70,
     "level": 180,
-    "maxQuality": 2900,
+    "maxQuality": 1450,
     "name": {
       "de": "Tisch-Orchestrion",
       "en": "Table Orchestrion",
@@ -27991,7 +27991,7 @@
     "difficulty": 1140,
     "durability": 70,
     "level": 300,
-    "maxQuality": 4200,
+    "maxQuality": 2100,
     "name": {
       "de": "Miniatur-Lakshmi",
       "en": "Lakshmi Miniature",
@@ -28010,7 +28010,7 @@
     "difficulty": 740,
     "durability": 70,
     "level": 180,
-    "maxQuality": 2900,
+    "maxQuality": 1450,
     "name": {
       "de": "Fortemps-Kronleuchter",
       "en": "House Fortemps Chandelier",
@@ -28178,7 +28178,7 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 1140,
+    "difficulty": 570,
     "durability": 70,
     "level": 300,
     "maxQuality": 4200,
@@ -28542,7 +28542,7 @@
     "difficulty": 1140,
     "durability": 70,
     "level": 300,
-    "maxQuality": 4200,
+    "maxQuality": 2100,
     "name": {
       "de": "Buntkristallfenster-Imitation",
       "en": "Imitation Stained Crystal Ornament",
@@ -28558,10 +28558,10 @@
   },
   {
     "baseLevel": 60,
-    "difficulty": 580,
-    "durability": 70,
+    "difficulty": 290,
+    "durability": 60,
     "level": 150,
-    "maxQuality": 2700,
+    "maxQuality": 1080,
     "name": {
       "de": "Komponente eines abanischen Souvenirs",
       "en": "Gyr Abanian Souvenir Component",
@@ -28578,9 +28578,9 @@
   {
     "baseLevel": 60,
     "difficulty": 580,
-    "durability": 70,
+    "durability": 60,
     "level": 150,
-    "maxQuality": 2700,
+    "maxQuality": 2160,
     "name": {
       "de": "Abanische Spezialität",
       "en": "Gyr Abanian Souvenir",
@@ -28596,10 +28596,10 @@
   },
   {
     "baseLevel": 60,
-    "difficulty": 660,
-    "durability": 70,
+    "difficulty": 297,
+    "durability": 60,
     "level": 160,
-    "maxQuality": 2800,
+    "maxQuality": 1092,
     "name": {
       "de": "Komponente einer fernöstlichen Antiquität",
       "en": "Far Eastern Antique Component",
@@ -28615,10 +28615,10 @@
   },
   {
     "baseLevel": 60,
-    "difficulty": 660,
-    "durability": 70,
+    "difficulty": 594,
+    "durability": 60,
     "level": 160,
-    "maxQuality": 2800,
+    "maxQuality": 2212,
     "name": {
       "de": "Fernöstliche Antiquität",
       "en": "Far Eastern Antique",
@@ -28634,10 +28634,10 @@
   },
   {
     "baseLevel": 61,
-    "difficulty": 630,
-    "durability": 80,
+    "difficulty": 315,
+    "durability": 60,
     "level": 255,
-    "maxQuality": 2790,
+    "maxQuality": 1116,
     "name": {
       "de": "Komponente eines Gold Saucer-Trostpreises",
       "en": "Gold Saucer Consolation Prize Component",
@@ -28654,9 +28654,9 @@
   {
     "baseLevel": 61,
     "difficulty": 630,
-    "durability": 80,
+    "durability": 60,
     "level": 255,
-    "maxQuality": 2790,
+    "maxQuality": 2232,
     "name": {
       "de": "Trostpreis für den Gold Saucer",
       "en": "Gold Saucer Consolation Prize",
@@ -28672,10 +28672,10 @@
   },
   {
     "baseLevel": 62,
-    "difficulty": 680,
-    "durability": 80,
+    "difficulty": 340,
+    "durability": 60,
     "level": 265,
-    "maxQuality": 2880,
+    "maxQuality": 1152,
     "name": {
       "de": "Komponente für Jagdbedarf für die M",
       "en": "M Tribe Sundry Component",
@@ -28692,9 +28692,9 @@
   {
     "baseLevel": 62,
     "difficulty": 680,
-    "durability": 80,
+    "durability": 60,
     "level": 265,
-    "maxQuality": 2880,
+    "maxQuality": 2304,
     "name": {
       "de": "Jagdbedarf",
       "en": "M Tribe Sundries",
@@ -28710,10 +28710,10 @@
   },
   {
     "baseLevel": 63,
-    "difficulty": 730,
-    "durability": 80,
+    "difficulty": 365,
+    "durability": 60,
     "level": 270,
-    "maxQuality": 2970,
+    "maxQuality": 1188,
     "name": {
       "de": "Komponente eines Stücks Be­freiungs­armee-Ausrüstung",
       "en": "Resistance Materiel Component",
@@ -28730,9 +28730,9 @@
   {
     "baseLevel": 63,
     "difficulty": 730,
-    "durability": 80,
+    "durability": 60,
     "level": 270,
-    "maxQuality": 2970,
+    "maxQuality": 2376,
     "name": {
       "de": "Rucksack für die Be­freiungs­armee",
       "en": "Resistance Materiel",
@@ -29014,10 +29014,10 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 1350,
-    "durability": 70,
+    "difficulty": 1147,
+    "durability": 35,
     "level": 350,
-    "maxQuality": 5200,
+    "maxQuality": 3900,
     "name": {
       "de": "Silbergunst-Barren",
       "en": "Silvergrace Ingot",
@@ -29036,7 +29036,7 @@
     "difficulty": 1200,
     "durability": 70,
     "level": 320,
-    "maxQuality": 4800,
+    "maxQuality": 2400,
     "name": {
       "de": "Lampe „Obskurer Otter“",
       "en": "Odder Otter Lantern",
@@ -29055,7 +29055,7 @@
     "difficulty": 1200,
     "durability": 70,
     "level": 320,
-    "maxQuality": 4800,
+    "maxQuality": 2400,
     "name": {
       "de": "Mogry-Wand-Chronometer",
       "en": "Moogle Wall Chronometer",
@@ -29074,7 +29074,7 @@
     "difficulty": 1200,
     "durability": 70,
     "level": 320,
-    "maxQuality": 4800,
+    "maxQuality": 2400,
     "name": {
       "de": "Karfunkel-Badewanne",
       "en": "Carbuncle Bathtub",
@@ -29093,7 +29093,7 @@
     "difficulty": 1200,
     "durability": 70,
     "level": 320,
-    "maxQuality": 4800,
+    "maxQuality": 2400,
     "name": {
       "de": "Hannya-Maske",
       "en": "Hanya Mask",
@@ -29112,7 +29112,7 @@
     "difficulty": 1200,
     "durability": 70,
     "level": 320,
-    "maxQuality": 4800,
+    "maxQuality": 2400,
     "name": {
       "de": "Eorzäische Lampe",
       "en": "Eorzean Lantern",
@@ -29131,7 +29131,7 @@
     "difficulty": 1200,
     "durability": 70,
     "level": 320,
-    "maxQuality": 4800,
+    "maxQuality": 2400,
     "name": {
       "de": "Klassischer Kronleuchter",
       "en": "Classic Chandelier",
@@ -29150,7 +29150,7 @@
     "difficulty": 1350,
     "durability": 70,
     "level": 350,
-    "maxQuality": 5200,
+    "maxQuality": 2600,
     "name": {
       "de": "Byakko-Rossharnisch",
       "en": "Byakko Barding",
@@ -29169,7 +29169,7 @@
     "difficulty": 1200,
     "durability": 70,
     "level": 320,
-    "maxQuality": 4800,
+    "maxQuality": 2400,
     "name": {
       "de": "Purpur-Korallenstück",
       "en": "Crimson Coral Object",
@@ -29204,10 +29204,10 @@
   },
   {
     "baseLevel": 59,
-    "difficulty": 540,
+    "difficulty": 810,
     "durability": 70,
     "level": 148,
-    "maxQuality": 2630,
+    "maxQuality": 1972,
     "name": {
       "de": "Altarelement",
       "en": "Altar Components",
@@ -29223,10 +29223,10 @@
   },
   {
     "baseLevel": 60,
-    "difficulty": 580,
+    "difficulty": 1044,
     "durability": 70,
     "level": 150,
-    "maxQuality": 2700,
+    "maxQuality": 1350,
     "name": {
       "de": "Mikoshi-Element",
       "en": "Mikoshi Frippery",
@@ -29242,10 +29242,10 @@
   },
   {
     "baseLevel": 60,
-    "difficulty": 580,
+    "difficulty": 835,
     "durability": 70,
     "level": 150,
-    "maxQuality": 2700,
+    "maxQuality": 675,
     "name": {
       "de": "Scherenteil",
       "en": "Dzo Shear Components",
@@ -29261,10 +29261,10 @@
   },
   {
     "baseLevel": 60,
-    "difficulty": 580,
+    "difficulty": 1044,
     "durability": 70,
     "level": 150,
-    "maxQuality": 2700,
+    "maxQuality": 1350,
     "name": {
       "de": "Trommelwerkstoff",
       "en": "Drum Parts",
@@ -29280,8 +29280,8 @@
   },
   {
     "baseLevel": 60,
-    "difficulty": 580,
-    "durability": 70,
+    "difficulty": 290,
+    "durability": 35,
     "level": 150,
     "maxQuality": 2700,
     "name": {
@@ -29318,10 +29318,10 @@
   },
   {
     "baseLevel": 60,
-    "difficulty": 580,
+    "difficulty": 835,
     "durability": 70,
     "level": 150,
-    "maxQuality": 2700,
+    "maxQuality": 675,
     "name": {
       "de": "Ritualbogenelement",
       "en": "Ceremonial Bow Components",
@@ -29356,10 +29356,10 @@
   },
   {
     "baseLevel": 60,
-    "difficulty": 580,
+    "difficulty": 835,
     "durability": 70,
     "level": 150,
-    "maxQuality": 2700,
+    "maxQuality": 675,
     "name": {
       "de": "Messerteil",
       "en": "Culinary Knife Component",
@@ -29375,10 +29375,10 @@
   },
   {
     "baseLevel": 60,
-    "difficulty": 580,
+    "difficulty": 870,
     "durability": 70,
     "level": 150,
-    "maxQuality": 2700,
+    "maxQuality": 2025,
     "name": {
       "de": "Dankeschön-Geschenk",
       "en": "Generous Gift",
@@ -29413,10 +29413,10 @@
   },
   {
     "baseLevel": 60,
-    "difficulty": 580,
+    "difficulty": 696,
     "durability": 70,
     "level": 150,
-    "maxQuality": 2700,
+    "maxQuality": 999,
     "name": {
       "de": "Namazuo-Puppenelement",
       "en": "Effigy Components",
@@ -29451,10 +29451,10 @@
   },
   {
     "baseLevel": 58,
-    "difficulty": 500,
+    "difficulty": 900,
     "durability": 70,
     "level": 145,
-    "maxQuality": 2560,
+    "maxQuality": 1280,
     "name": {
       "de": "Reinigungsfetisch",
       "en": "Ritual Implement Components",
@@ -29489,8 +29489,8 @@
   },
   {
     "baseLevel": 58,
-    "difficulty": 500,
-    "durability": 70,
+    "difficulty": 250,
+    "durability": 35,
     "level": 145,
     "maxQuality": 2560,
     "name": {
@@ -29508,10 +29508,10 @@
   },
   {
     "baseLevel": 58,
-    "difficulty": 500,
+    "difficulty": 900,
     "durability": 70,
     "level": 145,
-    "maxQuality": 2560,
+    "maxQuality": 1280,
     "name": {
       "de": "Kleinigkeit",
       "en": "Trinket Components",
@@ -29546,10 +29546,10 @@
   },
   {
     "baseLevel": 59,
-    "difficulty": 540,
+    "difficulty": 972,
     "durability": 70,
     "level": 148,
-    "maxQuality": 2630,
+    "maxQuality": 1315,
     "name": {
       "de": "Handelsware",
       "en": "Azim Steppe Souvenir Components",
@@ -29603,8 +29603,8 @@
   },
   {
     "baseLevel": 59,
-    "difficulty": 540,
-    "durability": 70,
+    "difficulty": 270,
+    "durability": 35,
     "level": 148,
     "maxQuality": 2630,
     "name": {
@@ -29622,10 +29622,10 @@
   },
   {
     "baseLevel": 59,
-    "difficulty": 540,
+    "difficulty": 777,
     "durability": 70,
     "level": 148,
-    "maxQuality": 2630,
+    "maxQuality": 657,
     "name": {
       "de": "Opfergabe",
       "en": "Substitute Offering",
@@ -29641,10 +29641,10 @@
   },
   {
     "baseLevel": 60,
-    "difficulty": 580,
+    "difficulty": 835,
     "durability": 70,
     "level": 150,
-    "maxQuality": 2700,
+    "maxQuality": 675,
     "name": {
       "de": "Festliches Wurfgeschoss",
       "en": "Pristine Fruit Figurine",
@@ -29679,10 +29679,10 @@
   },
   {
     "baseLevel": 60,
-    "difficulty": 580,
+    "difficulty": 835,
     "durability": 70,
     "level": 150,
-    "maxQuality": 2700,
+    "maxQuality": 675,
     "name": {
       "de": "Bezaubernde Korrigane-Puppe",
       "en": "Korrigan Doll",
@@ -29698,10 +29698,10 @@
   },
   {
     "baseLevel": 62,
-    "difficulty": 680,
-    "durability": 80,
+    "difficulty": 340,
+    "durability": 60,
     "level": 265,
-    "maxQuality": 2880,
+    "maxQuality": 1152,
     "name": {
       "de": "Komponente abanischer Medizin",
       "en": "Gyr Abanian Remedy Components",
@@ -29718,9 +29718,9 @@
   {
     "baseLevel": 62,
     "difficulty": 680,
-    "durability": 80,
+    "durability": 60,
     "level": 265,
-    "maxQuality": 2880,
+    "maxQuality": 2304,
     "name": {
       "de": "Phiolenset abanischer Medizin",
       "en": "Gyr Abanian Remedies",
@@ -29736,10 +29736,10 @@
   },
   {
     "baseLevel": 62,
-    "difficulty": 680,
-    "durability": 80,
+    "difficulty": 340,
+    "durability": 60,
     "level": 265,
-    "maxQuality": 2880,
+    "maxQuality": 1152,
     "name": {
       "de": "Komponente einer Haifischharpune",
       "en": "Harpoon Components",
@@ -29756,9 +29756,9 @@
   {
     "baseLevel": 62,
     "difficulty": 680,
-    "durability": 80,
+    "durability": 60,
     "level": 265,
-    "maxQuality": 2880,
+    "maxQuality": 2304,
     "name": {
       "de": "Haifischharpune",
       "en": "Anti-shark Harpoon",
@@ -29774,10 +29774,10 @@
   },
   {
     "baseLevel": 63,
-    "difficulty": 730,
-    "durability": 80,
+    "difficulty": 365,
+    "durability": 60,
     "level": 270,
-    "maxQuality": 2970,
+    "maxQuality": 1188,
     "name": {
       "de": "Komponente coerthischer Winterkleidung",
       "en": "Cold-weather Gear Components",
@@ -29794,9 +29794,9 @@
   {
     "baseLevel": 63,
     "difficulty": 730,
-    "durability": 80,
+    "durability": 60,
     "level": 270,
-    "maxQuality": 2970,
+    "maxQuality": 2376,
     "name": {
       "de": "Coerthischer Wintermantel",
       "en": "Coerthan Cold-weather Gear",
@@ -29812,10 +29812,10 @@
   },
   {
     "baseLevel": 63,
-    "difficulty": 730,
-    "durability": 80,
+    "difficulty": 365,
+    "durability": 60,
     "level": 270,
-    "maxQuality": 2970,
+    "maxQuality": 1188,
     "name": {
       "de": "Komponente einer Kostbarkeit aus Sui no Sato",
       "en": "Sui-no-Sato Special Components",
@@ -29832,9 +29832,9 @@
   {
     "baseLevel": 63,
     "difficulty": 730,
-    "durability": 80,
+    "durability": 60,
     "level": 270,
-    "maxQuality": 2970,
+    "maxQuality": 2376,
     "name": {
       "de": "Kostbarkeit aus Sui no Sato",
       "en": "Sui-no-Sato Special",
@@ -29850,10 +29850,10 @@
   },
   {
     "baseLevel": 64,
-    "difficulty": 780,
-    "durability": 80,
+    "difficulty": 390,
+    "durability": 60,
     "level": 273,
-    "maxQuality": 3060,
+    "maxQuality": 1224,
     "name": {
       "de": "Komponente einer Wolkenmeerperle",
       "en": "Cloud Pearl Components",
@@ -29870,9 +29870,9 @@
   {
     "baseLevel": 64,
     "difficulty": 780,
-    "durability": 80,
+    "durability": 60,
     "level": 273,
-    "maxQuality": 3060,
+    "maxQuality": 2448,
     "name": {
       "de": "Wolkenmeerperle",
       "en": "Cloud Pearl",
@@ -29891,7 +29891,7 @@
     "difficulty": 1200,
     "durability": 70,
     "level": 320,
-    "maxQuality": 4800,
+    "maxQuality": 2400,
     "name": {
       "de": "Hängende Andon-Laterne „Obskurer Otter“",
       "en": "Odder Otter Hanging Andon Lamp",
@@ -29910,7 +29910,7 @@
     "difficulty": 1200,
     "durability": 70,
     "level": 320,
-    "maxQuality": 4800,
+    "maxQuality": 2400,
     "name": {
       "de": "Mogry-Lampe",
       "en": "Mellow Mog Lamp",
@@ -29929,7 +29929,7 @@
     "difficulty": 1200,
     "durability": 70,
     "level": 320,
-    "maxQuality": 4800,
+    "maxQuality": 2400,
     "name": {
       "de": "Wandlaterne „Obskurer Otter“",
       "en": "Odder Otter Wall Lantern",
@@ -29948,7 +29948,7 @@
     "difficulty": 1200,
     "durability": 70,
     "level": 320,
-    "maxQuality": 4800,
+    "maxQuality": 2400,
     "name": {
       "de": "Andon-Laterne „Obskurer Otter“",
       "en": "Odder Otter Andon Lamp",
@@ -30363,10 +30363,10 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 1500,
-    "durability": 70,
+    "difficulty": 1275,
+    "durability": 35,
     "level": 380,
-    "maxQuality": 6100,
+    "maxQuality": 4575,
     "name": {
       "de": "Immerschimmer-Barren",
       "en": "Evergleam Ingot",
@@ -30480,7 +30480,7 @@
     "difficulty": 1200,
     "durability": 70,
     "level": 320,
-    "maxQuality": 4800,
+    "maxQuality": 2400,
     "name": {
       "de": "Waschbecken",
       "en": "Washbasin",
@@ -30499,7 +30499,7 @@
     "difficulty": 1500,
     "durability": 70,
     "level": 380,
-    "maxQuality": 6100,
+    "maxQuality": 3050,
     "name": {
       "de": "Seiryu-Statue",
       "en": "Seiryu Statuette",
@@ -30518,7 +30518,7 @@
     "difficulty": 1200,
     "durability": 70,
     "level": 320,
-    "maxQuality": 4800,
+    "maxQuality": 2400,
     "name": {
       "de": "Karfunkel-Kronleuchter",
       "en": "Carbuncle Chandelier",
@@ -30686,10 +30686,10 @@
   },
   {
     "baseLevel": 66,
-    "difficulty": 880,
-    "durability": 80,
+    "difficulty": 440,
+    "durability": 60,
     "level": 279,
-    "maxQuality": 3240,
+    "maxQuality": 1296,
     "name": {
       "de": "Komponente eines Ishgarder Kochutensils",
       "en": "Ishgardian Culinary Materials",
@@ -30706,9 +30706,9 @@
   {
     "baseLevel": 66,
     "difficulty": 880,
-    "durability": 80,
+    "durability": 60,
     "level": 279,
-    "maxQuality": 3240,
+    "maxQuality": 2592,
     "name": {
       "de": "Ishgarder Kochutensil",
       "en": "Ishgardian Culinary Essentials",
@@ -30724,10 +30724,10 @@
   },
   {
     "baseLevel": 66,
-    "difficulty": 880,
-    "durability": 80,
+    "difficulty": 440,
+    "durability": 60,
     "level": 279,
-    "maxQuality": 3240,
+    "maxQuality": 1296,
     "name": {
       "de": "Komponente eines Spirituosenzubehörteils",
       "en": "Juice Fermenting Supplies",
@@ -30744,9 +30744,9 @@
   {
     "baseLevel": 66,
     "difficulty": 880,
-    "durability": 80,
+    "durability": 60,
     "level": 279,
-    "maxQuality": 3240,
+    "maxQuality": 2592,
     "name": {
       "de": "Spirituosenzubehörteil",
       "en": "Fermented Juice",
@@ -30762,10 +30762,10 @@
   },
   {
     "baseLevel": 67,
-    "difficulty": 930,
-    "durability": 80,
+    "difficulty": 465,
+    "durability": 60,
     "level": 282,
-    "maxQuality": 3330,
+    "maxQuality": 1332,
     "name": {
       "de": "Komponente eines Buuds-Kochutensils",
       "en": "Signature Buuz Cookware Materials",
@@ -30782,9 +30782,9 @@
   {
     "baseLevel": 67,
     "difficulty": 930,
-    "durability": 80,
+    "durability": 60,
     "level": 282,
-    "maxQuality": 3330,
+    "maxQuality": 2664,
     "name": {
       "de": "Klippenhänger-Buuds-Kochutensil",
       "en": "Signature Buuz Cookware",
@@ -30800,10 +30800,10 @@
   },
   {
     "baseLevel": 67,
-    "difficulty": 930,
-    "durability": 80,
+    "difficulty": 465,
+    "durability": 60,
     "level": 282,
-    "maxQuality": 3330,
+    "maxQuality": 1332,
     "name": {
       "de": "Komponente eines Klippenhänger-Einrichtungsgegenstands",
       "en": "Decorative Tavern Furnishing Materials",
@@ -30820,9 +30820,9 @@
   {
     "baseLevel": 67,
     "difficulty": 930,
-    "durability": 80,
+    "durability": 60,
     "level": 282,
-    "maxQuality": 3330,
+    "maxQuality": 2664,
     "name": {
       "de": "Klippenhänger-Einrichtungsgegenstand",
       "en": "Hard Place Decorative Furnishings",
@@ -30838,10 +30838,10 @@
   },
   {
     "baseLevel": 68,
-    "difficulty": 980,
-    "durability": 80,
+    "difficulty": 490,
+    "durability": 60,
     "level": 285,
-    "maxQuality": 3420,
+    "maxQuality": 1368,
     "name": {
       "de": "Komponente eines Arkhi-Destillierutensils",
       "en": "Arkhi Brewing Vat Materials",
@@ -30858,9 +30858,9 @@
   {
     "baseLevel": 68,
     "difficulty": 980,
-    "durability": 80,
+    "durability": 60,
     "level": 285,
-    "maxQuality": 3420,
+    "maxQuality": 2736,
     "name": {
       "de": "Arkhi-Destillierutensil",
       "en": "Arkhi Brewing Set",
@@ -30876,10 +30876,10 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 2050,
-    "durability": 70,
+    "difficulty": 1640,
+    "durability": 35,
     "level": 450,
-    "maxQuality": 7900,
+    "maxQuality": 6320,
     "name": {
       "de": "Spektralkristall-Stein",
       "en": "Prismatic Ingot",
@@ -30898,7 +30898,7 @@
     "difficulty": 1900,
     "durability": 70,
     "level": 440,
-    "maxQuality": 6000,
+    "maxQuality": 3000,
     "name": {
       "de": "Titania-Trophäe",
       "en": "Titania Shadow Box",
@@ -31373,7 +31373,7 @@
     "difficulty": 1200,
     "durability": 70,
     "level": 320,
-    "maxQuality": 4800,
+    "maxQuality": 2400,
     "name": {
       "de": "Kleine Glasmalerei",
       "en": "Imitation Stained Crystal Pane",
@@ -31389,10 +31389,10 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 1080,
+    "difficulty": 756,
     "durability": 80,
     "level": 290,
-    "maxQuality": 3600,
+    "maxQuality": 1980,
     "name": {
       "de": "Metallener Handschutz",
       "en": "Metal Gauntlets",
@@ -31408,10 +31408,10 @@
   },
   {
     "baseLevel": 73,
-    "difficulty": 1290,
+    "difficulty": 902,
     "durability": 80,
     "level": 400,
-    "maxQuality": 3900,
+    "maxQuality": 2145,
     "name": {
       "de": "Metallenes Wurmgefäß",
       "en": "Metal Worm Jar",
@@ -31427,10 +31427,10 @@
   },
   {
     "baseLevel": 75,
-    "difficulty": 1430,
+    "difficulty": 1000,
     "durability": 80,
     "level": 406,
-    "maxQuality": 4100,
+    "maxQuality": 2255,
     "name": {
       "de": "Metallener Dreizack",
       "en": "Metal Trident",
@@ -31446,10 +31446,10 @@
   },
   {
     "baseLevel": 78,
-    "difficulty": 1640,
+    "difficulty": 1148,
     "durability": 80,
     "level": 415,
-    "maxQuality": 4400,
+    "maxQuality": 2420,
     "name": {
       "de": "Antimagischer Halsschutz",
       "en": "Nullifying Neckpiece",
@@ -31465,10 +31465,10 @@
   },
   {
     "baseLevel": 75,
-    "difficulty": 1430,
+    "difficulty": 1000,
     "durability": 80,
     "level": 406,
-    "maxQuality": 4100,
+    "maxQuality": 2255,
     "name": {
       "de": "Metallenes Räuchergefäß",
       "en": "Intricate Censer",
@@ -31484,10 +31484,10 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 1780,
+    "difficulty": 1246,
     "durability": 80,
     "level": 430,
-    "maxQuality": 4600,
+    "maxQuality": 2530,
     "name": {
       "de": "Besonderer Ring",
       "en": "Enchanting Ring",
@@ -31522,10 +31522,10 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 2050,
-    "durability": 70,
+    "difficulty": 1640,
+    "durability": 35,
     "level": 450,
-    "maxQuality": 7900,
+    "maxQuality": 6320,
     "name": {
       "de": "Korund-Wetzstein",
       "en": "Alumina Whetstone",
@@ -31541,10 +31541,10 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 1080,
-    "durability": 80,
+    "difficulty": 756,
+    "durability": 60,
     "level": 290,
-    "maxQuality": 3600,
+    "maxQuality": 2880,
     "name": {
       "de": "Flugblattdruck-Utensil",
       "en": "Flyer Printing Set",
@@ -31561,9 +31561,9 @@
   {
     "baseLevel": 70,
     "difficulty": 1140,
-    "durability": 70,
+    "durability": 60,
     "level": 300,
-    "maxQuality": 4200,
+    "maxQuality": 2940,
     "name": {
       "de": "Menü-Komponenten",
       "en": "Kholusian Cuisine Set",
@@ -31580,9 +31580,9 @@
   {
     "baseLevel": 71,
     "difficulty": 1195,
-    "durability": 80,
+    "durability": 60,
     "level": 390,
-    "maxQuality": 3763,
+    "maxQuality": 3010,
     "name": {
       "de": "Bühnenkostümteil",
       "en": "Honeybee Trappings",
@@ -31599,9 +31599,9 @@
   {
     "baseLevel": 72,
     "difficulty": 1220,
-    "durability": 80,
+    "durability": 60,
     "level": 395,
-    "maxQuality": 3800,
+    "maxQuality": 3040,
     "name": {
       "de": "Luftschiff-Komponente",
       "en": "Airship Fittings",
@@ -31618,9 +31618,9 @@
   {
     "baseLevel": 73,
     "difficulty": 1290,
-    "durability": 80,
+    "durability": 60,
     "level": 400,
-    "maxQuality": 3900,
+    "maxQuality": 3120,
     "name": {
       "de": "Lustspielhaus-Souvenir",
       "en": "Beehive Souvenir",
@@ -31637,9 +31637,9 @@
   {
     "baseLevel": 20,
     "difficulty": 74,
-    "durability": 70,
+    "durability": 60,
     "level": 20,
-    "maxQuality": 510,
+    "maxQuality": 1198,
     "name": {
       "de": "Himmelsstadt-Rohmetall",
       "en": "Skybuilders' Ingot",
@@ -31655,10 +31655,10 @@
   },
   {
     "baseLevel": 40,
-    "difficulty": 138,
-    "durability": 80,
+    "difficulty": 207,
+    "durability": 60,
     "level": 40,
-    "maxQuality": 1400,
+    "maxQuality": 3500,
     "name": {
       "de": "Himmelsstadt-Eisenringe",
       "en": "Skybuilders' Rings",
@@ -31675,9 +31675,9 @@
   {
     "baseLevel": 60,
     "difficulty": 580,
-    "durability": 70,
+    "durability": 60,
     "level": 150,
-    "maxQuality": 2700,
+    "maxQuality": 6480,
     "name": {
       "de": "Himmelsstadt-Leuchter",
       "en": "Skybuilders' Candelabra",
@@ -31694,9 +31694,9 @@
   {
     "baseLevel": 70,
     "difficulty": 1080,
-    "durability": 80,
+    "durability": 60,
     "level": 290,
-    "maxQuality": 3600,
+    "maxQuality": 9900,
     "name": {
       "de": "Himmelsstadt-Naturbaustein",
       "en": "Skybuilders' Stone",
@@ -31713,9 +31713,9 @@
   {
     "baseLevel": 80,
     "difficulty": 1780,
-    "durability": 80,
+    "durability": 60,
     "level": 430,
-    "maxQuality": 4600,
+    "maxQuality": 11960,
     "name": {
       "de": "Himmelsstadt-Feuerschale",
       "en": "Skybuilders' Brazier",
@@ -31905,7 +31905,7 @@
     "difficulty": 2050,
     "durability": 70,
     "level": 450,
-    "maxQuality": 7900,
+    "maxQuality": 3950,
     "name": {
       "de": "Hades-Trophäe",
       "en": "Hades Trophy",
@@ -31922,9 +31922,9 @@
   {
     "baseLevel": 20,
     "difficulty": 74,
-    "durability": 70,
+    "durability": 60,
     "level": 20,
-    "maxQuality": 510,
+    "maxQuality": 1198,
     "name": {
       "de": "Genist-Rohmetall",
       "en": "Grade 2 Skybuilders' Ingot",
@@ -31941,9 +31941,9 @@
   {
     "baseLevel": 40,
     "difficulty": 138,
-    "durability": 80,
+    "durability": 60,
     "level": 40,
-    "maxQuality": 1400,
+    "maxQuality": 3500,
     "name": {
       "de": "Genist-Eisenringe",
       "en": "Grade 2 Skybuilders' Rings",
@@ -31960,9 +31960,9 @@
   {
     "baseLevel": 60,
     "difficulty": 580,
-    "durability": 70,
+    "durability": 60,
     "level": 150,
-    "maxQuality": 2700,
+    "maxQuality": 6480,
     "name": {
       "de": "Genist-Weberzeug",
       "en": "Grade 2 Skybuilders' Embroidery Frame",
@@ -31979,9 +31979,9 @@
   {
     "baseLevel": 70,
     "difficulty": 1080,
-    "durability": 80,
+    "durability": 60,
     "level": 290,
-    "maxQuality": 3600,
+    "maxQuality": 9900,
     "name": {
       "de": "Genist-Naturbaustein",
       "en": "Grade 2 Skybuilders' Stone",
@@ -31998,9 +31998,9 @@
   {
     "baseLevel": 80,
     "difficulty": 1780,
-    "durability": 80,
+    "durability": 60,
     "level": 430,
-    "maxQuality": 4600,
+    "maxQuality": 11960,
     "name": {
       "de": "Genist-Feuerschale",
       "en": "Grade 2 Skybuilders' Brazier",
@@ -32017,7 +32017,7 @@
   {
     "baseLevel": 80,
     "difficulty": 3856,
-    "durability": 70,
+    "durability": 60,
     "level": 481,
     "maxQuality": 12323,
     "name": {
@@ -32054,7 +32054,7 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 2050,
+    "difficulty": 1845,
     "durability": 70,
     "level": 450,
     "maxQuality": 7900,
@@ -32133,7 +32133,7 @@
     "difficulty": 2050,
     "durability": 70,
     "level": 450,
-    "maxQuality": 7900,
+    "maxQuality": 3950,
     "name": {
       "de": "Kristallisierte Koralle",
       "en": "Crystallized Coral",
@@ -32396,10 +32396,10 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 2800,
-    "durability": 70,
+    "difficulty": 2240,
+    "durability": 35,
     "level": 480,
-    "maxQuality": 8500,
+    "maxQuality": 6375,
     "name": {
       "de": "Purpur-Perle",
       "en": "Purpure Bead",
@@ -32511,9 +32511,9 @@
   {
     "baseLevel": 71,
     "difficulty": 1195,
-    "durability": 80,
+    "durability": 60,
     "level": 390,
-    "maxQuality": 3763,
+    "maxQuality": 3010,
     "name": {
       "de": "Komponenten für ein spezielles Sammlerwerkzeug",
       "en": "Custom Gathering Tool Components",
@@ -32530,9 +32530,9 @@
   {
     "baseLevel": 72,
     "difficulty": 1220,
-    "durability": 80,
+    "durability": 60,
     "level": 395,
-    "maxQuality": 3800,
+    "maxQuality": 3040,
     "name": {
       "de": "Komponenten für ein spezielles Weberwerkzeug",
       "en": "Custom Weaving Components",
@@ -32549,9 +32549,9 @@
   {
     "baseLevel": 73,
     "difficulty": 1290,
-    "durability": 80,
+    "durability": 60,
     "level": 400,
-    "maxQuality": 3900,
+    "maxQuality": 3120,
     "name": {
       "de": "Komponenten für ein spezielles Werkzeug",
       "en": "Custom Crafting Tool Components",
@@ -32568,9 +32568,9 @@
   {
     "baseLevel": 74,
     "difficulty": 1360,
-    "durability": 80,
+    "durability": 60,
     "level": 403,
-    "maxQuality": 4000,
+    "maxQuality": 3200,
     "name": {
       "de": "Handverlesene kulinarische Köstlichkeiten",
       "en": "Handpicked Culinary Essentials",
@@ -32587,9 +32587,9 @@
   {
     "baseLevel": 75,
     "difficulty": 1430,
-    "durability": 80,
+    "durability": 60,
     "level": 406,
-    "maxQuality": 4100,
+    "maxQuality": 3280,
     "name": {
       "de": "Druckutensilien",
       "en": "Printing Essentials",
@@ -33081,7 +33081,7 @@
   {
     "baseLevel": 70,
     "difficulty": 1080,
-    "durability": 80,
+    "durability": 70,
     "level": 290,
     "maxQuality": 3600,
     "name": {
@@ -33099,8 +33099,8 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 1080,
-    "durability": 80,
+    "difficulty": 1134,
+    "durability": 70,
     "level": 290,
     "maxQuality": 3600,
     "name": {
@@ -33118,8 +33118,8 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 1080,
-    "durability": 80,
+    "difficulty": 1188,
+    "durability": 70,
     "level": 290,
     "maxQuality": 3600,
     "name": {
@@ -33137,10 +33137,10 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 1080,
-    "durability": 80,
+    "difficulty": 1242,
+    "durability": 70,
     "level": 290,
-    "maxQuality": 3600,
+    "maxQuality": 5040,
     "name": {
       "de": "Komponenten für eine Werkstattserweiterung",
       "en": "Workshop Expansion Supplies",
@@ -33156,10 +33156,10 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 1080,
-    "durability": 80,
+    "difficulty": 1242,
+    "durability": 70,
     "level": 290,
-    "maxQuality": 3600,
+    "maxQuality": 5220,
     "name": {
       "de": "Fließbandkomponenten",
       "en": "Automaton Worker Supplies",
@@ -33175,8 +33175,8 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 1080,
-    "durability": 80,
+    "difficulty": 1026,
+    "durability": 35,
     "level": 290,
     "maxQuality": 3600,
     "name": {
@@ -33194,8 +33194,8 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 1080,
-    "durability": 80,
+    "difficulty": 1188,
+    "durability": 70,
     "level": 290,
     "maxQuality": 3600,
     "name": {
@@ -33213,8 +33213,8 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 1080,
-    "durability": 80,
+    "difficulty": 1026,
+    "durability": 35,
     "level": 290,
     "maxQuality": 3600,
     "name": {
@@ -33232,8 +33232,8 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 1080,
-    "durability": 80,
+    "difficulty": 1026,
+    "durability": 35,
     "level": 290,
     "maxQuality": 3600,
     "name": {
@@ -33251,8 +33251,8 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 1080,
-    "durability": 80,
+    "difficulty": 1188,
+    "durability": 70,
     "level": 290,
     "maxQuality": 3600,
     "name": {
@@ -33270,8 +33270,8 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 1080,
-    "durability": 80,
+    "difficulty": 1026,
+    "durability": 35,
     "level": 290,
     "maxQuality": 3600,
     "name": {
@@ -33289,8 +33289,8 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 1080,
-    "durability": 80,
+    "difficulty": 1188,
+    "durability": 70,
     "level": 290,
     "maxQuality": 3600,
     "name": {
@@ -33309,9 +33309,9 @@
   {
     "baseLevel": 70,
     "difficulty": 1080,
-    "durability": 80,
+    "durability": 70,
     "level": 290,
-    "maxQuality": 3600,
+    "maxQuality": 4860,
     "name": {
       "de": "Hilfsmittel für die Motorwartung",
       "en": "Engine Component",
@@ -33327,8 +33327,8 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 1080,
-    "durability": 80,
+    "difficulty": 1026,
+    "durability": 35,
     "level": 290,
     "maxQuality": 3600,
     "name": {
@@ -33346,8 +33346,8 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 1080,
-    "durability": 80,
+    "difficulty": 1188,
+    "durability": 70,
     "level": 290,
     "maxQuality": 3600,
     "name": {
@@ -33366,9 +33366,9 @@
   {
     "baseLevel": 70,
     "difficulty": 1080,
-    "durability": 80,
+    "durability": 70,
     "level": 290,
-    "maxQuality": 3600,
+    "maxQuality": 4860,
     "name": {
       "de": "Barzubehörteil",
       "en": "Tavern Materials",
@@ -33384,8 +33384,8 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 1080,
-    "durability": 80,
+    "difficulty": 1026,
+    "durability": 35,
     "level": 290,
     "maxQuality": 3600,
     "name": {
@@ -33404,9 +33404,9 @@
   {
     "baseLevel": 70,
     "difficulty": 1080,
-    "durability": 80,
+    "durability": 70,
     "level": 290,
-    "maxQuality": 3600,
+    "maxQuality": 4860,
     "name": {
       "de": "Handelsgut",
       "en": "Bespoke Barter Item",
@@ -33422,8 +33422,8 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 1080,
-    "durability": 80,
+    "difficulty": 1026,
+    "durability": 35,
     "level": 290,
     "maxQuality": 3600,
     "name": {
@@ -33442,9 +33442,9 @@
   {
     "baseLevel": 70,
     "difficulty": 1080,
-    "durability": 80,
+    "durability": 70,
     "level": 290,
-    "maxQuality": 3600,
+    "maxQuality": 4860,
     "name": {
       "de": "Bestandteil der Panzerung des Zwergenpanzers",
       "en": "Experimental Plating Component",
@@ -33461,9 +33461,9 @@
   {
     "baseLevel": 70,
     "difficulty": 1080,
-    "durability": 80,
+    "durability": 70,
     "level": 290,
-    "maxQuality": 3600,
+    "maxQuality": 4860,
     "name": {
       "de": "Ronitts Muntermacher",
       "en": "Unfailing Eye Opener",
@@ -33479,8 +33479,8 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 1080,
-    "durability": 80,
+    "difficulty": 1026,
+    "durability": 35,
     "level": 290,
     "maxQuality": 3600,
     "name": {
@@ -33499,9 +33499,9 @@
   {
     "baseLevel": 70,
     "difficulty": 1080,
-    "durability": 80,
+    "durability": 70,
     "level": 290,
-    "maxQuality": 3600,
+    "maxQuality": 4860,
     "name": {
       "de": "Reparaturwerkstoff für Eisenbärte",
       "en": "Automaton Repair Component",
@@ -33517,8 +33517,8 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 1080,
-    "durability": 80,
+    "difficulty": 1026,
+    "durability": 35,
     "level": 290,
     "maxQuality": 3600,
     "name": {
@@ -33536,7 +33536,7 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 2300,
+    "difficulty": 1909,
     "durability": 70,
     "level": 460,
     "maxQuality": 8100,
@@ -33555,7 +33555,7 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 2800,
+    "difficulty": 1959,
     "durability": 70,
     "level": 480,
     "maxQuality": 8500,
@@ -33575,9 +33575,9 @@
   {
     "baseLevel": 20,
     "difficulty": 74,
-    "durability": 70,
+    "durability": 60,
     "level": 20,
-    "maxQuality": 510,
+    "maxQuality": 1198,
     "name": {
       "de": "Federfall-Rohmetall",
       "en": "Grade 3 Skybuilders' Ingot",
@@ -33594,9 +33594,9 @@
   {
     "baseLevel": 40,
     "difficulty": 138,
-    "durability": 80,
+    "durability": 60,
     "level": 40,
-    "maxQuality": 1400,
+    "maxQuality": 3500,
     "name": {
       "de": "Federfall-Eisenringe",
       "en": "Grade 3 Skybuilders' Rings",
@@ -33613,9 +33613,9 @@
   {
     "baseLevel": 60,
     "difficulty": 580,
-    "durability": 70,
+    "durability": 60,
     "level": 150,
-    "maxQuality": 2700,
+    "maxQuality": 6480,
     "name": {
       "de": "Federfall-Weberzeug",
       "en": "Grade 3 Skybuilders' Embroidery Frame",
@@ -33632,9 +33632,9 @@
   {
     "baseLevel": 70,
     "difficulty": 1080,
-    "durability": 80,
+    "durability": 60,
     "level": 290,
-    "maxQuality": 3600,
+    "maxQuality": 9900,
     "name": {
       "de": "Federfall-Naturbaustein",
       "en": "Grade 3 Skybuilders' Stone",
@@ -33651,9 +33651,9 @@
   {
     "baseLevel": 80,
     "difficulty": 1780,
-    "durability": 80,
+    "durability": 60,
     "level": 430,
-    "maxQuality": 4600,
+    "maxQuality": 11960,
     "name": {
       "de": "Federfall-Feuerschale",
       "en": "Grade 3 Skybuilders' Brazier",
@@ -33670,7 +33670,7 @@
   {
     "baseLevel": 80,
     "difficulty": 4672,
-    "durability": 70,
+    "durability": 50,
     "level": 511,
     "maxQuality": 15656,
     "name": {
@@ -33708,9 +33708,9 @@
   {
     "baseLevel": 20,
     "difficulty": 74,
-    "durability": 70,
+    "durability": 60,
     "level": 20,
-    "maxQuality": 510,
+    "maxQuality": 1198,
     "name": {
       "de": "Himmelsang-Rohmetall",
       "en": "Grade 4 Skybuilders' Ingot",
@@ -33727,9 +33727,9 @@
   {
     "baseLevel": 40,
     "difficulty": 138,
-    "durability": 80,
+    "durability": 60,
     "level": 40,
-    "maxQuality": 1400,
+    "maxQuality": 3500,
     "name": {
       "de": "Himmelsang-Eisenringe",
       "en": "Grade 4 Skybuilders' Rings",
@@ -33746,9 +33746,9 @@
   {
     "baseLevel": 60,
     "difficulty": 580,
-    "durability": 70,
+    "durability": 60,
     "level": 150,
-    "maxQuality": 2700,
+    "maxQuality": 6480,
     "name": {
       "de": "Himmelsang-Weberzeug",
       "en": "Grade 4 Skybuilders' Embroidery Frame",
@@ -33765,9 +33765,9 @@
   {
     "baseLevel": 70,
     "difficulty": 1080,
-    "durability": 80,
+    "durability": 60,
     "level": 290,
-    "maxQuality": 3600,
+    "maxQuality": 9900,
     "name": {
       "de": "Himmelsang-Naturbaustein",
       "en": "Grade 4 Skybuilders' Stone",
@@ -33784,9 +33784,9 @@
   {
     "baseLevel": 80,
     "difficulty": 1780,
-    "durability": 80,
+    "durability": 60,
     "level": 430,
-    "maxQuality": 4600,
+    "maxQuality": 11960,
     "name": {
       "de": "Himmelsang-Feuerschale",
       "en": "Grade 4 Skybuilders' Brazier",
@@ -33803,7 +33803,7 @@
   {
     "baseLevel": 80,
     "difficulty": 5059,
-    "durability": 70,
+    "durability": 55,
     "level": 513,
     "maxQuality": 15474,
     "name": {
@@ -34087,10 +34087,10 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 3600,
-    "durability": 70,
+    "difficulty": 2340,
+    "durability": 35,
     "level": 510,
-    "maxQuality": 9500,
+    "maxQuality": 7125,
     "name": {
       "de": "Nachtsonnenkristallplatten",
       "en": "Solstice Ingot",
@@ -34107,7 +34107,7 @@
   {
     "baseLevel": 80,
     "difficulty": 4220,
-    "durability": 70,
+    "durability": 60,
     "level": 512,
     "maxQuality": 14618,
     "name": {
@@ -34126,7 +34126,7 @@
   {
     "baseLevel": 80,
     "difficulty": 5077,
-    "durability": 70,
+    "durability": 55,
     "level": 514,
     "maxQuality": 14321,
     "name": {
@@ -34145,7 +34145,7 @@
   {
     "baseLevel": 80,
     "difficulty": 5095,
-    "durability": 70,
+    "durability": 55,
     "level": 515,
     "maxQuality": 14854,
     "name": {
@@ -34164,7 +34164,7 @@
   {
     "baseLevel": 80,
     "difficulty": 5470,
-    "durability": 70,
+    "durability": 60,
     "level": 516,
     "maxQuality": 16156,
     "name": {
@@ -34183,9 +34183,9 @@
   {
     "baseLevel": 71,
     "difficulty": 1195,
-    "durability": 80,
+    "durability": 60,
     "level": 390,
-    "maxQuality": 3763,
+    "maxQuality": 3010,
     "name": {
       "de": "Alltägliche Bedarfsgüter",
       "en": "Patient Necessities",
@@ -34202,9 +34202,9 @@
   {
     "baseLevel": 72,
     "difficulty": 1220,
-    "durability": 80,
+    "durability": 60,
     "level": 395,
-    "maxQuality": 3800,
+    "maxQuality": 3040,
     "name": {
       "de": "Medizinische Versorgungsgüter",
       "en": "Medical Supplies",
@@ -34221,9 +34221,9 @@
   {
     "baseLevel": 73,
     "difficulty": 1290,
-    "durability": 80,
+    "durability": 60,
     "level": 400,
-    "maxQuality": 3900,
+    "maxQuality": 3120,
     "name": {
       "de": "Rehabilitations-Hilfsmittel",
       "en": "Rehabilitation Aids",
@@ -34240,9 +34240,9 @@
   {
     "baseLevel": 75,
     "difficulty": 1430,
-    "durability": 80,
+    "durability": 60,
     "level": 406,
-    "maxQuality": 4100,
+    "maxQuality": 3280,
     "name": {
       "de": "Teestunden-Utensilien",
       "en": "High Tea Essentials",
@@ -34259,9 +34259,9 @@
   {
     "baseLevel": 77,
     "difficulty": 1570,
-    "durability": 80,
+    "durability": 60,
     "level": 412,
-    "maxQuality": 4300,
+    "maxQuality": 3440,
     "name": {
       "de": "Künstlerbedarf",
       "en": "Art Supplies",
@@ -34524,10 +34524,10 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 1780,
+    "difficulty": 1335,
     "durability": 80,
     "level": 430,
-    "maxQuality": 4600,
+    "maxQuality": 2760,
     "name": {
       "de": "Vergoldete Metallplatte",
       "en": "Gold Plating",
@@ -34543,10 +34543,10 @@
   },
   {
     "baseLevel": 83,
-    "difficulty": 2600,
+    "difficulty": 1950,
     "durability": 80,
     "level": 525,
-    "maxQuality": 6200,
+    "maxQuality": 3720,
     "name": {
       "de": "Vergoldetes Präzisionszahnrad",
       "en": "Gold Cog",
@@ -34562,10 +34562,10 @@
   },
   {
     "baseLevel": 85,
-    "difficulty": 3000,
+    "difficulty": 2250,
     "durability": 80,
     "level": 535,
-    "maxQuality": 6700,
+    "maxQuality": 4020,
     "name": {
       "de": "Vergoldetes Antriebsbauteil",
       "en": "Gold Motor Component",
@@ -34581,10 +34581,10 @@
   },
   {
     "baseLevel": 88,
-    "difficulty": 3300,
+    "difficulty": 2475,
     "durability": 80,
     "level": 550,
-    "maxQuality": 7000,
+    "maxQuality": 4200,
     "name": {
       "de": "Vergoldetes Stimmgenerator-Bauteil",
       "en": "Gold Mechanical Voice Box",
@@ -34600,10 +34600,10 @@
   },
   {
     "baseLevel": 85,
-    "difficulty": 3000,
+    "difficulty": 2250,
     "durability": 80,
     "level": 535,
-    "maxQuality": 6700,
+    "maxQuality": 4020,
     "name": {
       "de": "Vergoldeter Energiekern",
       "en": "Gold Core",
@@ -34619,10 +34619,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 3500,
+    "difficulty": 2625,
     "durability": 80,
     "level": 560,
-    "maxQuality": 7200,
+    "maxQuality": 4320,
     "name": {
       "de": "Vergoldetes Verbindungsstück",
       "en": "Gold Connector",
@@ -34641,7 +34641,7 @@
     "difficulty": 3900,
     "durability": 70,
     "level": 580,
-    "maxQuality": 7800,
+    "maxQuality": 10920,
     "name": {
       "de": "Klassisches Torquetum",
       "en": "Classical Torquetum",
@@ -34660,7 +34660,7 @@
     "difficulty": 3900,
     "durability": 70,
     "level": 580,
-    "maxQuality": 7800,
+    "maxQuality": 10920,
     "name": {
       "de": "Klassisches Rapier",
       "en": "Classical Smallsword",
@@ -34679,7 +34679,7 @@
     "difficulty": 3900,
     "durability": 70,
     "level": 580,
-    "maxQuality": 7800,
+    "maxQuality": 10920,
     "name": {
       "de": "Klassische Hascherlite",
       "en": "Classical Milpreves",
@@ -34698,7 +34698,7 @@
     "difficulty": 3900,
     "durability": 70,
     "level": 580,
-    "maxQuality": 7800,
+    "maxQuality": 10920,
     "name": {
       "de": "Klassischer Medici-Lorbeerkranz",
       "en": "Classical Medicus's Laurel Wreath",
@@ -34717,7 +34717,7 @@
     "difficulty": 3900,
     "durability": 70,
     "level": 580,
-    "maxQuality": 7800,
+    "maxQuality": 10920,
     "name": {
       "de": "Klassische Medici-Torques",
       "en": "Classical Medicus's Wrist Torque",
@@ -34736,7 +34736,7 @@
     "difficulty": 3900,
     "durability": 70,
     "level": 580,
-    "maxQuality": 7800,
+    "maxQuality": 10920,
     "name": {
       "de": "Klassisches Signiferi-Horn",
       "en": "Classical Signifer's Horns",
@@ -34755,7 +34755,7 @@
     "difficulty": 3900,
     "durability": 70,
     "level": 580,
-    "maxQuality": 7800,
+    "maxQuality": 10920,
     "name": {
       "de": "Klassische Ohrringe der Verteidigung",
       "en": "Classical Earrings of Fending",
@@ -34774,7 +34774,7 @@
     "difficulty": 3900,
     "durability": 70,
     "level": 580,
-    "maxQuality": 7800,
+    "maxQuality": 10920,
     "name": {
       "de": "Klassische Ohrringe des Schlachtens",
       "en": "Classical Earrings of Slaying",
@@ -34793,7 +34793,7 @@
     "difficulty": 3900,
     "durability": 70,
     "level": 580,
-    "maxQuality": 7800,
+    "maxQuality": 10920,
     "name": {
       "de": "Klassische Ohrringe des Zielens",
       "en": "Classical Earrings of Aiming",
@@ -34812,7 +34812,7 @@
     "difficulty": 3900,
     "durability": 70,
     "level": 580,
-    "maxQuality": 7800,
+    "maxQuality": 10920,
     "name": {
       "de": "Klassische Ohrringe der Heilung",
       "en": "Classical Earrings of Healing",
@@ -34831,7 +34831,7 @@
     "difficulty": 3900,
     "durability": 70,
     "level": 580,
-    "maxQuality": 7800,
+    "maxQuality": 10920,
     "name": {
       "de": "Klassische Ohrringe der Magie",
       "en": "Classical Earrings of Casting",
@@ -34850,7 +34850,7 @@
     "difficulty": 3900,
     "durability": 70,
     "level": 580,
-    "maxQuality": 7800,
+    "maxQuality": 10920,
     "name": {
       "de": "Klassischer Ring der Verteidigung",
       "en": "Classical Ring of Fending",
@@ -34869,7 +34869,7 @@
     "difficulty": 3900,
     "durability": 70,
     "level": 580,
-    "maxQuality": 7800,
+    "maxQuality": 10920,
     "name": {
       "de": "Klassischer Ring des Schlachtens",
       "en": "Classical Ring of Slaying",
@@ -34888,7 +34888,7 @@
     "difficulty": 3900,
     "durability": 70,
     "level": 580,
-    "maxQuality": 7800,
+    "maxQuality": 10920,
     "name": {
       "de": "Klassischer Ring des Zielens",
       "en": "Classical Ring of Aiming",
@@ -34907,7 +34907,7 @@
     "difficulty": 3900,
     "durability": 70,
     "level": 580,
-    "maxQuality": 7800,
+    "maxQuality": 10920,
     "name": {
       "de": "Klassischer Ring der Heilung",
       "en": "Classical Ring of Healing",
@@ -34926,7 +34926,7 @@
     "difficulty": 3900,
     "durability": 70,
     "level": 580,
-    "maxQuality": 7800,
+    "maxQuality": 10920,
     "name": {
       "de": "Klassischer Ring der Magie",
       "en": "Classical Ring of Casting",
@@ -34942,8 +34942,8 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 3900,
-    "durability": 70,
+    "difficulty": 2925,
+    "durability": 35,
     "level": 580,
     "maxQuality": 7800,
     "name": {
@@ -34981,9 +34981,9 @@
   {
     "baseLevel": 80,
     "difficulty": 1780,
-    "durability": 80,
+    "durability": 60,
     "level": 430,
-    "maxQuality": 4600,
+    "maxQuality": 3680,
     "name": {
       "de": "Akademisches Schreibset",
       "en": "Aetheroconductive Quill",
@@ -35000,9 +35000,9 @@
   {
     "baseLevel": 80,
     "difficulty": 1900,
-    "durability": 70,
+    "durability": 60,
     "level": 440,
-    "maxQuality": 6000,
+    "maxQuality": 3960,
     "name": {
       "de": "Akademisches Magie-Rüstzeug",
       "en": "Aetheroconductive Focus",
@@ -35019,9 +35019,9 @@
   {
     "baseLevel": 81,
     "difficulty": 2000,
-    "durability": 80,
+    "durability": 60,
     "level": 517,
-    "maxQuality": 5200,
+    "maxQuality": 4160,
     "name": {
       "de": "Ätherothermosdose",
       "en": "Luncheon Coffer",
@@ -35038,9 +35038,9 @@
   {
     "baseLevel": 82,
     "difficulty": 2300,
-    "durability": 80,
+    "durability": 60,
     "level": 520,
-    "maxQuality": 5700,
+    "maxQuality": 4560,
     "name": {
       "de": "Ätherionette",
       "en": "Aetheroconductive Mammet",
@@ -35057,9 +35057,9 @@
   {
     "baseLevel": 83,
     "difficulty": 2600,
-    "durability": 80,
+    "durability": 60,
     "level": 525,
-    "maxQuality": 6200,
+    "maxQuality": 4960,
     "name": {
       "de": "Akademische Ausstattung",
       "en": "School Supplies",
@@ -35078,7 +35078,7 @@
     "difficulty": 4300,
     "durability": 70,
     "level": 590,
-    "maxQuality": 8000,
+    "maxQuality": 12800,
     "name": {
       "de": "Paktschließer-Nadel",
       "en": "Pactmaker's Needle",
@@ -35170,10 +35170,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4300,
-    "durability": 70,
+    "difficulty": 3010,
+    "durability": 35,
     "level": 590,
-    "maxQuality": 8000,
+    "maxQuality": 8400,
     "name": {
       "de": "Eblan-Danburit",
       "en": "Eblan Danburite",
@@ -35189,10 +35189,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 5060,
     "durability": 70,
     "level": 610,
-    "maxQuality": 8200,
+    "maxQuality": 12628,
     "name": {
       "de": "Rinascita-Stab",
       "en": "Rinascita Rod",
@@ -35208,10 +35208,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 5060,
     "durability": 70,
     "level": 610,
-    "maxQuality": 8200,
+    "maxQuality": 12628,
     "name": {
       "de": "Rinascita-Planisphäre",
       "en": "Rinascita Planisphere",
@@ -35227,10 +35227,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 5060,
     "durability": 70,
     "level": 610,
-    "maxQuality": 8200,
+    "maxQuality": 12628,
     "name": {
       "de": "Rinascita-Rapier",
       "en": "Rinascita Rapier",
@@ -35246,10 +35246,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 5060,
     "durability": 70,
     "level": 610,
-    "maxQuality": 8200,
+    "maxQuality": 12628,
     "name": {
       "de": "Rinascita-Perpendikel",
       "en": "Rinascita Pendulums",
@@ -35265,10 +35265,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 5060,
     "durability": 70,
     "level": 610,
-    "maxQuality": 8200,
+    "maxQuality": 12628,
     "name": {
       "de": "Rinascita-Haube des Schlagens",
       "en": "Rinascita Hood of Striking",
@@ -35284,10 +35284,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 5060,
     "durability": 70,
     "level": 610,
-    "maxQuality": 8200,
+    "maxQuality": 12628,
     "name": {
       "de": "Rinascita-Barett des Zielens",
       "en": "Rinascita Beret of Aiming",
@@ -35303,10 +35303,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 5060,
     "durability": 70,
     "level": 610,
-    "maxQuality": 8200,
+    "maxQuality": 12628,
     "name": {
       "de": "Rinascita-Haube des Spähens",
       "en": "Rinascita Hood of Scouting",
@@ -35322,10 +35322,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 5060,
     "durability": 70,
     "level": 610,
-    "maxQuality": 8200,
+    "maxQuality": 12628,
     "name": {
       "de": "Rinascita-Barett der Heilung",
       "en": "Rinascita Beret of Healing",
@@ -35341,10 +35341,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 5060,
     "durability": 70,
     "level": 610,
-    "maxQuality": 8200,
+    "maxQuality": 12628,
     "name": {
       "de": "Rinascita-Haube der Magie",
       "en": "Rinascita Hood of Casting",
@@ -35360,10 +35360,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 5060,
     "durability": 70,
     "level": 610,
-    "maxQuality": 8200,
+    "maxQuality": 12628,
     "name": {
       "de": "Rinascita-Halsband der Verteidigung",
       "en": "Rinascita Necklace of Fending",
@@ -35379,10 +35379,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 5060,
     "durability": 70,
     "level": 610,
-    "maxQuality": 8200,
+    "maxQuality": 12628,
     "name": {
       "de": "Rinascita-Halsband des Schlachtens",
       "en": "Rinascita Necklace of Slaying",
@@ -35398,10 +35398,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 5060,
     "durability": 70,
     "level": 610,
-    "maxQuality": 8200,
+    "maxQuality": 12628,
     "name": {
       "de": "Rinascita-Halsband des Zielens",
       "en": "Rinascita Necklace of Aiming",
@@ -35417,10 +35417,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 5060,
     "durability": 70,
     "level": 610,
-    "maxQuality": 8200,
+    "maxQuality": 12628,
     "name": {
       "de": "Rinascita-Halsband der Heilung",
       "en": "Rinascita Necklace of Healing",
@@ -35436,10 +35436,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 5060,
     "durability": 70,
     "level": 610,
-    "maxQuality": 8200,
+    "maxQuality": 12628,
     "name": {
       "de": "Rinascita-Halsband der Magie",
       "en": "Rinascita Necklace of Casting",
@@ -35455,8 +35455,8 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
-    "durability": 70,
+    "difficulty": 3696,
+    "durability": 35,
     "level": 610,
     "maxQuality": 8200,
     "name": {
@@ -35475,7 +35475,7 @@
   {
     "baseLevel": 90,
     "difficulty": 7480,
-    "durability": 70,
+    "durability": 60,
     "level": 611,
     "maxQuality": 13620,
     "name": {
@@ -35550,8 +35550,8 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 1780,
-    "durability": 80,
+    "difficulty": 1335,
+    "durability": 35,
     "level": 430,
     "maxQuality": 4600,
     "name": {
@@ -35570,7 +35570,7 @@
   {
     "baseLevel": 80,
     "difficulty": 1780,
-    "durability": 80,
+    "durability": 70,
     "level": 430,
     "maxQuality": 4600,
     "name": {
@@ -35589,7 +35589,7 @@
   {
     "baseLevel": 80,
     "difficulty": 1780,
-    "durability": 80,
+    "durability": 70,
     "level": 430,
     "maxQuality": 4600,
     "name": {
@@ -35608,9 +35608,9 @@
   {
     "baseLevel": 80,
     "difficulty": 1780,
-    "durability": 80,
+    "durability": 70,
     "level": 430,
-    "maxQuality": 4600,
+    "maxQuality": 6900,
     "name": {
       "de": "Künstlerutensilien",
       "en": "Painting Supplies",
@@ -35627,9 +35627,9 @@
   {
     "baseLevel": 80,
     "difficulty": 1780,
-    "durability": 80,
+    "durability": 70,
     "level": 430,
-    "maxQuality": 4600,
+    "maxQuality": 7360,
     "name": {
       "de": "Radiostation-Bestandteile",
       "en": "Radio Equipment",
@@ -35645,8 +35645,8 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 1780,
-    "durability": 80,
+    "difficulty": 1335,
+    "durability": 35,
     "level": 430,
     "maxQuality": 4600,
     "name": {
@@ -35665,7 +35665,7 @@
   {
     "baseLevel": 80,
     "difficulty": 1780,
-    "durability": 80,
+    "durability": 70,
     "level": 430,
     "maxQuality": 4600,
     "name": {
@@ -35683,8 +35683,8 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 1780,
-    "durability": 80,
+    "difficulty": 1335,
+    "durability": 35,
     "level": 430,
     "maxQuality": 4600,
     "name": {
@@ -35702,8 +35702,8 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 1780,
-    "durability": 80,
+    "difficulty": 1335,
+    "durability": 35,
     "level": 430,
     "maxQuality": 4600,
     "name": {
@@ -35722,7 +35722,7 @@
   {
     "baseLevel": 80,
     "difficulty": 1780,
-    "durability": 80,
+    "durability": 70,
     "level": 430,
     "maxQuality": 4600,
     "name": {
@@ -35740,8 +35740,8 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 1780,
-    "durability": 80,
+    "difficulty": 1335,
+    "durability": 35,
     "level": 430,
     "maxQuality": 4600,
     "name": {
@@ -35759,8 +35759,8 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 1780,
-    "durability": 80,
+    "difficulty": 1335,
+    "durability": 35,
     "level": 430,
     "maxQuality": 4600,
     "name": {
@@ -35779,9 +35779,9 @@
   {
     "baseLevel": 80,
     "difficulty": 1780,
-    "durability": 80,
+    "durability": 70,
     "level": 430,
-    "maxQuality": 4600,
+    "maxQuality": 6440,
     "name": {
       "de": "Element des Aufnahme-Supports",
       "en": "Audio Recording Component",
@@ -35797,8 +35797,8 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 1780,
-    "durability": 80,
+    "difficulty": 1335,
+    "durability": 35,
     "level": 430,
     "maxQuality": 4600,
     "name": {
@@ -35817,9 +35817,9 @@
   {
     "baseLevel": 80,
     "difficulty": 1780,
-    "durability": 80,
+    "durability": 70,
     "level": 430,
-    "maxQuality": 4600,
+    "maxQuality": 6440,
     "name": {
       "de": "Abenteuerspielzeugelement",
       "en": "Occult Paraphernalia",
@@ -35835,8 +35835,8 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 1780,
-    "durability": 80,
+    "difficulty": 1335,
+    "durability": 35,
     "level": 430,
     "maxQuality": 4600,
     "name": {
@@ -35855,9 +35855,9 @@
   {
     "baseLevel": 80,
     "difficulty": 1780,
-    "durability": 80,
+    "durability": 70,
     "level": 430,
-    "maxQuality": 4600,
+    "maxQuality": 6440,
     "name": {
       "de": "Karottenfrosterelement",
       "en": "Carrot Chiller Component",
@@ -35874,7 +35874,7 @@
   {
     "baseLevel": 80,
     "difficulty": 1780,
-    "durability": 80,
+    "durability": 70,
     "level": 430,
     "maxQuality": 4600,
     "name": {
@@ -35893,7 +35893,7 @@
   {
     "baseLevel": 80,
     "difficulty": 1780,
-    "durability": 80,
+    "durability": 70,
     "level": 430,
     "maxQuality": 4600,
     "name": {
@@ -35912,9 +35912,9 @@
   {
     "baseLevel": 80,
     "difficulty": 1780,
-    "durability": 80,
+    "durability": 70,
     "level": 430,
-    "maxQuality": 4600,
+    "maxQuality": 6440,
     "name": {
       "de": "Sportutensil",
       "en": "“Exercise Equipment”",
@@ -35930,8 +35930,8 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 1780,
-    "durability": 80,
+    "difficulty": 1335,
+    "durability": 35,
     "level": 430,
     "maxQuality": 4600,
     "name": {
@@ -35950,9 +35950,9 @@
   {
     "baseLevel": 80,
     "difficulty": 1780,
-    "durability": 80,
+    "durability": 70,
     "level": 430,
-    "maxQuality": 4600,
+    "maxQuality": 6440,
     "name": {
       "de": "Extrastarker Farbreiniger",
       "en": "Super Sudsy Soap Bars",
@@ -35968,8 +35968,8 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 1780,
-    "durability": 80,
+    "difficulty": 1335,
+    "durability": 35,
     "level": 430,
     "maxQuality": 4600,
     "name": {
@@ -35988,9 +35988,9 @@
   {
     "baseLevel": 80,
     "difficulty": 1780,
-    "durability": 80,
+    "durability": 70,
     "level": 430,
-    "maxQuality": 4600,
+    "maxQuality": 6440,
     "name": {
       "de": "Modeaccessoire",
       "en": "Fashionable Thingums",
@@ -36007,9 +36007,9 @@
   {
     "baseLevel": 81,
     "difficulty": 2000,
-    "durability": 80,
+    "durability": 60,
     "level": 517,
-    "maxQuality": 5200,
+    "maxQuality": 4160,
     "name": {
       "de": "Hirten-Werkzeug",
       "en": "Sheep Equipment",
@@ -36026,9 +36026,9 @@
   {
     "baseLevel": 82,
     "difficulty": 2300,
-    "durability": 80,
+    "durability": 60,
     "level": 520,
-    "maxQuality": 5700,
+    "maxQuality": 4560,
     "name": {
       "de": "Kälteschutzmütze",
       "en": "Mountain Garb",
@@ -36045,9 +36045,9 @@
   {
     "baseLevel": 83,
     "difficulty": 2600,
-    "durability": 80,
+    "durability": 60,
     "level": 525,
-    "maxQuality": 6200,
+    "maxQuality": 4960,
     "name": {
       "de": "Voeburtische Spezialität",
       "en": "Classic Voeburtite Cuisine",
@@ -36064,9 +36064,9 @@
   {
     "baseLevel": 84,
     "difficulty": 2900,
-    "durability": 80,
+    "durability": 60,
     "level": 530,
-    "maxQuality": 6600,
+    "maxQuality": 5280,
     "name": {
       "de": "Voeburtisches Kunsthandwerk",
       "en": "Traditional Voeburtite Handicraft",
@@ -36083,9 +36083,9 @@
   {
     "baseLevel": 85,
     "difficulty": 3000,
-    "durability": 80,
+    "durability": 60,
     "level": 535,
-    "maxQuality": 6700,
+    "maxQuality": 5360,
     "name": {
       "de": "Dankesgeschenk",
       "en": "Lovely Box of Pretty Things",
@@ -36102,9 +36102,9 @@
   {
     "baseLevel": 90,
     "difficulty": 3700,
-    "durability": 80,
+    "durability": 60,
     "level": 570,
-    "maxQuality": 7400,
+    "maxQuality": 9028,
     "name": {
       "de": "Sammler-Schminkspiegel",
       "en": "Connoisseur's Vanity Mirror",
@@ -36121,9 +36121,9 @@
   {
     "baseLevel": 90,
     "difficulty": 3900,
-    "durability": 70,
+    "durability": 60,
     "level": 580,
-    "maxQuality": 7800,
+    "maxQuality": 11154,
     "name": {
       "de": "Sammler-Astroskop",
       "en": "Connoisseur's Astroscope",
@@ -36139,10 +36139,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 5720,
     "durability": 70,
     "level": 620,
-    "maxQuality": 8600,
+    "maxQuality": 12900,
     "name": {
       "de": "Ermittler-Nadel",
       "en": "Indagator's Needle",
@@ -36158,10 +36158,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 5720,
     "durability": 70,
     "level": 620,
-    "maxQuality": 8600,
+    "maxQuality": 12900,
     "name": {
       "de": "Ermittler-Schutzbrille des Handwerks",
       "en": "Indagator's Goggles of Crafting",
@@ -36177,8 +36177,8 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
-    "durability": 70,
+    "difficulty": 3696,
+    "durability": 35,
     "level": 620,
     "maxQuality": 8600,
     "name": {
@@ -36253,10 +36253,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 7920,
     "durability": 60,
     "level": 621,
-    "maxQuality": 8620,
+    "maxQuality": 17240,
     "name": {
       "de": "Garten-Otterborn-Metallteile",
       "en": "Smaller Water Otter Fountain Hardware",
@@ -36272,10 +36272,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 6600,
     "durability": 70,
     "level": 640,
-    "maxQuality": 9000,
+    "maxQuality": 14040,
     "name": {
       "de": "Diadochen-Stock",
       "en": "Diadochos Cane",
@@ -36291,10 +36291,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 6600,
     "durability": 70,
     "level": 640,
-    "maxQuality": 9000,
+    "maxQuality": 14040,
     "name": {
       "de": "Diadochen-Stab",
       "en": "Diadochos Rod",
@@ -36310,10 +36310,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 6600,
     "durability": 70,
     "level": 640,
-    "maxQuality": 9000,
+    "maxQuality": 14040,
     "name": {
       "de": "Diadochen-Planisphäre",
       "en": "Diadochos Planisphere",
@@ -36329,10 +36329,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 6600,
     "durability": 70,
     "level": 640,
-    "maxQuality": 9000,
+    "maxQuality": 14040,
     "name": {
       "de": "Diadochen-Rapier",
       "en": "Diadochos Smallsword",
@@ -36348,10 +36348,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 6600,
     "durability": 70,
     "level": 640,
-    "maxQuality": 9000,
+    "maxQuality": 14040,
     "name": {
       "de": "Diadochen-Schwingen",
       "en": "Diadochos Wings",
@@ -36367,10 +36367,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 6600,
     "durability": 70,
     "level": 640,
-    "maxQuality": 9000,
+    "maxQuality": 14040,
     "name": {
       "de": "Diadochen-Halskette der Verteidigung",
       "en": "Diadochos Choker of Fending",
@@ -36386,10 +36386,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 6600,
     "durability": 70,
     "level": 640,
-    "maxQuality": 9000,
+    "maxQuality": 14040,
     "name": {
       "de": "Diadochen-Halskette des Schlachtens",
       "en": "Diadochos Choker of Slaying",
@@ -36405,10 +36405,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 6600,
     "durability": 70,
     "level": 640,
-    "maxQuality": 9000,
+    "maxQuality": 14040,
     "name": {
       "de": "Diadochen-Halskette des Zielens",
       "en": "Diadochos Choker of Aiming",
@@ -36424,10 +36424,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 6600,
     "durability": 70,
     "level": 640,
-    "maxQuality": 9000,
+    "maxQuality": 14040,
     "name": {
       "de": "Diadochen-Halskette der Heilung",
       "en": "Diadochos Choker of Healing",
@@ -36443,10 +36443,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 6600,
     "durability": 70,
     "level": 640,
-    "maxQuality": 9000,
+    "maxQuality": 14040,
     "name": {
       "de": "Diadochen-Halskette der Magie",
       "en": "Diadochos Choker of Casting",
@@ -36462,10 +36462,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 6600,
     "durability": 70,
     "level": 640,
-    "maxQuality": 9000,
+    "maxQuality": 14040,
     "name": {
       "de": "Diadochen-Armband der Verteidigung",
       "en": "Diadochos Wristband of Fending",
@@ -36481,10 +36481,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 6600,
     "durability": 70,
     "level": 640,
-    "maxQuality": 9000,
+    "maxQuality": 14040,
     "name": {
       "de": "Diadochen-Armband des Schlachtens",
       "en": "Diadochos Wristband of Slaying",
@@ -36500,10 +36500,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 6600,
     "durability": 70,
     "level": 640,
-    "maxQuality": 9000,
+    "maxQuality": 14040,
     "name": {
       "de": "Diadochen-Armband des Zielens",
       "en": "Diadochos Wristband of Aiming",
@@ -36519,10 +36519,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 6600,
     "durability": 70,
     "level": 640,
-    "maxQuality": 9000,
+    "maxQuality": 14040,
     "name": {
       "de": "Diadochen-Armband der Heilung",
       "en": "Diadochos Wristband of Healing",
@@ -36538,10 +36538,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 6600,
     "durability": 70,
     "level": 640,
-    "maxQuality": 9000,
+    "maxQuality": 14040,
     "name": {
       "de": "Diadochen-Armband der Magie",
       "en": "Diadochos Wristband of Casting",
@@ -36557,10 +36557,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
-    "durability": 70,
+    "difficulty": 4488,
+    "durability": 35,
     "level": 640,
-    "maxQuality": 9000,
+    "maxQuality": 9090,
     "name": {
       "de": "Spodumen",
       "en": "Spodumene",
@@ -36576,10 +36576,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
-    "durability": 70,
+    "difficulty": 4620,
+    "durability": 60,
     "level": 620,
-    "maxQuality": 8600,
+    "maxQuality": 12040,
     "name": {
       "de": "Sammler-Gleve",
       "en": "Connoisseur's Glaives",
@@ -36595,10 +36595,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
-    "durability": 70,
+    "difficulty": 5280,
+    "durability": 60,
     "level": 625,
-    "maxQuality": 8700,
+    "maxQuality": 13050,
     "name": {
       "de": "Sammler-Baghnakhs",
       "en": "Connoisseur's Baghnakhs",
@@ -36614,10 +36614,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 8800,
     "durability": 60,
     "level": 641,
-    "maxQuality": 9020,
+    "maxQuality": 18040,
     "name": {
       "de": "Gymnastikutter-Metallteile",
       "en": "Uncharted Course Hardware",
@@ -36672,9 +36672,9 @@
   {
     "baseLevel": 81,
     "difficulty": 2000,
-    "durability": 80,
+    "durability": 60,
     "level": 517,
-    "maxQuality": 5200,
+    "maxQuality": 4160,
     "name": {
       "de": "Rückenfreude-Kissenset",
       "en": "Cushion Care Package",
@@ -36691,9 +36691,9 @@
   {
     "baseLevel": 82,
     "difficulty": 2300,
-    "durability": 80,
+    "durability": 60,
     "level": 520,
-    "maxQuality": 5700,
+    "maxQuality": 4560,
     "name": {
       "de": "Katzenfreude-Spielzeug",
       "en": "Feline Recreational Device",
@@ -36710,9 +36710,9 @@
   {
     "baseLevel": 83,
     "difficulty": 2600,
-    "durability": 80,
+    "durability": 60,
     "level": 525,
-    "maxQuality": 6200,
+    "maxQuality": 4960,
     "name": {
       "de": "Faszinierendes Figürchen",
       "en": "Mesmerizing Miniature",
@@ -36729,9 +36729,9 @@
   {
     "baseLevel": 85,
     "difficulty": 3000,
-    "durability": 80,
+    "durability": 60,
     "level": 535,
-    "maxQuality": 6700,
+    "maxQuality": 5360,
     "name": {
       "de": "Augenfreude-Elixir",
       "en": "Energizing Eye-lixir",
@@ -36748,9 +36748,9 @@
   {
     "baseLevel": 87,
     "difficulty": 3200,
-    "durability": 80,
+    "durability": 60,
     "level": 545,
-    "maxQuality": 6900,
+    "maxQuality": 5520,
     "name": {
       "de": "Forscherpausen-Set",
       "en": "Researcher's Relaxation Kit",
@@ -36766,10 +36766,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
-    "durability": 70,
+    "difficulty": 6600,
+    "durability": 60,
     "level": 642,
-    "maxQuality": 9040,
+    "maxQuality": 15368,
     "name": {
       "de": "Sammler-Waschbecken",
       "en": "Connoisseur's Washbasin",
@@ -36785,10 +36785,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
-    "durability": 70,
+    "difficulty": 7040,
+    "durability": 60,
     "level": 643,
-    "maxQuality": 9060,
+    "maxQuality": 16308,
     "name": {
       "de": "Sammler-Marmorbrunnen",
       "en": "Connoisseur's Marble Fountain",
@@ -36804,10 +36804,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 4400,
+    "difficulty": 9240,
     "durability": 70,
     "level": 644,
-    "maxQuality": 9080,
+    "maxQuality": 20066,
     "name": {
       "de": "Hagenhain-Metallteile",
       "en": "Aetherial Arbor Hardware",
@@ -36918,10 +36918,10 @@
   },
   {
     "baseLevel": 90,
-    "difficulty": 3500,
+    "difficulty": 2625,
     "durability": 80,
     "level": 560,
-    "maxQuality": 7200,
+    "maxQuality": 4320,
     "name": {
       "de": "Schilfsense",
       "en": "Reed Scythe",
@@ -36937,10 +36937,10 @@
   },
   {
     "baseLevel": 93,
-    "difficulty": 4500,
+    "difficulty": 3375,
     "durability": 80,
     "level": 656,
-    "maxQuality": 9000,
+    "maxQuality": 5400,
     "name": {
       "de": "Tortillapresse",
       "en": "Tortilla Press",
@@ -36956,10 +36956,10 @@
   },
   {
     "baseLevel": 95,
-    "difficulty": 5100,
+    "difficulty": 3825,
     "durability": 80,
     "level": 665,
-    "maxQuality": 9800,
+    "maxQuality": 5880,
     "name": {
       "de": "Leichtgewichtige Laterne",
       "en": "Lightweight Lantern",
@@ -36975,10 +36975,10 @@
   },
   {
     "baseLevel": 98,
-    "difficulty": 6000,
+    "difficulty": 4500,
     "durability": 80,
     "level": 680,
-    "maxQuality": 11000,
+    "maxQuality": 6600,
     "name": {
       "de": "Zeremonielles Räuchergefäß",
       "en": "Ceremonial Censer",
@@ -36994,10 +36994,10 @@
   },
   {
     "baseLevel": 95,
-    "difficulty": 5100,
+    "difficulty": 3825,
     "durability": 80,
     "level": 665,
-    "maxQuality": 9800,
+    "maxQuality": 5880,
     "name": {
       "de": "Drehachse",
       "en": "Fulcrum",
@@ -37013,10 +37013,10 @@
   },
   {
     "baseLevel": 100,
-    "difficulty": 6600,
+    "difficulty": 4950,
     "durability": 80,
     "level": 690,
-    "maxQuality": 12000,
+    "maxQuality": 7200,
     "name": {
       "de": "Solarreflektor",
       "en": "Solar Reflector",
@@ -37149,7 +37149,7 @@
     "difficulty": 7500,
     "durability": 70,
     "level": 710,
-    "maxQuality": 15000,
+    "maxQuality": 16500,
     "name": {
       "de": "Altkönigreich-Bogen",
       "en": "Archeo Kingdom Bow",
@@ -37168,7 +37168,7 @@
     "difficulty": 7500,
     "durability": 70,
     "level": 710,
-    "maxQuality": 15000,
+    "maxQuality": 16500,
     "name": {
       "de": "Altkönigreich-Dolche",
       "en": "Archeo Kingdom Daggers",
@@ -37187,7 +37187,7 @@
     "difficulty": 7500,
     "durability": 70,
     "level": 710,
-    "maxQuality": 15000,
+    "maxQuality": 16500,
     "name": {
       "de": "Altkönigreich-Planisphäre",
       "en": "Archeo Kingdom Planisphere",
@@ -37206,7 +37206,7 @@
     "difficulty": 7500,
     "durability": 70,
     "level": 710,
-    "maxQuality": 15000,
+    "maxQuality": 16500,
     "name": {
       "de": "Altkönigreich-Estoc",
       "en": "Archeo Kingdom Tuck",
@@ -37225,7 +37225,7 @@
     "difficulty": 7500,
     "durability": 70,
     "level": 710,
-    "maxQuality": 15000,
+    "maxQuality": 16500,
     "name": {
       "de": "Altkönigreich-Hascherlite",
       "en": "Archeo Kingdom Milpreves",
@@ -37244,7 +37244,7 @@
     "difficulty": 7500,
     "durability": 70,
     "level": 710,
-    "maxQuality": 15000,
+    "maxQuality": 16500,
     "name": {
       "de": "Altkönigreich-Ohrringe der Verteidigung",
       "en": "Archeo Kingdom Earrings of Fending",
@@ -37263,7 +37263,7 @@
     "difficulty": 7500,
     "durability": 70,
     "level": 710,
-    "maxQuality": 15000,
+    "maxQuality": 16500,
     "name": {
       "de": "Altkönigreich-Ohrringe des Schlachtens",
       "en": "Archeo Kingdom Earrings of Slaying",
@@ -37282,7 +37282,7 @@
     "difficulty": 7500,
     "durability": 70,
     "level": 710,
-    "maxQuality": 15000,
+    "maxQuality": 16500,
     "name": {
       "de": "Altkönigreich-Ohrringe des Zielens",
       "en": "Archeo Kingdom Earrings of Aiming",
@@ -37301,7 +37301,7 @@
     "difficulty": 7500,
     "durability": 70,
     "level": 710,
-    "maxQuality": 15000,
+    "maxQuality": 16500,
     "name": {
       "de": "Altkönigreich-Ohrringe der Heilung",
       "en": "Archeo Kingdom Earrings of Healing",
@@ -37320,7 +37320,7 @@
     "difficulty": 7500,
     "durability": 70,
     "level": 710,
-    "maxQuality": 15000,
+    "maxQuality": 16500,
     "name": {
       "de": "Altkönigreich-Ohrringe der Magie",
       "en": "Archeo Kingdom Earrings of Casting",
@@ -37339,7 +37339,7 @@
     "difficulty": 7500,
     "durability": 70,
     "level": 710,
-    "maxQuality": 15000,
+    "maxQuality": 16500,
     "name": {
       "de": "Altkönigreich-Armband-Bund der Verteidigung",
       "en": "Archeo Kingdom Wristband of Fending",
@@ -37358,7 +37358,7 @@
     "difficulty": 7500,
     "durability": 70,
     "level": 710,
-    "maxQuality": 15000,
+    "maxQuality": 16500,
     "name": {
       "de": "Altkönigreich-Armband-Bund des Schlachtens",
       "en": "Archeo Kingdom Wristband of Slaying",
@@ -37377,7 +37377,7 @@
     "difficulty": 7500,
     "durability": 70,
     "level": 710,
-    "maxQuality": 15000,
+    "maxQuality": 16500,
     "name": {
       "de": "Altkönigreich-Armband-Bund des Zielens",
       "en": "Archeo Kingdom Wristband of Aiming",
@@ -37396,7 +37396,7 @@
     "difficulty": 7500,
     "durability": 70,
     "level": 710,
-    "maxQuality": 15000,
+    "maxQuality": 16500,
     "name": {
       "de": "Altkönigreich-Armband-Bund der Heilung",
       "en": "Archeo Kingdom Wristband of Healing",
@@ -37415,7 +37415,7 @@
     "difficulty": 7500,
     "durability": 70,
     "level": 710,
-    "maxQuality": 15000,
+    "maxQuality": 16500,
     "name": {
       "de": "Altkönigreich-Armband-Bund der Magie",
       "en": "Archeo Kingdom Wristband of Casting",
@@ -37434,7 +37434,7 @@
     "difficulty": 7500,
     "durability": 70,
     "level": 710,
-    "maxQuality": 15000,
+    "maxQuality": 16500,
     "name": {
       "de": "Altkönigreich-Ring der Verteidigung",
       "en": "Archeo Kingdom Ring of Fending",
@@ -37453,7 +37453,7 @@
     "difficulty": 7500,
     "durability": 70,
     "level": 710,
-    "maxQuality": 15000,
+    "maxQuality": 16500,
     "name": {
       "de": "Altkönigreich-Ring des Schlachtens",
       "en": "Archeo Kingdom Ring of Slaying",
@@ -37472,7 +37472,7 @@
     "difficulty": 7500,
     "durability": 70,
     "level": 710,
-    "maxQuality": 15000,
+    "maxQuality": 16500,
     "name": {
       "de": "Altkönigreich-Ring des Zielens",
       "en": "Archeo Kingdom Ring of Aiming",
@@ -37491,7 +37491,7 @@
     "difficulty": 7500,
     "durability": 70,
     "level": 710,
-    "maxQuality": 15000,
+    "maxQuality": 16500,
     "name": {
       "de": "Altkönigreich-Ring der Heilung",
       "en": "Archeo Kingdom Ring of Healing",
@@ -37510,7 +37510,7 @@
     "difficulty": 7500,
     "durability": 70,
     "level": 710,
-    "maxQuality": 15000,
+    "maxQuality": 16500,
     "name": {
       "de": "Altkönigreich-Ring der Magie",
       "en": "Archeo Kingdom Ring of Casting",
@@ -37526,10 +37526,10 @@
   },
   {
     "baseLevel": 100,
-    "difficulty": 7500,
-    "durability": 70,
+    "difficulty": 4125,
+    "durability": 35,
     "level": 710,
-    "maxQuality": 15000,
+    "maxQuality": 12000,
     "name": {
       "de": "Sternensilber-Barren",
       "en": "Sterling Silver Ingot",
