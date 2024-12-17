@@ -3,7 +3,7 @@
 source "https://rubygems.org"
 
 # Manage our dependency on the version of the github-pages gem here.
-gem "github-pages", "= 231"
+gem "github-pages", "232"
 
 # Explicitly include this gem here.
 # It is not directly included in the github-pages gem list of dependencies,
