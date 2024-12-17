@@ -9,5 +9,5 @@ gem "github-pages", "= 231"
 # It is not directly included in the github-pages gem list of dependencies,
 # even though it is included in the original GitHub Pages build infrastructure.
 gem "jekyll-include-cache", "= 0.2.1"
-gem "jekyll-octicons", "~> 14.2"
+gem "jekyll-octicons", "~> 19.8"
 gem "webrick", "~> 1.8"
