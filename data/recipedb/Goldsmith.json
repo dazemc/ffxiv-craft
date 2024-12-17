@@ -37639,6 +37639,101 @@
     "suggestedCraftsmanship": 4780
   },
   {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 60,
+    "level": 560,
+    "maxQuality": 5760,
+    "name": {
+      "de": "Eisenbahner-Schleifrad",
+      "en": "Rail Grindstone",
+      "fr": "Table d'usinage pour locomotive",
+      "ja": "新車両の研磨道具"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "stars": 0,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3700,
+    "durability": 60,
+    "level": 570,
+    "maxQuality": 5920,
+    "name": {
+      "de": "Polsterbank",
+      "en": "Plush Carriage Seating",
+      "fr": "Banquette de train confortable",
+      "ja": "快適な座席シート"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "stars": 1,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 91,
+    "difficulty": 4000,
+    "durability": 60,
+    "level": 650,
+    "maxQuality": 6560,
+    "name": {
+      "de": "Kartendruckutensil",
+      "en": "Map Printing Essentials",
+      "fr": "Articles d'impression",
+      "ja": "案内地図の印刷用具"
+    },
+    "progressDivider": 143,
+    "progressModifier": 100,
+    "qualityDivider": 123,
+    "qualityModifier": 100,
+    "stars": 0,
+    "suggestedCraftsmanship": 3366
+  },
+  {
+    "baseLevel": 92,
+    "difficulty": 4250,
+    "durability": 60,
+    "level": 653,
+    "maxQuality": 6880,
+    "name": {
+      "de": "Eisenbahner-Werkzeugkiste",
+      "en": "Engineer's Supply Kit",
+      "fr": "Caisse à outils pro­fes­sion­nels",
+      "ja": "技師用の必須用具"
+    },
+    "progressDivider": 146,
+    "progressModifier": 100,
+    "qualityDivider": 126,
+    "qualityModifier": 100,
+    "stars": 0,
+    "suggestedCraftsmanship": 3485
+  },
+  {
+    "baseLevel": 93,
+    "difficulty": 4500,
+    "durability": 60,
+    "level": 656,
+    "maxQuality": 7200,
+    "name": {
+      "de": "Gleisreparaturset",
+      "en": "Railroad Repair Kit",
+      "fr": "Portion de voie ferrée pour la rénovation",
+      "ja": "線路復旧用の資材"
+    },
+    "progressDivider": 149,
+    "progressModifier": 100,
+    "qualityDivider": 129,
+    "qualityModifier": 100,
+    "stars": 0,
+    "suggestedCraftsmanship": 3587
+  },
+  {
     "baseLevel": 80,
     "difficulty": 2050,
     "durability": 70,
