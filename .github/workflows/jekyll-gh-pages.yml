@@ -32,7 +32,7 @@ jobs:
       - name: Check for changes
         id: check_changes
         run: |
-          if git diff --cached --name-only | grep -q "^.gitmodules$\|^scripts/"; then
+          if git diff --cached --name-only | grep -q "^.gitmodules$\|^scripts/craft-data"; then
             echo "Submodule-only changes detected."
             echo "continue_build=false" >> $GITHUB_ENV
           else
@@ -53,8 +53,8 @@ jobs:
           source: ./
           destination: ./_site
 
-      - name: Debug _site directory
-        run: ls -R ./_site
+      # - name: Debug _site directory
+      #   run: ls -R ./_site
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
