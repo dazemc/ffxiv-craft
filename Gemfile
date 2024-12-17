@@ -10,4 +10,4 @@ gem "github-pages", "232"
 # even though it is included in the original GitHub Pages build infrastructure.
 gem "jekyll-include-cache", "= 0.2.1"
 gem "jekyll-octicons", "~> 19.8"
-gem "webrick", "~> 1.8"
+gem "webrick", "~> 1.9"
