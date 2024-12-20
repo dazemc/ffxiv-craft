@@ -1,3 +1,4 @@
 [submodule "scripts/craft-data"]
 	path = scripts/craft-data
 	url = https://github.com/dazemc/ffxiv-craft-data
+	branch = main
