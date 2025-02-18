@@ -22,22 +22,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: recursive # Ensure submodules are updated
-
-      - name: Check for changes
-        id: check_changes
-        run: |
-          if git diff --cached --name-only | grep -q "^.gitmodules$\|^scripts/craft-data"; then
-            echo "Submodule-only changes detected."
-            echo "continue_build=false" >> $GITHUB_ENV
-          else
-            echo "Changes beyond submodules detected."
-            echo "continue_build=true" >> $GITHUB_ENV
-          fi
-
-      - name: Stop if only submodules updated
-        if: env.continue_build == 'false'
-        run: echo "Exiting as only submodules were updated." && exit 0
+          submodules: recursive
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
@@ -47,10 +32,6 @@ jobs:
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
-
-      # - name: Debug _site directory
-      #   run: ls -R ./_site
-
 
   deploy:
     needs: build
