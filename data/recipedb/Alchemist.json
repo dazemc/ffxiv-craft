@@ -28813,27 +28813,6 @@
   },
   {
     "baseLevel": 100,
-    "difficulty": 4026,
-    "durability": 40,
-    "key": 36543,
-    "level": 690,
-    "maxQuality": 5760,
-    "name": {
-      "de": "Projektstandard-Ziegelstein",
-      "en": "Standard Brick",
-      "fr": "Briques standard",
-      "ja": "統一規格の煉瓦",
-      "ko": null
-    },
-    "progressDivider": 170,
-    "progressModifier": 90,
-    "qualityDivider": 150,
-    "qualityModifier": 75,
-    "stars": 0,
-    "suggestedCraftsmanship": 4207
-  },
-  {
-    "baseLevel": 100,
     "difficulty": 4422,
     "durability": 60,
     "key": 36544,
@@ -28876,27 +28855,6 @@
   },
   {
     "baseLevel": 100,
-    "difficulty": 4026,
-    "durability": 40,
-    "key": 36546,
-    "level": 690,
-    "maxQuality": 5760,
-    "name": {
-      "de": "Arbeiter-Nährstoffe",
-      "en": "Worker's Nutrient Mixture",
-      "fr": "Revitalisant pour ouvrier",
-      "ja": "作業員用の栄養剤",
-      "ko": null
-    },
-    "progressDivider": 170,
-    "progressModifier": 90,
-    "qualityDivider": 150,
-    "qualityModifier": 75,
-    "stars": 0,
-    "suggestedCraftsmanship": 4207
-  },
-  {
-    "baseLevel": 100,
     "difficulty": 4422,
     "durability": 60,
     "key": 36547,
@@ -28928,27 +28886,6 @@
       "en": "Survey Porridge",
       "fr": "Potage pour l'exploration cosmique",
       "ja": "惑星探索用の薬餌",
-      "ko": null
-    },
-    "progressDivider": 170,
-    "progressModifier": 90,
-    "qualityDivider": 150,
-    "qualityModifier": 75,
-    "stars": 0,
-    "suggestedCraftsmanship": 4207
-  },
-  {
-    "baseLevel": 100,
-    "difficulty": 12672,
-    "durability": 80,
-    "key": 36549,
-    "level": 690,
-    "maxQuality": 600,
-    "name": {
-      "de": "Projektstandard-Ziegelstein",
-      "en": "Standard Brick",
-      "fr": "Briques standard",
-      "ja": "統一規格の煉瓦",
       "ko": null
     },
     "progressDivider": 170,
@@ -29012,27 +28949,6 @@
       "en": "Enrichment Mortar",
       "fr": "Mortier pour l'amélioration d'infrastructures",
       "ja": "設備改良用のモルタル",
-      "ko": null
-    },
-    "progressDivider": 170,
-    "progressModifier": 90,
-    "qualityDivider": 150,
-    "qualityModifier": 75,
-    "stars": 0,
-    "suggestedCraftsmanship": 4207
-  },
-  {
-    "baseLevel": 100,
-    "difficulty": 8448,
-    "durability": 25,
-    "key": 36553,
-    "level": 690,
-    "maxQuality": 8160,
-    "name": {
-      "de": "Reform-Beton",
-      "en": "Enrichment Concrete",
-      "fr": "Béton pour l'amélioration d'infrastructures",
-      "ja": "設備改良用のコンクリート",
       "ko": null
     },
     "progressDivider": 170,
@@ -29191,27 +29107,6 @@
   },
   {
     "baseLevel": 100,
-    "difficulty": 2310,
-    "durability": 20,
-    "key": 36561,
-    "level": 690,
-    "maxQuality": 8400,
-    "name": {
-      "de": "Projektstandard-Ziegelstein",
-      "en": "Standard Brick",
-      "fr": "Briques standard",
-      "ja": "統一規格の煉瓦",
-      "ko": null
-    },
-    "progressDivider": 170,
-    "progressModifier": 90,
-    "qualityDivider": 150,
-    "qualityModifier": 75,
-    "stars": 0,
-    "suggestedCraftsmanship": 4207
-  },
-  {
-    "baseLevel": 100,
     "difficulty": 726,
     "durability": 80,
     "key": 36562,
@@ -29275,27 +29170,6 @@
   },
   {
     "baseLevel": 100,
-    "difficulty": 3564,
-    "durability": 70,
-    "key": 36565,
-    "level": 690,
-    "maxQuality": 10440,
-    "name": {
-      "de": "Arbeiter-Nährstoffe",
-      "en": "Worker's Nutrient Mixture",
-      "fr": "Revitalisant pour ouvrier",
-      "ja": "作業員用の栄養剤",
-      "ko": null
-    },
-    "progressDivider": 170,
-    "progressModifier": 90,
-    "qualityDivider": 150,
-    "qualityModifier": 75,
-    "stars": 0,
-    "suggestedCraftsmanship": 4207
-  },
-  {
-    "baseLevel": 100,
     "difficulty": 9504,
     "durability": 25,
     "key": 36566,
@@ -29348,27 +29222,6 @@
       "en": "Habitat Culture Fluid",
       "fr": "Produit d'incubation pour la vie dans la base",
       "ja": "基地生活用の培養薬",
-      "ko": null
-    },
-    "progressDivider": 170,
-    "progressModifier": 90,
-    "qualityDivider": 150,
-    "qualityModifier": 75,
-    "stars": 0,
-    "suggestedCraftsmanship": 4207
-  },
-  {
-    "baseLevel": 100,
-    "difficulty": 4620,
-    "durability": 80,
-    "key": 36569,
-    "level": 690,
-    "maxQuality": 16680,
-    "name": {
-      "de": "Mondstation-Zierpflanze",
-      "en": "Habitat Houseplant",
-      "fr": "Plante décorative pour la vie dans la base",
-      "ja": "基地生活用の観葉植物",
       "ko": null
     },
     "progressDivider": 170,
@@ -29650,27 +29503,6 @@
     "qualityModifier": 75,
     "stars": 2,
     "suggestedCraftsmanship": 4740
-  },
-  {
-    "baseLevel": 100,
-    "difficulty": 4700,
-    "durability": 20,
-    "key": 36583,
-    "level": 742,
-    "maxQuality": 14900,
-    "name": {
-      "de": "Erkunder-Tinktur",
-      "en": "Survey Alchemic",
-      "fr": "Potion alchimique pour l'exploration cosmique",
-      "ja": "惑星探索用の錬金薬",
-      "ko": null
-    },
-    "progressDivider": 180,
-    "progressModifier": 100,
-    "qualityDivider": 180,
-    "qualityModifier": 100,
-    "stars": 3,
-    "suggestedCraftsmanship": 5380
   },
   {
     "baseLevel": 100,

@@ -26377,27 +26377,6 @@
   },
   {
     "baseLevel": 100,
-    "difficulty": 4026,
-    "durability": 40,
-    "key": 36291,
-    "level": 690,
-    "maxQuality": 5760,
-    "name": {
-      "de": "Projektstandard-Metallplatte",
-      "en": "Standard Metal Plating",
-      "fr": "Plaque de métal standard",
-      "ja": "統一規格の金属板",
-      "ko": null
-    },
-    "progressDivider": 170,
-    "progressModifier": 90,
-    "qualityDivider": 150,
-    "qualityModifier": 75,
-    "stars": 0,
-    "suggestedCraftsmanship": 4207
-  },
-  {
-    "baseLevel": 100,
     "difficulty": 4422,
     "durability": 60,
     "key": 36292,
@@ -26429,27 +26408,6 @@
       "en": "Lunar Alloy Ingots",
       "fr": "Alliage de métaux séléniens",
       "ja": "月面鉱物の合金",
-      "ko": null
-    },
-    "progressDivider": 170,
-    "progressModifier": 90,
-    "qualityDivider": 150,
-    "qualityModifier": 75,
-    "stars": 0,
-    "suggestedCraftsmanship": 4207
-  },
-  {
-    "baseLevel": 100,
-    "difficulty": 4026,
-    "durability": 40,
-    "key": 36294,
-    "level": 690,
-    "maxQuality": 5760,
-    "name": {
-      "de": "Drohnendraht",
-      "en": "Drone Wire",
-      "fr": "Fil de fer pour drone",
-      "ja": "ドローン用のワイヤー",
       "ko": null
     },
     "progressDivider": 170,
@@ -26503,27 +26461,6 @@
   },
   {
     "baseLevel": 100,
-    "difficulty": 12672,
-    "durability": 80,
-    "key": 36297,
-    "level": 690,
-    "maxQuality": 600,
-    "name": {
-      "de": "Projektstandard-Metallplatte",
-      "en": "Standard Metal Plating",
-      "fr": "Plaque de métal standard",
-      "ja": "統一規格の金属板",
-      "ko": null
-    },
-    "progressDivider": 170,
-    "progressModifier": 90,
-    "qualityDivider": 150,
-    "qualityModifier": 75,
-    "stars": 0,
-    "suggestedCraftsmanship": 4207
-  },
-  {
-    "baseLevel": 100,
     "difficulty": 4092,
     "durability": 40,
     "key": 36298,
@@ -26534,27 +26471,6 @@
       "en": "Starship Shaft",
       "fr": "Hampe pour vaisseau spatial",
       "ja": "宇宙船用のシャフト",
-      "ko": null
-    },
-    "progressDivider": 170,
-    "progressModifier": 90,
-    "qualityDivider": 150,
-    "qualityModifier": 75,
-    "stars": 0,
-    "suggestedCraftsmanship": 4207
-  },
-  {
-    "baseLevel": 100,
-    "difficulty": 4620,
-    "durability": 80,
-    "key": 36299,
-    "level": 690,
-    "maxQuality": 7440,
-    "name": {
-      "de": "Erkunder-Bratpfanne",
-      "en": "Survey Frypan",
-      "fr": "Poêle à frire pour l'exploration cosmique",
-      "ja": "惑星探索用のフライパン",
       "ko": null
     },
     "progressDivider": 170,
@@ -26744,27 +26660,6 @@
       "en": "Rover Rings",
       "fr": "Anneaux pour rover",
       "ja": "ローバー用のリングズ",
-      "ko": null
-    },
-    "progressDivider": 170,
-    "progressModifier": 90,
-    "qualityDivider": 150,
-    "qualityModifier": 75,
-    "stars": 0,
-    "suggestedCraftsmanship": 4207
-  },
-  {
-    "baseLevel": 100,
-    "difficulty": 2310,
-    "durability": 20,
-    "key": 36309,
-    "level": 690,
-    "maxQuality": 8400,
-    "name": {
-      "de": "Projektstandard-Metallplatte",
-      "en": "Standard Metal Plating",
-      "fr": "Plaque de métal standard",
-      "ja": "統一規格の金属板",
       "ko": null
     },
     "progressDivider": 170,
