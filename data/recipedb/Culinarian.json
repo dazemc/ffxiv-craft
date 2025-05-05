@@ -18355,6 +18355,90 @@
   },
   {
     "baseLevel": 100,
+    "difficulty": 4026,
+    "durability": 40,
+    "key": 36606,
+    "level": 690,
+    "maxQuality": 5760,
+    "name": {
+      "de": "Projektstandard-Schmieröl D",
+      "en": "Standard Lubricant D",
+      "fr": "Huile standard D",
+      "ja": "統一規格の潤滑油 D",
+      "ko": null
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 0,
+    "suggestedCraftsmanship": 4207
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 12672,
+    "durability": 80,
+    "key": 36612,
+    "level": 690,
+    "maxQuality": 600,
+    "name": {
+      "de": "Projektstandard-Schmieröl C",
+      "en": "Standard Lubricant C",
+      "fr": "Huile standard C",
+      "ja": "統一規格の潤滑油 C",
+      "ko": null
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 0,
+    "suggestedCraftsmanship": 4207
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 2310,
+    "durability": 20,
+    "key": 36624,
+    "level": 690,
+    "maxQuality": 8400,
+    "name": {
+      "de": "Projektstandard-Schmieröl B",
+      "en": "Standard Lubricant B",
+      "fr": "Huile standard B",
+      "ja": "統一規格の潤滑油 B",
+      "ko": null
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 0,
+    "suggestedCraftsmanship": 4207
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 23400,
+    "durability": 80,
+    "key": 36633,
+    "level": 701,
+    "maxQuality": 700,
+    "name": {
+      "de": "Projektstandard-Schmieröl A",
+      "en": "Standard Lubricant A",
+      "fr": "Huile standard A",
+      "ja": "統一規格の潤滑油 A",
+      "ko": null
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 1,
+    "suggestedCraftsmanship": 4352
+  },
+  {
+    "baseLevel": 100,
     "difficulty": 4422,
     "durability": 60,
     "key": 36607,
@@ -18562,6 +18646,48 @@
     "qualityModifier": 75,
     "stars": 0,
     "suggestedCraftsmanship": 4207
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 4620,
+    "durability": 80,
+    "key": 36618,
+    "level": 690,
+    "maxQuality": 10680,
+    "name": {
+      "de": "Arbeiter-Nährstoffriegel (Vanille)",
+      "en": "Worker's Vanilla Nutrient Bar",
+      "fr": "Barre énergétique pour ouvrier",
+      "ja": "作業員用の栄養食品",
+      "ko": null
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 0,
+    "suggestedCraftsmanship": 4207
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 1200,
+    "durability": 55,
+    "key": 36658,
+    "level": 721,
+    "maxQuality": 19000,
+    "name": {
+      "de": "Arbeiter-Nährstoffriegel (Vanille) ★★",
+      "en": "Worker's Vanilla Nutrient Bar ★★",
+      "fr": "Barre énergétique pour ouvrier ★★",
+      "ja": "作業員用の栄養食品 ★★",
+      "ko": null
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
   },
   {
     "baseLevel": 100,
@@ -18838,27 +18964,6 @@
   },
   {
     "baseLevel": 100,
-    "difficulty": 23400,
-    "durability": 80,
-    "key": 36633,
-    "level": 701,
-    "maxQuality": 700,
-    "name": {
-      "de": "Projektstandard-Schmieröl",
-      "en": "Standard Lubricant",
-      "fr": "Huile standard",
-      "ja": "統一規格の潤滑油",
-      "ko": null
-    },
-    "progressDivider": 170,
-    "progressModifier": 90,
-    "qualityDivider": 150,
-    "qualityModifier": 75,
-    "stars": 1,
-    "suggestedCraftsmanship": 4352
-  },
-  {
-    "baseLevel": 100,
     "difficulty": 8500,
     "durability": 80,
     "key": 36634,
@@ -19111,16 +19216,16 @@
   },
   {
     "baseLevel": 100,
-    "difficulty": 9500,
-    "durability": 60,
-    "key": 36647,
-    "level": 743,
-    "maxQuality": 24000,
+    "difficulty": 4700,
+    "durability": 20,
+    "key": 36646,
+    "level": 742,
+    "maxQuality": 14900,
     "name": {
-      "de": "Haltbarer Räucherfisch",
-      "en": "Cured Fish",
-      "fr": "Poisson fumé pour conservation",
-      "ja": "保存食用の燻製魚",
+      "de": "Konservierungs-Kochsake ★★★",
+      "en": "Curing Spirits ★★★",
+      "fr": "Alcool de cuisine pour conservation ★★★",
+      "ja": "保存食用の料理酒 ★★★",
       "ko": null
     },
     "progressDivider": 180,
@@ -19138,10 +19243,31 @@
     "level": 742,
     "maxQuality": 14900,
     "name": {
-      "de": "Konservierungs-Kochsake",
-      "en": "Curing Spirits",
-      "fr": "Alcool de cuisine pour conservation",
-      "ja": "保存食用の料理酒",
+      "de": "Konservierungs-Kochsake ★★★",
+      "en": "Curing Spirits ★★★",
+      "fr": "Alcool de cuisine pour conservation ★★★",
+      "ja": "保存食用の料理酒 ★★★",
+      "ko": null
+    },
+    "progressDivider": 180,
+    "progressModifier": 100,
+    "qualityDivider": 180,
+    "qualityModifier": 100,
+    "stars": 3,
+    "suggestedCraftsmanship": 5380
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 9500,
+    "durability": 60,
+    "key": 36647,
+    "level": 743,
+    "maxQuality": 24000,
+    "name": {
+      "de": "Haltbarer Räucherfisch",
+      "en": "Cured Fish",
+      "fr": "Poisson fumé pour conservation",
+      "ja": "保存食用の燻製魚",
       "ko": null
     },
     "progressDivider": 180,
@@ -19339,27 +19465,6 @@
     "qualityModifier": 75,
     "stars": 1,
     "suggestedCraftsmanship": 4352
-  },
-  {
-    "baseLevel": 100,
-    "difficulty": 1200,
-    "durability": 55,
-    "key": 36658,
-    "level": 721,
-    "maxQuality": 19000,
-    "name": {
-      "de": "Arbeiter-Nährstoffriegel (Vanille)",
-      "en": "Worker's Vanilla Nutrient Bar",
-      "fr": "Barre énergétique pour ouvrier",
-      "ja": "作業員用の栄養食品",
-      "ko": null
-    },
-    "progressDivider": 170,
-    "progressModifier": 90,
-    "qualityDivider": 150,
-    "qualityModifier": 75,
-    "stars": 2,
-    "suggestedCraftsmanship": 4740
   },
   {
     "baseLevel": 100,

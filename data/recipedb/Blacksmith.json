@@ -36205,6 +36205,90 @@
   },
   {
     "baseLevel": 100,
+    "difficulty": 4026,
+    "durability": 40,
+    "key": 36228,
+    "level": 690,
+    "maxQuality": 5760,
+    "name": {
+      "de": "Projektstandard-Metallplatte D",
+      "en": "Standard Metal Plating D",
+      "fr": "Plaque de métal standard D",
+      "ja": "統一規格の金属板 D",
+      "ko": null
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 0,
+    "suggestedCraftsmanship": 4207
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 12672,
+    "durability": 80,
+    "key": 36234,
+    "level": 690,
+    "maxQuality": 600,
+    "name": {
+      "de": "Projektstandard-Metallplatte C",
+      "en": "Standard Metal Plating C",
+      "fr": "Plaque de métal standard C",
+      "ja": "統一規格の金属板 C",
+      "ko": null
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 0,
+    "suggestedCraftsmanship": 4207
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 2310,
+    "durability": 20,
+    "key": 36246,
+    "level": 690,
+    "maxQuality": 8400,
+    "name": {
+      "de": "Projektstandard-Metallplatte B",
+      "en": "Standard Metal Plating B",
+      "fr": "Plaque de métal standard B",
+      "ja": "統一規格の金属板 B",
+      "ko": null
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 0,
+    "suggestedCraftsmanship": 4207
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 23400,
+    "durability": 80,
+    "key": 36255,
+    "level": 701,
+    "maxQuality": 700,
+    "name": {
+      "de": "Projektstandard-Metallplatte A",
+      "en": "Standard Metal Plating A",
+      "fr": "Plaque de métal standard A",
+      "ja": "統一規格の金属板 A",
+      "ko": null
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 1,
+    "suggestedCraftsmanship": 4352
+  },
+  {
+    "baseLevel": 100,
     "difficulty": 4422,
     "durability": 60,
     "key": 36229,
@@ -36352,16 +36436,16 @@
   },
   {
     "baseLevel": 100,
-    "difficulty": 8448,
-    "durability": 25,
-    "key": 36238,
+    "difficulty": 4092,
+    "durability": 40,
+    "key": 36237,
     "level": 690,
-    "maxQuality": 8160,
+    "maxQuality": 6000,
     "name": {
-      "de": "Projektstandard-Legierungsniete",
-      "en": "Standard Alloy Rivets",
-      "fr": "Rivets en alliage standard",
-      "ja": "統一規格の合金リベット",
+      "de": "Projektstandard-Legierung",
+      "en": "Standard Alloy Ingot",
+      "fr": "Alliage standard",
+      "ja": "統一規格の合金",
       "ko": null
     },
     "progressDivider": 170,
@@ -36383,6 +36467,27 @@
       "en": "Standard Alloy Ingot",
       "fr": "Alliage standard",
       "ja": "統一規格の合金",
+      "ko": null
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "stars": 0,
+    "suggestedCraftsmanship": 4207
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 8448,
+    "durability": 25,
+    "key": 36238,
+    "level": 690,
+    "maxQuality": 8160,
+    "name": {
+      "de": "Projektstandard-Legierungsniete",
+      "en": "Standard Alloy Rivets",
+      "fr": "Rivets en alliage standard",
+      "ja": "統一規格の合金リベット",
       "ko": null
     },
     "progressDivider": 170,
@@ -36685,27 +36790,6 @@
     "qualityModifier": 75,
     "stars": 0,
     "suggestedCraftsmanship": 4207
-  },
-  {
-    "baseLevel": 100,
-    "difficulty": 23400,
-    "durability": 80,
-    "key": 36255,
-    "level": 701,
-    "maxQuality": 700,
-    "name": {
-      "de": "Projektstandard-Metallplatte",
-      "en": "Standard Metal Plating",
-      "fr": "Plaque de métal standard",
-      "ja": "統一規格の金属板",
-      "ko": null
-    },
-    "progressDivider": 170,
-    "progressModifier": 90,
-    "qualityDivider": 150,
-    "qualityModifier": 75,
-    "stars": 1,
-    "suggestedCraftsmanship": 4352
   },
   {
     "baseLevel": 100,
