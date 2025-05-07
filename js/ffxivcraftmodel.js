@@ -1519,13 +1519,18 @@ function heuristicSequenceBuilder(synth) {
         if (hasAction('immaculateMend') && tryAction('immaculateMend')) {
             unshiftAction(subSeq2, 'immaculateMend');
             dur = synth.recipe.durability;
+            return true;
         } else if (hasAction('manipulation') && tryAction('manipulation')) {
             unshiftAction(subSeq2, 'manipulation');
             dur += 30;
+            return true;
         } else if (hasAction('mastersMend') && tryAction('mastersMend')) {
             unshiftAction(subSeq2, 'mastersMend');
             dur += 30;
+            return true;
         }
+        console.log('Restore failed.');
+        return false;
     };
 
 
@@ -1579,7 +1584,10 @@ function heuristicSequenceBuilder(synth) {
                 console.log('Failed to restore durability, breaking progress loop');
                 break;
             }
-            if (dur < 10) break;
+            if (dur < aa[preferredAction].durabilityCost) {
+                console.log('Insufficient durability after restore.');
+                break;
+            }
         }
         iteration++;
     }
@@ -1631,8 +1639,35 @@ function heuristicSequenceBuilder(synth) {
     var costsNoDurability = actionName => aa[actionName].durabilityCost === 0;
 
     // Use remaining durability and CP on quality/durability improving actions
-    while (cp > 0 && dur > 0) {
-        if (tryAction(preferredAction) && dur > 10) {
+    var qualityLoopIterations = 0;
+    var maxQualityLoopIterations = 100;
+
+    while (cp > 0 && dur > 0 && qualityLoopIterations < maxQualityLoopIterations) {
+        qualityLoopIterations++;
+        console.log('Quality Loop - Iter:', qualityLoopIterations, 'CP:', cp, 'Dur:', dur, 'PreferredAction:', preferredAction);
+        let canUsePreferred = tryAction(preferredAction);
+        let preferredDurCost = aa[preferredAction].durabilityCost;
+
+        let attemptRepairQuality = (dur <= 10 && preferredDurCost > 0);
+
+        if (attemptRepairQuality) {
+            if (restoreDurability()) {
+                continue;
+            } else {
+                if (canUsePreferred) {
+                    if (trainedPerfectionUsed || costsNoDurability(preferredAction) || costsTwentyDurability(preferredAction)) {
+                        pushAction(subSeq2, preferredAction);
+                    } else if (tryAction('trainedPerfection')) {
+                        pushAction(subSeq2, 'trainedPerfection')
+                        trainedPerfectionUsed = true;
+                    } else {
+                        pushAction(subSeq2, preferredAction);
+                    }
+                } else {
+                    break;
+                }
+            }
+        } else if (canUsePreferred) {
             if (trainedPerfectionUsed || costsNoDurability(preferredAction) || costsTwentyDurability(preferredAction)) {
                 pushAction(subSeq2, preferredAction);
             } else if (tryAction('trainedPerfection')) {
@@ -1641,10 +1676,18 @@ function heuristicSequenceBuilder(synth) {
             } else {
                 pushAction(subSeq2, preferredAction);
             }
-        } else if (dur < 20) {
-            restoreDurability();
-            if (dur < 10) break;
         } else {
+            if (dur < 20) {
+                if (!restoreDurability()) {
+                    break;
+                }
+            } else {
+                break;
+            }
+        }
+
+        if (qualityLoopIterations >= maxQualityLoopIterations) {
+            console.error('Quality loop hit max iteration attempts!');
             break;
         }
     }
