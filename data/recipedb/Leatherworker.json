@@ -35656,7 +35656,7 @@
     "qualityModifier": 100,
     "name": {
       "de": "Hammerhaidilleder-Stiefel (Sammlerstück)",
-      "ko": "소장용 망치악어 다리보호대 ",
+      "ko": "소장용 망치악어 다리보호대",
       "ja": "収集用のハンマーヘッドダイル・レギンス",
       "en": "Rarefied Crocodileskin Leggings",
       "fr": "Jambières en cuir de croco-marteau collectionnables"
@@ -36202,7 +36202,7 @@
     "qualityModifier": 80,
     "name": {
       "de": "Eisenbahner-Schleifrad",
-      "ko": "",
+      "ko": "새 차량 연마 도구",
       "ja": "新車両の研磨道具",
       "en": "Rail Grindstone",
       "fr": "Table d'usinage pour locomotive"
@@ -36223,7 +36223,7 @@
     "qualityModifier": 80,
     "name": {
       "de": "Polsterbank",
-      "ko": "",
+      "ko": "쾌적한 좌석 시트",
       "ja": "快適な座席シート",
       "en": "Plush Carriage Seating",
       "fr": "Banquette de train confortable"
@@ -36244,7 +36244,7 @@
     "qualityModifier": 100,
     "name": {
       "de": "Kartendruckutensil",
-      "ko": "",
+      "ko": "안내 지도 인쇄 도구",
       "ja": "案内地図の印刷用具",
       "en": "Map Printing Essentials",
       "fr": "Articles d'impression"
@@ -36265,7 +36265,7 @@
     "qualityModifier": 100,
     "name": {
       "de": "Eisenbahner-Werkzeugkiste",
-      "ko": "",
+      "ko": "기술자용 필수 도구",
       "ja": "技師用の必須用具",
       "en": "Engineer's Supply Kit",
       "fr": "Caisse à outils professionnels"
@@ -36286,7 +36286,7 @@
     "qualityModifier": 100,
     "name": {
       "de": "Gleisreparaturset",
-      "ko": "",
+      "ko": "선로 복구용 자재",
       "ja": "線路復旧用の資材",
       "en": "Railroad Repair Kit",
       "fr": "Portion de voie ferrée pour la rénovation"
@@ -36328,7 +36328,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Cronopio-Leder",
-      "ko": "",
+      "ko": "크로노피오 가죽",
       "ja": "クロノピオレザー",
       "en": "Cronopio Leather",
       "fr": "Cuir de cronopio"
@@ -36349,7 +36349,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Beinschienen der Verteidigung",
-      "ko": "",
+      "ko": "의전 수호자 갑주장화",
       "ja": "セレモニアル・ディフェンダーグリーヴ",
       "en": "Ceremonial Greaves of Fending",
       "fr": "Jambards de protecteur des cérémonies"
@@ -36370,7 +36370,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Beinschienen des Verstümmelns",
-      "ko": "",
+      "ko": "의전 학살자 갑주장화",
       "ja": "セレモニアル・スレイヤーグリーヴ",
       "en": "Ceremonial Greaves of Maiming",
       "fr": "Jambards d'abatteur des cérémonies"
@@ -36391,7 +36391,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Poulaines des Schlagens",
-      "ko": "",
+      "ko": "의전 타격대 뾰족신",
       "ja": "セレモニアル・ストライカークラコー",
       "en": "Ceremonial Crakows of Striking",
       "fr": "Souliers à poulaine d'agresseur des cérémonies"
@@ -36412,7 +36412,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Poulaines des Zielens",
-      "ko": "",
+      "ko": "의전 유격대 뾰족신",
       "ja": "セレモニアル・レンジャークラコー",
       "en": "Ceremonial Crakows of Aiming",
       "fr": "Souliers à poulaine de pisteur des cérémonies"
@@ -36433,7 +36433,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Poulaines des Spähens",
-      "ko": "",
+      "ko": "의전 정찰대 뾰족신",
       "ja": "セレモニアル・スカウトクラコー",
       "en": "Ceremonial Crakows of Scouting",
       "fr": "Souliers à poulaine d'éclaireur des cérémonies"
@@ -36454,7 +36454,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Handschuhe der Heilung",
-      "ko": "",
+      "ko": "의전 치유사 장갑",
       "ja": "セレモニアル・ヒーラーグローブ",
       "en": "Ceremonial Gloves of Healing",
       "fr": "Gants de soigneur des cérémonies"
@@ -36475,7 +36475,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Kniestiefel der Heilung",
-      "ko": "",
+      "ko": "의전 치유사 허벅지장화",
       "ja": "セレモニアル・ヒーラーサイブーツ",
       "en": "Ceremonial Thighboots of Healing",
       "fr": "Cuissardes de soigneur des cérémonies"
@@ -36496,7 +36496,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Handschuhe der Magie",
-      "ko": "",
+      "ko": "의전 마술사 장갑",
       "ja": "セレモニアル・キャスターグローブ",
       "en": "Ceremonial Gloves of Casting",
       "fr": "Gants d'incantateur des cérémonies"
@@ -36517,7 +36517,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Kniestiefel der Magie",
-      "ko": "",
+      "ko": "의전 마술사 허벅지장화",
       "ja": "セレモニアル・キャスターサイブーツ",
       "en": "Ceremonial Thighboots of Casting",
       "fr": "Cuissardes d'incantateur des cérémonies"
@@ -36538,7 +36538,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Armband der Verteidigung",
-      "ko": "",
+      "ko": "의전 수호자 장식고리",
       "ja": "セレモニアル・ディフェンダーバングル",
       "en": "Ceremonial Bangle of Fending",
       "fr": "Jonc de protecteur des cérémonies"
@@ -36559,7 +36559,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Armband des Schlachtens",
-      "ko": "",
+      "ko": "의전 공격대 장식고리",
       "ja": "セレモニアル・アタッカーバングル",
       "en": "Ceremonial Bangle of Slaying",
       "fr": "Jonc d'attaquant des cérémonies"
@@ -36580,7 +36580,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Armband des Zielens",
-      "ko": "",
+      "ko": "의전 유격대 장식고리",
       "ja": "セレモニアル・レンジャーバングル",
       "en": "Ceremonial Bangle of Aiming",
       "fr": "Jonc de pisteur des cérémonies"
@@ -36601,7 +36601,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Armband der Heilung",
-      "ko": "",
+      "ko": "의전 치유사 장식고리",
       "ja": "セレモニアル・ヒーラーバングル",
       "en": "Ceremonial Bangle of Healing",
       "fr": "Jonc de soigneur des cérémonies"
@@ -36622,7 +36622,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Armband der Magie",
-      "ko": "",
+      "ko": "의전 마법사 장식고리",
       "ja": "セレモニアル・キャスターバングル",
       "en": "Ceremonial Bangle of Casting",
       "fr": "Jonc d'incantateur des cérémonies"
@@ -37709,8 +37709,8 @@
     "durability": 35,
     "progressDivider": 170,
     "stars": 1,
-    "difficulty": 900,
-    "maxQuality": 16900,
+    "difficulty": 5000,
+    "maxQuality": 14100,
     "qualityModifier": 75,
     "name": {
       "de": "Logistik-Edelfaser",
@@ -38008,7 +38008,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Neonstraßen-Blouson",
-      "ko": "",
+      "ko": "네온 스트리트 블루종",
       "ja": "ネオンストリート・ブルゾン",
       "en": "Neon Street Blouson",
       "fr": "Blouson de rue aux néons"
@@ -38029,7 +38029,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Neonstraßen-Schuhe",
-      "ko": "",
+      "ko": "네온 스트리트 운동화",
       "ja": "ネオンストリート・シューズ",
       "en": "Neon Street Shoes",
       "fr": "Chaussures de rue aux néons"
@@ -38050,7 +38050,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Türsteher-Kurzfingerhandschuhe",
-      "ko": "",
+      "ko": "경비원 손등장갑",
       "ja": "バウンサーハーフグローブ",
       "en": "Bouncer's Halfgloves",
       "fr": "Mitaines de videur"
@@ -38071,7 +38071,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Türsteher-Lackschuhe",
-      "ko": "",
+      "ko": "경비원 예식구두",
       "ja": "バウンサードレスシューズ",
       "en": "Bouncer's Dress Shoes",
       "fr": "Chaussures d'apparat de videur"
@@ -38080,5 +38080,110 @@
     "suggestedCraftsmanship": 4780,
     "qualityDivider": 150,
     "key": 36732
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Pfauen-Stiefel des Handwerks",
+      "ko": "",
+      "ja": "ピーコック・クラフターブーツ",
+      "en": "Crested Boots of Crafting",
+      "fr": "Bottes des créations du paon bleu"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37455
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Pfauen-Handschuhe des Eifers",
+      "ko": "",
+      "ja": "ピーコック・ギャザラーグローブ",
+      "en": "Crested Gloves of Gathering",
+      "fr": "Gants des ressources du paon bleu"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37458
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Pfauen-Stiefel des Eifers",
+      "ko": "",
+      "ja": "ピーコック・ギャザラーブーツ",
+      "en": "Crested Boots of Gathering",
+      "fr": "Bottes des ressources du paon bleu"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37460
+  },
+  {
+    "progressModifier": 90,
+    "level": 740,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 9000,
+    "maxQuality": 18700,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Elegante Sommerschuhe",
+      "ko": "",
+      "ja": "サマーフォーマル・シューズ",
+      "en": "Summertide Formal Shoes",
+      "fr": "Chaussures élégantes d'été"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 5380,
+    "qualityDivider": 150,
+    "key": 37477
+  },
+  {
+    "progressModifier": 90,
+    "level": 740,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 9000,
+    "maxQuality": 18700,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Elegante Sommer-Galaschuhe",
+      "ko": "",
+      "ja": "サマーフォーマル・ドレスシューズ",
+      "en": "Summertide Formal Dress Shoes",
+      "fr": "Escarpins élégants d'été"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 5380,
+    "qualityDivider": 150,
+    "key": 37479
   }
 ]

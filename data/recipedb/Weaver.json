@@ -19033,7 +19033,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Blaugrüner Teppich",
-      "ko": "",
+      "ko": "청록색 융단",
       "ja": "ティールブルーカーペット",
       "en": "Teal Carpet",
       "fr": "Moquette bleu canard"
@@ -19054,7 +19054,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Fernostfest-Raumteiler",
-      "ko": "",
+      "ko": "홍백 가림막",
       "ja": "紅白幕衝立",
       "en": "Hingan Event Partition",
       "fr": "Paravent hingashien rouge et blanc"
@@ -19063,6 +19063,48 @@
     "suggestedCraftsmanship": 4207,
     "qualityDivider": 150,
     "key": 6273
+  },
+  {
+    "progressModifier": 90,
+    "level": 690,
+    "durability": 80,
+    "progressDivider": 170,
+    "stars": 0,
+    "difficulty": 6600,
+    "maxQuality": 12000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Plaid-Wandverkleidung",
+      "ko": "",
+      "ja": "プラッドインナーウォール",
+      "en": "Plaid Interior Wall",
+      "fr": "Revêtement mural en plaid"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4207,
+    "qualityDivider": 150,
+    "key": 6292
+  },
+  {
+    "progressModifier": 90,
+    "level": 690,
+    "durability": 80,
+    "progressDivider": 170,
+    "stars": 0,
+    "difficulty": 6600,
+    "maxQuality": 12000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Wabenteppich",
+      "ko": "",
+      "ja": "ハニカムカーペット",
+      "en": "Honeycomb Carpet",
+      "fr": "Rouleau de moquette en nid d'abeille"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4207,
+    "qualityDivider": 150,
+    "key": 6293
   },
   {
     "progressModifier": 100,
@@ -36793,7 +36835,7 @@
     "qualityModifier": 80,
     "name": {
       "de": "Eisenbahner-Schleifrad",
-      "ko": "",
+      "ko": "새 차량 연마 도구",
       "ja": "新車両の研磨道具",
       "en": "Rail Grindstone",
       "fr": "Table d'usinage pour locomotive"
@@ -36814,7 +36856,7 @@
     "qualityModifier": 80,
     "name": {
       "de": "Polsterbank",
-      "ko": "",
+      "ko": "쾌적한 좌석 시트",
       "ja": "快適な座席シート",
       "en": "Plush Carriage Seating",
       "fr": "Banquette de train confortable"
@@ -36835,7 +36877,7 @@
     "qualityModifier": 100,
     "name": {
       "de": "Kartendruckutensil",
-      "ko": "",
+      "ko": "안내 지도 인쇄 도구",
       "ja": "案内地図の印刷用具",
       "en": "Map Printing Essentials",
       "fr": "Articles d'impression"
@@ -36856,7 +36898,7 @@
     "qualityModifier": 100,
     "name": {
       "de": "Eisenbahner-Werkzeugkiste",
-      "ko": "",
+      "ko": "기술자용 필수 도구",
       "ja": "技師用の必須用具",
       "en": "Engineer's Supply Kit",
       "fr": "Caisse à outils professionnels"
@@ -36877,7 +36919,7 @@
     "qualityModifier": 100,
     "name": {
       "de": "Gleisreparaturset",
-      "ko": "",
+      "ko": "선로 복구용 자재",
       "ja": "線路復旧用の資材",
       "en": "Railroad Repair Kit",
       "fr": "Portion de voie ferrée pour la rénovation"
@@ -36982,7 +37024,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Diatryma-Stoff",
-      "ko": "",
+      "ko": "디아트리마 모포",
       "ja": "ディアトリマの毛布",
       "en": "Diatryma Felt",
       "fr": "Étoffe de poils de Diatryma"
@@ -37003,7 +37045,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Kappe der Verteidigung",
-      "ko": "",
+      "ko": "의전 수호자 자락모자",
       "ja": "セレモニアル・ディフェンダーフラップキャップ",
       "en": "Ceremonial Longcap of Fending",
       "fr": "Casquette de protecteur des cérémonies"
@@ -37024,7 +37066,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Hose der Verteidigung",
-      "ko": "",
+      "ko": "의전 수호자 기마바지",
       "ja": "セレモニアル・ディフェンダーホーズ",
       "en": "Ceremonial Hose of Fending",
       "fr": "Fuseau de protecteur des cérémonies"
@@ -37045,7 +37087,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Kappe des Verstümmelns",
-      "ko": "",
+      "ko": "의전 학살자 자락모자",
       "ja": "セレモニアル・スレイヤーフラップキャップ",
       "en": "Ceremonial Longcap of Maiming",
       "fr": "Casquette d'abatteur des cérémonies"
@@ -37066,7 +37108,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Hose des Verstümmelns",
-      "ko": "",
+      "ko": "의전 학살자 기마바지",
       "ja": "セレモニアル・スレイヤーホーズ",
       "en": "Ceremonial Hose of Maiming",
       "fr": "Fuseau d'abatteur des cérémonies"
@@ -37087,7 +37129,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Kappe des Schlagens",
-      "ko": "",
+      "ko": "의전 타격대 자락모자",
       "ja": "セレモニアル・ストライカーフラップキャップ",
       "en": "Ceremonial Longcap of Striking",
       "fr": "Casquette d'agresseur des cérémonies"
@@ -37108,7 +37150,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Weste des Schlagens",
-      "ko": "",
+      "ko": "의전 타격대 조끼",
       "ja": "セレモニアル・ストライカーベスト",
       "en": "Ceremonial Vest of Striking",
       "fr": "Gilet d'agresseur des cérémonies"
@@ -37129,7 +37171,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Weithose des Schlagens",
-      "ko": "",
+      "ko": "의전 타격대 통바지",
       "ja": "セレモニアル・ストライカーワイドパンツ",
       "en": "Ceremonial Culottes of Striking",
       "fr": "Pantalon large d'agresseur des cérémonies"
@@ -37150,7 +37192,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Kappe des Zielens",
-      "ko": "",
+      "ko": "의전 유격대 자락모자",
       "ja": "セレモニアル・レンジャーフラップキャップ",
       "en": "Ceremonial Longcap of Aiming",
       "fr": "Casquette de pisteur des cérémonies"
@@ -37171,7 +37213,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Weste des Zielens",
-      "ko": "",
+      "ko": "의전 유격대 조끼",
       "ja": "セレモニアル・レンジャーベスト",
       "en": "Ceremonial Vest of Aiming",
       "fr": "Gilet de pisteur des cérémonies"
@@ -37192,7 +37234,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Weithose des Zielens",
-      "ko": "",
+      "ko": "의전 유격대 통바지",
       "ja": "セレモニアル・レンジャーワイドパンツ",
       "en": "Ceremonial Culottes of Aiming",
       "fr": "Pantalon large de pisteur des cérémonies"
@@ -37213,7 +37255,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Kappe des Spähens",
-      "ko": "",
+      "ko": "의전 정찰대 자락모자",
       "ja": "セレモニアル・スカウトフラップキャップ",
       "en": "Ceremonial Longcap of Scouting",
       "fr": "Casquette d'éclaireur des cérémonies"
@@ -37234,7 +37276,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Weste des Spähens",
-      "ko": "",
+      "ko": "의전 정찰대 조끼",
       "ja": "セレモニアル・スカウトベスト",
       "en": "Ceremonial Vest of Scouting",
       "fr": "Gilet d'éclaireur des cérémonies"
@@ -37255,7 +37297,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Weithose des Spähens",
-      "ko": "",
+      "ko": "의전 정찰대 통바지",
       "ja": "セレモニアル・スカウトワイドパンツ",
       "en": "Ceremonial Culottes of Scouting",
       "fr": "Pantalon large d'éclaireur des cérémonies"
@@ -37276,7 +37318,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Haube der Heilung",
-      "ko": "",
+      "ko": "의전 치유사 두건",
       "ja": "セレモニアル・ヒーラーフード",
       "en": "Ceremonial Hood of Healing",
       "fr": "Capuche de soigneur des cérémonies"
@@ -37297,7 +37339,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Tunika der Heilung",
-      "ko": "",
+      "ko": "의전 치유사 튜닉",
       "ja": "セレモニアル・ヒーラーチュニック",
       "en": "Ceremonial Tunic of Healing",
       "fr": "Tunique de soigneur des cérémonies"
@@ -37318,7 +37360,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Hose der Heilung",
-      "ko": "",
+      "ko": "의전 치유사 기마바지",
       "ja": "セレモニアル・ヒーラーホーズ",
       "en": "Ceremonial Hose of Healing",
       "fr": "Fuseau de soigneur des cérémonies"
@@ -37339,7 +37381,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Haube der Magie",
-      "ko": "",
+      "ko": "의전 마술사 두건",
       "ja": "セレモニアル・キャスターフード",
       "en": "Ceremonial Hood of Casting",
       "fr": "Capuche d'incantateur des cérémonies"
@@ -37360,7 +37402,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Tunika der Magie",
-      "ko": "",
+      "ko": "의전 마술사 튜닉",
       "ja": "セレモニアル・キャスターチュニック",
       "en": "Ceremonial Tunic of Casting",
       "fr": "Tunique d'incantateur des cérémonies"
@@ -37381,7 +37423,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Hose der Magie",
-      "ko": "",
+      "ko": "의전 마술사 기마바지",
       "ja": "セレモニアル・キャスターホーズ",
       "en": "Ceremonial Hose of Casting",
       "fr": "Fuseau d'incantateur des cérémonies"
@@ -38468,8 +38510,8 @@
     "durability": 35,
     "progressDivider": 170,
     "stars": 1,
-    "difficulty": 900,
-    "maxQuality": 16900,
+    "difficulty": 5000,
+    "maxQuality": 14100,
     "qualityModifier": 75,
     "name": {
       "de": "Logistik-Faden",
@@ -38767,7 +38809,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Neonstraßen-Kappe",
-      "ko": "",
+      "ko": "네온 스트리트 모자",
       "ja": "ネオンストリート・キャップ",
       "en": "Neon Street Cap",
       "fr": "Casquette de rue aux néons"
@@ -38788,7 +38830,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Neonstraßen-Cargohose",
-      "ko": "",
+      "ko": "네온 스트리트 카고팬츠",
       "ja": "ネオンストリート・カーゴパンツ",
       "en": "Neon Street Cargo Trousers",
       "fr": "Pantalon cargo de rue aux néons"
@@ -38809,7 +38851,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Türsteher-Weste",
-      "ko": "",
+      "ko": "경비원 조끼",
       "ja": "バウンサーベスト",
       "en": "Bouncer's Vest",
       "fr": "Gilet de videur"
@@ -38830,7 +38872,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Türsteher-Hose",
-      "ko": "",
+      "ko": "경비원 바지",
       "ja": "バウンサースラックス",
       "en": "Bouncer's Slacks",
       "fr": "Pantalon de videur"
@@ -38851,7 +38893,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Türsteher-Holsterweste",
-      "ko": "",
+      "ko": "경비원 권총집 조끼",
       "ja": "バウンサーズ・ホルスターベスト",
       "en": "Bouncer's Holster Vest",
       "fr": "Gilet de videur à holster"
@@ -38872,7 +38914,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Türsteher-Holsterhose",
-      "ko": "",
+      "ko": "경비원 권총집 바지",
       "ja": "バウンサーズ・ホルスタースラックス",
       "en": "Bouncer's Holster Slacks",
       "fr": "Pantalon de videur à holster"
@@ -38881,5 +38923,215 @@
     "suggestedCraftsmanship": 4780,
     "qualityDivider": 150,
     "key": 36734
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Pfauen-Stirnband des Handwerks",
+      "ko": "",
+      "ja": "ピーコック・クラフターヘッドバンド",
+      "en": "Crested Headband of Crafting",
+      "fr": "Barrettes des créations du paon bleu"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37451
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Pfauen-Hemd des Handwerks",
+      "ko": "",
+      "ja": "ピーコック・クラフターシャツ",
+      "en": "Crested Shirt of Crafting",
+      "fr": "Chemise des créations du paon bleu"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37452
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Pfauen-Handschuhe des Handwerks",
+      "ko": "",
+      "ja": "ピーコック・クラフターグローブ",
+      "en": "Crested Gloves of Crafting",
+      "fr": "Gants des créations du paon bleu"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37453
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Pfauen-Kniebundhose des Handwerks",
+      "ko": "",
+      "ja": "ピーコック・クラフターキュロット",
+      "en": "Crested Culottes of Crafting",
+      "fr": "Culotte des créations du paon bleu"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37454
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Pfauen-Haube des Eifers",
+      "ko": "",
+      "ja": "ピーコック・ギャザラーフード",
+      "en": "Crested Hood of Gathering",
+      "fr": "Capuche des ressources du paon bleu"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37456
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Pfauen-Mantel des Eifers",
+      "ko": "",
+      "ja": "ピーコック・ギャザラーコート",
+      "en": "Crested Coat of Gathering",
+      "fr": "Manteau des ressources du paon bleu"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37457
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Pfauen-Hose des Eifers",
+      "ko": "",
+      "ja": "ピーコック・ギャザラーパンツ",
+      "en": "Crested Slops of Gathering",
+      "fr": "Pantacourt des ressources du paon bleu"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37459
+  },
+  {
+    "progressModifier": 90,
+    "level": 740,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 9000,
+    "maxQuality": 18700,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Elegante Sommerjacke",
+      "ko": "",
+      "ja": "サマーフォーマル・ジャケット",
+      "en": "Summertide Formal Jacket",
+      "fr": "Veste élégante d'été"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 5380,
+    "qualityDivider": 150,
+    "key": 37475
+  },
+  {
+    "progressModifier": 90,
+    "level": 740,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 9000,
+    "maxQuality": 18700,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Elegante Sommerhose",
+      "ko": "",
+      "ja": "サマーフォーマル・スラックス",
+      "en": "Summertide Formal Slacks",
+      "fr": "Pantalon élégant d'été"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 5380,
+    "qualityDivider": 150,
+    "key": 37476
+  },
+  {
+    "progressModifier": 90,
+    "level": 740,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 9000,
+    "maxQuality": 18700,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Elegantes Sommerkleid",
+      "ko": "",
+      "ja": "サマーフォーマル・ドレス",
+      "en": "Summertide Formal Dress",
+      "fr": "Robe élégante d'été"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 5380,
+    "qualityDivider": 150,
+    "key": 37478
   }
 ]

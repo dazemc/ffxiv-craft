@@ -8095,7 +8095,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Prosciutto mit Knochen",
-      "ko": "",
+      "ko": "프로슈토 크루도",
       "ja": "プロシュット・クルード",
       "en": "Leg of Prosciutto",
       "fr": "Prosciutto crudo"
@@ -8104,6 +8104,27 @@
     "suggestedCraftsmanship": 4207,
     "qualityDivider": 150,
     "key": 6281
+  },
+  {
+    "progressModifier": 90,
+    "level": 690,
+    "durability": 80,
+    "progressDivider": 170,
+    "stars": 0,
+    "difficulty": 6600,
+    "maxQuality": 12000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Paella nach Fischerart",
+      "ko": "",
+      "ja": "漁師風パエリア",
+      "en": "Old Fishwife's Paella",
+      "fr": "Paella à la marin-pêcheur"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4207,
+    "qualityDivider": 150,
+    "key": 6294
   },
   {
     "progressModifier": 100,
@@ -18049,7 +18070,7 @@
     "qualityModifier": 80,
     "name": {
       "de": "Eisenbahner-Schleifrad",
-      "ko": "",
+      "ko": "새 차량 연마 도구",
       "ja": "新車両の研磨道具",
       "en": "Rail Grindstone",
       "fr": "Table d'usinage pour locomotive"
@@ -18070,7 +18091,7 @@
     "qualityModifier": 80,
     "name": {
       "de": "Polsterbank",
-      "ko": "",
+      "ko": "쾌적한 좌석 시트",
       "ja": "快適な座席シート",
       "en": "Plush Carriage Seating",
       "fr": "Banquette de train confortable"
@@ -18091,7 +18112,7 @@
     "qualityModifier": 100,
     "name": {
       "de": "Kartendruckutensil",
-      "ko": "",
+      "ko": "안내 지도 인쇄 도구",
       "ja": "案内地図の印刷用具",
       "en": "Map Printing Essentials",
       "fr": "Articles d'impression"
@@ -18112,7 +18133,7 @@
     "qualityModifier": 100,
     "name": {
       "de": "Eisenbahner-Werkzeugkiste",
-      "ko": "",
+      "ko": "기술자용 필수 도구",
       "ja": "技師用の必須用具",
       "en": "Engineer's Supply Kit",
       "fr": "Caisse à outils professionnels"
@@ -18133,7 +18154,7 @@
     "qualityModifier": 100,
     "name": {
       "de": "Gleisreparaturset",
-      "ko": "",
+      "ko": "선로 복구용 자재",
       "ja": "線路復旧用の資材",
       "en": "Railroad Repair Kit",
       "fr": "Portion de voie ferrée pour la rénovation"
@@ -18154,7 +18175,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Pao de Queijo",
-      "ko": "",
+      "ko": "팡 지 케이주",
       "ja": "ポン・デ・ケージョ",
       "en": "Paes de Queijo",
       "fr": "Pains au fromage"
@@ -18175,7 +18196,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Tapioka-Milchtee",
-      "ko": "",
+      "ko": "버블티",
       "ja": "タピオカミルクティー",
       "en": "Bubble Tea",
       "fr": "Thé aux perles"
@@ -18196,7 +18217,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Mate-Süßtee",
-      "ko": "",
+      "ko": "달콤 마테차",
       "ja": "マテ・スイートティー",
       "en": "Sweet Maple Mate",
       "fr": "Yerba maté sucré"
@@ -18217,7 +18238,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Premium-Mate-Keks",
-      "ko": "",
+      "ko": "고급 마테차 쿠키",
       "ja": "高級マテ茶クッキー",
       "en": "Mate Cookie",
       "fr": "Biscuit au yerba maté ultime"
@@ -18238,7 +18259,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Alpaka-Eintopf",
-      "ko": "",
+      "ko": "알파카 스튜",
       "ja": "アルパカシチュー",
       "en": "Alpaca Stew",
       "fr": "Ragoût d'alpaga"
@@ -18259,7 +18280,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Rroneek Saltado",
-      "ko": "",
+      "ko": "로네크 살타도",
       "ja": "ロネーク・サルタード",
       "en": "Lomo Saltado",
       "fr": "Sauté de rroneek"
@@ -18280,7 +18301,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Ensalada de Queso",
-      "ko": "",
+      "ko": "엔살라다 데 케소",
       "ja": "エンサラーダ・デ・ケソ",
       "en": "Solterito",
       "fr": "Salade au queso"
@@ -18301,7 +18322,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Mollete",
-      "ko": "",
+      "ko": "모예테",
       "ja": "モジェテ",
       "en": "Mollete",
       "fr": "Molletes"
@@ -18322,7 +18343,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Wollrücken-Frikadelle",
-      "ko": "",
+      "ko": "북슬등 햄버그",
       "ja": "ウールバックハンバーグ",
       "en": "Ground Woolback Steak",
       "fr": "Steak haché de dos-laineux"
@@ -18343,7 +18364,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Wollrücken-Steak",
-      "ko": "",
+      "ko": "북슬등 스테이크",
       "ja": "ウールバックステーキ",
       "en": "Woolback Steak",
       "fr": "Steak de dos-laineux"
@@ -19430,8 +19451,8 @@
     "durability": 35,
     "progressDivider": 170,
     "stars": 1,
-    "difficulty": 900,
-    "maxQuality": 16900,
+    "difficulty": 5000,
+    "maxQuality": 14100,
     "qualityModifier": 75,
     "name": {
       "de": "Arbeiter-Paste",
@@ -19717,5 +19738,47 @@
     "suggestedCraftsmanship": 4207,
     "qualityDivider": 150,
     "key": 36722
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "All i pebre",
+      "ko": "",
+      "ja": "アリぺブレ",
+      "en": "All i Pebre",
+      "fr": "Allipebre"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37469
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Goldaalpastete",
+      "ko": "",
+      "ja": "ゴールデンイールパイ",
+      "en": "Goldentail Pie",
+      "fr": "Tarte à l'anguille dorée"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37470
   }
 ]

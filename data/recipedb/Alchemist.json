@@ -13828,10 +13828,10 @@
     "qualityModifier": 100,
     "name": {
       "de": "Roter Drillingsblumen-Ohrring",
-      "ko": "",
+      "ko": "부겐빌레아 귀걸이: 빨강",
       "ja": "ペーパーフラワーイヤリング:レッド",
       "en": "Red Paperflower Earring",
-      "fr": "Boucle d'oreille bougainvillée rouge"
+      "fr": "Boucle d'oreille fleur de papier rouge"
     },
     "baseLevel": 86,
     "suggestedCraftsmanship": 2590,
@@ -13849,10 +13849,10 @@
     "qualityModifier": 100,
     "name": {
       "de": "Blauer Drillingsblumen-Ohrring",
-      "ko": "",
+      "ko": "부겐빌레아 귀걸이: 파랑",
       "ja": "ペーパーフラワーイヤリング:ブルー",
       "en": "Blue Paperflower Earring",
-      "fr": "Boucle d'oreille bougainvillée bleue"
+      "fr": "Boucle d'oreille fleur de papier bleue"
     },
     "baseLevel": 86,
     "suggestedCraftsmanship": 2590,
@@ -13870,10 +13870,10 @@
     "qualityModifier": 100,
     "name": {
       "de": "Gelber Drillingsblumen-Ohrring",
-      "ko": "",
+      "ko": "부겐빌레아 귀걸이: 노랑",
       "ja": "ペーパーフラワーイヤリング:イエロー",
       "en": "Yellow Paperflower Earring",
-      "fr": "Boucle d'oreille bougainvillée jaune"
+      "fr": "Boucle d'oreille fleur de papier jaune"
     },
     "baseLevel": 86,
     "suggestedCraftsmanship": 2590,
@@ -13891,10 +13891,10 @@
     "qualityModifier": 100,
     "name": {
       "de": "Grüner Drillingsblumen-Ohrring",
-      "ko": "",
+      "ko": "부겐빌레아 귀걸이: 초록",
       "ja": "ペーパーフラワーイヤリング:グリーン",
       "en": "Green Paperflower Earring",
-      "fr": "Boucle d'oreille bougainvillée verte"
+      "fr": "Boucle d'oreille fleur de papier verte"
     },
     "baseLevel": 86,
     "suggestedCraftsmanship": 2590,
@@ -13912,10 +13912,10 @@
     "qualityModifier": 100,
     "name": {
       "de": "Oranger Drillingsblumen-Ohrring",
-      "ko": "",
+      "ko": "부겐빌레아 귀걸이: 주황",
       "ja": "ペーパーフラワーイヤリング:オレンジ",
       "en": "Orange Paperflower Earring",
-      "fr": "Boucle d'oreille bougainvillée orange"
+      "fr": "Boucle d'oreille fleur de papier orange"
     },
     "baseLevel": 86,
     "suggestedCraftsmanship": 2590,
@@ -13933,10 +13933,10 @@
     "qualityModifier": 100,
     "name": {
       "de": "Violetter Drillingsblumen-Ohrring",
-      "ko": "",
+      "ko": "부겐빌레아 귀걸이: 보라",
       "ja": "ペーパーフラワーイヤリング:パープル",
       "en": "Purple Paperflower Earring",
-      "fr": "Boucle d'oreille bougainvillée violette"
+      "fr": "Boucle d'oreille fleur de papier violette"
     },
     "baseLevel": 86,
     "suggestedCraftsmanship": 2590,
@@ -13954,10 +13954,10 @@
     "qualityModifier": 100,
     "name": {
       "de": "Weißer Drillingsblumen-Ohrring",
-      "ko": "",
+      "ko": "부겐빌레아 귀걸이: 하양",
       "ja": "ペーパーフラワーイヤリング:ホワイト",
       "en": "White Paperflower Earring",
-      "fr": "Boucle d'oreille bougainvillée blanche"
+      "fr": "Boucle d'oreille fleur de papier blanche"
     },
     "baseLevel": 86,
     "suggestedCraftsmanship": 2590,
@@ -13975,10 +13975,10 @@
     "qualityModifier": 100,
     "name": {
       "de": "Schwarzer Drillingsblumen-Ohrring",
-      "ko": "",
+      "ko": "부겐빌레아 귀걸이: 검정",
       "ja": "ペーパーフラワーイヤリング:ブラック",
       "en": "Black Paperflower Earring",
-      "fr": "Boucle d'oreille bougainvillée noire"
+      "fr": "Boucle d'oreille fleur de papier noire"
     },
     "baseLevel": 86,
     "suggestedCraftsmanship": 2590,
@@ -13996,15 +13996,225 @@
     "qualityModifier": 100,
     "name": {
       "de": "Bunter Drillingsblumen-Ohrring",
-      "ko": "",
+      "ko": "부겐빌레아 귀걸이: 혼합",
       "ja": "ペーパーフラワーイヤリング:ブレンド",
       "en": "Rainbow Paperflower Earring",
-      "fr": "Boucle d'oreille bougainvillée multicolore"
+      "fr": "Boucle d'oreille fleur de papier multicolore"
     },
     "baseLevel": 86,
     "suggestedCraftsmanship": 2590,
     "qualityDivider": 110,
     "key": 6269
+  },
+  {
+    "progressModifier": 100,
+    "level": 545,
+    "durability": 80,
+    "progressDivider": 127,
+    "stars": 0,
+    "difficulty": 3200,
+    "maxQuality": 6900,
+    "qualityModifier": 100,
+    "name": {
+      "de": "Rote Plumeria-Haarspange",
+      "ko": "",
+      "ja": "チャンパーオーナメント:レッド",
+      "en": "Red Champa Corsage",
+      "fr": "Couronne de plumerias rouges"
+    },
+    "baseLevel": 87,
+    "suggestedCraftsmanship": 2626,
+    "qualityDivider": 111,
+    "key": 6283
+  },
+  {
+    "progressModifier": 100,
+    "level": 545,
+    "durability": 80,
+    "progressDivider": 127,
+    "stars": 0,
+    "difficulty": 3200,
+    "maxQuality": 6900,
+    "qualityModifier": 100,
+    "name": {
+      "de": "Blaue Plumeria-Haarspange",
+      "ko": "",
+      "ja": "チャンパーオーナメント:ブルー",
+      "en": "Blue Champa Corsage",
+      "fr": "Couronne de plumerias bleues"
+    },
+    "baseLevel": 87,
+    "suggestedCraftsmanship": 2626,
+    "qualityDivider": 111,
+    "key": 6284
+  },
+  {
+    "progressModifier": 100,
+    "level": 545,
+    "durability": 80,
+    "progressDivider": 127,
+    "stars": 0,
+    "difficulty": 3200,
+    "maxQuality": 6900,
+    "qualityModifier": 100,
+    "name": {
+      "de": "Gelbe Plumeria-Haarspange",
+      "ko": "",
+      "ja": "チャンパーオーナメント:イエロー",
+      "en": "Yellow Champa Corsage",
+      "fr": "Couronne de plumerias jaunes"
+    },
+    "baseLevel": 87,
+    "suggestedCraftsmanship": 2626,
+    "qualityDivider": 111,
+    "key": 6285
+  },
+  {
+    "progressModifier": 100,
+    "level": 545,
+    "durability": 80,
+    "progressDivider": 127,
+    "stars": 0,
+    "difficulty": 3200,
+    "maxQuality": 6900,
+    "qualityModifier": 100,
+    "name": {
+      "de": "Grüne Plumeria-Haarspange",
+      "ko": "",
+      "ja": "チャンパーオーナメント:グリーン",
+      "en": "Green Champa Corsage",
+      "fr": "Couronne de plumerias vertes"
+    },
+    "baseLevel": 87,
+    "suggestedCraftsmanship": 2626,
+    "qualityDivider": 111,
+    "key": 6286
+  },
+  {
+    "progressModifier": 100,
+    "level": 545,
+    "durability": 80,
+    "progressDivider": 127,
+    "stars": 0,
+    "difficulty": 3200,
+    "maxQuality": 6900,
+    "qualityModifier": 100,
+    "name": {
+      "de": "Orange Plumeria-Haarspange",
+      "ko": "",
+      "ja": "チャンパーオーナメント:オレンジ",
+      "en": "Orange Champa Corsage",
+      "fr": "Couronne de plumerias orange"
+    },
+    "baseLevel": 87,
+    "suggestedCraftsmanship": 2626,
+    "qualityDivider": 111,
+    "key": 6287
+  },
+  {
+    "progressModifier": 100,
+    "level": 545,
+    "durability": 80,
+    "progressDivider": 127,
+    "stars": 0,
+    "difficulty": 3200,
+    "maxQuality": 6900,
+    "qualityModifier": 100,
+    "name": {
+      "de": "Violette Plumeria-Haarspange",
+      "ko": "",
+      "ja": "チャンパーオーナメント:パープル",
+      "en": "Purple Champa Corsage",
+      "fr": "Couronne de plumerias violettes"
+    },
+    "baseLevel": 87,
+    "suggestedCraftsmanship": 2626,
+    "qualityDivider": 111,
+    "key": 6288
+  },
+  {
+    "progressModifier": 100,
+    "level": 545,
+    "durability": 80,
+    "progressDivider": 127,
+    "stars": 0,
+    "difficulty": 3200,
+    "maxQuality": 6900,
+    "qualityModifier": 100,
+    "name": {
+      "de": "Weiße Plumeria-Haarspange",
+      "ko": "",
+      "ja": "チャンパーオーナメント:ホワイト",
+      "en": "White Champa Corsage",
+      "fr": "Couronne de plumerias blanches"
+    },
+    "baseLevel": 87,
+    "suggestedCraftsmanship": 2626,
+    "qualityDivider": 111,
+    "key": 6289
+  },
+  {
+    "progressModifier": 100,
+    "level": 545,
+    "durability": 80,
+    "progressDivider": 127,
+    "stars": 0,
+    "difficulty": 3200,
+    "maxQuality": 6900,
+    "qualityModifier": 100,
+    "name": {
+      "de": "Schwarze Plumeria-Haarspange",
+      "ko": "",
+      "ja": "チャンパーオーナメント:ブラック",
+      "en": "Black Champa Corsage",
+      "fr": "Couronne de plumerias noires"
+    },
+    "baseLevel": 87,
+    "suggestedCraftsmanship": 2626,
+    "qualityDivider": 111,
+    "key": 6290
+  },
+  {
+    "progressModifier": 100,
+    "level": 545,
+    "durability": 80,
+    "progressDivider": 127,
+    "stars": 0,
+    "difficulty": 3200,
+    "maxQuality": 6900,
+    "qualityModifier": 100,
+    "name": {
+      "de": "Mehrfarbige Plumeria-Haarspange",
+      "ko": "",
+      "ja": "チャンパーオーナメント:ブレンド",
+      "en": "Rainbow Champa Corsage",
+      "fr": "Couronne de plumerias multicolores"
+    },
+    "baseLevel": 87,
+    "suggestedCraftsmanship": 2626,
+    "qualityDivider": 111,
+    "key": 6291
+  },
+  {
+    "progressModifier": 90,
+    "level": 690,
+    "durability": 80,
+    "progressDivider": 170,
+    "stars": 0,
+    "difficulty": 6600,
+    "maxQuality": 12000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Ultratrank",
+      "ko": "",
+      "ja": "ウルトラポーション",
+      "en": "Ultra-Potion",
+      "fr": "Ultra potion"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4207,
+    "qualityDivider": 150,
+    "key": 6297
   },
   {
     "progressModifier": 100,
@@ -28360,7 +28570,7 @@
     "qualityModifier": 80,
     "name": {
       "de": "Eisenbahner-Schleifrad",
-      "ko": "",
+      "ko": "새 차량 연마 도구",
       "ja": "新車両の研磨道具",
       "en": "Rail Grindstone",
       "fr": "Table d'usinage pour locomotive"
@@ -28381,7 +28591,7 @@
     "qualityModifier": 80,
     "name": {
       "de": "Polsterbank",
-      "ko": "",
+      "ko": "쾌적한 좌석 시트",
       "ja": "快適な座席シート",
       "en": "Plush Carriage Seating",
       "fr": "Banquette de train confortable"
@@ -28402,7 +28612,7 @@
     "qualityModifier": 100,
     "name": {
       "de": "Kartendruckutensil",
-      "ko": "",
+      "ko": "안내 지도 인쇄 도구",
       "ja": "案内地図の印刷用具",
       "en": "Map Printing Essentials",
       "fr": "Articles d'impression"
@@ -28423,7 +28633,7 @@
     "qualityModifier": 100,
     "name": {
       "de": "Eisenbahner-Werkzeugkiste",
-      "ko": "",
+      "ko": "기술자용 필수 도구",
       "ja": "技師用の必須用具",
       "en": "Engineer's Supply Kit",
       "fr": "Caisse à outils professionnels"
@@ -28444,7 +28654,7 @@
     "qualityModifier": 100,
     "name": {
       "de": "Gleisreparaturset",
-      "ko": "",
+      "ko": "선로 복구용 자재",
       "ja": "線路復旧用の資材",
       "en": "Railroad Repair Kit",
       "fr": "Portion de voie ferrée pour la rénovation"
@@ -28549,7 +28759,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Juwelenlösung der Stärke III",
-      "ko": "",
+      "ko": "3등급 힘의 보석수",
       "ja": "剛力の宝水G3",
       "en": "Grade 3 Gemsap of Strength",
       "fr": "Eau prodigieuse de force III"
@@ -28570,7 +28780,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Juwelenlösung der Geschicklichkeit III",
-      "ko": "",
+      "ko": "3등급 민첩성의 보석수",
       "ja": "眼力の宝水G3",
       "en": "Grade 3 Gemsap of Dexterity",
       "fr": "Eau prodigieuse de dextérité III"
@@ -28591,7 +28801,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Juwelenlösung der Konstitution III",
-      "ko": "",
+      "ko": "3등급 활력의 보석수",
       "ja": "活力の宝水G3",
       "en": "Grade 3 Gemsap of Vitality",
       "fr": "Eau prodigieuse de vitalité III"
@@ -28612,7 +28822,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Juwelenlösung der Intelligenz III",
-      "ko": "",
+      "ko": "3등급 지능의 보석수",
       "ja": "知力の宝水G3",
       "en": "Grade 3 Gemsap of Intelligence",
       "fr": "Eau prodigieuse d'intelligence III"
@@ -28633,7 +28843,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Juwelenlösung der Willenskraft III",
-      "ko": "",
+      "ko": "3등급 정신력의 보석수",
       "ja": "心力の宝水G3",
       "en": "Grade 3 Gemsap of Mind",
       "fr": "Eau prodigieuse d'esprit III"
@@ -28654,7 +28864,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Juwelenremedium der Stärke III",
-      "ko": "",
+      "ko": "3등급 힘의 보석약",
       "ja": "剛力の宝薬G3",
       "en": "Grade 3 Gemdraught of Strength",
       "fr": "Philtre prodigieux de force III"
@@ -28675,7 +28885,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Juwelenremedium der Geschicklichkeit III",
-      "ko": "",
+      "ko": "3등급 민첩성의 보석약",
       "ja": "眼力の宝薬G3",
       "en": "Grade 3 Gemdraught of Dexterity",
       "fr": "Philtre prodigieux de dextérité III"
@@ -28696,7 +28906,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Juwelenremedium der Konstitution III",
-      "ko": "",
+      "ko": "3등급 활력의 보석약",
       "ja": "活力の宝薬G3",
       "en": "Grade 3 Gemdraught of Vitality",
       "fr": "Philtre prodigieux de vitalité III"
@@ -28717,7 +28927,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Juwelenremedium der Intelligenz III",
-      "ko": "",
+      "ko": "3등급 지능의 보석약",
       "ja": "知力の宝薬G3",
       "en": "Grade 3 Gemdraught of Intelligence",
       "fr": "Philtre prodigieux d'intelligence III"
@@ -28738,7 +28948,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Juwelenremedium der Willenskraft III",
-      "ko": "",
+      "ko": "3등급 정신력의 보석약",
       "ja": "心力の宝薬G3",
       "en": "Grade 3 Gemdraught of Mind",
       "fr": "Philtre prodigieux d'esprit III"
@@ -28759,7 +28969,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Grimoire",
-      "ko": "",
+      "ko": "의전 마법서",
       "ja": "セレモニアル・グリモア",
       "en": "Ceremonial Grimoire",
       "fr": "Grimoire des cérémonies"
@@ -28780,7 +28990,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Kodex",
-      "ko": "",
+      "ko": "의전 치유서",
       "ja": "セレモニアル・コーデックス",
       "en": "Ceremonial Codex",
       "fr": "Codex des cérémonies"
@@ -28801,7 +29011,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Flachpinsel",
-      "ko": "",
+      "ko": "의전 납작붓",
       "ja": "セレモニアル・フラットブラシ",
       "en": "Ceremonial Flat Brush",
       "fr": "Pinceau plat des cérémonies"
@@ -29888,8 +30098,8 @@
     "durability": 35,
     "progressDivider": 170,
     "stars": 1,
-    "difficulty": 900,
-    "maxQuality": 16900,
+    "difficulty": 5000,
+    "maxQuality": 14100,
     "qualityModifier": 75,
     "name": {
       "de": "Arbeiter-Nährstoffe",
@@ -30187,7 +30397,7 @@
     "qualityModifier": 70,
     "name": {
       "de": "Index des heiligenden Lichts",
-      "ko": "",
+      "ko": "거룩한 빛 마법서",
       "ja": "サンクティファイライト・グリモア",
       "en": "Grimoire of Sanctifying Light",
       "fr": "Grimoire de la clarté sanctificatrice"
@@ -30208,7 +30418,7 @@
     "qualityModifier": 70,
     "name": {
       "de": "Kodex des heiligenden Lichts",
-      "ko": "",
+      "ko": "거룩한 빛 치유서",
       "ja": "サンクティファイライト・コーデックス",
       "en": "Codex of Sanctifying Light",
       "fr": "Codex de la clarté sanctificatrice"
@@ -30229,7 +30439,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Notenrolle von \u201eRoses of May (Dawntrail)\u201c",
-      "ko": "",
+      "ko": "오케스트리온 악보: Roses of May (Dawntrail)",
       "ja": "オーケストリオン譜:ローズ・オブ・メイ",
       "en": "Roses of May (Dawntrail) Orchestrion Roll",
       "fr": "Rouleau \u201cRoses of May (Dawntrail)\u201d"
@@ -30238,5 +30448,26 @@
     "suggestedCraftsmanship": 4780,
     "qualityDivider": 150,
     "key": 36757
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 35,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 5130,
+    "maxQuality": 13110,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Juwelenlösung des Handwerks",
+      "ko": "",
+      "ja": "匠の宝水",
+      "en": "Craftsman's Tri-solution",
+      "fr": "Eau prodigieuse de savoir-faire"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37472
   }
 ]

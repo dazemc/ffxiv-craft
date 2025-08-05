@@ -14563,7 +14563,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Fischgräten-Wandverkleidung",
-      "ko": "",
+      "ko": "오늬무늬 내벽",
       "ja": "ヘリンボーン・インナーウォール",
       "en": "Herringbone Interior Wall",
       "fr": "Revêtement mural en chevrons"
@@ -14584,7 +14584,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Hingashi-Kleiderschrank",
-      "ko": "",
+      "ko": "동방 옷장",
       "ja": "白銀衣装箪笥",
       "en": "Hingan Dresser",
       "fr": "Garde-robe hingashienne"
@@ -14605,7 +14605,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Hingashi-Schmuckfenster",
-      "ko": "",
+      "ko": "동방 살창문",
       "ja": "白銀平書院",
       "en": "Decorative Hingan Window",
       "fr": "Fenêtre décorative hingashienne"
@@ -14626,7 +14626,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Hingashi-Schmucksäule",
-      "ko": "",
+      "ko": "동방 장식 기둥",
       "ja": "白銀床柱",
       "en": "Simple Hingan Pillar",
       "fr": "Poteau en bois hingashien"
@@ -14647,7 +14647,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Hingashi-Rundregal",
-      "ko": "",
+      "ko": "동방 엇갈림 선반",
       "ja": "白銀違い棚",
       "en": "Hingan Wall Shelf",
       "fr": "Étagère murale hingashienne"
@@ -14668,7 +14668,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Hingashi-Wandschränkchen (oben)",
-      "ko": "",
+      "ko": "동방 꼭대기장",
       "ja": "白銀天袋",
       "en": "Hingan Wall Cabinet",
       "fr": "Armoire murale hingashienne"
@@ -14689,7 +14689,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Hingashi-Wandschränkchen (unten)",
-      "ko": "",
+      "ko": "동방 바닥장",
       "ja": "白銀地袋",
       "en": "Hingan Floor Cabinet",
       "fr": "Armoire basse hingashienne"
@@ -14710,7 +14710,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Hölzerner Raumteiler",
-      "ko": "",
+      "ko": "나무틀 칸막이",
       "ja": "ウッドフレーム・パーティション",
       "en": "Wooden Frame Partition",
       "fr": "Cloison ajourée en bois"
@@ -14731,7 +14731,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Gitterfensterschrank",
-      "ko": "",
+      "ko": "격자문 수납장",
       "ja": "ラティスウィンドウ・キャビネット",
       "en": "Lattice-windowed Cabinet",
       "fr": "Cabinet vitré à treillis"
@@ -14752,7 +14752,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Floristen-Gartentor",
-      "ko": "",
+      "ko": "정원용 화훼 대문",
       "ja": "フローリスト・ガーデンゲート",
       "en": "Gardener's Gate",
       "fr": "Portail de jardin de fleuriste"
@@ -14761,6 +14761,48 @@
     "suggestedCraftsmanship": 4207,
     "qualityDivider": 150,
     "key": 6282
+  },
+  {
+    "progressModifier": 90,
+    "level": 690,
+    "durability": 80,
+    "progressDivider": 170,
+    "stars": 0,
+    "difficulty": 6600,
+    "maxQuality": 12000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Pflanzgitter-Raumteiler",
+      "ko": "",
+      "ja": "ラティスプランター・パーティション",
+      "en": "Lattice Planter Partition",
+      "fr": "Cloison jardinière à treillage"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4207,
+    "qualityDivider": 150,
+    "key": 6295
+  },
+  {
+    "progressModifier": 90,
+    "level": 690,
+    "durability": 80,
+    "progressDivider": 170,
+    "stars": 0,
+    "difficulty": 6600,
+    "maxQuality": 12000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Bodensessel \u201eObskurrer Otter\u201c",
+      "ko": "",
+      "ja": "ウソウソ座椅子",
+      "en": "Far Eastern Odder Otter Seater",
+      "fr": "Fauteuil de sol loutre choute"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4207,
+    "qualityDivider": 150,
+    "key": 6296
   },
   {
     "progressModifier": 100,
@@ -28129,7 +28171,7 @@
     "qualityModifier": 80,
     "name": {
       "de": "Eisenbahner-Schleifrad",
-      "ko": "",
+      "ko": "새 차량 연마 도구",
       "ja": "新車両の研磨道具",
       "en": "Rail Grindstone",
       "fr": "Table d'usinage pour locomotive"
@@ -28150,7 +28192,7 @@
     "qualityModifier": 80,
     "name": {
       "de": "Polsterbank",
-      "ko": "",
+      "ko": "쾌적한 좌석 시트",
       "ja": "快適な座席シート",
       "en": "Plush Carriage Seating",
       "fr": "Banquette de train confortable"
@@ -28171,7 +28213,7 @@
     "qualityModifier": 100,
     "name": {
       "de": "Kartendruckutensil",
-      "ko": "",
+      "ko": "안내 지도 인쇄 도구",
       "ja": "案内地図の印刷用具",
       "en": "Map Printing Essentials",
       "fr": "Articles d'impression"
@@ -28192,7 +28234,7 @@
     "qualityModifier": 100,
     "name": {
       "de": "Eisenbahner-Werkzeugkiste",
-      "ko": "",
+      "ko": "기술자용 필수 도구",
       "ja": "技師用の必須用具",
       "en": "Engineer's Supply Kit",
       "fr": "Caisse à outils professionnels"
@@ -28213,7 +28255,7 @@
     "qualityModifier": 100,
     "name": {
       "de": "Gleisreparaturset",
-      "ko": "",
+      "ko": "선로 복구용 자재",
       "ja": "線路復旧用の資材",
       "en": "Railroad Repair Kit",
       "fr": "Portion de voie ferrée pour la rénovation"
@@ -28234,7 +28276,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Cordia-Bauholz",
-      "ko": "",
+      "ko": "개송양나무 목재",
       "ja": "コーディア材",
       "en": "Cordia Lumber",
       "fr": "Madrier de cordia"
@@ -28255,7 +28297,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Langstab",
-      "ko": "",
+      "ko": "의전 장봉",
       "ja": "セレモニアル・ロングポール",
       "en": "Ceremonial Longpole",
       "fr": "Échalas des cérémonies"
@@ -28276,7 +28318,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Ohrring der Verteidigung",
-      "ko": "",
+      "ko": "의전 수호자 귀걸이",
       "ja": "セレモニアル・ディフェンダーイヤリング",
       "en": "Ceremonial Earring of Fending",
       "fr": "Boucle d'oreille de protecteur des cérémonies"
@@ -28297,7 +28339,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Ohrring des Schlachtens",
-      "ko": "",
+      "ko": "의전 공격대 귀걸이",
       "ja": "セレモニアル・アタッカーイヤリング",
       "en": "Ceremonial Earring of Slaying",
       "fr": "Boucle d'oreille d'attaquant des cérémonies"
@@ -28318,7 +28360,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Ohrring des Zielens",
-      "ko": "",
+      "ko": "의전 유격대 귀걸이",
       "ja": "セレモニアル・レンジャーイヤリング",
       "en": "Ceremonial Earring of Aiming",
       "fr": "Boucle d'oreille de pisteur des cérémonies"
@@ -28339,7 +28381,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Ohrring der Heilung",
-      "ko": "",
+      "ko": "의전 치유사 귀걸이",
       "ja": "セレモニアル・ヒーラーイヤリング",
       "en": "Ceremonial Earring of Healing",
       "fr": "Boucle d'oreille de soigneur des cérémonies"
@@ -28360,7 +28402,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Ohrring der Magie",
-      "ko": "",
+      "ko": "의전 마법사 귀걸이",
       "ja": "セレモニアル・キャスターイヤリング",
       "en": "Ceremonial Earring of Casting",
       "fr": "Boucle d'oreille d'incantateur des cérémonies"
@@ -28381,7 +28423,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Ring der Verteidigung",
-      "ko": "",
+      "ko": "의전 수호자 반지",
       "ja": "セレモニアル・ディフェンダーリング",
       "en": "Ceremonial Ring of Fending",
       "fr": "Bague de protecteur des cérémonies"
@@ -28402,7 +28444,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Ring des Schlachtens",
-      "ko": "",
+      "ko": "의전 공격대 반지",
       "ja": "セレモニアル・アタッカーリング",
       "en": "Ceremonial Ring of Slaying",
       "fr": "Bague d'attaquant des cérémonies"
@@ -28423,7 +28465,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Ring des Zielens",
-      "ko": "",
+      "ko": "의전 유격대 반지",
       "ja": "セレモニアル・レンジャーリング",
       "en": "Ceremonial Ring of Aiming",
       "fr": "Bague de pisteur des cérémonies"
@@ -28444,7 +28486,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Ring der Heilung",
-      "ko": "",
+      "ko": "의전 치유사 반지",
       "ja": "セレモニアル・ヒーラーリング",
       "en": "Ceremonial Ring of Healing",
       "fr": "Bague de soigneur des cérémonies"
@@ -28465,7 +28507,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Ring der Magie",
-      "ko": "",
+      "ko": "의전 마법사 반지",
       "ja": "セレモニアル・キャスターリング",
       "en": "Ceremonial Ring of Casting",
       "fr": "Bague d'incantateur des cérémonies"
@@ -29159,7 +29201,7 @@
     "name": {
       "de": "Inspektoren-Holzplatte",
       "ko": "",
-      "ja": "加工検証用の木版",
+      "ja": "加工検証用の木板",
       "en": "Experimental Plank",
       "fr": "Planche de bois d'essai"
     },
@@ -29552,8 +29594,8 @@
     "durability": 35,
     "progressDivider": 170,
     "stars": 1,
-    "difficulty": 900,
-    "maxQuality": 16900,
+    "difficulty": 5000,
+    "maxQuality": 14100,
     "qualityModifier": 75,
     "name": {
       "de": "Logistik-Edelbauholz",
@@ -29612,7 +29654,7 @@
   {
     "progressModifier": 100,
     "level": 746,
-    "durability": 35,
+    "durability": 30,
     "progressDivider": 180,
     "stars": 3,
     "difficulty": 7300,
@@ -29633,7 +29675,7 @@
   {
     "progressModifier": 100,
     "level": 746,
-    "durability": 60,
+    "durability": 55,
     "progressDivider": 180,
     "stars": 3,
     "difficulty": 10000,
@@ -29654,7 +29696,7 @@
   {
     "progressModifier": 100,
     "level": 747,
-    "durability": 30,
+    "durability": 35,
     "progressDivider": 180,
     "stars": 3,
     "difficulty": 6500,
@@ -29675,7 +29717,7 @@
   {
     "progressModifier": 100,
     "level": 747,
-    "durability": 55,
+    "durability": 60,
     "progressDivider": 180,
     "stars": 3,
     "difficulty": 9500,
@@ -29839,5 +29881,194 @@
     "suggestedCraftsmanship": 4207,
     "qualityDivider": 150,
     "key": 36687
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Goldhand-Angelrute",
+      "ko": "",
+      "ja": "ゴールデンサム・フィッシングロッド",
+      "en": "Gold Thumb's Fishing Rod",
+      "fr": "Canne à pêche de la main dorée"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37440
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Goldhand-Schleifrad",
+      "ko": "",
+      "ja": "ゴールデンサム・グラインディングホイール",
+      "en": "Gold Thumb's Grinding Wheel",
+      "fr": "Meule de la main dorée"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37444
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Goldhand-Spinnrad",
+      "ko": "",
+      "ja": "ゴールデンサム・スピニングホイール",
+      "en": "Gold Thumb's Spinning Wheel",
+      "fr": "Rouet de la main dorée"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37446
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Pfauen-Ohrringe des Handwerks",
+      "ko": "",
+      "ja": "ピーコック・クラフターイヤリング",
+      "en": "Crested Earrings of Crafting",
+      "fr": "Boucles d'oreilles des créations du paon bleu"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37461
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Pfauen-Armreif des Handwerks",
+      "ko": "",
+      "ja": "ピーコック・クラフターブレスレット",
+      "en": "Crested Bracelet of Crafting",
+      "fr": "Bracelet des créations du paon bleu"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37463
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Pfauen-Ring des Handwerks",
+      "ko": "",
+      "ja": "ピーコック・クラフターリング",
+      "en": "Crested Ring of Crafting",
+      "fr": "Bague des créations du paon bleu"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37464
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Pfauen-Ohrringe des Eifers",
+      "ko": "",
+      "ja": "ピーコック・ギャザラーイヤリング",
+      "en": "Crested Earrings of Gathering",
+      "fr": "Boucles d'oreilles des ressources du paon bleu"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37465
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Pfauen-Armreif des Eifers",
+      "ko": "",
+      "ja": "ピーコック・ギャザラーブレスレット",
+      "en": "Crested Bracelet of Gathering",
+      "fr": "Bracelet des ressources du paon bleu"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37467
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Pfauen-Ring des Eifers",
+      "ko": "",
+      "ja": "ピーコック・ギャザラーリング",
+      "en": "Crested Ring of Gathering",
+      "fr": "Bague des ressources du paon bleu"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37468
   }
 ]

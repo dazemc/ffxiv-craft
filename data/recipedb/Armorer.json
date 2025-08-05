@@ -27304,7 +27304,7 @@
     "qualityModifier": 80,
     "name": {
       "de": "Eisenbahner-Schleifrad",
-      "ko": "",
+      "ko": "새 차량 연마 도구",
       "ja": "新車両の研磨道具",
       "en": "Rail Grindstone",
       "fr": "Table d'usinage pour locomotive"
@@ -27325,7 +27325,7 @@
     "qualityModifier": 80,
     "name": {
       "de": "Polsterbank",
-      "ko": "",
+      "ko": "쾌적한 좌석 시트",
       "ja": "快適な座席シート",
       "en": "Plush Carriage Seating",
       "fr": "Banquette de train confortable"
@@ -27346,7 +27346,7 @@
     "qualityModifier": 100,
     "name": {
       "de": "Kartendruckutensil",
-      "ko": "",
+      "ko": "안내 지도 인쇄 도구",
       "ja": "案内地図の印刷用具",
       "en": "Map Printing Essentials",
       "fr": "Articles d'impression"
@@ -27367,7 +27367,7 @@
     "qualityModifier": 100,
     "name": {
       "de": "Eisenbahner-Werkzeugkiste",
-      "ko": "",
+      "ko": "기술자용 필수 도구",
       "ja": "技師用の必須用具",
       "en": "Engineer's Supply Kit",
       "fr": "Caisse à outils professionnels"
@@ -27388,7 +27388,7 @@
     "qualityModifier": 100,
     "name": {
       "de": "Gleisreparaturset",
-      "ko": "",
+      "ko": "선로 복구용 자재",
       "ja": "線路復旧用の資材",
       "en": "Railroad Repair Kit",
       "fr": "Portion de voie ferrée pour la rénovation"
@@ -27472,7 +27472,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Oktaedrit-Nugget",
-      "ko": "",
+      "ko": "옥타헤드라이트 덩어리",
       "ja": "オクタヘドライトナゲット",
       "en": "Octahedrite Nugget",
       "fr": "Pépite d'octaédrite"
@@ -27493,7 +27493,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Pelte",
-      "ko": "",
+      "ko": "의전 타원방패",
       "ja": "セレモニアル・ペルタ",
       "en": "Ceremonial Pelta",
       "fr": "Pelte des cérémonies"
@@ -27514,7 +27514,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Brustpanzer der Verteidigung",
-      "ko": "",
+      "ko": "의전 수호자 흉갑",
       "ja": "セレモニアル・ディフェンダーコースリット",
       "en": "Ceremonial Corselet of Fending",
       "fr": "Jaseran de protecteur des cérémonies"
@@ -27535,7 +27535,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Unterarmschienen der Verteidigung",
-      "ko": "",
+      "ko": "의전 수호자 완갑",
       "ja": "セレモニアル・ディフェンダーヴァンブレイス",
       "en": "Ceremonial Vambraces of Fending",
       "fr": "Canons d'avant-bras de protecteur des cérémonies"
@@ -27556,7 +27556,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Brustpanzer des Verstümmelns",
-      "ko": "",
+      "ko": "의전 학살자 흉갑",
       "ja": "セレモニアル・スレイヤーコースリット",
       "en": "Ceremonial Corselet of Maiming",
       "fr": "Jaseran d'abatteur des cérémonies"
@@ -27577,7 +27577,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Unterarmschienen des Verstümmelns",
-      "ko": "",
+      "ko": "의전 학살자 완갑",
       "ja": "セレモニアル・スレイヤーヴァンブレイス",
       "en": "Ceremonial Vambraces of Maiming",
       "fr": "Canons d'avant-bras d'abatteur des cérémonies"
@@ -27598,7 +27598,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Armschützer des Schlagens",
-      "ko": "",
+      "ko": "의전 타격대 팔보호구",
       "ja": "セレモニアル・ストライカーアームガード",
       "en": "Ceremonial Armguards of Striking",
       "fr": "Garde-bras d'agresseur des cérémonies"
@@ -27619,7 +27619,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Armschützer des Zielens",
-      "ko": "",
+      "ko": "의전 유격대 팔보호구",
       "ja": "セレモニアル・レンジャーアームガード",
       "en": "Ceremonial Armguards of Aiming",
       "fr": "Garde-bras de pisteur des cérémonies"
@@ -27640,7 +27640,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Armschützer des Spähens",
-      "ko": "",
+      "ko": "의전 정찰대 팔보호구",
       "ja": "セレモニアル・スカウトアームガード",
       "en": "Ceremonial Armguards of Scouting",
       "fr": "Garde-bras d'éclaireur des cérémonies"
@@ -27685,7 +27685,7 @@
       "ko": "",
       "ja": "宇宙船用の歯車",
       "en": "Starship Gear",
-      "fr": "Pièces pour vaisseau spatial"
+      "fr": "Pièce pour vaisseau spatial"
     },
     "baseLevel": 100,
     "suggestedCraftsmanship": 4207,
@@ -27705,7 +27705,7 @@
       "de": "Lunar-Legierung",
       "ko": "",
       "ja": "月面鉱物の合金",
-      "en": "Lunar Alloy Ingots",
+      "en": "Lunar Alloy Ingot",
       "fr": "Alliage de métaux séléniens"
     },
     "baseLevel": 100,
@@ -28727,8 +28727,8 @@
     "durability": 35,
     "progressDivider": 170,
     "stars": 1,
-    "difficulty": 900,
-    "maxQuality": 16900,
+    "difficulty": 5000,
+    "maxQuality": 14100,
     "qualityModifier": 75,
     "name": {
       "de": "Hitzefestes Drohnenmetallteil",
@@ -29026,7 +29026,7 @@
     "qualityModifier": 70,
     "name": {
       "de": "Paladin-Rüstzeug des heiligenden Lichts",
-      "ko": "",
+      "ko": "거룩한 빛 나이트 장비",
       "ja": "サンクティファイライト・ナイトギア",
       "en": "Paladin's Arms of Sanctifying Light",
       "fr": "Attirail de la clarté sanctificatrice pour paladin"
@@ -29047,7 +29047,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Schwertständer der Ritterin",
-      "ko": "",
+      "ko": "젤레니아 검장식",
       "ja": "ゼレニア・ソードスタンド",
       "en": "Recollection Sword Stand",
       "fr": "Présentoir de Zelenia"
@@ -29068,7 +29068,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Ehrenwächterinnen-Rossharnisch",
-      "ko": "",
+      "ko": "여왕의 기사 갑주",
       "ja": "クイーンズナイト・バード",
       "en": "Queen's Knight Barding",
       "fr": "Barde chevaleresque"
@@ -29077,5 +29077,68 @@
     "suggestedCraftsmanship": 4780,
     "qualityDivider": 150,
     "key": 36756
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Goldhand-Destillierkolben",
+      "ko": "",
+      "ja": "ゴールデンサム・アレンビック",
+      "en": "Gold Thumb's Alembic",
+      "fr": "Alambic de la main dorée"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37436
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Goldhand-Bratpfanne",
+      "ko": "",
+      "ja": "ゴールデンサム・フライパン",
+      "en": "Gold Thumb's Frypan",
+      "fr": "Poêle à frire bombo de la main dorée"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37437
+  },
+  {
+    "progressModifier": 90,
+    "level": 740,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 9000,
+    "maxQuality": 18700,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Todesfurcht-Rossharnisch",
+      "ko": "",
+      "ja": "ネクロン・バード",
+      "en": "Barding of the Dead",
+      "fr": "Barde nécronique"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 5380,
+    "qualityDivider": 150,
+    "key": 37474
   }
 ]

@@ -41611,7 +41611,7 @@
     "qualityModifier": 80,
     "name": {
       "de": "Eisenbahner-Schleifrad",
-      "ko": "",
+      "ko": "새 차량 연마 도구",
       "ja": "新車両の研磨道具",
       "en": "Rail Grindstone",
       "fr": "Table d'usinage pour locomotive"
@@ -41632,7 +41632,7 @@
     "qualityModifier": 80,
     "name": {
       "de": "Polsterbank",
-      "ko": "",
+      "ko": "쾌적한 좌석 시트",
       "ja": "快適な座席シート",
       "en": "Plush Carriage Seating",
       "fr": "Banquette de train confortable"
@@ -41653,7 +41653,7 @@
     "qualityModifier": 100,
     "name": {
       "de": "Kartendruckutensil",
-      "ko": "",
+      "ko": "안내 지도 인쇄 도구",
       "ja": "案内地図の印刷用具",
       "en": "Map Printing Essentials",
       "fr": "Articles d'impression"
@@ -41674,7 +41674,7 @@
     "qualityModifier": 100,
     "name": {
       "de": "Eisenbahner-Werkzeugkiste",
-      "ko": "",
+      "ko": "기술자용 필수 도구",
       "ja": "技師用の必須用具",
       "en": "Engineer's Supply Kit",
       "fr": "Caisse à outils professionnels"
@@ -41695,7 +41695,7 @@
     "qualityModifier": 100,
     "name": {
       "de": "Gleisreparaturset",
-      "ko": "",
+      "ko": "선로 복구용 자재",
       "ja": "線路復旧用の資材",
       "en": "Railroad Repair Kit",
       "fr": "Portion de voie ferrée pour la rénovation"
@@ -41800,7 +41800,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Rhodochrosit",
-      "ko": "",
+      "ko": "능망간석",
       "ja": "ロードクロサイト",
       "en": "Rhodochrosite",
       "fr": "Rhodochrosite"
@@ -41821,7 +41821,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Kurzbogen",
-      "ko": "",
+      "ko": "의전 단궁",
       "ja": "セレモニアル・ショートボウ",
       "en": "Ceremonial Shortbow",
       "fr": "Arc court des cérémonies"
@@ -41842,7 +41842,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Zweig",
-      "ko": "",
+      "ko": "의전 마법봉",
       "ja": "セレモニアル・ワンド",
       "en": "Ceremonial Wand",
       "fr": "Baguette des cérémonies"
@@ -41863,7 +41863,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Torquetum",
-      "ko": "",
+      "ko": "의전 좌표기",
       "ja": "セレモニアル・トルクエタム",
       "en": "Ceremonial Torquetum",
       "fr": "Torquetum des cérémonies"
@@ -41884,7 +41884,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Rapier",
-      "ko": "",
+      "ko": "의전 스몰소드",
       "ja": "セレモニアル・スモールソード",
       "en": "Ceremonial Smallsword",
       "fr": "Petite épée des cérémonies"
@@ -41905,7 +41905,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Perpendikel",
-      "ko": "",
+      "ko": "의전 진자",
       "ja": "セレモニアル・ペンデュラム",
       "en": "Ceremonial Pendulums",
       "fr": "Pendules des cérémonies"
@@ -41926,7 +41926,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Halskette der Verteidigung",
-      "ko": "",
+      "ko": "의전 수호자 목걸이",
       "ja": "セレモニアル・ディフェンダーネックレス",
       "en": "Ceremonial Necklace of Fending",
       "fr": "Collier de protecteur des cérémonies"
@@ -41947,7 +41947,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Halskette des Schlachtens",
-      "ko": "",
+      "ko": "의전 공격대 목걸이",
       "ja": "セレモニアル・アタッカーネックレス",
       "en": "Ceremonial Necklace of Slaying",
       "fr": "Collier d'attaquant des cérémonies"
@@ -41968,7 +41968,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Halskette des Zielens",
-      "ko": "",
+      "ko": "의전 유격대 목걸이",
       "ja": "セレモニアル・レンジャーネックレス",
       "en": "Ceremonial Necklace of Aiming",
       "fr": "Collier de pisteur des cérémonies"
@@ -41989,7 +41989,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Halskette der Heilung",
-      "ko": "",
+      "ko": "의전 치유사 목걸이",
       "ja": "セレモニアル・ヒーラーネックレス",
       "en": "Ceremonial Necklace of Healing",
       "fr": "Collier de soigneur des cérémonies"
@@ -42010,7 +42010,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Halskette der Magie",
-      "ko": "",
+      "ko": "의전 마법사 목걸이",
       "ja": "セレモニアル・キャスターネックレス",
       "en": "Ceremonial Necklace of Casting",
       "fr": "Collier d'incantateur des cérémonies"
@@ -42055,7 +42055,7 @@
       "ko": "",
       "ja": "宇宙船用の歯車",
       "en": "Starship Gear",
-      "fr": "Pièces pour vaisseau spatial"
+      "fr": "Pièce pour vaisseau spatial"
     },
     "baseLevel": 100,
     "suggestedCraftsmanship": 4207,
@@ -42075,7 +42075,7 @@
       "de": "Lunar-Legierung",
       "ko": "",
       "ja": "月面鉱物の合金",
-      "en": "Lunar Alloy Ingots",
+      "en": "Lunar Alloy Ingot",
       "fr": "Alliage de métaux séléniens"
     },
     "baseLevel": 100,
@@ -43097,8 +43097,8 @@
     "durability": 35,
     "progressDivider": 170,
     "stars": 1,
-    "difficulty": 900,
-    "maxQuality": 16900,
+    "difficulty": 5000,
+    "maxQuality": 14100,
     "qualityModifier": 75,
     "name": {
       "de": "Drohnen-Minigetriebe",
@@ -43396,7 +43396,7 @@
     "qualityModifier": 70,
     "name": {
       "de": "Stock des heiligenden Lichts",
-      "ko": "",
+      "ko": "거룩한 빛 환술봉",
       "ja": "サンクティファイライト・ケーン",
       "en": "Cane of Sanctifying Light",
       "fr": "Canne de la clarté sanctificatrice"
@@ -43417,7 +43417,7 @@
     "qualityModifier": 70,
     "name": {
       "de": "Stab des heiligenden Lichts",
-      "ko": "",
+      "ko": "거룩한 빛 주술봉",
       "ja": "サンクティファイライト・ロッド",
       "en": "Rod of Sanctifying Light",
       "fr": "Sceptre de la clarté sanctificatrice"
@@ -43438,7 +43438,7 @@
     "qualityModifier": 70,
     "name": {
       "de": "Torquetum des heiligenden Lichts",
-      "ko": "",
+      "ko": "거룩한 빛 좌표기",
       "ja": "サンクティファイライト・トルクエタム",
       "en": "Torquetum of Sanctifying Light",
       "fr": "Torquetum de la clarté sanctificatrice"
@@ -43459,7 +43459,7 @@
     "qualityModifier": 70,
     "name": {
       "de": "Florett des heiligenden Lichts",
-      "ko": "",
+      "ko": "거룩한 빛 플뢰레",
       "ja": "サンクティファイライト・フルーレ",
       "en": "Foil of Sanctifying Light",
       "fr": "Fleuret de la clarté sanctificatrice"
@@ -43480,7 +43480,7 @@
     "qualityModifier": 70,
     "name": {
       "de": "Schwingen des heiligenden Lichts",
-      "ko": "",
+      "ko": "거룩한 빛 날개",
       "ja": "サンクティファイライト・ウィング",
       "en": "Wings of Sanctifying Light",
       "fr": "Ailes de la clarté sanctificatrice"
@@ -43489,5 +43489,110 @@
     "suggestedCraftsmanship": 3180,
     "qualityDivider": 115,
     "key": 36751
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Goldhand-Nadel",
+      "ko": "",
+      "ja": "ゴールデンサム・ニードル",
+      "en": "Gold Thumb's Needle",
+      "fr": "Aiguille de la main dorée"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37435
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Pfauen-Halsband des Handwerks",
+      "ko": "",
+      "ja": "ピーコック・クラフターネックレス",
+      "en": "Crested Necklace of Crafting",
+      "fr": "Collier des créations du paon bleu"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37462
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Pfauen-Halsband des Eifers",
+      "ko": "",
+      "ja": "ピーコック・ギャザラーネックレス",
+      "en": "Crested Necklace of Gathering",
+      "fr": "Collier des ressources du paon bleu"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37466
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 35,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 5130,
+    "maxQuality": 13110,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Wüstenlapis",
+      "ko": "",
+      "ja": "デザートラピス",
+      "en": "Desert Lapis",
+      "fr": "Lapis du désert"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37471
+  },
+  {
+    "progressModifier": 90,
+    "level": 740,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 9000,
+    "maxQuality": 18700,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Gloriole des Todes",
+      "ko": "",
+      "ja": "ネクロン・ヘイロー",
+      "en": "Death's Halo",
+      "fr": "Halo obscur"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 5380,
+    "qualityDivider": 150,
+    "key": 37473
   }
 ]

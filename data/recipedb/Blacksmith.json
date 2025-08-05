@@ -17208,7 +17208,7 @@
     "maxQuality": 10200,
     "qualityModifier": 100,
     "name": {
-      "de": "Titangold-Zwillingsfänge",
+      "de": "Titangold-Zwillingssäbel",
       "ko": "티타늄금 쌍검치",
       "ja": "ゴールドチタン・ダブルサーベル",
       "en": "Titanium Gold Saberfangs",
@@ -35605,7 +35605,7 @@
     "qualityModifier": 80,
     "name": {
       "de": "Eisenbahner-Schleifrad",
-      "ko": "",
+      "ko": "새 차량 연마 도구",
       "ja": "新車両の研磨道具",
       "en": "Rail Grindstone",
       "fr": "Table d'usinage pour locomotive"
@@ -35626,7 +35626,7 @@
     "qualityModifier": 80,
     "name": {
       "de": "Polsterbank",
-      "ko": "",
+      "ko": "쾌적한 좌석 시트",
       "ja": "快適な座席シート",
       "en": "Plush Carriage Seating",
       "fr": "Banquette de train confortable"
@@ -35647,7 +35647,7 @@
     "qualityModifier": 100,
     "name": {
       "de": "Kartendruckutensil",
-      "ko": "",
+      "ko": "안내 지도 인쇄 도구",
       "ja": "案内地図の印刷用具",
       "en": "Map Printing Essentials",
       "fr": "Articles d'impression"
@@ -35668,7 +35668,7 @@
     "qualityModifier": 100,
     "name": {
       "de": "Eisenbahner-Werkzeugkiste",
-      "ko": "",
+      "ko": "기술자용 필수 도구",
       "ja": "技師用の必須用具",
       "en": "Engineer's Supply Kit",
       "fr": "Caisse à outils professionnels"
@@ -35689,7 +35689,7 @@
     "qualityModifier": 100,
     "name": {
       "de": "Gleisreparaturset",
-      "ko": "",
+      "ko": "선로 복구용 자재",
       "ja": "線路復旧用の資材",
       "en": "Railroad Repair Kit",
       "fr": "Portion de voie ferrée pour la rénovation"
@@ -35941,7 +35941,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Oktaedrit-Nugget",
-      "ko": "",
+      "ko": "옥타헤드라이트 덩어리",
       "ja": "オクタヘドライトナゲット",
       "en": "Octahedrite Nugget",
       "fr": "Pépite d'octaédrite"
@@ -35962,7 +35962,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Shamshir",
-      "ko": "",
+      "ko": "의전 샴시르",
       "ja": "セレモニアル・シャムシール",
       "en": "Ceremonial Shamshir",
       "fr": "Shamshir des cérémonies"
@@ -35983,7 +35983,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Sainti",
-      "ko": "",
+      "ko": "의전 사인티",
       "ja": "セレモニアル・サインティ",
       "en": "Ceremonial Sainti",
       "fr": "Saintis des cérémonies"
@@ -36004,7 +36004,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Berdysch",
-      "ko": "",
+      "ko": "의전 긴날도끼",
       "ja": "セレモニアル・バルディッシュ",
       "en": "Ceremonial Bardiche",
       "fr": "Bardiche des cérémonies"
@@ -36025,7 +36025,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Couse",
-      "ko": "",
+      "ko": "의전 굽은창",
       "ja": "セレモニアル・クーゼ",
       "en": "Ceremonial Couse",
       "fr": "Guan dao des cérémonies"
@@ -36046,7 +36046,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Spalter",
-      "ko": "",
+      "ko": "의전 살육도",
       "ja": "セレモニアル・クリーバー",
       "en": "Ceremonial Cleavers",
       "fr": "Couperets des cérémonies"
@@ -36067,7 +36067,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Claymore",
-      "ko": "",
+      "ko": "의전 클레이모어",
       "ja": "セレモニアル・クレイモア",
       "en": "Ceremonial Claymore",
       "fr": "Claymore des cérémonies"
@@ -36088,7 +36088,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Karabiner",
-      "ko": "",
+      "ko": "의전 포총",
       "ja": "セレモニアル・カルバリン",
       "en": "Ceremonial Culverin",
       "fr": "Couleuvrine des cérémonies"
@@ -36109,7 +36109,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Talwar",
-      "ko": "",
+      "ko": "의전 곡도",
       "ja": "セレモニアル・タルワール",
       "en": "Ceremonial Tulwar",
       "fr": "Talwar des cérémonies"
@@ -36130,7 +36130,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Revolverklinge",
-      "ko": "",
+      "ko": "의전 건블레이드",
       "ja": "セレモニアル・ガンブレード",
       "en": "Ceremonial Gunblade",
       "fr": "Pistolame des cérémonies"
@@ -36151,7 +36151,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Chakrams",
-      "ko": "",
+      "ko": "의전 차크람",
       "ja": "セレモニアル・チャクラム",
       "en": "Ceremonial Chakrams",
       "fr": "Chakrams des cérémonies"
@@ -36172,7 +36172,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Kriegssense",
-      "ko": "",
+      "ko": "의전 전투낫",
       "ja": "セレモニアル・ウォーサイズ",
       "en": "Ceremonial War Scythe",
       "fr": "Faux de guerre des cérémonies"
@@ -36193,7 +36193,7 @@
     "qualityModifier": 75,
     "name": {
       "de": "Zeremonial-Zwillingssäbel",
-      "ko": "",
+      "ko": "의전 쌍검치",
       "ja": "セレモニアル・ダブルサーベル",
       "en": "Ceremonial Saberfangs",
       "fr": "Sabres jumeaux des cérémonies"
@@ -36238,7 +36238,7 @@
       "ko": "",
       "ja": "宇宙船用の歯車",
       "en": "Starship Gear",
-      "fr": "Pièces pour vaisseau spatial"
+      "fr": "Pièce pour vaisseau spatial"
     },
     "baseLevel": 100,
     "suggestedCraftsmanship": 4207,
@@ -36258,7 +36258,7 @@
       "de": "Lunar-Legierung",
       "ko": "",
       "ja": "月面鉱物の合金",
-      "en": "Lunar Alloy Ingots",
+      "en": "Lunar Alloy Ingot",
       "fr": "Alliage de métaux séléniens"
     },
     "baseLevel": 100,
@@ -36614,7 +36614,7 @@
     "name": {
       "de": "Erkunder-Kreuzschlaghammer",
       "ko": "",
-      "ja": "惑星探索用のクロスペイン・ハンマー",
+      "ja": "惑星探索用のクロスペインハンマー",
       "en": "Survey Cross-pein Hammer",
       "fr": "Marteau à panne croisée pour l'exploration cosmique"
     },
@@ -37280,8 +37280,8 @@
     "durability": 35,
     "progressDivider": 170,
     "stars": 1,
-    "difficulty": 900,
-    "maxQuality": 16900,
+    "difficulty": 5000,
+    "maxQuality": 14100,
     "qualityModifier": 75,
     "name": {
       "de": "Drohnengetriebe",
@@ -37579,7 +37579,7 @@
     "qualityModifier": 70,
     "name": {
       "de": "Sainti des heiligenden Lichts",
-      "ko": "",
+      "ko": "거룩한 빛 사인티",
       "ja": "サンクティファイライト・サインティ",
       "en": "Sainti of Sanctifying Light",
       "fr": "Saintis de la clarté sanctificatrice"
@@ -37600,7 +37600,7 @@
     "qualityModifier": 70,
     "name": {
       "de": "Labrys des heiligenden Lichts",
-      "ko": "",
+      "ko": "거룩한 빛 양날도끼",
       "ja": "サンクティファイライト・ラブリュス",
       "en": "Labrys of Sanctifying Light",
       "fr": "Labrys de la clarté sanctificatrice"
@@ -37621,7 +37621,7 @@
     "qualityModifier": 70,
     "name": {
       "de": "Partisane des heiligenden Lichts",
-      "ko": "",
+      "ko": "거룩한 빛 유격창",
       "ja": "サンクティファイライト・パルチザン",
       "en": "Partisan of Sanctifying Light",
       "fr": "Pertuisane de la clarté sanctificatrice"
@@ -37642,7 +37642,7 @@
     "qualityModifier": 70,
     "name": {
       "de": "Langbogen des heiligenden Lichts",
-      "ko": "",
+      "ko": "거룩한 빛 장궁",
       "ja": "サンクティファイライト・ロングボウ",
       "en": "Longbow of Sanctifying Light",
       "fr": "Arc long de la clarté sanctificatrice"
@@ -37663,7 +37663,7 @@
     "qualityModifier": 70,
     "name": {
       "de": "Dolche des heiligenden Lichts",
-      "ko": "",
+      "ko": "거룩한 빛 단검",
       "ja": "サンクティファイライト・ダガー",
       "en": "Daggers of Sanctifying Light",
       "fr": "Dagues de la clarté sanctificatrice"
@@ -37684,7 +37684,7 @@
     "qualityModifier": 70,
     "name": {
       "de": "Großschwert des heiligenden Lichts",
-      "ko": "",
+      "ko": "거룩한 빛 그레이트소드",
       "ja": "サンクティファイライト・グレートソード",
       "en": "Greatsword of Sanctifying Light",
       "fr": "Grande épée de la clarté sanctificatrice"
@@ -37705,7 +37705,7 @@
     "qualityModifier": 70,
     "name": {
       "de": "Pistole des heiligenden Lichts",
-      "ko": "",
+      "ko": "거룩한 빛 권총",
       "ja": "サンクティファイライト・ハンドガン",
       "en": "Pistol of Sanctifying Light",
       "fr": "Pistolet de la clarté sanctificatrice"
@@ -37726,7 +37726,7 @@
     "qualityModifier": 70,
     "name": {
       "de": "Klinge des heiligenden Lichts",
-      "ko": "",
+      "ko": "거룩한 빛 외날검",
       "ja": "サンクティファイライト・ブレード",
       "en": "Blade of Sanctifying Light",
       "fr": "Lame de la clarté sanctificatrice"
@@ -37747,7 +37747,7 @@
     "qualityModifier": 70,
     "name": {
       "de": "Revolverklinge des heiligenden Lichts",
-      "ko": "",
+      "ko": "거룩한 빛 건블레이드",
       "ja": "サンクティファイライト・ガンブレード",
       "en": "Gunblade of Sanctifying Light",
       "fr": "Pistolame de la clarté sanctificatrice"
@@ -37768,7 +37768,7 @@
     "qualityModifier": 70,
     "name": {
       "de": "Tathlums des heiligenden Lichts",
-      "ko": "",
+      "ko": "거룩한 빛 타흘룸",
       "ja": "サンクティファイライト・タスラム",
       "en": "Tathlums of Sanctifying Light",
       "fr": "Tathlums de la clarté sanctificatrice"
@@ -37789,7 +37789,7 @@
     "qualityModifier": 70,
     "name": {
       "de": "Kriegssense des heiligenden Lichts",
-      "ko": "",
+      "ko": "거룩한 빛 전투낫",
       "ja": "サンクティファイライト・ウォーサイズ",
       "en": "War Scythe of Sanctifying Light",
       "fr": "Faux de guerre de la clarté sanctificatrice"
@@ -37810,7 +37810,7 @@
     "qualityModifier": 70,
     "name": {
       "de": "Paladin-Rüstzeug des heiligenden Lichts",
-      "ko": "",
+      "ko": "거룩한 빛 나이트 장비",
       "ja": "サンクティファイライト・ナイトギア",
       "en": "Paladin's Arms of Sanctifying Light",
       "fr": "Attirail de la clarté sanctificatrice pour paladin"
@@ -37819,5 +37819,320 @@
     "suggestedCraftsmanship": 3180,
     "qualityDivider": 115,
     "key": 36753
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Goldhand-Säge",
+      "ko": "",
+      "ja": "ゴールデンサム・ソー",
+      "en": "Gold Thumb's Saw",
+      "fr": "Scie de la main dorée"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37430
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Goldhand-Kreuzschlaghammer",
+      "ko": "",
+      "ja": "ゴールデンサム・クロスペインハンマー",
+      "en": "Gold Thumb's Cross-pein Hammer",
+      "fr": "Marteau à panne croisée de la main dorée"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37431
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Goldhand-Schlichthammer",
+      "ko": "",
+      "ja": "ゴールデンサム・レイジングハンマー",
+      "en": "Gold Thumb's Raising Hammer",
+      "fr": "Marteau de batteur de la main dorée"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37432
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Goldhand-Juwelierhammer",
+      "ko": "",
+      "ja": "ゴールデンサム・マレット",
+      "en": "Gold Thumb's Mallet",
+      "fr": "Marteau de lapidaire de la main dorée"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37433
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Goldhand-Rillmesser",
+      "ko": "",
+      "ja": "ゴールデンサム・ラウンドナイフ",
+      "en": "Gold Thumb's Round Knife",
+      "fr": "Couteau arrondi de la main dorée"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37434
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Goldhand-Spitzhacke",
+      "ko": "",
+      "ja": "ゴールデンサム・ピック",
+      "en": "Gold Thumb's Pickaxe",
+      "fr": "Pioche de la main dorée"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37438
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Goldhand-Handbeil",
+      "ko": "",
+      "ja": "ゴールデンサム・ハチェット",
+      "en": "Gold Thumb's Hatchet",
+      "fr": "Hachette de la main dorée"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37439
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Goldhand-Klauenhammer",
+      "ko": "",
+      "ja": "ゴールデンサム・クローハンマー",
+      "en": "Gold Thumb's Claw Hammer",
+      "fr": "Marteau arrache-clou de la main dorée"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37441
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Goldhand-Feile",
+      "ko": "",
+      "ja": "ゴールデンサム・ファイル",
+      "en": "Gold Thumb's File",
+      "fr": "Lime de la main dorée"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37442
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Goldhand-Zange",
+      "ko": "",
+      "ja": "ゴールデンサム・プライヤー",
+      "en": "Gold Thumb's Pliers",
+      "fr": "Tenailles de la main dorée"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37443
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Goldhand-Ahle",
+      "ko": "",
+      "ja": "ゴールデンサム・アウル",
+      "en": "Gold Thumb's Awl",
+      "fr": "Alêne de la main dorée"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37445
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Goldhand-Mörser",
+      "ko": "",
+      "ja": "ゴールデンサム・モーター",
+      "en": "Gold Thumb's Mortar",
+      "fr": "Mortier de la main dorée"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37447
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Goldhand-Küchenmesser",
+      "ko": "",
+      "ja": "ゴールデンサム・クリナリーナイフ",
+      "en": "Gold Thumb's Culinary Knife",
+      "fr": "Couteau de cuisine de la main dorée"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37448
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Goldhand-Vorschlaghammer",
+      "ko": "",
+      "ja": "ゴールデンサム・モール",
+      "en": "Gold Thumb's Sledgehammer",
+      "fr": "Maillet de la main dorée"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37449
+  },
+  {
+    "progressModifier": 90,
+    "level": 750,
+    "durability": 70,
+    "progressDivider": 170,
+    "stars": 3,
+    "difficulty": 10080,
+    "maxQuality": 19000,
+    "qualityModifier": 75,
+    "name": {
+      "de": "Goldhand-Sense",
+      "ko": "",
+      "ja": "ゴールデンサム・サイズ",
+      "en": "Gold Thumb's Scythe",
+      "fr": "Faux de la main dorée"
+    },
+    "baseLevel": 100,
+    "suggestedCraftsmanship": 4740,
+    "qualityDivider": 150,
+    "key": 37450
   }
 ]
