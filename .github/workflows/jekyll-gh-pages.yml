@@ -23,10 +23,24 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: recursive
+          submodules: false
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.0' # Adjust the version based on your project requirements
+
+      - name: Install Bundler
+        run: gem install bundler
+
+      - name: Install dependencies
+        run: bundle install
+
+      - name: Debug Jekyll Build
+        run: bundle exec jekyll build --verbose
 
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1

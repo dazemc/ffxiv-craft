@@ -13,11 +13,11 @@ function LogOutput() {
     this.log = '';
 }
 
-LogOutput.prototype.write = function (s) {
+LogOutput.prototype.write = function(s) {
     this.log += s;
 };
 
-LogOutput.prototype.clear = function () {
+LogOutput.prototype.clear = function() {
     this.log = '';
 };
 
@@ -25,7 +25,7 @@ function Logger(logOutput) {
     this.logOutput = logOutput;
 }
 
-Logger.prototype.log = function (myString) {
+Logger.prototype.log = function(myString) {
     var args = Array.prototype.slice.call(arguments, 1);
     var msg = String.prototype.sprintf.apply(myString, args);
     if (this.logOutput !== undefined && this.logOutput !== null) {
@@ -84,7 +84,7 @@ function Synth(crafter, recipe, maxTrickUses, reliabilityIndex, useConditions, m
     this.solverVars = solverVars;
 }
 
-Synth.prototype.calculateBaseProgressIncrease = function (effCrafterLevel, craftsmanship) {
+Synth.prototype.calculateBaseProgressIncrease = function(effCrafterLevel, craftsmanship) {
     //var levelDifferenceFactor = getLevelDifferenceFactor('craftsmanship', levelDifference);
     //return Math.floor((levelDifferenceFactor * (0.21 * craftsmanship + 2) * (10000 + craftsmanship)) / (10000 + this.recipe.suggestedCraftsmanship))
     // EDIT - endwalker update - taken from teamcraft simulator.es5.js
@@ -96,7 +96,7 @@ Synth.prototype.calculateBaseProgressIncrease = function (effCrafterLevel, craft
 
 };
 
-Synth.prototype.calculateBaseQualityIncrease = function (effCrafterLevel, control) {
+Synth.prototype.calculateBaseQualityIncrease = function(effCrafterLevel, control) {
     //var levelDifferenceFactor = getLevelDifferenceFactor('control', levelDifference);
     //return Math.floor((levelDifferenceFactor * (0.35 * control + 35) * (10000 + control)) / (10000 + this.recipe.suggestedControl))
     var baseValue = (control * 10) / this.recipe.qualityDivider + 35;
@@ -157,11 +157,11 @@ function State(synth, step, lastStep, action, durabilityState, cpState, bonusMax
     this.lastDurabilityCost = 0;
 }
 
-State.prototype.clone = function () {
+State.prototype.clone = function() {
     return new State(this.synth, this.step, this.lastStep, this.action, this.durabilityState, this.cpState, this.bonusMaxCp, this.qualityState, this.progressState, this.wastedActions, this.trickUses, this.reliability, clone(this.effects), this.condition, this.touchComboStep);
 };
 
-State.prototype.checkViolations = function () {
+State.prototype.checkViolations = function() {
     // Check for feasibility violations
     var progressOk = false;
     var cpOk = false;
@@ -805,7 +805,7 @@ function MonteCarloStep(startState, action, assumeSuccess, verbose, debug, logOu
     var randomizeConditions = !ignoreConditionReq;
 
     var MonteCarloCondition = {
-        checkGoodOrExcellent: function () {
+        checkGoodOrExcellent: function() {
             if (ignoreConditionReq) {
                 return true;
             }
@@ -813,7 +813,7 @@ function MonteCarloStep(startState, action, assumeSuccess, verbose, debug, logOu
                 return (s.condition == 'Good' || s.condition == 'Excellent');
             }
         },
-        pGoodOrExcellent: function () {
+        pGoodOrExcellent: function() {
             return 1;
         }
     };
@@ -1251,7 +1251,7 @@ function getMedianProperty(stateArray, propName, nRuns) {
         }
     }
 
-    listProperty.sort(function (a, b) { return a - b });
+    listProperty.sort(function(a, b) { return a - b });
     var medianPropIdx = Math.ceil(listProperty.length / 2);
 
     return listProperty[medianPropIdx];
@@ -1298,7 +1298,7 @@ function getMedianHqPercent(stateArray) {
         }
     }
 
-    hqPercents.sort(function (a, b) { return a - b });
+    hqPercents.sort(function(a, b) { return a - b });
     var medianPropIdx = Math.ceil(hqPercents.length / 2);
 
     return hqPercents[medianPropIdx];
@@ -1454,6 +1454,7 @@ function evalSeq(individual, mySynth, penaltyWeight) {
 evalSeq.weights = [1.0, 1.0, 1.0, -1.0];
 
 function heuristicSequenceBuilder(synth) {
+    console.log("STARTING HEURISTIC BUILD");
     var sequence = [];
     var subSeq1 = [];
     var subSeq2 = [];
@@ -1464,50 +1465,78 @@ function heuristicSequenceBuilder(synth) {
     var dur = synth.recipe.durability;
     var progress = 0;
 
+    console.log('Initial state:', { cp, dur, progress, crafter: synth.crafter, recipe: synth.recipe });
+
     // Build a list of actions by short name for easy lookups
     var actionsByName = {};
     synth.crafter.actions.forEach(action => {
         if (action) {
             actionsByName[action.shortName] = true;
+        } else {
+            console.warn('Invalid action in crafter.actions', action);
         }
     });
 
     var hasAction = actionName => actionsByName[actionName];
 
-    var tryAction = actionName =>
-        hasAction(actionName) && cp >= aa[actionName].cpCost && dur - aa[actionName].durabilityCost >= 0;
+    var tryAction = actionName => {
+        if (!aa[actionName]) {
+            console.error('Invalid action:', actionName);
+            return false;
+        }
+        const canUse = hasAction(actionName) && cp >= aa[actionName].cpCost && dur - aa[actionName].durabilityCost >= 0;
+        console.log('Trying action:', actionName, 'Can use:', canUse, 'CP:', cp, 'Dur:', dur);
+        return canUse;
+    }
 
     var useAction = actionName => {
+        if (cp < aa[actionName].cpCost) {
+            console.error('Cannot use invalid action:', actionName);
+            return false;
+        }
+        if (cp < aa[actionName].cpCost) {
+            console.log('Insufficient CP for', actionName, 'CP:', cp);
+            return false;
+        }
         cp -= aa[actionName].cpCost;
         dur -= aa[actionName].durabilityCost;
+        console.log('Used action:', actionName, 'New CP:', cp, 'New Dur:', dur);
+        return true;
     };
 
     var pushAction = (seq, actionName) => {
+        console.log('Pushing action:', actionName);
         seq.push(aa[actionName]);
         useAction(actionName);
     };
 
     var unshiftAction = (seq, actionName) => {
+        console.log('Unshifting action:', actionName);
         seq.unshift(aa[actionName]);
         useAction(actionName);
     };
-
     var restoreDurability = () => {
-        if (hasAction('immaculateMend')) {
+        if (hasAction('immaculateMend') && tryAction('immaculateMend')) {
             unshiftAction(subSeq2, 'immaculateMend');
             dur = synth.recipe.durability;
-        } else if (hasAction('manipulation')) {
+            return true;
+        } else if (hasAction('manipulation') && tryAction('manipulation')) {
             unshiftAction(subSeq2, 'manipulation');
             dur += 30;
-        } else if (hasAction('mastersMend')) {
+            return true;
+        } else if (hasAction('mastersMend') && tryAction('mastersMend')) {
             unshiftAction(subSeq2, 'mastersMend');
             dur += 30;
+            return true;
         }
+        console.log('Restore failed.');
+        return false;
     };
 
 
     var effCrafterLevel = LevelTable[synth.crafter.level] || synth.crafter.level;
     var effRecipeLevel = synth.recipe.level;
+    console.log('Effective levels:', { effCrafterLevel, effRecipeLevel });
 
     // Determine the preferred progress action
     var preferredProgressActions = ['prudentSynthesis', 'carefulSynthesis2', 'carefulSynthesis', 'basicSynth2', 'basicSynth'];
@@ -1520,6 +1549,7 @@ function heuristicSequenceBuilder(synth) {
             break; // Stop looping once we find the first available action
         }
     }
+    console.log('Selected progress action:', preferredAction);
 
 
     // Calculate progress gain
@@ -1531,21 +1561,38 @@ function heuristicSequenceBuilder(synth) {
 
     // Final step first
     if (tryAction(preferredAction)) {
+        console.log('Adding final progress action:', preferredAction);
         pushAction(subSeq3, preferredAction);
         progress += progressGain;
         steps += 1;
+        console.log('Final progress:', progress, 'Steps:', steps);
     }
-
+    var maxIterations = 1000;
+    var iteration = 0;
     // Build progress sequence
-    while (progress < synth.recipe.difficulty && steps < nProgSteps) {
+    while (progress < synth.recipe.difficulty && steps < nProgSteps && iteration < maxIterations) {
+        console.log('Progress loop iteration:', iteration, 'Progress:', progress, 'CP:', cp, 'Dur:', dur);
         if (tryAction(preferredAction) && dur >= 10) {
             unshiftAction(subSeq2, preferredAction);
             progress += progressGain;
             steps += 1;
+            console.log('Added progress action:', preferredAction, 'Progress:', progress);
         } else {
-            restoreDurability();
-            if (dur < 10) break;
+            console.log('Cannot use progress action, attempting restore');
+
+            if (!restoreDurability()) {
+                console.log('Failed to restore durability, breaking progress loop');
+                break;
+            }
+            if (dur < aa[preferredAction].durabilityCost) {
+                console.log('Insufficient durability after restore.');
+                break;
+            }
         }
+        iteration++;
+    }
+    if (iteration >= maxIterations) {
+        console.error('Progress loop hit max iterations');
     }
 
     sequence = [...subSeq2, ...subSeq3];
@@ -1592,8 +1639,35 @@ function heuristicSequenceBuilder(synth) {
     var costsNoDurability = actionName => aa[actionName].durabilityCost === 0;
 
     // Use remaining durability and CP on quality/durability improving actions
-    while (cp > 0 && dur > 0) {
-        if (tryAction(preferredAction) && dur > 10) {
+    var qualityLoopIterations = 0;
+    var maxQualityLoopIterations = 100;
+
+    while (cp > 0 && dur > 0 && qualityLoopIterations < maxQualityLoopIterations) {
+        qualityLoopIterations++;
+        console.log('Quality Loop - Iter:', qualityLoopIterations, 'CP:', cp, 'Dur:', dur, 'PreferredAction:', preferredAction);
+        let canUsePreferred = tryAction(preferredAction);
+        let preferredDurCost = aa[preferredAction].durabilityCost;
+
+        let attemptRepairQuality = (dur <= 10 && preferredDurCost > 0);
+
+        if (attemptRepairQuality) {
+            if (restoreDurability()) {
+                continue;
+            } else {
+                if (canUsePreferred) {
+                    if (trainedPerfectionUsed || costsNoDurability(preferredAction) || costsTwentyDurability(preferredAction)) {
+                        pushAction(subSeq2, preferredAction);
+                    } else if (tryAction('trainedPerfection')) {
+                        pushAction(subSeq2, 'trainedPerfection')
+                        trainedPerfectionUsed = true;
+                    } else {
+                        pushAction(subSeq2, preferredAction);
+                    }
+                } else {
+                    break;
+                }
+            }
+        } else if (canUsePreferred) {
             if (trainedPerfectionUsed || costsNoDurability(preferredAction) || costsTwentyDurability(preferredAction)) {
                 pushAction(subSeq2, preferredAction);
             } else if (tryAction('trainedPerfection')) {
@@ -1602,13 +1676,23 @@ function heuristicSequenceBuilder(synth) {
             } else {
                 pushAction(subSeq2, preferredAction);
             }
-        } else if (dur < 20) {
-            restoreDurability();
-            if (dur < 10) break;
         } else {
+            if (dur < 20) {
+                if (!restoreDurability()) {
+                    break;
+                }
+            } else {
+                break;
+            }
+        }
+
+        if (qualityLoopIterations >= maxQualityLoopIterations) {
+            console.error('Quality loop hit max iteration attempts!');
             break;
         }
     }
+
+    console.log("DONE BUILDING SEQUENCE");
 
     return [...subSeq2, ...sequence, ...subSeq1];
 
